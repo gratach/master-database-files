@@ -1,0 +1,24 @@
+gpt-4-turbo
+        Total: 100, Found: 71, Failed: 1,
+        FoundPercentage: 71.0%, FoundPercentageError: 4.537620521815373%, 
+        FoundIterationsAverage: 3.3098591549295775, FoundIterationsError: 0.18774479584936832,
+        AverageSubtopicsPerSearchedTopic: 10.372983870967742, SubtopicsPerSearchedTopicError: 0.1737731981774467,
+        StabelResultsPercentage: 86.0%, StabelResultsPercentageError: 4.907137658554119%
+gpt-3.5-turbo
+        Total: 100, Found: 56, Failed: 0,
+        FoundPercentage: 56.00000000000001%, FoundPercentageError: 4.963869458396343%, 
+        FoundIterationsAverage: 3.25, FoundIterationsError: 0.2512953454589851,
+        AverageSubtopicsPerSearchedTopic: 6.86159169550173, SubtopicsPerSearchedTopicError: 0.11337602732019975,
+        StabelResultsPercentage: 80.0%, StabelResultsPercentageError: 5.65685424949238%
+mistral_7b_instruct_v_0_2
+        Total: 100, Found: 63, Failed: 0,
+        FoundPercentage: 63.0%, FoundPercentageError: 4.828043081829324%, 
+        FoundIterationsAverage: 3.238095238095238, FoundIterationsError: 0.23155376434652142,
+        AverageSubtopicsPerSearchedTopic: 9.340782122905027, SubtopicsPerSearchedTopicError: 0.13956665719552186,
+        StabelResultsPercentage: 78.0%, StabelResultsPercentageError: 5.858327406350723%
+cosmosage
+        Total: 100, Found: 48, Failed: 4,
+        FoundPercentage: 48.0%, FoundPercentageError: 4.995998398718719%, 
+        FoundIterationsAverage: 3.9166666666666665, FoundIterationsError: 0.3495606834224912,
+        AverageSubtopicsPerSearchedTopic: 13.96870109546166, SubtopicsPerSearchedTopicError: 0.5253736942499785,
+        StabelResultsPercentage: 64.0%, StabelResultsPercentageError: 6.788225099390857%
