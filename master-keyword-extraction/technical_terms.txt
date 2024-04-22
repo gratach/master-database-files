@@ -29,7 +29,6 @@ Black hole
 Bloch's theorem
 Bose–Einstein condensate
 Boundary condition
-Calculus
 Camera obscura
 Casimir effect
 Catastrophe theory
