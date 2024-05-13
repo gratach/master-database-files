@@ -1,10 +1,12 @@
 {
     "nodeCount": 1038,
-    "edgeCount": 3256,
-    "averageDegree": 6.273603082851638,
+    "edgeCount": 3247,
+    "averageDegree": 6.25626204238921,
     "maxDegree": 15,
     "minDegree": 5,
     "connectedSubGraphCount": 1,
-    "averagePathLength": 4.944392729137519,
-    "hasError": false
+    "averagePathLength": 4.9389654089627895,
+    "hasError": false,
+    "containsDuplicates": false,
+    "containsDuplicateConnections": false
 }
