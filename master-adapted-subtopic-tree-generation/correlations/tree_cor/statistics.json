@@ -6,5 +6,7 @@
     "minDegree": 3,
     "connectedSubGraphCount": 1,
     "averagePathLength": 3.1757775411879905,
-    "hasError": false
+    "hasError": false,
+    "containsDuplicates": false,
+    "containsDuplicateConnections": false
 }

@@ -1,0 +1,10 @@
+{
+    "falseObjectSelections": 358,
+    "trueObjectSelections": 142,
+    "falseObjectSelectionPropotion": 0.716,
+    "falseObjectSelectionVariance": 101.67200000000001,
+    "falseObjectSelectionPropotionError": 0.020166506886419373,
+    "falseObjectSelectionPerCorrectObjectSelection": 2.5211267605633805,
+    "falseObjectSelectionPerCorrectObjectSelectionComparedToRandom": 0.6302816901408451,
+    "falseObjectSelectionPerCorrectObjectSelectionComparedToRandomError": 0.06250777030357124
+}
