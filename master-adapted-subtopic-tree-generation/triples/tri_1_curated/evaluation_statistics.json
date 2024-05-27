@@ -1,0 +1,17 @@
+{
+    "totalTripleCount": 100,
+    "validTripleCount": 98,
+    "trueTriplesCount": 58,
+    "falseTriplesCount": 36,
+    "unknownTriplesCount": 4,
+    "averageTrivialityScore": 4.785714285714286,
+    "trivialityError": 0.2252940664300977,
+    "averageContextDependenceScore": 4.438775510204081,
+    "contextDependenceError": 0.33708516721750037,
+    "validTripleProportion": 0.98,
+    "validTripleError": 0.014000000000000005,
+    "trueTripleProportion": 0.6170212765957447,
+    "trueTripleError": 0.050138745881325664,
+    "unknownTripleProportion": 0.04081632653061224,
+    "unknownTripleError": 0.0199873311965045
+}
