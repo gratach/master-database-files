@@ -103,7 +103,7 @@
     [["Electron shell", "determines", "Chemical properties"], true, true, 1, 5],
     [["Electron shell", "is organized in", "Energy levels"], true, true, 2, 6],
     [["Electron shell", "participates in", "Chemical bonding"], true, true, 0, 5],
-    [["Electron shell", "is located around", "Atomic nucleus"], true, false, 0, 7],
+    [["Electron shell", "is located around", "Atomic nucleus"], true, true, 0, 7],
     [["Statistical physics", "studies", "the behavior of large collections of particles"], true, true, 1, 6],
     [["Statistical physics", "applies probability theory", "to analyze the average behavior of a large number of particles"], false, null, null, null],
     [["Statistical physics", "provides a framework for understanding", "thermal equilibrium and phase transitions"], true, true, 1, 5],

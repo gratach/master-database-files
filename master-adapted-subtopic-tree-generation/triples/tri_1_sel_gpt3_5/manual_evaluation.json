@@ -67,7 +67,7 @@
     [["Ring system", "revolves around", "Planetary system"], true, false, 9, 6],
     [["Ring system", "surrounds", "Celestial body"], true, true, 9, 7],
     [["Ring system", "is part of", "Asteroid belt"], true, false, 10, 8],
-    [["Ring system", "is a feature of", "Asteroid"], true, false, 8, 4],
+    [["Ring system", "is a feature of", "Asteroid"], true, true, 8, 4],
     [["Ring system", "is orbiting", "Comet"], true, false, 8, 4],
     [["Harmonic oscillator", "is a type of", "Pendulum (mechanics)"], true, true, 4, 5],
     [["Harmonic oscillator", "undergoes", "Simple harmonic motion"], true, true, 2, 8],
