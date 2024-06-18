@@ -1,0 +1,498 @@
+[
+    [
+        "What can emit electromagnetic waves?",
+        [
+            "Sun",
+            "emits",
+            "Electromagnetic waves"
+        ]
+    ],
+    [
+        "What does an operator act on in quantum mechanics?",
+        [
+            "Operator",
+            "acts on",
+            "Quantum state"
+        ]
+    ],
+    [
+        "What does kinetic energy depend on?",
+        [
+            "Kinetic energy",
+            "depends on",
+            "Velocity"
+        ]
+    ],
+    [
+        "What phenomenon demonstrates macroscopic quantum coherence?",
+        [
+            "Superconductivity",
+            "exhibits",
+            "zero electrical resistance"
+        ]
+    ],
+    [
+        "What does a lens do to light?",
+        [
+            "Lens",
+            "focuses",
+            "Light"
+        ]
+    ],
+    [
+        "What causes a body to accelerate in planar motion?",
+        [
+            "Force",
+            "causes",
+            "Acceleration"
+        ]
+    ],
+    [
+        "What is the cosmic microwave background radiation a remnant of?",
+        [
+            "Cosmic microwave background",
+            "is remnant of",
+            "Big Bang"
+        ]
+    ],
+    [
+        "What property of gases increases with increased kinetic energy?",
+        [
+            "Temperature",
+            "increases with",
+            "Kinetic energy"
+        ]
+    ],
+    [
+        "What can define the resistance of a material against deformation?",
+        [
+            "Material",
+            "has",
+            "Elastic modulus"
+        ]
+    ],
+    [
+        "What do comets typically release when near the sun?",
+        [
+            "Comet",
+            "releases",
+            "Gas and dust"
+        ]
+    ],
+    [
+        "What force arises between uncharged conductive plates due to quantum field fluctuations?",
+        [
+            "Casimir effect",
+            "produces",
+            "Force"
+        ]
+    ],
+    [
+        "What effect does a rotating reference frame have on an object?",
+        [
+            "Rotating reference frame",
+            "causes",
+            "Coriolis effect"
+        ]
+    ],
+    [
+        "What produces radio waves?",
+        [
+            "Radio transmitter",
+            "emits",
+            "Radio waves"
+        ]
+    ],
+    [
+        "What unit is commonly used to measure the size of atoms?",
+        [
+            "Nanometre",
+            "is used to measure",
+            "Atoms"
+        ]
+    ],
+    [
+        "What unit measures the kinetic energy of an electron?",
+        [
+            "Electron volt",
+            "measures",
+            "Energy"
+        ]
+    ],
+    [
+        "What remains unchanged in particle interactions?",
+        [
+            "Baryon number",
+            "remains",
+            "unchanged"
+        ]
+    ],
+    [
+        "What allows particles to overcome potential barriers in quantum mechanics?",
+        [
+            "Quantum tunnelling",
+            "allows particles to overcome",
+            "potential barriers"
+        ]
+    ],
+    [
+        "What does infrared spectroscopy measure in molecules?",
+        [
+            "Infrared spectroscopy",
+            "measures",
+            "vibrational modes"
+        ]
+    ],
+    [
+        "What establishes thermal equilibrium between two objects?",
+        [
+            "Thermal contact",
+            "establishes",
+            "Thermal equilibrium"
+        ]
+    ],
+    [
+        "What phase of matter does ice represent?",
+        [
+            "Ice",
+            "is a",
+            "Solid"
+        ]
+    ],
+    [
+        "What does the Earth orbit around?",
+        [
+            "Earth",
+            "orbits",
+            "Sun"
+        ]
+    ],
+    [
+        "What experiences torque when force is applied at a distance from the axis of rotation?",
+        [
+            "Rigid body",
+            "experiences",
+            "Torque"
+        ]
+    ],
+    [
+        "What does a vibrating string produce in terms of physics?",
+        [
+            "String",
+            "produces",
+            "Sound"
+        ]
+    ],
+    [
+        "What state of matter is composed of charged particles?",
+        [
+            "Plasma",
+            "is composed of",
+            "charged particles"
+        ]
+    ],
+    [
+        "What is the primary function of quarks in forming matter?",
+        [
+            "Quarks",
+            "compose",
+            "Protons and neutrons"
+        ]
+    ],
+    [
+        "What fundamental interaction is responsible for beta decay?",
+        [
+            "Weak force",
+            "is responsible for",
+            "beta decay"
+        ]
+    ],
+    [
+        "What does a neutron star emit?",
+        [
+            "Neuton star",
+            "emits",
+            "radiation"
+        ]
+    ],
+    [
+        "What does Uranium emit when it undergoes decay?",
+        [
+            "Uranium",
+            "emits",
+            "Radiation"
+        ]
+    ],
+    [
+        "What force causes an object to experience free fall?",
+        [
+            "Gravity",
+            "causes",
+            "Free fall"
+        ]
+    ],
+    [
+        "What is the gravitational relationship between a planet and its moon in tidal locking?",
+        [
+            "Planet",
+            "exerts gravitational force on",
+            "Moon"
+        ]
+    ],
+    [
+        "What does a virtual photon mediate in quantum electrodynamics?",
+        [
+            "Virtual photon",
+            "mediates",
+            "Electromagnetic force"
+        ]
+    ],
+    [
+        "What does the Large Hadron Collider accelerate?",
+        [
+            "Large Hadron Collider",
+            "accelerates",
+            "protons"
+        ]
+    ],
+    [
+        "What does the Earth rotate around?",
+        [
+            "Earth",
+            "rotates around",
+            "Axis"
+        ]
+    ],
+    [
+        "What occurs when heat is applied to water?",
+        [
+            "Water",
+            "changes state to",
+            "Vapor"
+        ]
+    ],
+    [
+        "What does the convection zone of the Sun transfer?",
+        [
+            "Convection zone",
+            "transfers",
+            "Heat"
+        ]
+    ],
+    [
+        "What does Newton's second law relate force with?",
+        [
+            "Force",
+            "is directly proportional to",
+            "Acceleration"
+        ]
+    ],
+    [
+        "What do cathode rays consist of?",
+        [
+            "Cathode rays",
+            "consist of",
+            "Electrons"
+        ]
+    ],
+    [
+        "What does a dwarf star emit?",
+        [
+            "Dwarf star",
+            "emits",
+            "Light"
+        ]
+    ],
+    [
+        "What fundamental force is mediated by gluons?",
+        [
+            "Gluon",
+            "mediates",
+            "Strong force"
+        ]
+    ],
+    [
+        "What shape do elliptical galaxies typically have?",
+        [
+            "Elliptical galaxy",
+            "has shape",
+            "Ellipsoid"
+        ]
+    ],
+    [
+        "What moves through a conductor when voltage is applied?",
+        [
+            "Conduction electron",
+            "moves through",
+            "Conductor"
+        ]
+    ],
+    [
+        "What phenomenon results in a material having a permanent magnetization?",
+        [
+            "Spontaneous magnetization",
+            "results in",
+            "Permanent magnetization"
+        ]
+    ],
+    [
+        "What does the top quark primarily decay into?",
+        [
+            "Top quark",
+            "decays into",
+            "W boson and b quark"
+        ]
+    ],
+    [
+        "What type of stars make up the majority of the Milky Way?",
+        [
+            "Population I stars",
+            "dominate",
+            "Milky Way"
+        ]
+    ],
+    [
+        "What does an electromagnetic field propagate?",
+        [
+            "Electromagnetic field",
+            "propagates",
+            "Waves"
+        ]
+    ],
+    [
+        "What force keeps an object moving in a circular path?",
+        [
+            "Centripetal force",
+            "keeps object in",
+            "circular path"
+        ]
+    ],
+    [
+        "What kind of charge does a quark possess?",
+        [
+            "Quark",
+            "possesses",
+            "Charge"
+        ]
+    ],
+    [
+        "What property of a system measures the amount of space it occupies?",
+        [
+            "Volume",
+            "measures",
+            "space occupied"
+        ]
+    ],
+    [
+        "What do gamma rays have the shortest of in the electromagnetic spectrum?",
+        [
+            "Gamma rays",
+            "have the shortest",
+            "wavelengths"
+        ]
+    ],
+    [
+        "What force holds stars in orbit within a galaxy?",
+        [
+            "Gravity",
+            "holds",
+            "Stars"
+        ]
+    ],
+    [
+        "What does the first law of thermodynamics state about energy in a closed system?",
+        [
+            "Energy",
+            "is conserved in",
+            "Closed system"
+        ]
+    ],
+    [
+        "What generates an electromagnetic field?",
+        [
+            "Electric charge",
+            "generates",
+            "Electromagnetic field"
+        ]
+    ],
+    [
+        "What is responsible for electrical conductivity in metals?",
+        [
+            "Conduction electron",
+            "is responsible for",
+            "electrical conductivity in metals"
+        ]
+    ],
+    [
+        "What does a star emit?",
+        [
+            "Star",
+            "emits",
+            "Light"
+        ]
+    ],
+    [
+        "What describes the temperature at which a substance's liquid and gas phases have the same density?",
+        [
+            "Critical temperature",
+            "indicates",
+            "temperature of equal liquid and gas density"
+        ]
+    ],
+    [
+        "What does a galaxy contain?",
+        [
+            "Galaxy",
+            "contains",
+            "Stars"
+        ]
+    ],
+    [
+        "What does the W boson mediate?",
+        [
+            "W boson",
+            "mediates",
+            "weak force"
+        ]
+    ],
+    [
+        "What device converts electrical energy into light?",
+        [
+            "LED",
+            "converts Electrical energy into",
+            "Light"
+        ]
+    ],
+    [
+        "What characterizes an isobaric process in terms of pressure?",
+        [
+            "Isobaric process",
+            "has",
+            "constant pressure"
+        ]
+    ],
+    [
+        "What property does iron exhibit related to magnetism?",
+        [
+            "Iron",
+            "exhibits",
+            "Ferromagnetism"
+        ]
+    ],
+    [
+        "What does a heat engine transfer to a cold reservoir?",
+        [
+            "Heat engine",
+            "transfers",
+            "Heat"
+        ]
+    ],
+    [
+        "What does an infrared thermometer measure?",
+        [
+            "Infrared thermometer",
+            "measures",
+            "Temperature"
+        ]
+    ]
+]

@@ -1,0 +1,1038 @@
+Absolute time and space
+Accelerator physics
+Acoustics
+Action (physics)
+AdS/CFT correspondence
+Aerodynamics
+Analytical dynamics
+Analytical mechanics
+Antiferromagnet
+Antimatter
+Applied mathematics
+Astrometry
+Astronomy
+Astroparticle physics
+Astrophysics
+Atmospheric physics
+Atom
+Atomic, molecular, and optical physics
+Atomic orbital
+Atomic physics
+BCS theory
+Bayesian inference
+Big Bang nucleosynthesis
+Biological physics
+Biophysics
+Black-body radiation
+Black hole
+Bloch's theorem
+Bose–Einstein condensate
+Boundary condition
+Camera obscura
+Casimir effect
+Catastrophe theory
+Celestial mechanics
+Chemical element
+Classical electromagnetism
+Classical mechanics
+Classical optics
+Collision
+Computational particle physics
+Computational physics
+Condensed matter physics
+Conduction electron
+Conservation of energy
+Conservation of mass
+Continuum mechanics
+Cosmic background radiation
+Cosmic inflation
+Cosmic microwave background
+Cosmic string
+Cosmological principle
+Cosmology
+Dark energy
+Dark matter
+Density functional theory
+Effective field theory
+Einstein field equations
+Electric current
+Electrical conduction
+Electromagnetic force
+Electromagnetic radiation
+Electromagnetics
+Electromagnetism
+Electron
+Electron shell
+Electrostatics
+Electroweak interaction
+Elementary particle
+Energetic neutral atom
+Energy
+Energy levels
+Entropy
+Fermi Gamma-ray Space Telescope
+Fermi gas
+Fermi liquid theory
+Ferromagnet
+Feynman diagram
+Field (physics)
+Fluid dynamics
+Fluid mechanics
+Frame of reference
+Free fall
+Fundamental interaction
+Fundamental particles
+Galaxy
+Gamma-ray astronomy
+Gas
+Gauge boson
+Gauge theory
+General relativity
+Geometrical optics
+Geophysics
+Gluon
+Grand Unified Theory
+Gravitation
+Gravitational radiation
+Gravitational singularity
+Gravitational wave
+Gravity
+Heliosphere
+Higgs boson
+Higgs mechanism
+High-temperature superconductivity
+History of astronomy
+Hubble diagram
+Hydrostatics
+Hyperfine splitting
+Infrared
+Infrared astronomy
+Ion implantation
+Kepler's laws
+Lambda-CDM model
+Large Hadron Collider
+Laser
+Laser physics
+Lattice field theory
+Lepton
+Light
+Lightning
+Liquid
+Lodestone
+M-theory
+Magnet
+Magnetic field
+Magnetic resonance imaging
+Magnetism
+Magnetite
+Magnetohydrodynamics
+Magnetostatics
+Many-body theory
+Many-worlds interpretation
+Mass
+Mathematical model
+Mathematical physics
+Matter
+Maxwell's equations
+Mechanics
+Meissner effect
+Molecular physics
+Molecule
+Motion
+Motion (physics)
+Nanotechnology
+Neurophysics
+Neutrino
+Neutrino oscillation
+Newton's law of universal gravitation
+Newton's laws of motion
+Non-equilibrium thermodynamics
+Non-linear dynamics
+Nuclear astrophysics
+Nuclear fission
+Nuclear force
+Nuclear fusion
+Nuclear medicine
+Nuclear physics
+Nuclear power
+Observational astronomy
+Old quantum theory
+Optical physics
+Optics
+Optoelectronics
+Parabola
+Particle
+Particle accelerator
+Particle detector
+Particle physics
+Phase (matter)
+Phonon
+Photoelectric effect
+Photon
+Photonics
+Photovoltaics
+Physical chemistry
+Physical cosmology
+Physical oceanography
+Physical optics
+Physics education research
+Pinhole camera
+Planet
+Planetary science
+Plasma (physics)
+Plasma physics
+Pneumatics
+Polarization (waves)
+Polymer physics
+Principle of covariance
+Psychophysics
+Quantum chemistry
+Quantum chromodynamics
+Quantum computation
+Quantum computer
+Quantum electrodynamics
+Quantum electronics
+Quantum field theory
+Quantum gravity
+Quantum information
+Quantum information science
+Quantum mechanics
+Quantum optics
+Quark
+Radiation
+Radio astronomy
+Radiocarbon dating
+Relativistic mechanics
+Rubidium
+Schrödinger equation
+Scientific computing
+Scientific law
+Scientific method
+Seesaw mechanism
+Simulation
+Solar System
+Solar neutrino problem
+Solar physics
+Solar wind
+Solid-state physics
+Solid mechanics
+Space
+Space physics
+Spacetime
+Spacetime topology
+Special relativity
+Spectral line
+Speed of light
+Spin (particle physics)
+Spin (physics)
+Spintronics
+Spontaneous symmetry breaking
+Standard Model of particle physics
+Star
+Statics
+Statistical ensemble
+Statistical mechanics
+Statistical physics
+Stellar evolution
+Stellar structure
+String (physics)
+Strong interaction
+Strong nuclear force
+Superconductivity
+Superconductor
+Superfluid
+Supernova
+Superstring theory
+Supersymmetry
+Surface science
+Surface tension
+Symmetry (physics)
+Telescope
+Termination shock
+The Feynman Lectures on Physics
+Theoretical physics
+Theory
+Theory of relativity
+Thermodynamics
+Turbulence
+Two New Sciences
+Ultrasonics
+Ultraviolet astronomy
+Ultraviolet radiation
+Units of measure
+Universe
+Vacuum energy
+Visible light
+W and Z bosons
+Wave
+Weak gravity conjecture
+Weak interaction
+Weak nuclear force
+Weakly interacting massive particles
+Work (physics)
+X-ray astronomy
+Annual Review of Nuclear and Particle Science
+Antineutron
+Antiparticle
+Antiproton
+Axino
+Axion
+BRST quantization
+B meson
+Background field method
+Bargmann–Wigner equations
+Baryon
+Baryon asymmetry
+Baryon number
+Beijing Electron–Positron Collider II
+Belle II experiment
+Beta decay
+Boson
+Bottom quark
+CP violation
+Cabibbo–Kobayashi–Maskawa matrix
+Canonical quantum gravity
+Charge conjugation
+Chargino
+Charm antiquark
+Charm quark
+Collider
+Color charge
+Color confinement
+Composite particle
+Correlation function (quantum field theory)
+Cosmic ray
+Cosmological constant
+Cosmological constant problem
+Curvaton
+Cyclotron
+D meson
+Delta baryon
+Dilaton
+Diquark
+Dirac equation
+Down antiquark
+Down quark
+Dropleton
+Dual graviton
+Eightfold way (physics)
+Electron hole
+Electron neutrino
+Elementary charge
+Eta meson
+Exciton
+Exotic atom
+Exotic hadron
+Exotic matter
+Exotic particle
+Experiment
+External beam radiotherapy
+Faddeev–Popov ghost
+Fermion
+Force carrier
+Fracton (subdimensional particle)
+Fundamental particle
+Gauge symmetry (mathematics)
+Gaugino
+Geiger–Marsden experiments
+Ghost (physics)
+Glueball
+Gluino
+Graviphoton
+Gravitino
+Graviton
+Hadron
+Half-integer
+Heptaquark
+Hexaquark
+Higgsino
+Hilbert space
+J/psi meson
+Jiangmen Underground Neutrino Observatory
+Kaluza–Klein theory
+Klein–Gordon equation
+Lambda baryon
+Lepton number
+Leptoquark
+List of baryons
+List of mesons
+Loop quantum gravity
+Lorentz symmetry
+Magnetic monopole
+Magnon
+Majorana fermion
+Meson
+Micro black hole
+Minimal Supersymmetric Standard Model
+Muon
+Muon neutrino
+Neutrons
+Next-to-Minimal Supersymmetric Standard Model
+Noether charge
+Omega baryon
+Partition function (quantum field theory)
+Pauli exclusion principle
+Pentaquark
+Phi meson
+Pion
+Pionium
+Plasmaron
+Plasmon
+Poincaré symmetry
+Polariton
+Polaron
+Pomeron
+Positron
+Positronium
+Preon
+Proca action
+Propagator (Quantum Theory)
+Proton
+Protonium
+Quantization (physics)
+Quantum physics
+Quantum spin
+Quantum state
+Quark model
+Quarkonium
+Quasiparticle
+Radioactive decay
+Randall–Sundrum model
+Relativistic nuclear collisions
+Relativistic particle
+Renormalization
+Resonance (particle physics)
+Rho meson
+SU(3)
+Self-consistency principle in high energy physics
+Sigma baryon
+Skyrmion
+Standard Model (mathematical formulation)
+Sterile neutrino
+Strange quark
+Strong CP problem
+Subatomic particle
+Superatom
+Superfluid vacuum theory
+Supergravity
+Symmetry in quantum mechanics
+Synchrotron radiation
+T-symmetry
+T meson
+Tachyon
+Tau (particle)
+Tau neutrino
+Tauonium
+Tetraquark
+Theta meson
+Top quark
+Topological charge
+Trion (physics)
+Twistor theory
+Up quark
+Upsilon meson
+Vacuum expectation value
+Vacuum state
+Vector boson
+W boson
+Wave–particle duality
+Weak force
+Weak hypercharge
+Weak isospin
+Wheeler–DeWitt equation
+Wick's theorem
+W′ and Z′ bosons
+X-ray laser
+X and Y bosons
+Xi baryon
+Yang–Mills theory
+Z boson
+Acceleration
+Angle
+Angular frequency
+Astronomia nova
+Atoms
+Calculus of variations
+Canonical momentum
+Center of mass
+Centrifugal force
+Centrifugal force (fictitious)
+Centripetal force
+Conservation law
+Conservation of momentum
+Conservative force
+Coriolis force
+Corpuscular theory of light
+Crystal
+D'Alembert's principle
+De Broglie wavelength
+Degrees of freedom (physics and chemistry)
+Density
+Dynamical system
+Electromagnetic theory
+Energy density
+Equations of motion
+Euclidean geometry
+Euler's equations (rigid body dynamics)
+Euler's laws
+Exponential decay
+Fictitious force
+Finite difference
+Fluid
+Friction
+Galilean relativity
+Galilean transformation
+Geometric optics
+Gibbs paradox
+Gradient
+Gravitational constant
+Gyrotron
+Hamiltonian mechanics
+Hamilton–Jacobi equation
+Hamilton–Jacobi theory
+Harmonic oscillator
+Hooke's law
+Impulse (physics)
+Inclined plane
+Inertial frame of reference
+Inertial frames
+Invariant mass
+Irradiance
+Kepler's laws of planetary motion
+Kinematic viscosity
+Kinetic energy
+Kinetics (physics)
+Lagrangian mechanics
+Law of inertia
+Lorentz force
+Magnetron
+Mechanical equilibrium
+Mechanics of planar particle motion
+Michelson–Morley experiment
+Molecular dynamics
+Moment of inertia
+Momentum
+Newton's law of cooling
+Newton's second law
+Newton's third law
+Newton (unit)
+Newtonian dynamics
+Newtonian fluid
+Newtonian mechanics
+Newtonian potential
+Newtonian telescope
+Newton–Cartan theory
+Newton–Cotes formulas
+Newton–Euler equations
+Noether's theorem
+Ordinary differential equation
+Parameterized post-Newtonian formalism
+Pendulum (mechanics)
+Photo-electric effect
+Planck's law
+Planck constant
+Poincaré group
+Poisson structure
+Post-Newtonian expansion
+Pressure
+Principle of least action
+Quantum tunneling
+Rigid body
+Rigid body dynamics
+Rocket equation
+Rotating reference frame
+Rotation
+Routhian mechanics
+Schrödinger–Newton equation
+Schwarzschild radius
+Second law of motion
+Side lobe
+Simple harmonic motion
+Special theory of relativity
+Speed
+Spring constant
+Stationary-action principle
+Tangential speed
+Thermal physics
+Tunnel diode
+Vacuum chamber
+Velocity
+Wave interference
+Work–energy theorem
+Absolute zero
+Absorption refrigerator
+Adiabatic process
+Atmospheric thermodynamics
+Barometer
+Black hole thermodynamics
+Boyle's Law
+Bridgman's thermodynamic equations
+Brownian motion
+Caloric theory
+Calorimeter
+Carnot's theorem (thermodynamics)
+Carnot cycle
+Carnot engine
+Carnot heat engine
+Chemical potential
+Chemical thermodynamics
+Classical thermodynamics
+Clausius theorem
+Condenser (heat transfer)
+Conjugate variables (thermodynamics)
+Convection
+Dynamic equilibrium
+Electrostatic precipitator
+Endoreversible thermodynamics
+Enthalpy
+Equation of state
+Equilibrium thermodynamics
+Evaporator
+Event horizon
+Extensive variable
+First law of thermodynamics
+Fundamental thermodynamic relation
+Gas laws
+Gibbs free energy
+Grand potential
+Ground-coupled heat exchanger
+Heat
+Heat capacity
+Heat death paradox
+Heat exchanger
+Heat transfer
+Helmholtz free energy
+Humidity
+Ideal gas
+Ideal gas law
+Infrared thermometer
+Intensive variable
+Internal energy
+Inverter compressor
+Irreversible process
+Isenthalpic process
+Isentropic process
+Isobaric process
+Isochoric process
+Isothermal process
+Latent heat
+Laws of thermodynamics
+Loschmidt's paradox
+Magdeburg hemispheres
+Mass flow rate
+Maxwell's demon
+Maxwell's thermodynamic surface
+Maxwell relations
+Nucleation
+Onsager reciprocal relations
+Outgassing
+Particulates
+Phase transition
+Polytropic process
+Psychrometrics
+Quantum thermodynamics
+Quasistatic process
+Rankine scale
+Real gas
+Refrigerant
+Reversible process (thermodynamics)
+Reversing valve
+Second law of thermodynamics
+Sensible heat
+Stack effect
+Standard temperature and pressure
+State (thermodynamic)
+Statistical thermodynamics
+Steady state
+Synergetics (Haken)
+System (thermodynamics)
+Temperature
+Theory of heat
+Thermal efficiency
+Thermal expansion
+Thermal expansion valve
+Thermal insulation
+Thermal mass
+Thermal wheel
+Thermodynamic cycle
+Thermodynamic equations
+Thermodynamic equilibrium
+Thermodynamic free energy
+Thermodynamic potential
+Thermodynamic process
+Thermodynamic state
+Thermodynamic system
+Thermodynamic temperature
+Thermographic camera
+Thermosiphon
+Thermostat
+Third law of thermodynamics
+Vacuum
+Vacuum pump
+Vapor-compression refrigeration
+Virial theorem
+Volatile organic compound
+Volume (thermodynamics)
+Work (thermodynamics)
+Beam splitter
+Bell's theorem
+Bell inequalities
+Bell test
+Bell test experiments
+Bohmian mechanics
+Bohr model
+Bohr–Van Leeuwen theorem
+Born rule
+Canonical commutation relation
+Canonical quantization
+Cathode rays
+Charge (physics)
+Charged particle
+Collapse of the wavefunction
+Complementarity (physics)
+Copenhagen interpretation
+De Broglie–Bohm theory
+Degenerate energy levels
+Density matrix
+Diamagnetism
+Double-slit experiment
+EPR paradox
+Einstein–Podolsky–Rosen paradox
+Electric potential
+Electromagnetic field
+Electromagnetic wave
+Electron microscope
+Electroweak theory
+Elitzur–Vaidman bomb tester
+Excited state
+Franck–Hertz experiment
+Frequency
+Ground state
+Hamiltonian (quantum mechanics)
+Heisenberg picture
+Hidden variable theory
+Hydrogen atom
+Kinetic theory of gases
+Leggett–Garg inequality
+Light-emitting diode
+Mach–Zehnder interferometer
+Macroscopic quantum phenomena
+Measurement in quantum mechanics
+Modern Quantum Mechanics
+No-communication theorem
+Objective collapse theory
+Operator (physics)
+Optical amplifier
+POVM
+Pauli equation
+Perturbation theory (quantum mechanics)
+Phase (waves)
+Phase space formulation
+Planck length
+Plane wave
+Precision tests of QED
+Principle of locality
+Quantum Entanglement
+Quantum circuit
+Quantum coherence
+Quantum cosmology
+Quantum decoherence
+Quantum dynamics
+Quantum entanglement
+Quantum fluctuation
+Quantum harmonic oscillator
+Quantum interference
+Quantum nonlocality
+Quantum statistical mechanics
+Quantum superposition
+Quantum teleportation
+Quantum tunnelling
+Reduced density matrix
+Relativistic quantum mechanics
+Rydberg formula
+Scanning tunneling microscope
+Scattering theory
+Schrödinger's cat
+Spin foam
+Stationary state
+Stern–Gerlach experiment
+Superconducting magnet
+Superposition principle
+Two-state quantum system
+Uncertainty principle
+Unitarity (physics)
+Von Neumann–Wigner interpretation
+Wave function collapse
+Wave theory of light
+Wavefunction collapse
+Wheeler's delayed-choice experiment
+Young's interference experiment
+Zero-point energy
+Accelerating expansion of the universe
+Accretion (astrophysics)
+Accretion disk
+Active asteroid
+Active galactic nuclei
+Active galaxy
+Apparent magnitude
+Asteroid
+Asteroid belt
+Asteroid family
+Astrochemistry
+Astrostatistics
+Atmosphere
+Binary black hole
+Blackbody radiation
+Blazar
+Celestial body
+Celestial dynamics
+Charge-coupled device
+Chromosphere
+Circumstellar disc
+Circumstellar disk
+Circumstellar envelope
+Clusters of galaxies
+Comet
+Compton Gamma Ray Observatory
+Convection zone
+Cosmic distance ladder
+Cosmic dust
+Cosmic microwave background radiation
+Cosmochemistry
+Dark matter halo
+Debris disk
+Dwarf planet
+Dwarf star
+Earth's magnetic field
+Eclipse
+Electromagnetic spectrum
+Elliptical galaxy
+Extragalactic astronomy
+Far-infrared astronomy
+Frost line (astrophysics)
+Galactic astronomy
+Galaxy filament
+Galaxy formation and evolution
+Galaxy groups and clusters
+Galaxy morphological classification
+Gamma ray astronomy
+Gamma ray burst
+Gas giant
+Globular cluster
+Gravitational-wave astronomy
+Gravitational-wave detector
+Gravitational collapse
+Gravitational lens
+Gravitational waves
+Hill sphere
+Hubble's law
+Hydrogen
+Initial mass function
+Interplanetary medium
+Interstellar medium
+Irregular galaxy
+Isotope
+Jupiter trojan
+Kirkwood gap
+Kuiper belt
+Lagrangian points
+Laniakea Supercluster
+Laser guide star
+Magnetosphere
+Main-sequence star
+Metric expansion of space
+Molecular cloud
+Multi-messenger astronomy
+Nanometre
+Near-infrared
+Nebulae
+Neutrino astronomy
+Neutrino detector
+Neutron star
+Nucleosynthesis
+Optical astronomy
+Optical telescope
+Orbital mechanics
+Outline of astronomy
+Perturbation theory
+Photometry (astronomy)
+Planetary differentiation
+Planetary migration
+Planetary nebula
+Planetary system
+Population III stars
+Pre-stellar core
+Proper motion
+Pulsar
+Quasar
+Radar astronomy
+Radial velocity
+Radiation pressure
+Radio galaxy
+Radio telescope
+Radio wave
+Redshift survey
+Reflecting telescope
+Reionization
+Ring system
+Roche limit
+Rubble pile
+Seyfert galaxy
+Small Solar System body
+Solar System model
+Solar corona
+Spectroscope
+Spherical astronomy
+Spiral galaxy
+Stellar class
+Stellar dynamics
+Stellar nucleosynthesis
+Stellar parallax
+Stellar population
+Stellar wobble
+Submillimetre astronomy
+Sunspot cycle
+Supermassive black hole
+Supernova nucleosynthesis
+Supernova remnant
+Supernovae
+Synchrotron emission
+Three-body problem
+Tidal acceleration
+Tidal locking
+Van Allen radiation belt
+Wavelengths
+White dwarf
+X-radiation
+X-ray binaries
+X-ray telescope
+Ångstrom
+Aharonov–Bohm effect
+Amorphous solid
+Anderson localization
+Antiferromagnetism
+Band theory
+Bogoliubov quasiparticle
+Bose gas
+Bose–Einstein condensates
+Chern class
+Conduction (heat)
+Cooper pair
+Critical exponent
+Critical point (thermodynamics)
+Cryogenic
+Crystallography
+Curie point
+Diamagnetic
+Dielectric constant
+Drude model
+Ductility
+Elasticity (physics)
+Electrical conductor
+Electrodynamics
+Electron beams
+Electron paramagnetic resonance
+Electron volt
+Electronic band structure
+Electrostriction
+Exciton-polariton
+Fermi surface
+Fermi–Dirac statistics
+Ferroelectricity
+Ferromagnetism
+Flexoelectricity
+Fractional quantum Hall effect
+Free electron model
+Fullerene
+Gauge symmetry
+Geometrical frustration
+Ginzburg–Landau theory
+Goldstone's theorem
+Granular material
+Green's function (many-body theory)
+Green–Kubo relations
+Hamiltonian matrix
+Hartree–Fock method
+Heisenberg uncertainty principle
+High temperature superconductor
+Hubbard model
+Hyperfine structure
+Inelastic neutron scattering
+Infrared spectroscopy
+Interface and colloid science
+Ising model
+Josephson effect
+Josephson junction
+Kondo effect
+Kondo insulator
+Landau quantization
+Laser spectroscopy
+Lattice model (physics)
+Laughlin wavefunction
+Luttinger liquid
+Magnetic domain
+Magnetic fields
+Magnetic susceptibility
+Magnetoelectric effect
+Mean-field approximation
+Mean-field theory
+Mesoscopic physics
+Metallic hydrogen
+Metallurgy
+Mott insulator
+Mott scattering
+Muon spin spectroscopy
+Mössbauer spectroscopy
+Nanometer
+Nearly free electron model
+Non-linear optics
+Nuclear magnetic resonance
+Nuclear matter
+Nuclear quadrupole resonance
+Nuclear spectroscopy
+Numerical computation
+Optical fibres
+Optical lattice
+Orbital magnetization
+Paramagnetic
+Paramagnetism
+Perturbed angular correlation
+Phonon polariton
+Photoelectron spectroscopy
+Photoluminescence
+Piezoelectricity
+Point-contact transistor
+Quantum Hall effect
+Quantum critical point
+Quantum oscillations
+Quantum phase transition
+Quantum spin Hall effect
+Qubit
+Refractive index
+Renormalization group
+Samarium
+Semimetal
+Specific heat of solids
+Spectroscopy
+Spin Hall effect
+Spin glass
+Spintronic
+Spontaneous magnetization
+Strongly correlated material
+Superparamagnetism
+Symmetry breaking
+Tesla (unit)
+Thermodynamic variable
+Thermoelectric effect
+Thermometry
+Thomas–Fermi model
+Tight binding model
+Time crystal
+Topological insulator
+Topological phase
+Transport theory (statistical physics)
+Variational method
+Wiedemann-Franz law
+Wiedemann–Franz law
+X-ray diffraction
+X-ray spectroscopy
