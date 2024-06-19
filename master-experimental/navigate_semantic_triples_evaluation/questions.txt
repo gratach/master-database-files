@@ -1,5 +1,13 @@
 [
     [
+        "What does light exhibit according to the wave theory?",
+        [
+            "Light",
+            "exhibits",
+            "Wave properties"
+        ]
+    ],
+    [
         "What can emit electromagnetic waves?",
         [
             "Sun",
@@ -637,14 +645,6 @@
             "Laser",
             "emits",
             "Light"
-        ]
-    ],
-    [
-        "What does the first law of thermodynamics state about energy in a closed system?",
-        [
-            "Energy",
-            "is conserved in",
-            "Closed system"
         ]
     ],
     [

@@ -1,0 +1,197 @@
+Magdeburger Halbkugeln
+Lunar Laser Ranging
+Manhattan-Projekt
+Faradayscher Käfig
+Doppelspaltexperiment
+KATRIN
+CAST-Experiment
+CLOUD-Experiment
+LHCb
+TOTEM
+UA1-Detektor
+OPERA
+NA48
+COMPASS-Experiment
+LHCf
+NA62
+OPAL
+NA61/SHINE
+XENON Dark Matter Project
+BaBar-Experiment
+Wasserbrücke
+Neutrino Ettore Majorana Observatory
+Quantenradierer
+Hafele-Keating-Experiment
+Rubenssches Flammenrohr
+D0
+UA2-Experiment
+MiniBooNE
+Wu-Experiment
+NA35
+Goldhaber-Experiment
+ICARUS
+NA7
+Nagelbrett
+Rüchardt-Experiment
+RENO-Experiment
+NA1
+NA3
+KASCADE-Grande
+LOPES
+Matroschka
+NA10
+NA11
+NA33
+NA4
+NA5
+NA6
+NA9
+NA8
+Torricelli's experiment
+Streuexperiment
+Q2484302
+Q2558993
+NOνA
+'s Gravesande's ring
+Pascal's barrel
+delayed-choice quantum eraser
+GRANIT
+HERMES experiment
+MACHe3
+NA60 experiment
+SAGE
+Q3389284
+Q3407221
+Q3512287
+Wake Shield Facility
+Q3733125
+Oersted's law
+Q4054060
+KEDR
+2012 Boeing 727 crash experiment
+4GLS
+ARGUS
+Antarctic Impulsive Transient Antenna
+ADMX-Experiment
+Bedford Level Experiment
+CHOOZ
+EASE/ACCESS
+NA2
+FP420 experiment
+Galileo's Leaning Tower of Pisa experiment
+GlueX
+HARP
+Large Underground Xenon Detector
+Deep Underground Neutrino Experiment
+MINERνA
+NA49 experiment
+PS210 experiment
+Pugas
+Resonant inelastic X-ray scattering
+REXUS/BEXUS
+SIMPLE
+Sustained Spheromak Physics Experiment
+WITCH experiment
+Delayed-Choice-Experiment
+Q9394511
+KASKA
+Q11985657
+PICO
+Lloyd's mirror
+ALPHA
+Exobiology Radiation Assembly
+NA32 experiment
+Lecher-Leitung
+Q18424510
+Kamiokande
+OKA
+Mu2e
+STAR project
+Q24254908
+XMASS
+NA63 experiment
+WA89 experiment
+Joint Polarization Experiment
+Q26688977
+Waves
+AWAKE
+Moon radar experiment
+WA70 experiment
+UA4-Experiment
+UA8 experiment
+UA5-Experiment
+Bruno Rossi and David B. Hall experiment
+SCI-HI
+PRIZM
+Star Thrust Experiment
+Superheavy Element Factory
+University of Queensland pitch drop experiment
+thermal conductivity of water demonstration
+thermal conductivity of solids demonstration
+electrical conductivity of liquids demonstration
+exothermic and endothermic reactions demonstration
+NA37
+GBAR experiment
+ATRAP experiment
+ASACUSA experiment
+Milk art
+AEgIS experiment
+PUMA experiment
+fusion experiment on 21 December 2021
+Sun Radio Interferometer Space Experiment
+Satellite Orbital Debris Characterization Impact Test
+Azores Fixed Acoustic Range
+The bRing experiment
+Q121298686
+Q121299561
+ISOLDE Decay Station experiment
+Pictet's experiment
+OSQAR-Experiment
+Hawking's time traveller party
+Q124542482
+Q125941261
+voltaic cell demonstration
+cupric chloride electrolysis demonstration
+sodium chloride electrolysis demonstration
+water electrolysis demonstration
+dissolution rate demonstration
+diffusion demonstration
+surface tension demonstration
+emulsifying effect of detergent demonstration
+adsorption properties of activated carbon demonstration
+methane combustion demonstration
+fireproof banknote demonstration
+combustion of hydrocarbons observation demonstration
+chemiluminescence demonstration
+properties of soap - demonstration
+protein detection demonstration
+Eddington experiment
+Q65196370
+Polar-Areas Stellar-Imaging in Polarization High-Accuracy Experiment
+BEXUS
+FASER (Detektor)
+Hydrostatic apparatus-MHS 568
+Hero's fountain-MHS 571
+Tornado simulator-MHS 230
+hydraulic spinning top-MHS 209
+Convective Processes Experiment – Aerosols & Winds
+Investigation of Microphysics and Precipitation for Atlantic Coast-Threatening Snowstorms
+Sub-Mesoscale Ocean Dynamics Experiment
+Dynamics and Chemistry of the Summer Stratosphere
+Fire Influence on Regional to Global Environments Experiment - Air Quality
+"Cloud
+EXport Processes in the Ocean from Remote Sensing
+ObseRvations of Aerosols above CLouds and their intEractionS
+Atmospheric Tomography Mission
+Arctic Radiation - IceBridge Sea&Ice Experiment
+Alpha Jet Atmospheric eXperiment
+Atmospheric Carbon and Transport – America
+Convective Processes Experiment
+Oceans Melting Greenland
+Q92135343
+REXUS
+Schnellfahrversuche mit Dampflokomotiven zwischen Marienfelde und Zossen
+Lunar Surface Cosmic Ray Experiment
+Alpha Particle Spectrometer
+Lunar Sounder Experiment
+Seismic Profiling Experiment
