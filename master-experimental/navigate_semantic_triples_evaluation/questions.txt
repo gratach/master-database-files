@@ -494,5 +494,309 @@
             "measures",
             "Temperature"
         ]
+    ],
+    [
+        "What is the unit of thermodynamic temperature?",
+        [
+            "Thermodynamic temperature",
+            "is measured in",
+            "Kelvin"
+        ]
+    ],
+    [
+        "What moves an object in a straight line?",
+        [
+            "Force",
+            "causes",
+            "Motion"
+        ]
+    ],
+    [
+        "Which planet has an extensive ring system?",
+        [
+            "Saturn",
+            "has",
+            "ring system"
+        ]
+    ],
+    [
+        "What does a neutrino interact with in astroparticle physics?",
+        [
+            "Neutrino",
+            "interacts with",
+            "Matter"
+        ]
+    ],
+    [
+        "What do Maxwell's equations describe the behavior of?",
+        [
+            "Maxwell's equations",
+            "describe",
+            "Electromagnetic fields"
+        ]
+    ],
+    [
+        "What does a spectroscope analyze?",
+        [
+            "Spectroscope",
+            "analyzes",
+            "Light"
+        ]
+    ],
+    [
+        "What attracts objects towards Earth?",
+        [
+            "Earth",
+            "attracts",
+            "Objects"
+        ]
+    ],
+    [
+        "What remains constant in an isobaric process?",
+        [
+            "Pressure",
+            "remains constant in",
+            "Isobaric process"
+        ]
+    ],
+    [
+        "What does a meson consist of?",
+        [
+            "Meson",
+            "consists of",
+            "quarks"
+        ]
+    ],
+    [
+        "What does dark energy cause in the universe?",
+        [
+            "Dark energy",
+            "causes",
+            "expansion of the universe"
+        ]
+    ],
+    [
+        "What orbits around the Sun in the Solar System?",
+        [
+            "Planets",
+            "orbit around",
+            "Sun"
+        ]
+    ],
+    [
+        "What protects Earth from solar radiation?",
+        [
+            "Earth's magnetic field",
+            "protects",
+            "Earth"
+        ]
+    ],
+    [
+        "What describes the fundamental force mediated by photons?",
+        [
+            "Quantum electrodynamics",
+            "describes",
+            "electromagnetic interaction"
+        ]
+    ],
+    [
+        "What does the Tesla unit measure?",
+        [
+            "Tesla",
+            "measures",
+            "Magnetic flux density"
+        ]
+    ],
+    [
+        "What does the quantum harmonic oscillator describe?",
+        [
+            "Quantum harmonic oscillator",
+            "describes",
+            "particles in potential wells"
+        ]
+    ],
+    [
+        "What is a characteristic feature of an active asteroid?",
+        [
+            "Active asteroid",
+            "emits",
+            "Dust"
+        ]
+    ],
+    [
+        "What does the hidden variable theory attempt to provide in quantum mechanics?",
+        [
+            "Hidden variable theory",
+            "provides",
+            "deterministic explanations"
+        ]
+    ],
+    [
+        "What does a laser emit?",
+        [
+            "Laser",
+            "emits",
+            "Light"
+        ]
+    ],
+    [
+        "What does the first law of thermodynamics state about energy in a closed system?",
+        [
+            "Energy",
+            "is conserved in",
+            "Closed system"
+        ]
+    ],
+    [
+        "What does water form on a hydrophobic surface?",
+        [
+            "Water",
+            "forms",
+            "Droplets"
+        ]
+    ],
+    [
+        "What does an antiproton annihilate with?",
+        [
+            "Antiproton",
+            "annihilates with",
+            "Proton"
+        ]
+    ],
+    [
+        "What drives the airflow in the stack effect?",
+        [
+            "Stack effect",
+            "is driven by",
+            "temperature difference"
+        ]
+    ],
+    [
+        "What does a Carnot heat engine convert heat into?",
+        [
+            "Carnot heat engine",
+            "converts heat into",
+            "work"
+        ]
+    ],
+    [
+        "What property does the electromagnetic force act upon?",
+        [
+            "Electromagnetic force",
+            "acts upon",
+            "Charge"
+        ]
+    ],
+    [
+        "What property does a system reach when no net macroscopic flows of matter or energy occur?",
+        [
+            "System",
+            "reaches",
+            "Equilibrium"
+        ]
+    ],
+    [
+        "What determines the structure of a crystal?",
+        [
+            "Unit cell",
+            "determines",
+            "crystal structure"
+        ]
+    ],
+    [
+        "What constituent particles make up a proton?",
+        [
+            "Proton",
+            "is made up of",
+            "Quarks"
+        ]
+    ],
+    [
+        "What does a spectral line represent in an atom?",
+        [
+            "Spectral line",
+            "represents",
+            "Energy transition"
+        ]
+    ],
+    [
+        "What does the Earth perform daily around its axis?",
+        [
+            "Earth",
+            "performs daily",
+            "Rotation"
+        ]
+    ],
+    [
+        "What does a Cooper pair cause in superconductors?",
+        [
+            "Cooper pair",
+            "causes",
+            "Superconductivity"
+        ]
+    ],
+    [
+        "What does an electron carry?",
+        [
+            "Electron",
+            "carries",
+            "Elementary charge"
+        ]
+    ],
+    [
+        "What does a calorimeter measure?",
+        [
+            "Calorimeter",
+            "measures",
+            "Heat"
+        ]
+    ],
+    [
+        "What does the Tsiolkovsky rocket equation relate?",
+        [
+            "Rocket equation",
+            "relates",
+            "change in velocity, exhaust velocity, and mass ratios"
+        ]
+    ],
+    [
+        "What conducts heat?",
+        [
+            "Metal",
+            "conducts",
+            "Heat"
+        ]
+    ],
+    [
+        "What describes the condition where all parts of a system are at the same temperature?",
+        [
+            "Thermodynamic equilibrium",
+            "describes",
+            "Uniform temperature"
+        ]
+    ],
+    [
+        "What process allows energy levels in an atom to only have specific discrete values?",
+        [
+            "Quantization",
+            "restricts",
+            "Energy levels"
+        ]
+    ],
+    [
+        "What do cosmic rays primarily consist of?",
+        [
+            "Cosmic ray",
+            "consists of",
+            "high-energy particles"
+        ]
+    ],
+    [
+        "What does the Stern-Gerlach experiment demonstrate about silver atoms?",
+        [
+            "Silver atoms",
+            "have",
+            "quantized spin components"
+        ]
     ]
 ]
