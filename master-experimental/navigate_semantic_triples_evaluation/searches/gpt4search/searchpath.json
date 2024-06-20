@@ -4795,6 +4795,79 @@
                     "explains",
                     "Quantum Mechanics phenomena"
                 ]
+            ],
+            [
+                "C",
+                [
+                    "Wave-Particle Duality",
+                    "Quantum Entanglement",
+                    "Quantum Superposition",
+                    "Heisenberg Uncertainty Principle",
+                    "Schr\u00f6dinger's Cat",
+                    "Quantum Field Theory",
+                    "Quantum Computing",
+                    "Physics",
+                    "Quantum Mechanics",
+                    "Physics"
+                ],
+                "Quantum Field Theory",
+                [
+                    [
+                        "Quantum Field Theory",
+                        "describes",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "provides framework for",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "interprets",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "explains",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "models",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "analyzes",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "elucidates",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "encapsulates",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "predicts",
+                        "Quantum Mechanics phenomena"
+                    ],
+                    [
+                        "Quantum Field Theory",
+                        "investigates",
+                        "Quantum Mechanics phenomena"
+                    ]
+                ],
+                [
+                    "Quantum Field Theory",
+                    "predicts",
+                    "Quantum Mechanics phenomena"
+                ]
             ]
         ],
         false
@@ -20472,6 +20545,79 @@
                 [
                     "Photons",
                     "are a part of",
+                    "Electromagnetic Spectrum"
+                ]
+            ],
+            [
+                "C",
+                [
+                    "Electromagnetic induction",
+                    "Lorentz force",
+                    "Maxwell's equations",
+                    "Electromagnetic waves",
+                    "Magnetic fields",
+                    "Optics",
+                    "Quantum mechanics",
+                    "Electromagnetism",
+                    "Electromagnetism",
+                    "Physics"
+                ],
+                "Physics",
+                [
+                    [
+                        "Sun",
+                        "emits",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Light bulb",
+                        "produces",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Radio antenna",
+                        "transmits",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Laser",
+                        "generates",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Microwave oven",
+                        "uses",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "X-ray machine",
+                        "emits",
+                        "Electromagnetic in Spectrum"
+                    ],
+                    [
+                        "Gamma-ray sources",
+                        "emit",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Black body",
+                        "radiates",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "Photon",
+                        "is part of",
+                        "Electromagnetic Spectrum"
+                    ],
+                    [
+                        "UV lamp",
+                        "produces",
+                        "Electromagnetic Spectrum"
+                    ]
+                ],
+                [
+                    "Photon",
+                    "is part of",
                     "Electromagnetic Spectrum"
                 ]
             ]
@@ -50060,5 +50206,521 @@
             ]
         ],
         false
+    ],
+    "What does light exhibit according to the wave theory?": [
+        [
+            [
+                "E",
+                [
+                    "Mechanics",
+                    "Thermodynamics",
+                    "Electromagnetism",
+                    "Quantum Mechanics",
+                    "Optics",
+                    "Chemistry",
+                    "Engineering",
+                    "Physics",
+                    "Physics",
+                    "Physics"
+                ],
+                "Optics",
+                [
+                    [
+                        "Physics",
+                        "studies",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "incorporates the principles of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "utilizes",
+                        "Optical Science"
+                    ],
+                    [
+                        "Physics",
+                        "explains",
+                        "Light Manipulation"
+                    ],
+                    [
+                        "Physics",
+                        "covers the topics of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "developed",
+                        "Laser Technology"
+                    ],
+                    [
+                        "Physics",
+                        "applies",
+                        "Optical Phenomena"
+                    ],
+                    [
+                        "Physics",
+                        "teaches",
+                        "Optical Science"
+                    ],
+                    [
+                        "Physics",
+                        "includes",
+                        "Optics in its curriculum"
+                    ],
+                    [
+                        "Physics",
+                        "leads to advances in",
+                        "Optical Instruments"
+                    ]
+                ],
+                [
+                    "Physics",
+                    "covers the topics of",
+                    "Optics"
+                ]
+            ],
+            [
+                "E",
+                [
+                    "Geometric Optics",
+                    "Wave Optics",
+                    "Quantum Optics",
+                    "Fiber Optics",
+                    "Nonlinear Optics",
+                    "Physics of Light",
+                    "Electromagnetic Theory",
+                    "Physics",
+                    "Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Physics",
+                        "includes the study of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "covers principles in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "provides a foundation for",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "explores phenomena in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "uses mathematical models in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "helps understand wave behavior in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "investigates light interactions in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "applies quantum theory to",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "teaches concepts of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "examines the nature of light in",
+                        "Optics"
+                    ]
+                ],
+                [
+                    "Physics",
+                    "helps understand wave behavior in",
+                    "Optics"
+                ]
+            ],
+            [
+                "E",
+                [
+                    "Interference",
+                    "Diffraction",
+                    "Polarization",
+                    "Young's Double-Slit Experiment",
+                    "Huygens' Principle",
+                    "Quantum Optics",
+                    "Electromagnetic Spectrum",
+                    "Optics",
+                    "Wave Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Physics",
+                        "includes the study of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "encompasses the field of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "applies principles to",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "explores the phenomena of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "utilizes mathematical models in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "investigates wave behaviors in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "teaches concepts of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "is foundational to understanding",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "relates theories to applications in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "develops technologies through",
+                        "Optics"
+                    ]
+                ],
+                [
+                    "Physics",
+                    "investigates wave behaviors in",
+                    "Optics"
+                ]
+            ],
+            [
+                "E",
+                [
+                    "Diffraction",
+                    "Interference",
+                    "Polarization",
+                    "Young's Double Slit Experiment",
+                    "Huygens' Principle",
+                    "Quantum Optics",
+                    "Electromagnetic Waves",
+                    "Wave Optics",
+                    "Wave Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Physics",
+                        "encompasses the field of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "utilizes principles of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "explains the phenomena in",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "lays the foundational theories for",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "includes the study of",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "is fundamental to understanding",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "investigates light behavior through",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "incorporates wave theory into",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "applies quantitative methods to",
+                        "Optics"
+                    ],
+                    [
+                        "Physics",
+                        "contributes research towards advancements in",
+                        "Optics"
+                    ]
+                ],
+                [
+                    "Physics",
+                    "incorporates wave theory into",
+                    "Optics"
+                ]
+            ],
+            [
+                "E",
+                [
+                    "Interference",
+                    "Diffraction",
+                    "Polarization",
+                    "Young's Double Slit Experiment",
+                    "Fresnel and Fraunhofer Diffraction",
+                    "Quantum Optics",
+                    "Laser Physics",
+                    "Wave Optics",
+                    "Wave Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Physics",
+                        "encompasses the study of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "incorporates principles from",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "explains phenomena in",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "uses theories of light to explore",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "applies quantum mechanics to",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "develops models for",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "investigates wave-particle duality in",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "teaches concepts of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "examines the behavior of light in",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Physics",
+                        "relies on mathematical frameworks in",
+                        "Wave Optics"
+                    ]
+                ],
+                [
+                    "Physics",
+                    "examines the behavior of light in",
+                    "Wave Optics"
+                ]
+            ],
+            [
+                "C",
+                [
+                    "Interference",
+                    "Diffraction",
+                    "Polarization",
+                    "Young's Double Slit Experiment",
+                    "Huygens' Principle",
+                    "Quantum Optics",
+                    "Photometry",
+                    "Wave Optics",
+                    "Wave Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Lecture series",
+                        "covers",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Textbook",
+                        "includes a chapter on",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Research paper",
+                        "explores an aspect of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Scientist",
+                        "develops theories on",
+                        "Wave Optics"
+                    ],
+                    [
+                        "University course",
+                        "teaches",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Optical device",
+                        "utilizes principles of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Laser technology",
+                        "is based on",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Conference",
+                        "holds sessions on",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Patent",
+                        "describes innovations in",
+                        "Wave Form"
+                    ],
+                    [
+                        "Seminar",
+                        "provides insights on",
+                        "Wave Optics"
+                    ]
+                ],
+                [
+                    "Textbook",
+                    "includes a chapter on",
+                    "Wave Optics"
+                ]
+            ],
+            [
+                "C",
+                [
+                    "Interference",
+                    "Diffraction",
+                    "Polarization",
+                    "Young's Double Slit Experiment",
+                    "Fresnel and Fraunhofer Diffraction",
+                    "Quantum Optics",
+                    "Electromagnetic Waves",
+                    "Wave Optics",
+                    "Wave Optics",
+                    "Physics"
+                ],
+                "Wave Optics",
+                [
+                    [
+                        "Physics",
+                        "involves the study of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Light",
+                        "is explained through",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Thomas Young",
+                        "contributed to",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Huygens' principle",
+                        "is fundamental to",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Interference",
+                        "is a central phenomenon in",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Diffraction",
+                        "is analyzed using",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Polarization",
+                        "is understood via",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Lasers",
+                        "rely on principles of",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Fiber optics technology",
+                        "utilizes",
+                        "Wave Optics"
+                    ],
+                    [
+                        "Research",
+                        "continues to explore",
+                        "Wave Optics"
+                    ]
+                ],
+                [
+                    "Light",
+                    "is explained through",
+                    "Wave Optics"
+                ]
+            ]
+        ],
+        true
     ]
 }
