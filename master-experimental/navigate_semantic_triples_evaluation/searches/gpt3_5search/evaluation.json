@@ -1,10 +1,10 @@
 {
-    "averageDecisionCostOfSuccessfulSearches": 15.983633395067661,
-    "averageDecisionCostOfSuccessfulSearchesError": 1.072957857840274,
+    "averageDecisionCostOfSuccessfulSearches": 16.01450352073513,
+    "averageDecisionCostOfSuccessfulSearchesError": 1.2068379508452023,
     "averageDecisionCostOfFailedSearches": 27.78151250383644,
     "averageDecisionCostOfFailedSearchesError": 0.0,
-    "averageDecisionCostOfNonInteruptedSearches": 54.348579233698935,
-    "averageDecisionCostOfNonInteruptedSearchesError": 7.846833318581913,
-    "probabilityOfSuccess": 0.42,
-    "probabilityOfSuccessError": 0.04935585071701227
+    "averageDecisionCostOfNonInteruptedSearches": 91.12748177184845,
+    "averageDecisionCostOfNonInteruptedSearchesError": 16.961870101195196,
+    "probabilityOfSuccess": 0.27,
+    "probabilityOfSuccessError": 0.044395945760846225
 }
