@@ -1,0 +1,1617 @@
+- - - - Taggers
+      - AUC
+      - "R30subscript\U0001D44530R_{30}italic_R start_POSTSUBSCRIPT 30 end_POSTSUBSCRIPT"
+      - Param
+    - - Linear 1k EFPs [31]
+      - '0.980'
+      - '384'
+      - 1 kk\mathrm{k}roman_k
+    - - N-sub 6 [6]
+      - '0.979'
+      - "792 \xB1plus-or-minus\\pm\xB1 18"
+      - 57 kk\mathrm{k}roman_k
+    - - N-sub 8 [6]
+      - '0.981'
+      - "867 \xB1plus-or-minus\\pm\xB1 15"
+      - 58 kk\mathrm{k}roman_k
+    - - ParticleNet [14]
+      - '0.986'
+      - "1615 \xB1plus-or-minus\\pm\xB1 93"
+      - 366 kk\mathrm{k}roman_k
+    - - ParticleNet-Lite [14]
+      - '0.984'
+      - "1262 \xB1plus-or-minus\\pm\xB1 49"
+      - 26 kk\mathrm{k}roman_k
+    - - LorentzNet [23]
+      - '0.987'
+      - "2195 \xB1plus-or-minus\\pm\xB1 173"
+      - 224 kk\mathrm{k}roman_k
+    - - ParT [19]
+      - '0.986'
+      - "1602 \xB1plus-or-minus\\pm\xB1 81"
+      - 2.14 MM\mathrm{M}roman_M
+    - - PELICAN [24]
+      - '0.987'
+      - "2289 \xB1plus-or-minus\\pm\xB1 204"
+      - 45 kk\mathrm{k}roman_k
+    - - DNN 7k EFPs
+      - '0.980'
+      - '844'
+      - 237 kk\mathrm{k}roman_k
+    - - DO-ADO (LorentzNet)
+      - '0.982'
+      - "1212 \xB1plus-or-minus\\pm\xB1 30"
+      - 1.7 kk\mathrm{k}roman_k
+    - - DisCo-FFS (truth)
+      - '0.982'
+      - "1249 \xB143plus-or-minus43\\pm 43\xB1 43"
+      - 1.4 kk\mathrm{k}roman_k
+  - 'Paper: arxiv.org/abs/2212.00046 Table: 1'
+  - "Table 1: AUC and R30subscript\U0001D44530R_{30}italic_R start_POSTSUBSCRIPT 30\
+    \ end_POSTSUBSCRIPT comparison of different taggers on the dataset from [1]. The\
+    \ R30subscript\U0001D44530R_{30}italic_R start_POSTSUBSCRIPT 30 end_POSTSUBSCRIPT\
+    \ values of DisCo-FFS and ADO-FFS are the average R30subscript\U0001D44530R_{30}italic_R\
+    \ start_POSTSUBSCRIPT 30 end_POSTSUBSCRIPT\u2019s of 10 classifier trainings,\
+    \ and the R30subscript\U0001D44530R_{30}italic_R start_POSTSUBSCRIPT 30 end_POSTSUBSCRIPT\
+    \ of DNN on 7k EFPs is calculated over a single run. The performance for DisCo-FFS\
+    \ is after 9 EFPs, whereas the performance reported for DO-ADO is after 17 EFPs. "
+- - - - Iter
+      - Feature
+      - c
+      - "\u03BA\U0001D705\\kappaitalic_\u03BA"
+      - "\u03B2\U0001D6FD\\betaitalic_\u03B2"
+      - "R30subscript\U0001D44530R_{30}italic_R start_POSTSUBSCRIPT 30 end_POSTSUBSCRIPT"
+    - - '1'
+      - ''
+      - '3'
+      - '2'
+      - '1'
+      - "287 \xB1plus-or-minus\\pm\xB1 3"
+    - - '2'
+      - ''
+      - '3'
+      - '2'
+      - '1'
+      - "529 \xB1plus-or-minus\\pm\xB1 10"
+    - - '3'
+      - ''
+      - '2'
+      - '0'
+      - '1'
+      - "894 \xB1plus-or-minus\\pm\xB1 23"
+    - - '4'
+      - ''
+      - '3'
+      - '1'
+      - '0.5'
+      - "956 \xB1plus-or-minus\\pm\xB1 35"
+    - - '5'
+      - ''
+      - '3'
+      - '1'
+      - '1'
+      - "1081 \xB1plus-or-minus\\pm\xB1 22"
+    - - '6'
+      - ''
+      - '3'
+      - '2'
+      - '0.5'
+      - "1201 \xB1plus-or-minus\\pm\xB1 23"
+  - 'Paper: arxiv.org/abs/2212.00046 Table: 2'
+  - 'Table 2: The EFPs selected by Disco-FFS in the first 6 iterations'
+- - - - Model
+      - Accuracy
+      - AUC
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.5)subscript\U0001D700\
+        \U0001D4460.5(\\varepsilon_{S}=0.5)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.5 ) "
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.3)subscript\U0001D700\
+        \U0001D4460.3(\\varepsilon_{S}=0.3)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 ) "
+    - - ResNeXt
+      - 0.9360.9360.9360.936
+      - 0.98370.98370.98370.9837
+      - "302\xB15plus-or-minus3025302\\pm 5302 \xB1 5"
+      - "1147\xB158plus-or-minus1147581147\\pm 581147 \xB1 58"
+    - - P-CNN
+      - 0.9300.9300.9300.930
+      - 0.98030.98030.98030.9803
+      - "201\xB14plus-or-minus2014201\\pm 4201 \xB1 4"
+      - "759\xB124plus-or-minus75924759\\pm 24759 \xB1 24"
+    - - PFN
+      - 0.9320.9320.9320.932
+      - 0.98190.98190.98190.9819
+      - "247\xB13plus-or-minus2473247\\pm 3247 \xB1 3"
+      - "888\xB117plus-or-minus88817888\\pm 17888 \xB1 17"
+    - - ParticleNet
+      - 0.9400.9400.9400.940
+      - 0.98580.98580.98580.9858
+      - "397\xB17plus-or-minus3977397\\pm 7397 \xB1 7"
+      - "1615\xB193plus-or-minus1615931615\\pm 931615 \xB1 93"
+    - - EGNN
+      - 0.9220.9220.9220.922
+      - 0.97600.97600.97600.9760
+      - "148\xB18plus-or-minus1488148\\pm 8148 \xB1 8"
+      - "540\xB149plus-or-minus54049540\\pm 49540 \xB1 49"
+    - - LGN
+      - 0.9290.9290.9290.929
+      - 0.96400.96400.96400.9640
+      - "124\xB120plus-or-minus12420124\\pm 20124 \xB1 20"
+      - "435\xB195plus-or-minus43595435\\pm 95435 \xB1 95"
+    - - LorentzNet
+      - 0.9420.942\bm{0.942}bold_0.942
+      - 0.98680.9868\bm{0.9868}bold_0.9868
+      - "\U0001D7D2\U0001D7D7\U0001D7D6\xB1\U0001D7CF\U0001D7D6plus-or-minus49818\\\
+        bm{498\\pm 18}bold_498 bold_\xB1 bold_18"
+      - "\U0001D7D0\U0001D7CF\U0001D7D7\U0001D7D3\xB1\U0001D7CF\U0001D7D5\U0001D7D1\
+        plus-or-minus2195173\\bm{2195\\pm 173}bold_2195 bold_\xB1 bold_173"
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 1'
+  - 'Table 1: Performance comparison between LorentzNet and other representative algorithms
+    on top tagging dataset. The results for LorentzNet and EGNN are averaged on 6
+    runs. The results for other baselines are referred to Qu:2019gqs ; bogatskiy2020lorentz
+    ; Komiske:2018cqr . '
+- - - - Model
+      - Accuracy
+      - AUC
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.5)subscript\U0001D700\
+        \U0001D4460.5(\\varepsilon_{S}=0.5)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.5 ) "
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.3)subscript\U0001D700\
+        \U0001D4460.3(\\varepsilon_{S}=0.3)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 ) "
+    - - ResNeXt
+      - 0.8210.8210.8210.821
+      - 0.89600.89600.89600.8960
+      - 30.930.930.930.9
+      - 80.880.880.880.8
+    - - P-CNN
+      - 0.8270.8270.8270.827
+      - 0.90020.90020.90020.9002
+      - 34.734.734.734.7
+      - 91.091.091.091.0
+    - - PFN
+      - "\u2212--"
+      - 0.90050.90050.90050.9005
+      - "34.7\xB10.4plus-or-minus34.70.434.7\\pm 0.434.7 \xB1 0.4"
+      - "\u2212--"
+    - - ParticleNet
+      - 0.8400.8400.8400.840
+      - 0.91160.91160.91160.9116
+      - "39.8\xB10.2plus-or-minus39.80.239.8\\pm 0.239.8 \xB1 0.2"
+      - "98.6\xB11.3plus-or-minus98.61.398.6\\pm 1.398.6 \xB1 1.3"
+    - - EGNN
+      - 0.8030.8030.8030.803
+      - 0.88060.88060.88060.8806
+      - "26.3\xB10.3plus-or-minus26.30.326.3\\pm 0.326.3 \xB1 0.3"
+      - "76.6\xB10.5plus-or-minus76.60.576.6\\pm 0.576.6 \xB1 0.5"
+    - - LGN
+      - 0.8030.8030.8030.803
+      - 0.83240.83240.83240.8324
+      - 16.016.016.016.0
+      - 44.344.344.344.3
+    - - LorentzNet
+      - 0.8440.844\bm{0.844}bold_0.844
+      - 0.91560.9156\bm{0.9156}bold_0.9156
+      - "42.4\xB10.4plus-or-minus42.40.4\\bm{42.4\\pm 0.4}bold_42.4 bold_\xB1 bold_0.4"
+      - "110.2\xB11.3plus-or-minus110.21.3\\bm{110.2\\pm 1.3}bold_110.2 bold_\xB1\
+        \ bold_1.3"
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 2'
+  - 'Table 2: Performance comparison between LorentzNet and other representative algorithms
+    on quark-gluon tagging dataset. The results for LorentzNet, EGNN and LGN are averaged
+    on 6 runs. The results for other baselines are referred to Qu:2019gqs ; Komiske:2018cqr
+    . '
+- - - - ' TrainingFraction '
+      - Model
+      - Accuracy
+      - AUC
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.5)subscript\U0001D700\
+        \U0001D4460.5(\\varepsilon_{S}=0.5)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.5 ) "
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.3)subscript\U0001D700\
+        \U0001D4460.3(\\varepsilon_{S}=0.3)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 ) "
+    - - 0.5%percent0.50.5\%0.5 %
+      - ParticleNet
+      - 0.9130.9130.9130.913
+      - 0.96870.96870.96870.9687
+      - "77\xB14plus-or-minus77477\\pm 477 \xB1 4"
+      - "199\xB114plus-or-minus19914199\\pm 14199 \xB1 14"
+    - - 0.5%percent0.50.5\%0.5 %
+      - LorentzNet
+      - 0.9290.929\bm{0.929}bold_0.929
+      - 0.97930.9793\bm{0.9793}bold_0.9793
+      - "\U0001D7CF\U0001D7D5\U0001D7D4\xB1\U0001D7CF\U0001D7D2plus-or-minus17614\\\
+        bm{176\\pm 14}bold_176 bold_\xB1 bold_14"
+      - "\U0001D7D3\U0001D7D4\U0001D7D0\xB1\U0001D7D5\U0001D7D0plus-or-minus56272\\\
+        bm{562\\pm 72}bold_562 bold_\xB1 bold_72"
+    - - 1%percent11\%1 %
+      - ParticleNet
+      - 0.9190.9190.9190.919
+      - 0.97340.97340.97340.9734
+      - "103\xB15plus-or-minus1035103\\pm 5103 \xB1 5"
+      - "287\xB119plus-or-minus28719287\\pm 19287 \xB1 19"
+    - - 1%percent11\%1 %
+      - LorentzNet
+      - 0.9320.932\bm{0.932}bold_0.932
+      - 0.98120.9812\bm{0.9812}bold_0.9812
+      - "\U0001D7D0\U0001D7CE\U0001D7D7\xB1\U0001D7D3plus-or-minus2095\\bm{209\\pm\
+        \ 5}bold_209 bold_\xB1 bold_5"
+      - "\U0001D7D4\U0001D7D7\U0001D7D5\xB1\U0001D7D3\U0001D7D6plus-or-minus69758\\\
+        bm{697\\pm 58}bold_697 bold_\xB1 bold_58"
+    - - 5%percent55\%5 %
+      - ParticleNet
+      - 0.9310.9310.9310.931
+      - 0.98070.98070.98070.9807
+      - "195\xB14plus-or-minus1954195\\pm 4195 \xB1 4"
+      - "609\xB135plus-or-minus60935609\\pm 35609 \xB1 35"
+    - - 5%percent55\%5 %
+      - LorentzNet
+      - 0.9370.937\bm{0.937}bold_0.937
+      - 0.98390.9839\bm{0.9839}bold_0.9839
+      - "\U0001D7D0\U0001D7D7\U0001D7D1\xB1\U0001D7CF\U0001D7D0plus-or-minus29312\\\
+        bm{293\\pm 12}bold_293 bold_\xB1 bold_12"
+      - "\U0001D7CF\U0001D7CF\U0001D7CE\U0001D7D6\xB1\U0001D7D6\U0001D7D2plus-or-minus110884\\\
+        bm{1108\\pm 84}bold_1108 bold_\xB1 bold_84"
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 3'
+  - 'Table 3: Performance comparison between LorentzNet and ParticleNet on top tagging
+    dataset by a fraction of training data. The results are all averaged on 6 runs.'
+- - - - Model
+      - Equivariance
+      - Accuracy
+      - AUC
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.5)subscript\U0001D700\
+        \U0001D4460.5(\\varepsilon_{S}=0.5)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.5 ) "
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.3)subscript\U0001D700\
+        \U0001D4460.3(\\varepsilon_{S}=0.3)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 ) "
+    - - LorentzNet (w/o)
+      - "\u2717"
+      - 0.9340.9340.9340.934
+      - 0.98320.98320.98320.9832
+      - "290\xB130plus-or-minus29030290\\pm 30290 \xB1 30"
+      - "1105\xB159plus-or-minus1105591105\\pm 591105 \xB1 59"
+    - - LorentzNet
+      - "\u2713"
+      - 0.9420.942\bm{0.942}bold_0.942
+      - 0.98680.9868\bm{0.9868}bold_0.9868
+      - "\U0001D7D2\U0001D7D7\U0001D7D6\xB1\U0001D7CF\U0001D7D6plus-or-minus49818\\\
+        bm{498\\pm 18}bold_498 bold_\xB1 bold_18"
+      - "\U0001D7D0\U0001D7CF\U0001D7D7\U0001D7D3\xB1\U0001D7CF\U0001D7D5\U0001D7D1\
+        plus-or-minus2195173\\bm{2195\\pm 173}bold_2195 bold_\xB1 bold_173"
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 4'
+  - 'Table 4: Performance comparison between LorentzNet and corresponding non-equivalent
+    version on top tagging dataset. Both of the results are averaged on 6 runs.'
+- - - - Model
+      - Equivariance
+      - ' Time on CPU(ms/batch) '
+      - ' Time on GPU(ms/batch) '
+      - '#Params'
+    - - ResNeXt
+      - "\u2717"
+      - 5.55.55.55.5
+      - 0.340.340.340.34
+      - 1.46M
+    - - P-CNN
+      - "\u2717"
+      - 0.60.6\bm{0.6}bold_0.6
+      - 0.110.11\bm{0.11}bold_0.11
+      - 348k
+    - - PFN
+      - "\u2717"
+      - 0.60.6\bm{0.6}bold_0.6
+      - 0.120.120.120.12
+      - 82k
+    - - ParticleNet
+      - "\u2717"
+      - 11.011.011.011.0
+      - 0.190.190.190.19
+      - 366k
+    - - EGNN
+      - E(4)
+      - 30.030.030.030.0
+      - 0.300.300.300.30
+      - 222k
+    - - LGN
+      - SO+{}^{+}start_FLOATSUPERSCRIPT + end_FLOATSUPERSCRIPT(1,3)
+      - 51.451.451.451.4
+      - 1.661.661.661.66
+      - 4.5k
+    - - LorentzNet
+      - SO+{}^{+}start_FLOATSUPERSCRIPT + end_FLOATSUPERSCRIPT(1,3)
+      - 32.932.932.932.9
+      - 0.340.340.340.34
+      - 224k
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 5'
+  - 'Table 5: Inference time of each model on both CPU and GPU along with their parameter
+    numbers. Models are executed on a cluster with an Intel Xeon CPU E5-2698 v4 and
+    an Nvidia Tesla V100 32GB. All the inference times are collected with a batch
+    size of 100.'
+- - - - Model
+      - ' Time on CPU(ms/batch) '
+      - ' Time on GPU(ms/batch) '
+      - '#Params'
+    - - LGN
+      - 51.451.451.451.4
+      - 1.661.661.661.66
+      - 4.5k
+    - - LGN (large)
+      - 77.077.077.077.0
+      - 1.881.881.881.88
+      - 12k
+    - - LorentzNet
+      - 32.932.932.932.9
+      - 0.340.340.340.34
+      - 224k
+    - - LorentzNet (small)
+      - 2.482.482.482.48
+      - 0.160.160.160.16
+      - 12k
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 6'
+  - 'Table 6: Inference time of each model on both CPU and GPU along with their parameter
+    numbers. Models are executed on a cluster with an Intel Xeon CPU E5-2698 v4 and
+    an Nvidia Tesla V100 32GB. Both of the inference times are collected with a batch
+    size of 100.'
+- - - - Model
+      - Accuracy
+      - AUC
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.5)subscript\U0001D700\
+        \U0001D4460.5(\\varepsilon_{S}=0.5)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.5 ) "
+      - " 1/\u03B5B1subscript\U0001D700\U0001D4351/\\varepsilon_{B}1 / italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT(\u03B5S=0.3)subscript\U0001D700\
+        \U0001D4460.3(\\varepsilon_{S}=0.3)( italic_\u03B5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 ) "
+    - - LGN
+      - 0.9290.9290.9290.929
+      - 0.96400.96400.96400.9640
+      - "124\xB120plus-or-minus12420124\\pm 20124 \xB1 20"
+      - "435\xB195plus-or-minus43595435\\pm 95435 \xB1 95"
+    - - "LGN (large)\u2020"
+      - "\u2212--"
+      - "\u2212--"
+      - "\u2212--"
+      - "\u2212--"
+    - - LorentzNet
+      - 0.9420.9420.9420.942
+      - 0.98680.98680.98680.9868
+      - "498\xB118plus-or-minus49818{498\\pm 18}498 \xB1 18"
+      - "2195\xB1173plus-or-minus2195173{2195\\pm 173}2195 \xB1 173"
+    - - LorentzNet (small)
+      - 0.9410.941{0.941}0.941
+      - 0.98610.9861{0.9861}0.9861
+      - "428\xB129plus-or-minus42829{428\\pm 29}428 \xB1 29"
+      - "1813\xB1195plus-or-minus1813195{1813\\pm 195}1813 \xB1 195"
+  - 'Paper: arxiv.org/abs/2201.08187 Table: 7'
+  - "Table 7: Performance comparison between LorentzNet and LGN on top tagging dataset.\
+    \ The results for LorentzNet are averaged on 6 runs. The results for LGN are referred\
+    \ to bogatskiy2020lorentz . \u2020We do not evaluate this model since it takes\
+    \ too long to train."
+- - - - Variable
+      - Definition
+      - TOP
+      - QG
+      - QG-PID
+    - - "\u0394\u03B7\u0394\U0001D702\\Delta\\etaroman_\u0394 italic_\u03B7"
+      - difference in pseudorapidity between the particle and the jet axis
+      - x
+      - x
+      - x
+    - - "\u0394\u03D5\u0394italic-\u03D5\\Delta\\phiroman_\u0394 italic_\u03D5"
+      - difference in azimuthal angle between the particle and the jet axis
+      - x
+      - x
+      - x
+    - - "log\u2061pTsubscript\U0001D45D\U0001D447\\log p_{T}roman_log italic_p start_POSTSUBSCRIPT\
+        \ italic_T end_POSTSUBSCRIPT"
+      - "logarithm of the particle\u2019s pTsubscript\U0001D45D\U0001D447p_{T}italic_p\
+        \ start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT"
+      - x
+      - x
+      - x
+    - - "log\u2061E\U0001D438\\log Eroman_log italic_E"
+      - "logarithm of the particle\u2019s energy"
+      - x
+      - x
+      - x
+    - - "log\u2061pTpT(jet)subscript\U0001D45D\U0001D447subscript\U0001D45D\U0001D447\
+        jet\\log\\frac{p_{T}}{p_{T}(\\text{jet})}roman_log divide start_ARG italic_p\
+        \ start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT end_ARG start_ARG italic_p\
+        \ start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT ( jet ) end_ARG"
+      - "logarithm of the particle\u2019s pTsubscript\U0001D45D\U0001D447p_{T}italic_p\
+        \ start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT relative to the jet pTsubscript\U0001D45D\
+        \U0001D447p_{T}italic_p start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT"
+      - x
+      - x
+      - x
+    - - "log\u2061EE(jet)\U0001D438\U0001D438jet\\log\\frac{E}{E(\\text{jet})}roman_log\
+        \ divide start_ARG italic_E end_ARG start_ARG italic_E ( jet ) end_ARG"
+      - "logarithm of the particle\u2019s energy relative to the jet energy"
+      - x
+      - x
+      - x
+    - - "\u0394R\u0394\U0001D445\\Delta Rroman_\u0394 italic_R"
+      - "angular separation between the particle and the jet axis ((\u0394\u03B7)2+(\u0394\
+        \u03D5)2superscript\u0394\U0001D7022superscript\u0394italic-\u03D52\\sqrt{(\\\
+        Delta\\eta)^{2}+(\\Delta\\phi)^{2}}square-root start_ARG ( roman_\u0394 italic_\u03B7\
+        \ ) start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT + ( roman_\u0394 italic_\u03D5\
+        \ ) start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT end_ARG)"
+      - x
+      - x
+      - x
+    - - "q\U0001D45Eqitalic_q"
+      - electric charge of the particle
+      - ''
+      - ''
+      - x
+    - - isElectron
+      - if the particle is an electron
+      - ''
+      - ''
+      - x
+    - - isMuon
+      - if the particle is a muon
+      - ''
+      - ''
+      - x
+    - - isChargedHadron
+      - if the particle is a charged hadron
+      - ''
+      - ''
+      - x
+    - - isNeutralHadron
+      - if the particle is a neutral hadron
+      - ''
+      - ''
+      - x
+    - - isPhoton
+      - if the particle is a photon
+      - ''
+      - ''
+      - x
+  - 'Paper: arxiv.org/abs/1902.08570 Table: 1'
+  - 'Table 1: Input variables used in the top tagging task (TOP) and the quark-gluon
+    tagging task (QG) with and without PID information.'
+- - - - ''
+      - Accuracy
+      - AUC
+      - "1/\u03B5b\_at\_\u03B5s=50%1subscript\U0001D700\U0001D44F\_at\_subscript\U0001D700\
+        \U0001D460percent501/\\varepsilon_{b}\\text{ at }\\varepsilon_{s}=50\\%1 /\
+        \ italic_\u03B5 start_POSTSUBSCRIPT italic_b end_POSTSUBSCRIPT at italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT = 50 %"
+      - "1/\u03B5b\_at\_\u03B5s=30%1subscript\U0001D700\U0001D44F\_at\_subscript\U0001D700\
+        \U0001D460percent301/\\varepsilon_{b}\\text{ at }\\varepsilon_{s}=30\\%1 /\
+        \ italic_\u03B5 start_POSTSUBSCRIPT italic_b end_POSTSUBSCRIPT at italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT = 30 %"
+    - - ResNeXt-50
+      - '0.936'
+      - '0.9837'
+      - "302\xB15plus-or-minus3025302\\pm 5302 \xB1 5"
+      - "1147\xB158plus-or-minus1147581147\\pm 581147 \xB1 58"
+    - - P-CNN
+      - '0.930'
+      - '0.9803'
+      - "201\xB14plus-or-minus2014201\\pm 4201 \xB1 4"
+      - "759\xB124plus-or-minus75924759\\pm 24759 \xB1 24"
+    - - PFN
+      - '-'
+      - '0.9819'
+      - "247\xB13plus-or-minus2473247\\pm 3247 \xB1 3"
+      - "888\xB117plus-or-minus88817888\\pm 17888 \xB1 17"
+    - - ParticleNet-Lite
+      - '0.937'
+      - '0.9844'
+      - "325\xB15plus-or-minus3255325\\pm 5325 \xB1 5"
+      - "1262\xB149plus-or-minus1262491262\\pm 491262 \xB1 49"
+    - - ParticleNet
+      - '0.940'
+      - '0.9858'
+      - "\U0001D7D1\U0001D7D7\U0001D7D5\xB1\U0001D7D5plus-or-minus3977\\bf 397\\pm\
+        \ 7bold_397 \xB1 bold_7"
+      - "\U0001D7CF\U0001D7D4\U0001D7CF\U0001D7D3\xB1\U0001D7D7\U0001D7D1plus-or-minus161593\\\
+        bf 1615\\pm 93bold_1615 \xB1 bold_93"
+  - 'Paper: arxiv.org/abs/1902.08570 Table: 2'
+  - "Table 2: Performance comparison on the top tagging benchmark dataset. The ParticleNet,\
+    \ ParticleNet-Lite, P-CNN and ResNeXt-50 models are trained on the top tagging\
+    \ dataset starting from randomly initialized weights. For each model, the training\
+    \ is repeated for 9 times using different randomly initialized weights. The table\
+    \ shows the result from the median-accuracy training, and the standard deviation\
+    \ of the 9 trainings is quoted as the uncertainty to assess the stability to random\
+    \ weight initialization. Uncertainty on the accuracy and AUC are negligible and\
+    \ therefore omitted. The performance of PFN on this dataset is reported in Ref.\
+    \ Komiske\_et\_al. (2019), and the uncertainty corresponds to the spread in 10\
+    \ trainings."
+- - - - ''
+      - Accuracy
+      - AUC
+      - "1/\u03B5b\_at\_\u03B5s=50%1subscript\U0001D700\U0001D44F\_at\_subscript\U0001D700\
+        \U0001D460percent501/\\varepsilon_{b}\\text{ at }\\varepsilon_{s}=50\\%1 /\
+        \ italic_\u03B5 start_POSTSUBSCRIPT italic_b end_POSTSUBSCRIPT at italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT = 50 %"
+      - "1/\u03B5b\_at\_\u03B5s=30%1subscript\U0001D700\U0001D44F\_at\_subscript\U0001D700\
+        \U0001D460percent301/\\varepsilon_{b}\\text{ at }\\varepsilon_{s}=30\\%1 /\
+        \ italic_\u03B5 start_POSTSUBSCRIPT italic_b end_POSTSUBSCRIPT at italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT = 30 %"
+    - - ResNeXt-50
+      - '0.821'
+      - '0.8960'
+      - '30.9'
+      - '80.8'
+    - - P-CNN
+      - '0.818'
+      - '0.8915'
+      - '31.0'
+      - '82.3'
+    - - PFN
+      - '-'
+      - '0.8911'
+      - "30.8\xB10.4plus-or-minus30.80.430.8\\pm 0.430.8 \xB1 0.4"
+      - '-'
+    - - ParticleNet-Lite
+      - '0.826'
+      - '0.8993'
+      - '32.8'
+      - '84.6'
+    - - ParticleNet
+      - '0.828'
+      - '0.9014'
+      - '33.7'
+      - '85.4'
+    - - P-CNN (w/ PID)
+      - '0.827'
+      - '0.9002'
+      - '34.7'
+      - '91.0'
+    - - PFN-Ex (w/ PID)
+      - '-'
+      - '0.9005'
+      - "34.7\xB10.4plus-or-minus34.70.434.7\\pm 0.434.7 \xB1 0.4"
+      - '-'
+    - - ParticleNet-Lite (w/ PID)
+      - '0.835'
+      - '0.9079'
+      - '37.1'
+      - '94.5'
+    - - ParticleNet (w/ PID)
+      - '0.840'
+      - '0.9116'
+      - "39.8\xB10.2plus-or-minus39.80.2\\bf 39.8\\pm 0.2bold_39.8 \xB1 bold_0.2"
+      - "98.6\xB11.3plus-or-minus98.61.3\\bf 98.6\\pm 1.3bold_98.6 \xB1 bold_1.3"
+  - 'Paper: arxiv.org/abs/1902.08570 Table: 3'
+  - "Table 3: Performance comparison on the quark-gluon tagging benchmark dataset.\
+    \ The ParticleNet, ParticleNet-Lite, P-CNN, and ResNeXt-50 models are trained\
+    \ on the quark-gluon tagging dataset starting from randomly initialized weights.\
+    \ The training is repeated 9 times for the ParticleNet model using different randomly\
+    \ initialized weights. The table shows the result from the median-accuracy training,\
+    \ and the standard deviation of the 9 trainings is quoted as the uncertainty to\
+    \ assess the stability to random weight initialization. Because of limited computational\
+    \ resources, the training of other models is performed only once, but the uncertainty\
+    \ due to random weight initialization is expected to be fairly small. The performance\
+    \ of PFN on this dataset is reported in Ref. Komiske\_et\_al. (2019), and the\
+    \ uncertainty corresponds to the spread in ten trainings. Note that a number of\
+    \ PFN models with different levels of PID information are investigated in Ref.\
+    \ Komiske\_et\_al. (2019), and \u201CPFN-Ex\u201D, also using experimentally realistic\
+    \ PID information, is shown here for comparison."
+- - - - ''
+      - Parameters
+      - Time (CPU) [ms]
+      - Time (GPU) [ms]
+      - "1/\u03B5b\_at\_\u03B5s=30%1subscript\U0001D700\U0001D44F\_at\_subscript\U0001D700\
+        \U0001D460percent301/\\varepsilon_{b}\\text{ at }\\varepsilon_{s}=30\\%1 /\
+        \ italic_\u03B5 start_POSTSUBSCRIPT italic_b end_POSTSUBSCRIPT at italic_\u03B5\
+        \ start_POSTSUBSCRIPT italic_s end_POSTSUBSCRIPT = 30 %"
+    - - ResNeXt-50
+      - 1.46M
+      - '7.4'
+      - '0.22'
+      - "1147\xB158plus-or-minus1147581147\\pm 581147 \xB1 58"
+    - - P-CNN
+      - 348k
+      - '1.6'
+      - '0.020'
+      - "759\xB124plus-or-minus75924759\\pm 24759 \xB1 24"
+    - - PFN
+      - 82k
+      - '0.8'
+      - '0.018'
+      - "888\xB117plus-or-minus88817888\\pm 17888 \xB1 17"
+    - - ParticleNet-Lite
+      - 26k
+      - '2.4'
+      - '0.084'
+      - "1262\xB149plus-or-minus1262491262\\pm 491262 \xB1 49"
+    - - ParticleNet
+      - 366k
+      - '23'
+      - '0.92'
+      - "\U0001D7CF\U0001D7D4\U0001D7CF\U0001D7D3\xB1\U0001D7D7\U0001D7D1plus-or-minus161593\\\
+        bf 1615\\pm 93bold_1615 \xB1 bold_93"
+  - 'Paper: arxiv.org/abs/1902.08570 Table: 4'
+  - 'Table 4: Number of parameters, inference time per object, and background rejection
+    of different models. The CPU inference time is measured on an Intel Core i7-6850K
+    CPU with a single thread using a batch size of 1. The GPU inference time is measured
+    on a Nvidia GTX 1080 Ti GPU using a batch size of 100.'
+- - - - ''
+      - All classes
+      - All classes
+      - "H\u2192bb\xAF\u2192\U0001D43B\U0001D44F\xAF\U0001D44FH\\to b\\bar{b}italic_H\
+        \ \u2192 italic_b over\xAF start_ARG italic_b end_ARG"
+      - "H\u2192cc\xAF\u2192\U0001D43B\U0001D450\xAF\U0001D450H\\to c\\bar{c}italic_H\
+        \ \u2192 italic_c over\xAF start_ARG italic_c end_ARG"
+      - "H\u2192gg\u2192\U0001D43B\U0001D454\U0001D454H\\to ggitalic_H \u2192 italic_g\
+        \ italic_g"
+      - "H\u21924q\u2192\U0001D43B4\U0001D45EH\\to 4qitalic_H \u2192 4 italic_q"
+      - "H\u2192\u2113\u03BDqq\u2032\u2192\U0001D43B\u2113\U0001D708\U0001D45Esuperscript\U0001D45E\
+        \u2032H\\to\\ell\\nu qq^{\\prime}italic_H \u2192 roman_\u2113 italic_\u03BD\
+        \ italic_q italic_q start_POSTSUPERSCRIPT \u2032 end_POSTSUPERSCRIPT"
+      - "t\u2192bqq\u2032\u2192\U0001D461\U0001D44F\U0001D45Esuperscript\U0001D45E\
+        \u2032t\\to bqq^{\\prime}italic_t \u2192 italic_b italic_q italic_q start_POSTSUPERSCRIPT\
+        \ \u2032 end_POSTSUPERSCRIPT"
+      - "t\u2192b\u2113\u03BD\u2192\U0001D461\U0001D44F\u2113\U0001D708t\\to b\\ell\\\
+        nuitalic_t \u2192 italic_b roman_\u2113 italic_\u03BD"
+      - "W\u2192qq\u2032\u2192\U0001D44A\U0001D45Esuperscript\U0001D45E\u2032W\\to\
+        \ qq^{\\prime}italic_W \u2192 italic_q italic_q start_POSTSUPERSCRIPT \u2032\
+        \ end_POSTSUPERSCRIPT"
+      - "Z\u2192qq\xAF\u2192\U0001D44D\U0001D45E\xAF\U0001D45EZ\\to q\\bar{q}italic_Z\
+        \ \u2192 italic_q over\xAF start_ARG italic_q end_ARG"
+    - - ''
+      - Accuracy
+      - AUC
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej99%subscriptRejpercent99\text{Rej}_{99\%}Rej start_POSTSUBSCRIPT 99 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej99.5%subscriptRejpercent99.5\text{Rej}_{99.5\%}Rej start_POSTSUBSCRIPT
+        99.5 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+    - - PFN
+      - '0.772'
+      - '0.9714'
+      - '2924'
+      - '841'
+      - '75'
+      - '198'
+      - '265'
+      - '797'
+      - '721'
+      - '189'
+      - '159'
+    - - P-CNN
+      - '0.809'
+      - '0.9789'
+      - '4890'
+      - '1276'
+      - '88'
+      - '474'
+      - '947'
+      - '2907'
+      - '2304'
+      - '241'
+      - '204'
+    - - ParticleNet
+      - '0.844'
+      - '0.9849'
+      - '7634'
+      - '2475'
+      - '104'
+      - '954'
+      - '3339'
+      - '10526'
+      - '11173'
+      - '347'
+      - '283'
+    - - ParT
+      - '0.861'
+      - '0.9877'
+      - '10638'
+      - '4149'
+      - '123'
+      - '1864'
+      - '5479'
+      - '32787'
+      - '15873'
+      - '543'
+      - '402'
+    - - ParT (plain)
+      - '0.849'
+      - '0.9859'
+      - '9569'
+      - '2911'
+      - '112'
+      - '1185'
+      - '3868'
+      - '17699'
+      - '12987'
+      - '384'
+      - '311'
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 1'
+  - "Table 1: Jet tagging performance on the JetClass dataset. ParT is compared to\
+    \ PFN (Komiske et\_al., 2019b), P-CNN (CMS Collaboration, 2020b) and the state-of-the-art\
+    \ ParticleNet (Qu & Gouskos, 2020). For all the metrics, a higher value indicates\
+    \ better performance. The ParT architecture using plain MHAs instead of P-MHAs,\
+    \ labelled as ParT (plain), is also shown for comparison. "
+- - - - Category
+      - Variable
+      - Definition
+      - JetClass
+      - Top
+      - QGexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - QGfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+    - - Kinematics
+      - "\u0394\u03B7\u0394\U0001D702\\Delta\\etaroman_\u0394 italic_\u03B7"
+      - "difference in pseudorapidity \u03B7\U0001D702\\etaitalic_\u03B7 between the\
+        \ particle and the jet axis"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "\u0394\u03D5\u0394italic-\u03D5\\Delta\\phiroman_\u0394 italic_\u03D5"
+      - "difference in azimuthal angle \u03D5italic-\u03D5\\phiitalic_\u03D5 between\
+        \ the particle and the jet axis"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "log\u2061pTsubscript\U0001D45DT\\log p_{\\text{T}}roman_log italic_p start_POSTSUBSCRIPT\
+        \ T end_POSTSUBSCRIPT"
+      - "logarithm of the particle\u2019s transverse momentum pTsubscript\U0001D45D\
+        Tp_{\\text{T}}italic_p start_POSTSUBSCRIPT T end_POSTSUBSCRIPT"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "log\u2061E\U0001D438\\log Eroman_log italic_E"
+      - "logarithm of the particle\u2019s energy"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "log\u2061pTpT(jet)subscript\U0001D45DTsubscript\U0001D45DTjet\\log\\frac{p_{\\\
+        text{T}}}{p_{\\text{T}}(\\text{jet})}roman_log divide start_ARG italic_p start_POSTSUBSCRIPT\
+        \ T end_POSTSUBSCRIPT end_ARG start_ARG italic_p start_POSTSUBSCRIPT T end_POSTSUBSCRIPT\
+        \ ( jet ) end_ARG"
+      - "logarithm of the particle\u2019s pTsubscript\U0001D45DTp_{\\text{T}}italic_p\
+        \ start_POSTSUBSCRIPT T end_POSTSUBSCRIPT relative to the jet pTsubscript\U0001D45D\
+        Tp_{\\text{T}}italic_p start_POSTSUBSCRIPT T end_POSTSUBSCRIPT"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "log\u2061EE(jet)\U0001D438\U0001D438jet\\log\\frac{E}{E(\\text{jet})}roman_log\
+        \ divide start_ARG italic_E end_ARG start_ARG italic_E ( jet ) end_ARG"
+      - "logarithm of the particle\u2019s energy relative to the jet energy"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Kinematics
+      - "\u0394R\u0394\U0001D445\\Delta Rroman_\u0394 italic_R"
+      - "angular separation between the particle and the jet axis ((\u0394\u03B7)2+(\u0394\
+        \u03D5)2superscript\u0394\U0001D7022superscript\u0394italic-\u03D52\\sqrt{(\\\
+        Delta\\eta)^{2}+(\\Delta\\phi)^{2}}square-root start_ARG ( roman_\u0394 italic_\u03B7\
+        \ ) start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT + ( roman_\u0394 italic_\u03D5\
+        \ ) start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT end_ARG)"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+      - "\u2713"
+    - - Particleidentification
+      - charge
+      - electric charge of the particle
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713"
+    - - Particleidentification
+      - Electron
+      - if the particle is an electron (|pid|==11)
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713"
+    - - Particleidentification
+      - Muon
+      - if the particle is an muon (|pid|==13)
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713"
+    - - Particleidentification
+      - Photon
+      - if the particle is an photon (pid==22)
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713"
+    - - Particleidentification
+      - CH
+      - if the particle is an charged hadron (|pid|==211 or 321 or 2212)
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713555(|pid|==211) + (|pid|==321)*0.5 + (|pid|==2212)*0.2"
+    - - Particleidentification
+      - NH
+      - if the particle is an neutral hadron (|pid|==130 or 2112 or 0)
+      - "\u2713"
+      - "\u2014"
+      - "\u2713"
+      - "\u2713666(|pid|==130) + (|pid|==2112)*0.2."
+    - - Trajectorydisplacement
+      - "tanh\u2061d0subscript\U0001D4510\\tanh d_{0}roman_tanh italic_d start_POSTSUBSCRIPT\
+        \ 0 end_POSTSUBSCRIPT"
+      - hyperbolic tangent of the transverse impact parameter value
+      - "\u2713"
+      - "\u2014"
+      - "\u2014"
+      - "\u2014"
+    - - Trajectorydisplacement
+      - "tanh\u2061dzsubscript\U0001D451\U0001D467\\tanh d_{z}roman_tanh italic_d\
+        \ start_POSTSUBSCRIPT italic_z end_POSTSUBSCRIPT"
+      - hyperbolic tangent of the longitudinal impact parameter value
+      - "\u2713"
+      - "\u2014"
+      - "\u2014"
+      - "\u2014"
+    - - Trajectorydisplacement
+      - "\u03C3d0subscript\U0001D70Esubscript\U0001D4510\\sigma_{d_{0}}italic_\u03C3\
+        \ start_POSTSUBSCRIPT italic_d start_POSTSUBSCRIPT 0 end_POSTSUBSCRIPT end_POSTSUBSCRIPT"
+      - error of the measured transverse impact parameter
+      - "\u2713"
+      - "\u2014"
+      - "\u2014"
+      - "\u2014"
+    - - Trajectorydisplacement
+      - "\u03C3dzsubscript\U0001D70Esubscript\U0001D451\U0001D467\\sigma_{d_{z}}italic_\u03C3\
+        \ start_POSTSUBSCRIPT italic_d start_POSTSUBSCRIPT italic_z end_POSTSUBSCRIPT\
+        \ end_POSTSUBSCRIPT"
+      - error of the measured longitudinal impact parameter
+      - "\u2713"
+      - "\u2014"
+      - "\u2014"
+      - "\u2014"
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 2'
+  - 'Table 2: Particle input features used for jet tagging on the JetClass, the top
+    quark tagging (Top) and the quark gluon tagging (QG) datasets. For QG, we consider
+    two scenarios: QGexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+    is restricted to use only the 5-class experimentally realistic particle identification
+    information, while QGfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+    uses the full set of particle identification information in the dataset and further
+    distinguish between different types of charged hadrons and neutral hadrons.'
+- - - - ''
+      - All classes
+      - All classes
+      - "H\u2192bb\xAF\u2192\U0001D43B\U0001D44F\xAF\U0001D44FH\\to b\\bar{b}italic_H\
+        \ \u2192 italic_b over\xAF start_ARG italic_b end_ARG"
+      - "H\u2192cc\xAF\u2192\U0001D43B\U0001D450\xAF\U0001D450H\\to c\\bar{c}italic_H\
+        \ \u2192 italic_c over\xAF start_ARG italic_c end_ARG"
+      - "H\u2192gg\u2192\U0001D43B\U0001D454\U0001D454H\\to ggitalic_H \u2192 italic_g\
+        \ italic_g"
+      - "H\u21924q\u2192\U0001D43B4\U0001D45EH\\to 4qitalic_H \u2192 4 italic_q"
+      - "H\u2192\u2113\u03BDqq\u2032\u2192\U0001D43B\u2113\U0001D708\U0001D45Esuperscript\U0001D45E\
+        \u2032H\\to\\ell\\nu qq^{\\prime}italic_H \u2192 roman_\u2113 italic_\u03BD\
+        \ italic_q italic_q start_POSTSUPERSCRIPT \u2032 end_POSTSUPERSCRIPT"
+      - "t\u2192bqq\u2032\u2192\U0001D461\U0001D44F\U0001D45Esuperscript\U0001D45E\
+        \u2032t\\to bqq^{\\prime}italic_t \u2192 italic_b italic_q italic_q start_POSTSUPERSCRIPT\
+        \ \u2032 end_POSTSUPERSCRIPT"
+      - "t\u2192b\u2113\u03BD\u2192\U0001D461\U0001D44F\u2113\U0001D708t\\to b\\ell\\\
+        nuitalic_t \u2192 italic_b roman_\u2113 italic_\u03BD"
+      - "W\u2192qq\u2032\u2192\U0001D44A\U0001D45Esuperscript\U0001D45E\u2032W\\to\
+        \ qq^{\\prime}italic_W \u2192 italic_q italic_q start_POSTSUPERSCRIPT \u2032\
+        \ end_POSTSUPERSCRIPT"
+      - "Z\u2192qq\xAF\u2192\U0001D44D\U0001D45E\xAF\U0001D45EZ\\to q\\bar{q}italic_Z\
+        \ \u2192 italic_q over\xAF start_ARG italic_q end_ARG"
+    - - ''
+      - Accuracy
+      - AUC
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej99%subscriptRejpercent99\text{Rej}_{99\%}Rej start_POSTSUBSCRIPT 99 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej99.5%subscriptRejpercent99.5\text{Rej}_{99.5\%}Rej start_POSTSUBSCRIPT
+        99.5 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+    - - "ParticleNet (2\u2009M)"
+      - '0.828'
+      - '0.9820'
+      - '5540'
+      - '1681'
+      - '90'
+      - '662'
+      - '1654'
+      - '4049'
+      - '4673'
+      - '260'
+      - '215'
+    - - "ParticleNet (10\u2009M)"
+      - '0.837'
+      - '0.9837'
+      - '5848'
+      - '2070'
+      - '96'
+      - '770'
+      - '2350'
+      - '5495'
+      - '6803'
+      - '307'
+      - '253'
+    - - "ParticleNet (100\u2009M)"
+      - '0.844'
+      - '0.9849'
+      - '7634'
+      - '2475'
+      - '104'
+      - '954'
+      - '3339'
+      - '10526'
+      - '11173'
+      - '347'
+      - '283'
+    - - "ParT (2\u2009M)"
+      - '0.836'
+      - '0.9834'
+      - '5587'
+      - '1982'
+      - '93'
+      - '761'
+      - '1609'
+      - '6061'
+      - '4474'
+      - '307'
+      - '236'
+    - - "ParT (10\u2009M)"
+      - '0.850'
+      - '0.9860'
+      - '8734'
+      - '3040'
+      - '110'
+      - '1274'
+      - '3257'
+      - '12579'
+      - '8969'
+      - '431'
+      - '324'
+    - - "ParT (100\u2009M)"
+      - '0.861'
+      - '0.9877'
+      - '10638'
+      - '4149'
+      - '123'
+      - '1864'
+      - '5479'
+      - '32787'
+      - '15873'
+      - '543'
+      - '402'
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 3'
+  - "Table 3: Impacts of the training dataset size. Entries in bold correspond to\
+    \ the training using the full 100\u2009M training dataset."
+- - - - ''
+      - Accuracy
+      - '# params'
+      - FLOPs
+    - - PFN
+      - '0.772'
+      - "86.1\u2009k"
+      - "4.62\u2009M"
+    - - P-CNN
+      - '0.809'
+      - "354\u2009k"
+      - "15.5\u2009M"
+    - - ParticleNet
+      - '0.844'
+      - "370\u2009k"
+      - "540\u2009M"
+    - - ParT
+      - '0.861'
+      - "2.14\u2009M"
+      - "340\u2009M"
+    - - ParT (plain)
+      - '0.849'
+      - "2.13\u2009M"
+      - "260\u2009M"
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 4'
+  - 'Table 4: Number of trainable parameters and FLOPs.'
+- - - - ''
+      - Accuracy
+      - AUC
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej30%subscriptRejpercent30\text{Rej}_{30\%}Rej start_POSTSUBSCRIPT 30 % end_POSTSUBSCRIPT
+    - - P-CNN
+      - '0.930'
+      - '0.9803'
+      - "201\xB14plus-or-minus2014201\\pm 4201 \xB1 4"
+      - "759\xB124plus-or-minus75924759\\pm 24759 \xB1 24"
+    - - PFN
+      - "\u2014"
+      - '0.9819'
+      - "247\xB13plus-or-minus2473247\\pm 3247 \xB1 3"
+      - "888\xB117plus-or-minus88817888\\pm 17888 \xB1 17"
+    - - ParticleNet
+      - '0.940'
+      - '0.9858'
+      - "397\xB17plus-or-minus3977397\\pm 7397 \xB1 7"
+      - "1615\xB193plus-or-minus1615931615\\pm 931615 \xB1 93"
+    - - "JEDI-net (w/ \u2211O\U0001D442\\sum O\u2211 italic_O)"
+      - '0.930'
+      - '0.9807'
+      - "\u2014"
+      - '774.6'
+    - - PCT
+      - '0.940'
+      - '0.9855'
+      - "392\xB17plus-or-minus3927392\\pm 7392 \xB1 7"
+      - "1533\xB1101plus-or-minus15331011533\\pm 1011533 \xB1 101"
+    - - LGN
+      - '0.929'
+      - '0.964'
+      - "\u2014"
+      - "435\xB195plus-or-minus43595435\\pm 95435 \xB1 95"
+    - - rPCN
+      - "\u2014"
+      - '0.9845'
+      - "364\xB19plus-or-minus3649364\\pm 9364 \xB1 9"
+      - "1642\xB193plus-or-minus1642931642\\pm 931642 \xB1 93"
+    - - LorentzNet
+      - '0.942'
+      - '0.9868'
+      - "498\xB118plus-or-minus49818498\\pm 18498 \xB1 18"
+      - "2195\xB1173plus-or-minus21951732195\\pm 1732195 \xB1 173"
+    - - ParT
+      - '0.940'
+      - '0.9858'
+      - "413\xB116plus-or-minus41316413\\pm 16413 \xB1 16"
+      - "1602\xB181plus-or-minus1602811602\\pm 811602 \xB1 81"
+    - - ParticleNet-f.t.
+      - '0.942'
+      - '0.9866'
+      - "487\xB19plus-or-minus4879487\\pm 9487 \xB1 9"
+      - "1771\xB180plus-or-minus1771801771\\pm 801771 \xB1 80"
+    - - ParT-f.t.
+      - '0.944'
+      - '0.9877'
+      - "\U0001D7D4\U0001D7D7\U0001D7CF\xB1\U0001D7CF\U0001D7D3plus-or-minus69115\\\
+        bf 691\\pm 15bold_691 \xB1 bold_15"
+      - "\U0001D7D0\U0001D7D5\U0001D7D4\U0001D7D4\xB1\U0001D7CF\U0001D7D1\U0001D7CE\
+        plus-or-minus2766130\\bf 2766\\pm 130bold_2766 \xB1 bold_130"
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 5'
+  - "Table 5: Comparison between ParT and existing models on the top quark tagging\
+    \ dataset. ParT refers to the model trained from scratch on this dataset. ParticleNet-f.t.\
+    \ and ParT-f.t. denote the corresponding models pre-trained on JetClass and fine-tuned\
+    \ on this dataset. Results for other models are quoted from their published results:\
+    \ P-CNN and ParticleNet (Qu & Gouskos, 2020), PFN (Komiske et\_al., 2019b), JEDI-net\
+    \ (Moreno et\_al., 2020), PCT (Mikuni & Canelli, 2021), LGN (Bogatskiy et\_al.,\
+    \ 2020), rPCN (Shimmin, 2021), and LorentzNet (Gong et\_al., 2022)."
+- - - - ''
+      - Accuracy
+      - AUC
+      - Rej50%subscriptRejpercent50\text{Rej}_{50\%}Rej start_POSTSUBSCRIPT 50 % end_POSTSUBSCRIPT
+      - Rej30%subscriptRejpercent30\text{Rej}_{30\%}Rej start_POSTSUBSCRIPT 30 % end_POSTSUBSCRIPT
+    - - P-CNNexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - '0.827'
+      - '0.9002'
+      - '34.7'
+      - '91.0'
+    - - PFNexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - "\u2014"
+      - '0.9005'
+      - "34.7\xB10.4plus-or-minus34.70.434.7\\pm 0.434.7 \xB1 0.4"
+      - "\u2014"
+    - - ParticleNetexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - '0.840'
+      - '0.9116'
+      - "39.8\xB10.2plus-or-minus39.80.239.8\\pm 0.239.8 \xB1 0.2"
+      - "98.6\xB11.3plus-or-minus98.61.398.6\\pm 1.398.6 \xB1 1.3"
+    - - rPCNexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - "\u2014"
+      - '0.9081'
+      - "38.6\xB10.5plus-or-minus38.60.538.6\\pm 0.538.6 \xB1 0.5"
+      - "\u2014"
+    - - ParTexpexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - '0.840'
+      - '0.9121'
+      - "41.3\xB10.3plus-or-minus41.30.341.3\\pm 0.341.3 \xB1 0.3"
+      - "101.2\xB11.1plus-or-minus101.21.1101.2\\pm 1.1101.2 \xB1 1.1"
+    - - ParticleNet-f.t.expexp{}_{\text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT
+      - '0.839'
+      - '0.9115'
+      - "40.1\xB10.2plus-or-minus40.10.240.1\\pm 0.240.1 \xB1 0.2"
+      - "100.3\xB11.0plus-or-minus100.31.0100.3\\pm 1.0100.3 \xB1 1.0"
+    - - "ParT-f.t.\U0001D41E\U0001D431\U0001D429\U0001D41E\U0001D431\U0001D429{}_{\\\
+        text{exp}}start_FLOATSUBSCRIPT exp end_FLOATSUBSCRIPT"
+      - '0.843'
+      - '0.9151'
+      - "42.4\xB10.2plus-or-minus42.40.2\\bf 42.4\\pm 0.2bold_42.4 \xB1 bold_0.2"
+      - "107.9\xB10.5plus-or-minus107.90.5\\bf 107.9\\pm 0.5bold_107.9 \xB1 bold_0.5"
+    - - PFNfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+      - "\u2014"
+      - '0.9052'
+      - "37.4\xB10.7plus-or-minus37.40.737.4\\pm 0.737.4 \xB1 0.7"
+      - "\u2014"
+    - - ABCNetfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+      - '0.840'
+      - '0.9126'
+      - "42.6\xB10.4plus-or-minus42.60.442.6\\pm 0.442.6 \xB1 0.4"
+      - "118.4\xB11.5plus-or-minus118.41.5118.4\\pm 1.5118.4 \xB1 1.5"
+    - - PCTfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+      - '0.841'
+      - '0.9140'
+      - "43.2\xB10.7plus-or-minus43.20.743.2\\pm 0.743.2 \xB1 0.7"
+      - "118.0\xB12.2plus-or-minus118.02.2118.0\\pm 2.2118.0 \xB1 2.2"
+    - - LorentzNetfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+      - '0.844'
+      - '0.9156'
+      - "42.4\xB10.4plus-or-minus42.40.442.4\\pm 0.442.4 \xB1 0.4"
+      - "110.2\xB11.3plus-or-minus110.21.3110.2\\pm 1.3110.2 \xB1 1.3"
+    - - ParTfullfull{}_{\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT
+      - '0.849'
+      - '0.9203'
+      - "47.9\xB10.5plus-or-minus47.90.547.9\\pm 0.547.9 \xB1 0.5"
+      - "129.5\xB10.9plus-or-minus129.50.9129.5\\pm 0.9129.5 \xB1 0.9"
+    - - "ParT-f.t.\U0001D41F\U0001D42E\U0001D425\U0001D425\U0001D41F\U0001D42E\U0001D425\
+        \U0001D425{}_{\\text{full}}start_FLOATSUBSCRIPT full end_FLOATSUBSCRIPT"
+      - '0.852'
+      - '0.9230'
+      - "50.6\xB10.2plus-or-minus50.60.2\\bf 50.6\\pm 0.2bold_50.6 \xB1 bold_0.2"
+      - "138.7\xB11.3plus-or-minus138.71.3\\bf 138.7\\pm 1.3bold_138.7 \xB1 bold_1.3"
+  - 'Paper: arxiv.org/abs/2202.03772 Table: 6'
+  - "Table 6: Comparison between ParT and existing models on the quark-gluon tagging\
+    \ dataset. ParT refers to the model trained from scratch on this dataset. ParticleNet-f.t.\
+    \ and ParT-f.t. denote the corresponding models pre-trained on JetClass and fine-tuned\
+    \ on this dataset. Results for other models are quoted from their published results:\
+    \ P-CNN and ParticleNet (Qu & Gouskos, 2020), PFN (Komiske et\_al., 2019b), ABCNet\
+    \ (Mikuni & Canelli, 2020), PCT (Mikuni & Canelli, 2021), rPCN (Shimmin, 2021),\
+    \ and LorentzNet (Gong et\_al., 2022). The subscript \u201Cexp\u201D and \u201C\
+    full\u201D distinguish models using partial or full particle identification information."
+- - - - Architecture
+      - Accuracy
+      - AUC
+      - "1/\u03F5B1subscriptitalic-\u03F5\U0001D4351/\\epsilon_{B}1 / italic_\u03F5\
+        \ start_POSTSUBSCRIPT italic_B end_POSTSUBSCRIPT"
+      - '# Params'
+    - - LGN
+      - 0.929(1)
+      - 0.964(14)
+      - "424 \xB1plus-or-minus\\pm\xB1 82"
+      - 4.5k
+    - - PFN
+      - '0.932'
+      - '0.982'
+      - "891 \xB1plus-or-minus\\pm\xB1 18"
+      - 82k
+    - - ResNeXt
+      - '0.936'
+      - '0.984'
+      - "1122 \xB1plus-or-minus\\pm\xB1 47"
+      - 1.46M
+    - - ParticleNet
+      - '0.938'
+      - '0.985'
+      - "1298 \xB1plus-or-minus\\pm\xB1 46"
+      - 498k
+    - - LorentzNet
+      - '0.942'
+      - '0.9868'
+      - "2195 \xB1plus-or-minus\\pm\xB1 173"
+      - 220k
+    - - PELICAN
+      - 0.9425(1)
+      - 0.9869(1)
+      - "2289 \xB1plus-or-minus\\pm\xB1 204"
+      - 45k
+  - 'Paper: arxiv.org/abs/2211.00454 Table: 1'
+  - 'Table 1: Comparison of top-taggers.'
+- - - - ''
+      - Method
+      - "\u03C3pTsubscript\U0001D70Esubscript\U0001D45D\U0001D447\\sigma_{p_{T}}italic_\u03C3\
+        \ start_POSTSUBSCRIPT italic_p start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT\
+        \ end_POSTSUBSCRIPT (%)"
+      - "\u03C3msubscript\U0001D70E\U0001D45A\\sigma_{m}italic_\u03C3 start_POSTSUBSCRIPT\
+        \ italic_m end_POSTSUBSCRIPT (%)"
+      - "\u03C3\u03C8subscript\U0001D70E\U0001D713\\sigma_{\\psi}italic_\u03C3 start_POSTSUBSCRIPT\
+        \ italic_\u03C8 end_POSTSUBSCRIPT (centirad)"
+    - - WithoutDELPHES
+      - JH
+      - 0.650.650.650.65%
+      - 1.271.271.271.27%
+      - 0.1560.1560.1560.156
+    - - WithoutDELPHES
+      - PELICAN
+      - 0.820.820.820.82%
+      - 1.201.201.201.20%
+      - 0.3840.3840.3840.384
+    - - WithoutDELPHES
+      - "PELICAN\u2223\u2223\\mid\u2223JH"
+      - 0.270.270.270.27%
+      - 0.590.590.590.59%
+      - 0.0880.0880.0880.088
+    - - WithDELPHES
+      - JH
+      - 10.310.310.310.3%
+      - 8.38.38.38.3%
+      - 8.738.738.738.73
+    - - WithDELPHES
+      - PELICAN
+      - 5.515.515.515.51%
+      - 3.223.223.223.22%
+      - 4.164.164.164.16
+    - - WithDELPHES
+      - "PELICAN\u2223\u2223\\mid\u2223JH"
+      - 3.813.813.813.81%
+      - 2.862.862.862.86%
+      - 2.672.672.672.67
+  - 'Paper: arxiv.org/abs/2211.00454 Table: 2'
+  - "Table 2: Momentum reconstruction results for the Johns Hopkins (JH) tagger and\
+    \ PELICAN. We report the relative pTsubscript\U0001D45D\U0001D447p_{T}italic_p\
+    \ start_POSTSUBSCRIPT italic_T end_POSTSUBSCRIPT and mass resolutions, and the\
+    \ interquantile range for the angle \u03C8\u2208(0,\u03C0)\U0001D7130\U0001D70B\
+    \\psi\\in(0,\\pi)italic_\u03C8 \u2208 ( 0 , italic_\u03C0 ) between predicted\
+    \ and true momenta. PELICAN uncertainties are under 0.01%percent0.010.01\\%0.01\
+    \ % and 0.010.010.010.01 centirad."
+- - - - ''
+      - AUC
+      - Acc
+      - "1/\u03F5B(\u03F5S=0.3)1subscriptitalic-\u03F5\U0001D435subscriptitalic-\u03F5\
+        \U0001D4460.31/\\epsilon_{B}\\;(\\epsilon_{S}=0.3)1 / italic_\u03F5 start_POSTSUBSCRIPT\
+        \ italic_B end_POSTSUBSCRIPT ( italic_\u03F5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 )"
+      - "1/\u03F5B(\u03F5S=0.3)1subscriptitalic-\u03F5\U0001D435subscriptitalic-\u03F5\
+        \U0001D4460.31/\\epsilon_{B}\\;(\\epsilon_{S}=0.3)1 / italic_\u03F5 start_POSTSUBSCRIPT\
+        \ italic_B end_POSTSUBSCRIPT ( italic_\u03F5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 )"
+      - "1/\u03F5B(\u03F5S=0.3)1subscriptitalic-\u03F5\U0001D435subscriptitalic-\u03F5\
+        \U0001D4460.31/\\epsilon_{B}\\;(\\epsilon_{S}=0.3)1 / italic_\u03F5 start_POSTSUBSCRIPT\
+        \ italic_B end_POSTSUBSCRIPT ( italic_\u03F5 start_POSTSUBSCRIPT italic_S\
+        \ end_POSTSUBSCRIPT = 0.3 )"
+      - '##\##Param'
+    - - ''
+      - ''
+      - ''
+      - single
+      - mean
+      - median
+      - ''
+    - - "CNN\_[16]"
+      - '0.981'
+      - '0.930'
+      - "914\xB1plus-or-minus\\pm\xB114"
+      - "995\xB1plus-or-minus\\pm\xB115"
+      - "975\xB1plus-or-minus\\pm\xB118"
+      - 610k
+    - - ResNeXt[31]
+      - '0.984'
+      - '0.936'
+      - "1122\xB1plus-or-minus\\pm\xB147"
+      - "1270\xB1plus-or-minus\\pm\xB128"
+      - "1286\xB1plus-or-minus\\pm\xB131"
+      - 1.46M
+    - - "TopoDNN\_[18]"
+      - '0.972'
+      - '0.916'
+      - "295\xB1plus-or-minus\\pm\xB15"
+      - "382\xB1plus-or-minus\\pm\xB105"
+      - "378 \xB1plus-or-minus\\pm\xB108"
+      - 59k
+    - - "Multi-body N\U0001D441Nitalic_N-subjettiness 6\_[24]"
+      - '0.979'
+      - '0.922'
+      - "792\xB1plus-or-minus\\pm\xB118"
+      - "798\xB1plus-or-minus\\pm\xB112"
+      - "808\xB1plus-or-minus\\pm\xB113"
+      - 57k
+    - - "Multi-body N\U0001D441Nitalic_N-subjettiness 8\_[24]"
+      - '0.981'
+      - '0.929'
+      - "867\xB1plus-or-minus\\pm\xB115"
+      - "918\xB1plus-or-minus\\pm\xB120"
+      - "926\xB1plus-or-minus\\pm\xB118"
+      - 58k
+    - - "TreeNiN\_[43]"
+      - '0.982'
+      - '0.933'
+      - "1025\xB1plus-or-minus\\pm\xB111"
+      - "1202\xB1plus-or-minus\\pm\xB123"
+      - "1188\xB1plus-or-minus\\pm\xB124"
+      - 34k
+    - - P-CNN
+      - '0.980'
+      - '0.930'
+      - "732\xB1plus-or-minus\\pm\xB124"
+      - "845\xB1plus-or-minus\\pm\xB113"
+      - "834\xB1plus-or-minus\\pm\xB114"
+      - 348k
+    - - "ParticleNet\_[47]"
+      - '0.985'
+      - '0.938'
+      - "1298\xB1plus-or-minus\\pm\xB146"
+      - "1412\xB1plus-or-minus\\pm\xB145"
+      - "1393\xB1plus-or-minus\\pm\xB141"
+      - 498k
+    - - "LBN\_[19]"
+      - '0.981'
+      - '0.931'
+      - "836\xB1plus-or-minus\\pm\xB117"
+      - "859\xB1plus-or-minus\\pm\xB167"
+      - "966\xB1plus-or-minus\\pm\xB120"
+      - 705k
+    - - "LoLa\_[22]"
+      - '0.980'
+      - '0.929'
+      - "722\xB1plus-or-minus\\pm\xB117"
+      - "768\xB1plus-or-minus\\pm\xB111"
+      - "765\xB1plus-or-minus\\pm\xB111"
+      - 127k
+    - - "LDA\_[54]"
+      - '0.955'
+      - '0.892'
+      - "151\xB1plus-or-minus\\pm\xB10.4"
+      - "151.5\xB1plus-or-minus\\pm\xB10.5"
+      - "151.7\xB1plus-or-minus\\pm\xB10.4"
+      - 184k
+    - - "Energy Flow Polynomials\_[21]"
+      - '0.980'
+      - '0.932'
+      - '384'
+      - ''
+      - ''
+      - 1k
+    - - "Energy Flow Network\_[23]"
+      - '0.979'
+      - '0.927'
+      - "633\xB1plus-or-minus\\pm\xB131"
+      - "729\xB1plus-or-minus\\pm\xB113"
+      - "726\xB1plus-or-minus\\pm\xB111"
+      - 82k
+    - - "Particle Flow Network\_[23]"
+      - '0.982'
+      - '0.932'
+      - "891\xB1plus-or-minus\\pm\xB118"
+      - "1063\xB1plus-or-minus\\pm\xB121"
+      - "1052\xB1plus-or-minus\\pm\xB129"
+      - 82k
+    - - GoaT
+      - 0.9850.9850.9850.985
+      - 0.9390.9390.9390.939
+      - "1368\xB1plus-or-minus\\pm\xB1140"
+      - ''
+      - "1549\xB1plus-or-minus\\pm\xB1208"
+      - 35k
+  - 'Paper: arxiv.org/abs/1902.09914 Table: 1'
+  - 'Table 1: Single-number performance metrics for all algorithmsevaluated on the
+    test sample. We quote the area under the ROC curve(AUC), the accuracy, and the
+    background rejection at a signalefficiency of 30%percent3030\%30 %. For the background
+    rejection we also show themean and median from an ensemble tagger setup. The number
+    oftrainable parameters of the model is given as well. Performancemetrics for the
+    GoaT meta-tagger are based on a subset of events.'
+- - - - ''
+      - CNN
+      - CNN
+      - TopoDNN
+      - TopoDNN
+      - TreeNiN
+      - TreeNiN
+      - ParticleNet
+      - ParticleNet
+      - LoLa
+      - LoLa
+      - EFN
+      - EFN
+      - LDA
+    - - ''
+      - '||\big{|}|  ResNeXt'
+      - '||\big{|}|  ResNeXt'
+      - '||\big{|}|  NSub(8)'
+      - '||\big{|}|  NSub(8)'
+      - '||\big{|}|  P-CNN'
+      - '||\big{|}|  P-CNN'
+      - '||\big{|}|  LBN'
+      - '||\big{|}|  LBN'
+      - '||\big{|}|  EFP'
+      - '||\big{|}|  EFP'
+      - '||\big{|}|  PFN'
+      - '||\big{|}|  PFN'
+      - '||\big{|}|'
+    - - CNN
+      - '1'
+      - '.983'
+      - '.955'
+      - '.978'
+      - '.977'
+      - '.973'
+      - '.979'
+      - '.976'
+      - '.974'
+      - '.973'
+      - '.981'
+      - '.984'
+      - '.784'
+    - - ResNeXt
+      - '.983'
+      - '1'
+      - '.953'
+      - '.977'
+      - '.98'
+      - '.975'
+      - '.985'
+      - '.977'
+      - '.974'
+      - '.975'
+      - '.976'
+      - '.983'
+      - '.782'
+    - - TopoDNN
+      - '.955'
+      - '.953'
+      - '1'
+      - '.962'
+      - '.958'
+      - '.962'
+      - '.953'
+      - '.961'
+      - '.97'
+      - '.945'
+      - '.955'
+      - '.961'
+      - '.777'
+    - - NSub(8)
+      - '.978'
+      - '.977'
+      - '.962'
+      - '1'
+      - '.982'
+      - '.975'
+      - '.975'
+      - '.977'
+      - '.977'
+      - '.964'
+      - '.979'
+      - '.977'
+      - '.802'
+    - - TreeNiN
+      - '.977'
+      - '.98'
+      - '.958'
+      - '.982'
+      - '1'
+      - '.98'
+      - '.982'
+      - '.982'
+      - '.981'
+      - '.968'
+      - '.973'
+      - '.981'
+      - '.786'
+    - - P-CNN
+      - '.973'
+      - '.975'
+      - '.962'
+      - '.975'
+      - '.98'
+      - '1'
+      - '.978'
+      - '.98'
+      - '.984'
+      - '.964'
+      - '.968'
+      - '.98'
+      - '.781'
+    - - ParticleNet
+      - '.979'
+      - '.985'
+      - '.953'
+      - '.975'
+      - '.982'
+      - '.978'
+      - '1'
+      - '.978'
+      - '.977'
+      - '.97'
+      - '.972'
+      - '.981'
+      - '.778'
+    - - LBN
+      - '.976'
+      - '.977'
+      - '.961'
+      - '.977'
+      - '.982'
+      - '.98'
+      - '.978'
+      - '1'
+      - '.984'
+      - '.968'
+      - '.972'
+      - '.98'
+      - '.784'
+    - - LoLa
+      - '.974'
+      - '.974'
+      - '.97'
+      - '.977'
+      - '.981'
+      - '.984'
+      - '.977'
+      - '.984'
+      - '1'
+      - '.968'
+      - '.971'
+      - '.981'
+      - '.782'
+    - - EFP
+      - '.973'
+      - '.975'
+      - '.945'
+      - '.964'
+      - '.968'
+      - '.964'
+      - '.97'
+      - '.968'
+      - '.968'
+      - '1'
+      - '.968'
+      - '.977'
+      - '.764'
+    - - EFN
+      - '.981'
+      - '.976'
+      - '.955'
+      - '.979'
+      - '.973'
+      - '.968'
+      - '.972'
+      - '.972'
+      - '.971'
+      - '.968'
+      - '1'
+      - '.981'
+      - '.792'
+    - - PFN
+      - '.984'
+      - '.983'
+      - '.961'
+      - '.977'
+      - '.981'
+      - '.98'
+      - '.981'
+      - '.98'
+      - '.981'
+      - '.977'
+      - '.981'
+      - '1'
+      - '.784'
+    - - LDA
+      - '.784'
+      - '.782'
+      - '.777'
+      - '.802'
+      - '.786'
+      - '.781'
+      - '.778'
+      - '.784'
+      - '.782'
+      - '.764'
+      - '.792'
+      - '.784'
+      - '1'
+  - 'Paper: arxiv.org/abs/1902.09914 Table: 2'
+  - 'Table 2: Correlation coefficients from the combined GoaT analyses'

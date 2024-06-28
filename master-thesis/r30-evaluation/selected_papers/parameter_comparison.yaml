@@ -1,0 +1,107 @@
+excess_parameters:
+  EGNN:
+    r30:
+      148:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 5'
+  LGN:
+    r30:
+      124:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 6'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 1'
+  LorentzNet:
+    r30:
+      290:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 4 Row 1'
+      428:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 4'
+      498:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 7'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 4 Row 2'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 3'
+  P-CNN:
+    r30:
+      201:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 2'
+  PFN:
+    r30:
+      247:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 3'
+  ParticleNet:
+    r30:
+      397:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 4'
+  ResNeXt:
+    r30:
+      302:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 1'
+missing_parameters:
+  EGNN:
+    r30:
+      540:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 5'
+  LGN:
+    param:
+      4500:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 8'
+    r30:
+      435:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 1'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 6'
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 8'
+  LorentzNet:
+    r30:
+      1105:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 4 Row 1'
+      1813:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 4'
+      2195:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 7'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 7 Row 3'
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 4 Row 2'
+  P-CNN:
+    param:
+      348000:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 2'
+    r30:
+      732:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 2'
+      759:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 2'
+  PFN:
+    param:
+      82000:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 6'
+    r30:
+      888:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 3'
+      891:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 6'
+  ParticleNet:
+    param:
+      498000:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 1'
+    r30:
+      1298:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 1'
+      1615:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 4'
+  ResNeXt:
+    param:
+      1460000:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 3'
+    r30:
+      1122:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 3'
+      1147:
+      - 'Paper: arxiv.org/abs/2201.08187 Table: 1 Row 1'
+  TopoDNN:
+    param:
+      59000:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 7'
+    r30:
+      295:
+      - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 7'
+total_excess_parameters: 12
+total_missing_parameters: 24
+total_parameters_extracted: 118
+total_wrong_parameters: 36

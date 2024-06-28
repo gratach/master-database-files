@@ -1,0 +1,157 @@
+- - 2140000
+  - ParT:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 7'
+    - 'Paper: arxiv.org/abs/2202.03772 Table: 4 Row 4'
+- - 2130000
+  - ParT:
+    - 'Paper: arxiv.org/abs/2202.03772 Table: 4 Row 5'
+- - 1460000
+  - ResNeXt:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 3'
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 1'
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 3'
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 3'
+    ResNeXt-50:
+    - 'Paper: arxiv.org/abs/1902.08570 Table: 4 Row 1'
+- - 705000
+  - LBN:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 10'
+- - 610000
+  - CNN:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 2'
+- - 498000
+  - ParticleNet:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 4'
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 1'
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 9'
+- - 408417
+  - EFN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 8'
+- - 370000
+  - ParticleNet:
+    - 'Paper: arxiv.org/abs/2202.03772 Table: 4 Row 3'
+- - 366000
+  - ParticleNet:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 4'
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 4'
+    - 'Paper: arxiv.org/abs/1902.08570 Table: 4 Row 5'
+- - 354000
+  - P-CNN:
+    - 'Paper: arxiv.org/abs/2202.03772 Table: 4 Row 2'
+- - 348012
+  - EFN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 9'
+- - 348000
+  - P-CNN:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 2'
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 2'
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 8'
+    - 'Paper: arxiv.org/abs/1902.08570 Table: 4 Row 2'
+- - 237000
+  - DNN:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 9'
+- - 228235
+  - CNN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 5'
+- - 224000
+  - LorentzNet:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 7'
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 6 Row 3'
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 6'
+- - 222000
+  - EGNN:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 5'
+- - 220000
+  - LorentzNet:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 5'
+- - 209617
+  - RN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 3'
+- - 202167
+  - EFN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 6'
+- - 184000
+  - LDA:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 12'
+- - 149212
+  - RN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 2'
+- - 141762
+  - EFN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 7'
+- - 131740
+  - CNN:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 4'
+- - 127000
+  - LoLa:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 11'
+- - 102407
+  - MF:
+    - 'Paper: arxiv.org/abs/2010.13469 Table: 2 Row 1'
+- - 86100
+  - PFN:
+    - 'Paper: arxiv.org/abs/2202.03772 Table: 4 Row 1'
+- - 82000
+  - EFN:
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 5'
+    Energy:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 14'
+    PFN:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 2'
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 3'
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 6'
+    - 'Paper: arxiv.org/abs/1902.08570 Table: 4 Row 3'
+    Particle:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 15'
+- - 59000
+  - TopoDNN:
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 7'
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 4'
+- - 58000
+  - Multi-body:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 6'
+    N-sub:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 3'
+- - 57000
+  - Multi-body:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 5'
+    N-sub:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 2'
+- - 45000
+  - PELICAN:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 6'
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 8'
+- - 35000
+  - GoaT:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 16'
+- - 34000
+  - TreeNiN:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 7'
+- - 26000
+  - ParticleNet-Lite:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 5'
+    - 'Paper: arxiv.org/abs/1902.08570 Table: 4 Row 4'
+- - 12000
+  - LGN:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 6 Row 2'
+    LorentzNet:
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 6 Row 4'
+- - 4500
+  - LGN:
+    - 'Paper: arxiv.org/abs/2211.00454 Table: 1 Row 1'
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 5 Row 6'
+    - 'Paper: arxiv.org/abs/2201.08187 Table: 6 Row 1'
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 8'
+- - 1700
+  - DO-ADO:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 10'
+- - 1400
+  - DisCo-FFS:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 11'
+- - 1000
+  - EFP:
+    - 'Paper: arxiv.org/abs/2006.04780 Table: 1 Row 4'
+    Energy:
+    - 'Paper: arxiv.org/abs/1902.09914 Table: 1 Row 13'
+    Linear:
+    - 'Paper: arxiv.org/abs/2212.00046 Table: 1 Row 1'
