@@ -1,0 +1,331 @@
+{
+    "Physics": {
+        "Classical Mechanics": {},
+        "Quantum Mechanics": {
+            "Quantum Field Theory": {},
+            "Quantum Entanglement": {
+                "Fundamental principles": {},
+                "Experimental realizations": {},
+                "Applications in quantum computing": {
+                    "Quantum simulation": {},
+                    "Quantum optimization": {},
+                    "Quantum machine learning": {},
+                    "Quantum cryptography": {},
+                    "Quantum communication": {},
+                    "Quantum sensing": {},
+                    "Quantum metrology": {},
+                    "Quantum algorithm development": {}
+                },
+                "Quantum teleportation": {},
+                "Entanglement verification": {},
+                "Role in quantum information theory": {},
+                "Entanglement and thermodynamics": {},
+                "Entanglement entropy": {},
+                "Multi-particle entanglement": {},
+                "Quantum nonlocality": {}
+            },
+            "Quantum Computing": {},
+            "Quantum Cryptography": {},
+            "Quantum Tunneling": {},
+            "Quantum Teleportation": {},
+            "Quantum Superposition": {},
+            "Quantum Decoherence": {},
+            "Quantum Measurement Problem": {},
+            "Quantum Statistical Mechanics": {}
+        },
+        "Thermodynamics": {},
+        "Electromagnetism": {},
+        "Optics": {
+            "Geometrical Optics": {},
+            "Physical Optics": {},
+            "Quantum Optics": {},
+            "Optical Instruments": {},
+            "Wave Optics": {
+                "Huygens' Principle": {},
+                "Interference of Light": {},
+                "Young's Double Slit Experiment": {},
+                "Diffraction": {},
+                "Polarization": {
+                    "Types of Polarization": {},
+                    "Polarization by Reflection": {},
+                    "Polarization by Refraction": {},
+                    "Polarization by Scattering": {},
+                    "Brewster's Angle": {},
+                    "Polarizing Filters": {},
+                    "Applications of Polarization": {},
+                    "Mathematical Description of Polarization": {},
+                    "Polarization in Waves": {},
+                    "Polarization in Optics": {},
+                    "Polarization in Materials": {},
+                    "Circular Polarization": {},
+                    "Elliptical Polarization": {},
+                    "Linear Polarization": {}
+                },
+                "Optical Path and Optical Instruments": {}
+            },
+            "Fiber Optics": {},
+            "Nonlinear Optics": {},
+            "Optoelectronics": {},
+            "Photometry": {
+                "Radiometry": {},
+                "Quantum photometry": {
+                    "Quantum light sources": {},
+                    "Single-photon detectors": {},
+                    "Quantum efficiency measurement": {},
+                    "Photon statistics": {},
+                    "Quantum state measurement": {},
+                    "Non-classical light": {}
+                },
+                "Colorimetry": {},
+                "Photometric instrumentation": {},
+                "Photography and imaging photometry": {},
+                "Visual photometry": {},
+                "Photometric units and measurements": {}
+            },
+            "Optical Materials": {}
+        },
+        "Acoustics": {},
+        "Relativity": {
+            "Special relativity": {},
+            "General relativity": {},
+            "Experimental tests of relativity": {},
+            "Applications of relativity": {},
+            "Relativistic mechanics": {},
+            "Relativistic effects": {},
+            "History of relativity": {},
+            "Philosophical aspects of relativity": {},
+            "Mathematical framework of relativity": {
+                "Special relativity": {},
+                "General relativity": {},
+                "Lorentz transformations": {},
+                "Minkowski space": {},
+                "Tensor calculus": {},
+                "Differential geometry": {},
+                "Riemannian geometry": {},
+                "Metric tensor": {
+                    "Definition and properties": {},
+                    "Components and notation": {},
+                    "Types of metric tensors": {},
+                    "Applications in general relativity": {},
+                    "Metric tensor in curved and flat spaces": {},
+                    "Coordinate transformations": {},
+                    "Riemannian and pseudo-Riemannian metrics": {},
+                    "Significance in differential geometry": {},
+                    "Computing curvature from the metric": {},
+                    "Metric tensor in other theories of physics": {}
+                },
+                "Christoffel symbols": {},
+                "Curvature": {},
+                "Einstein field equations": {}
+            },
+            "Black holes and relativity": {},
+            "Cosmology and relativity": {},
+            "Quantum field theory and relativity": {}
+        },
+        "Nuclear Physics": {},
+        "Particle Physics": {},
+        "Astrophysics": {
+            "Cosmology": {},
+            "Stellar Astrophysics": {},
+            "Galactic Astronomy": {},
+            "Extragalactic Astronomy": {},
+            "Planetary Astrophysics": {},
+            "High Energy Astrophysics": {},
+            "Observational Astrophysics": {},
+            "Theoretical Astrophysics": {},
+            "Astrochemistry": {},
+            "Astrobiology": {
+                "Extraterrestrial life": {},
+                "Origin of life": {},
+                "Planetary habitability": {},
+                "Interstellar molecules": {},
+                "Extremophiles": {},
+                "Biosignatures": {
+                    "Types of Biosignatures": {},
+                    "Detection Methods": {},
+                    "Astrobiology": {},
+                    "Biosignature Gases": {},
+                    "Planetary Environments": {},
+                    "Instrumentation and Technology": {},
+                    "Challenges and Limitations": {}
+                },
+                "Astroecology": {},
+                "Bioastronomy": {},
+                "Space missions in astrobiology": {},
+                "Ethical and philosophical implications": {}
+            }
+        },
+        "Condensed Matter Physics": {
+            "Electronic properties of materials": {},
+            "Superconductivity": {},
+            "Magnetism": {},
+            "Semiconductors": {},
+            "Nanotechnology": {},
+            "Soft condensed matter": {
+                "Colloids": {},
+                "Polymers": {},
+                "Liquid crystals": {},
+                "Foams": {},
+                "Gels": {},
+                "Biomaterials": {
+                    "Natural Biomaterials": {},
+                    "Synthetic Biomaterials": {},
+                    "Biodegradable Biomaterials": {},
+                    "Composite Biomaterials": {},
+                    "Bioactive Materials": {},
+                    "Biomaterials for Drug Delivery": {},
+                    "Biomaterials in Tissue Engineering": {},
+                    "Biomaterials in Orthopedics": {},
+                    "Biomaterials in Dentistry": {},
+                    "Nanomaterials in Biomaterials": {},
+                    "Surface Modification of Biomaterials": {},
+                    "Mechanical Properties of Biomaterials": {},
+                    "Biocompatibility and Bioresponse": {},
+                    "Regulatory and Ethical Issues in Biomaterials": {}
+                },
+                "Granular materials": {},
+                "Surfactants": {},
+                "Membranes": {},
+                "Microemulsions": {},
+                "Biopolymers": {},
+                "Self-assembly": {}
+            },
+            "Crystallography": {}
+        },
+        "Plasma Physics": {
+            "Fundamentals of Plasma": {},
+            "Magnetohydrodynamics": {},
+            "Plasma Confinement and Transport": {},
+            "Plasma Diagnostics": {},
+            "Plasma Waves and Instabilities": {},
+            "High Energy Density Physics": {},
+            "Astrophysical Plasma": {},
+            "Nuclear Fusion": {},
+            "Non-neutral Plasmas": {},
+            "Dusty Plasmas": {
+                "Basic Properties of Dusty Plasmas": {},
+                "Formation and Sources of Dusty Plasmas": {},
+                "Wave Propagation in Dusty Plasmas": {},
+                "Instabilities in Dusty Plasmas": {},
+                "Dust Crystals and Structures": {},
+                "Charging of Dust Particles": {
+                    "Mechanisms of Dust Charging": {},
+                    "Influences of Environmental Conditions on Dust Charging": {},
+                    "Effects of Dust Charging on Atmosphere and Climate": {},
+                    "Technological Applications of Charged Dust Particles": {},
+                    "Safety and Health Considerations of Charged Dust": {}
+                },
+                "Interactions in Dusty Plasmas": {},
+                "Applications of Dusty Plasmas": {},
+                "Diagnostics in Dusty Plasmas": {},
+                "Experimental Techniques in Dusty Plasma Research": {}
+            },
+            "Plasma Applications and Processing": {}
+        },
+        "Atomic Physics": {},
+        "Molecular Physics": {},
+        "Biophysics": {},
+        "Geophysics": {
+            "Seismology": {},
+            "Geomagnetism": {},
+            "Geodesy": {},
+            "Volcanology": {},
+            "Plate Tectonics": {},
+            "Gravity": {},
+            "Earthquake Physics": {},
+            "Tectonophysics": {},
+            "Paleomagnetism": {},
+            "Environmental Geophysics": {},
+            "Exploration Geophysics": {
+                "Seismic Methods": {},
+                "Magnetic Methods": {},
+                "Gravitational Methods": {},
+                "Electromagnetic Methods": {},
+                "Radiometric Methods": {
+                    "Radioactive Dating": {},
+                    "Radiocarbon Dating": {},
+                    "Uranium-Lead Dating": {},
+                    "Potassium-Argon Dating": {},
+                    "Radioactive Tracers": {},
+                    "Gamma Spectroscopy": {}
+                },
+                "Borehole Geophysics": {}
+            }
+        },
+        "Cosmology": {
+            "Big Bang Theory": {},
+            "Cosmic Microwave Background": {},
+            "Dark Matter": {},
+            "Dark Energy": {},
+            "Structure Formation": {},
+            "Galaxy Formation and Evolution": {},
+            "Cosmic Inflation": {
+                "Models of inflation": {},
+                "Mechanisms of inflation": {},
+                "Predictions and observations": {},
+                "Problems and criticisms": {},
+                "Implications for the early universe": {},
+                "Quantum fluctuations and inflation": {
+                    "Quantum fluctuations in the early universe": {},
+                    "Inflationary cosmology": {},
+                    "Role of quantum fluctuations in inflation": {},
+                    "Mechanism of inflation and quantum theory": {},
+                    "Observational evidence of inflation and quantum fluctuations": {},
+                    "Quantum field theory in curved spacetime": {}
+                }
+            },
+            "The Multiverse Theory": {},
+            "Observational Cosmology": {
+                "Cosmic microwave background": {},
+                "Galaxy formation and evolution": {},
+                "Large-scale structure of the universe": {},
+                "Dark matter and dark energy": {},
+                "Supernovae as cosmological probes": {},
+                "Gravitational lensing": {},
+                "Redshift surveys": {
+                    "Techniques of Redshift Measurement": {},
+                    "Large-Scale Structure of the Universe": {},
+                    "Redshift Survey Catalogs": {},
+                    "Cosmological Parameters from Redshift Surveys": {},
+                    "Galaxy Evolution and Redshift Surveys": {}
+                },
+                "21 cm line observations": {},
+                "Interstellar medium": {}
+            },
+            "Theoretical Cosmology": {}
+        },
+        "Fluid Dynamics": {
+            "Hydrodynamics": {},
+            "Aerodynamics": {},
+            "Gas Dynamics": {},
+            "Magneto-hydrodynamics": {},
+            "Computational Fluid Dynamics": {},
+            "Experimental Fluid Dynamics": {},
+            "Microfluidics": {},
+            "Biofluid Dynamics": {},
+            "Geophysical Fluid Dynamics": {
+                "Fundamental Equations and Concepts": {},
+                "Atmospheric Dynamics": {},
+                "Ocean Dynamics": {},
+                "Wave Phenomena": {},
+                "Rotating Fluid Dynamics": {},
+                "Buoyancy and Stratification": {
+                    "Principles of Buoyancy": {},
+                    "Archimedes' Principle": {},
+                    "Applications of Buoyancy": {},
+                    "Density and Buoyancy": {},
+                    "Fluid Stratification": {},
+                    "Thermal Stratification": {},
+                    "Salinity and Stratification": {},
+                    "Stability and Instability in Stratified Fluids": {},
+                    "Environmental Implications of Stratification": {}
+                },
+                "Turbulence in Geophysical Flows": {},
+                "Numerical Methods and Computational Techniques": {},
+                "Climate Dynamics": {},
+                "Magnetohydrodynamics": {}
+            },
+            "Environmental Fluid Dynamics": {}
+        }
+    }
+}

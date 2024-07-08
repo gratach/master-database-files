@@ -1,0 +1,163 @@
+{
+    "particles": [
+        "electron",
+        "proton",
+        "neutron",
+        "photon",
+        "quark"
+    ],
+    "experiments": [
+        "Double-slit experiment",
+        "Cavendish experiment",
+        "Michelson-Morley experiment",
+        "Rutherford gold foil experiment",
+        "Galileo's inclined plane experiment"
+    ],
+    "units": [
+        "meter",
+        "second",
+        "kilogram",
+        "ampere",
+        "kelvin"
+    ],
+    "constants": [
+        "Speed of light in a vacuum (c)",
+        "Gravitational constant (G)",
+        "Planck's constant (h)",
+        "Elementary charge (e)",
+        "Boltzmann constant (k)"
+    ],
+    "equations": [
+        "F = ma",
+        "E = mc^2",
+        "v = u + at",
+        "F = G(m1*m2)/r^2",
+        "V = IR"
+    ],
+    "theories": [
+        "General Theory of Relativity",
+        "Quantum Mechanics",
+        "Classical Mechanics",
+        "Electromagnetism",
+        "Thermodynamics"
+    ],
+    "scientists": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Marie Curie",
+        "Richard Feynman"
+    ],
+    "instruments": [
+        "Voltmeter",
+        "Oscilloscope",
+        "Spectrometer",
+        "Laser Interferometer",
+        "Barometer"
+    ],
+    "materials": [
+        "Copper",
+        "Silicon",
+        "Graphene",
+        "Water",
+        "Rubber"
+    ],
+    "substances": [
+        "Water",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Aluminum",
+        "Iron"
+    ],
+    "phenomena": [
+        "Gravitational attraction",
+        "Electromagnetic induction",
+        "Quantum entanglement",
+        "Thermal conduction",
+        "Photoelectric effect"
+    ],
+    "effects": [
+        "Doppler effect",
+        "Photoelectric effect",
+        "Compton effect",
+        "Hall effect",
+        "Magnus effect"
+    ],
+    "laws": [
+        "Newton's First Law of Motion",
+        "The Law of Universal Gravitation",
+        "The Second Law of Thermodynamics",
+        "Ohm's Law",
+        "Snell's Law"
+    ],
+    "technologies": [
+        "Particle accelerators",
+        "Laser systems",
+        "Magnetic resonance imaging (MRI)",
+        "Superconductors",
+        "Quantum computers"
+    ],
+    "discoveries": [
+        "The discovery of the electron by J.J. Thomson in 1897",
+        "The development of quantum mechanics in the early 20th century",
+        "Einstein's theory of relativity in 1905 and 1915",
+        "The discovery of the Higgs boson in 2012",
+        "The observation of gravitational waves in 2015"
+    ],
+    "inventions": [
+        "Telescope",
+        "Laser",
+        "Electromagnet",
+        "Particle accelerator",
+        "Photovoltaic cell"
+    ],
+    "hypotheses": [
+        "The speed of light in a vacuum is constant and does not depend on the motion of the source or observer.",
+        "Increasing the temperature of a ferromagnetic material above its Curie point will cause it to lose its magnetic properties.",
+        "The universe is expanding at an accelerating rate due to an unknown form of energy, called dark energy.",
+        "The position and velocity of a particle cannot both be precisely measured at the same time, as stipulated by the Heisenberg Uncertainty Principle.",
+        "Entangled particles remain connected so that the state of one (regardless of distance) instantly affects the state of the other."
+    ],
+    "theorems": [
+        "Newton's First Law of Motion",
+        "Law of Conservation of Energy",
+        "Maxwell's Equations",
+        "Einstein's Theory of Relativity",
+        "Hooke's Law"
+    ],
+    "paradoxes": [
+        "Twin Paradox",
+        "Schr\u00f6dinger's Cat",
+        "EPR Paradox",
+        "Gibbs Paradox",
+        "Zeno's Paradoxes"
+    ],
+    "problems": [
+        "The unification of general relativity and quantum mechanics",
+        "The nature of dark matter and dark energy",
+        "The origin of the universe and the Big Bang singularity",
+        "The mechanism of high-temperature superconductivity",
+        "The hierarchy problem in particle physics"
+    ],
+    "conjectures": [
+        "Proton decay",
+        "Existence of magnetic monopoles",
+        "CPT symmetry",
+        "Supersymmetry",
+        "Cosmic censorship hypothesis"
+    ],
+    "proofs": [
+        "Proof of the conservation of energy",
+        "Proof of the conservation of momentum",
+        "Proof of Newton's second law from the action principle",
+        "Proof of Maxwell's equations from Gauss's and Faraday's laws",
+        "Proof of the equivalence of mass and energy (E=mc^2)"
+    ],
+    "algorithms": [
+        "Finite Difference Method for solving differential equations",
+        "Monte Carlo simulations for statistical physics",
+        "Fast Fourier Transform for analyzing waveforms",
+        "Molecular Dynamics simulations for studying atomic interactions",
+        "Density Functional Theory for electronic structure calculations"
+    ]
+}

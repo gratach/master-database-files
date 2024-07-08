@@ -1,0 +1,3767 @@
+a.c.
+a.m.u.
+ab-
+Abelian group
+aberration
+abscissa
+absolute
+absolute expansivity
+absolute humidity
+absolute permittivity
+absolute pitch
+absolute space
+absolute temperature
+absolute time
+absolute value
+absolute zero
+absorptance
+absorption
+absorption coefficient
+absorption spectrum
+absorptivity
+abundance
+acceleration
+acceleration of free fall
+accelerator
+acceptor
+acceptor levels
+accommodation
+accretion disk
+accumulator
+achromatic lens
+acoustics
+acoustoelectronic devices
+actinic radiation
+actinium
+actinium series
+actinoid contraction
+actinometer
+action at a distance
+action potential
+action spectrum
+activation analysis
+active device
+active galactic nucleus
+active galaxy
+activity
+additive process
+adiabatic approximation
+adiabatic demagnetization
+adiabatic process
+admittance
+ADSL
+adsorbate
+adsorption
+adsorption isotherm
+advanced gas-cooled reactor
+aerial
+aerodynamics
+aerogenerator
+aeronautics
+aerosol
+aerospace
+AFM
+after-heat
+age of the earth
+age of the universe
+AGN
+AGR
+AI
+air
+albedo
+algebraic sum
+algorithm
+allowed bands
+allowed transitions
+alloy
+alloy steels
+Alnico
+alpha particle
+alternating current
+alternator
+altimeter
+ALU
+Alvarez, Luis Walter (1911–88)
+AM
+amalgam
+americium
+ammeter
+ammonia clock
+amorphous
+amount of substance
+ampere
+Ampère's law
+Ampère's rule
+Ampère, André Marie (1775–1836)
+ampere-hour
+ampere-turn
+amplifier
+amplitude
+amplitude modulation
+analyser
+analytical geometry
+anastigmatic lens
+anchor ring
+AND circuit
+Anderson, Carl David (1905–91)
+Andreev reflection
+anechoic
+anemometer
+aneroid barometer
+angle modulation
+angle of incidence
+angle of reflection
+angle of refraction
+angstrom
+Angström, Anders Jonas (1814–74)
+angular displacement, velocity, and acceleration
+angular frequency
+angular magnification
+angular momentum
+anharmonic oscillator
+anion
+anisotropic
+annealing
+annihilation
+annulus
+anode
+anomaly
+ANSI
+antenna
+anthropic principle
+anti-bunching
+anti-Zeno effect
+antiatom
+antiferromagnetism
+antilogarithm
+antimatter
+antinode
+antiparallel spins
+antiparallel vectors
+antiparticle
+anyon
+aperture
+aperture synthesis
+aphelion
+aplanatic lens
+apochromatic lens
+apocynthion
+apogee
+apolune
+apparent expansivity
+Appleton layer
+applications software
+approximation technique
+apsides
+aqueous
+Arago's spot
+arc lamp
+arccos, arcsin, arctan
+Archimedes of Syracuse (287–212 bc)
+Archimedes' principle
+arcosh, arsinh, artanh
+Argand diagram
+argument
+arithmetic mean
+arithmetic series
+arithmetic/logic unit
+armature
+artificial intelligence
+ASCII
+Aspect experiment
+associative law
+astatic galvanometer
+astatine
+asteroids
+asthenosphere
+astigmatism
+Aston, Francis William (1877–1945)
+astrometry
+astronomical telescope
+astronomical unit
+astronomy
+astrophysics
+asymmetric atom
+asymptote
+asymptotic freedom
+asymptotic series
+atmolysis
+atmosphere
+atmospheric pressure
+atom
+atomic bomb
+atomic clock
+atomic energy
+atomic force microscopy
+atomic mass unit
+atomic number
+atomic orbital
+atomic pile
+Atomic Theory
+atomic volume
+atomic weight
+ATRS
+attenuated total reflectance spectroscopy
+attenuation
+atto-
+attractor
+AU
+audibility
+audiofrequency
+audiometer
+Auger effect
+aurora
+austenite
+autoclave
+autoradiography
+autotransformer
+avalanche
+average
+avionics
+Avogadro constant
+Avogadro's law
+Avogadro, Amedeo (1776–1856)
+axial vector
+axion
+axis
+azeotrope
+azimuth
+azimuthal quantum number
+B-meson
+Babbit metal
+Babo's law
+back e.m.f.
+background radiation
+balance
+ball lightning
+ballistic galvanometer
+ballistic pendulum
+ballistics
+Balmer series
+band spectrum
+band theory
+bandwidth
+bar
+Bardeen, John (1908–91)
+Barkhausen effect
+Barlow wheel
+barn
+barograph
+barometer
+barycentre
+barye
+baryon
+base
+base unit
+basic-oxygen process
+Basov, Nikolai Gennediyevitch (1922–2001)
+battery
+baud
+Bayes' theorem
+Bayesian inference
+BBGKY hierarchy
+BCS theory
+beam
+beam balance
+beam hole
+beats
+Beckmann thermometer
+becquerel
+Becquerel, Antoine Henri (1852–1908)
+bel
+bell metal
+Bell's theorem
+Bénard cell
+bending moment
+Bergius, Friedrich Karl Rudolf (1884–1949)
+berkelium
+Bernoulli theorem
+Bernoulli trial
+Bernoulli, Daniel (1700–82)
+Berzelius, Jöns Jacob (1779–1848)
+Bessel function
+Bessemer process
+BET isotherm
+beta decay
+beta particle
+beta-iron
+betatron
+Bevatron
+biaxial crystal
+biconcave
+bifurcation
+big-bang theory
+Big-Bang Theory, The
+billion
+bimetallic strip
+bimorph cell
+binary notation
+binary prefixes
+binary stars
+binding energy
+binocular vision
+binoculars
+binomial distribution
+binomial theorem
+bioenergetics
+bioluminescence
+biomechanics
+biophysics
+Biot–Savart law
+biotechnology
+biprism
+birefringence
+bistable circuit
+bit
+Bitter pattern
+black body
+black hole
+Black, Joseph (1728–99)
+Blandford–Znajek process
+Bloch's theorem
+blooming
+body-centred cubic
+Bohr theory
+Bohr, Niels Henrik David (1885–1962)
+bohrium
+boiling point
+boiling-point–composition diagram
+boiling-water reactor
+bolometer
+Boltzmann constant
+Boltzmann equation
+Boltzmann, Ludwig Eduard (1844–1906)
+bomb calorimeter
+Bondi, Hermann
+Boolean algebra
+Borel sum
+Born, Max (1882–1970)
+Born–Haber cycle
+Born–Oppenheimer approximation
+boron counter
+Bose–Einstein condensation
+Bose–Einstein statistics
+boson
+bosonization
+bottom quark
+bound state
+boundary layer
+boundary slip
+Bourdon gauge
+Boyle's law
+Boyle, Robert (1627–91)
+Brackett series
+Bragg's law
+Bragg, Sir William Henry (1862–1942)
+brane world
+Brans–Dicke theory
+brass
+Brattain, Walter
+Braun, Karl Ferdinand (1850–1918)
+Bravais lattice
+breakdown
+breaking stress
+breeder reactor
+Bremsstrahlung
+Brewster's law
+bridge rectifier
+Brinell hardness
+Britannia metal
+British thermal unit
+broadband
+broken symmetry
+bronze
+brown dwarf
+Brownian movement
+brush
+brush discharge
+bubble chamber
+buckminsterfullerene
+buckyball
+buckytube
+bulk modulus
+bumping
+bunching
+Bunsen burner
+Bunsen cell
+Bunsen, Robert Wilhelm (1811–99)
+buoyancy
+Burgers vector
+bus
+busbar
+butterfly effect
+BWR
+bypass capacitor
+byte
+c.g.s. units
+cadmium cell
+caesium clock
+Cahn–Hilliard model
+calculus
+californium
+caloric theory
+calorie
+Calorie
+calorific value
+calorimeter
+calx
+camcorder
+camera
+Canada balsam
+canal rays
+candela
+candle power
+capacitance
+capacitor
+capacitor microphone
+capillarity
+capillary
+capture
+carat
+carbon cycle
+carbon dating
+carbon fibres
+Carnot cycle
+Carnot, Nicolas Léonard Sadi (1796–1832)
+carrier
+carrier gas
+carrier wave
+Cartesian coordinates
+cascade liquefier
+cascade process
+case hardening
+Casimir effect
+Cassegrainian telescope
+cast iron
+catalytic converter
+catastrophe theory
+catenary
+cathetometer
+cathode
+cathode rays
+cathode-ray oscilloscope
+cathode-ray tube
+cathodic protection
+cation
+causality
+caustic
+Cavendish, Henry (1731–1810)
+cavitation
+cavity resonator
+CD
+CD spectrum
+CD-ROM
+CD-RW
+celestial equator
+celestial mechanics
+celestial sphere
+cell
+Celsius scale
+cementation
+cementite
+centi-
+centigrade scale
+central processing unit
+centre of curvature
+centre of gravity
+centre of mass
+centrifugal force
+centrifugal pump
+centrifuge
+centripetal force
+centroid
+Cerenkov counter
+Cerenkov radiation
+Cerenkov, Pavel Alekseyevich (1904–90)
+cermet
+CERN
+cetane number
+Chadwick, Sir James (1891–1974)
+chain reaction
+Chandrasekhar limit
+change of phase
+channel
+chaos
+characteristic
+charge
+charge carrier
+charge conjugation
+charge density
+Charles' law
+Charles, Jacques Alexandre César (1746–1823)
+charm
+chemical cell
+chemical dating
+chemical potential
+chemiluminescence
+chemisorption
+chi-square distribution
+chip
+chirality
+chirooptical spectroscopy
+Chladni figures
+choke
+cholesteric crystal
+chromatic aberration
+chromaticity
+chromium steel
+chromosphere
+chronology protection conjecture
+circle
+circular birefringence
+circular dichroism
+circular measure
+circular polarization
+cladding
+Clapeyron–Clausius equation
+Clark cell
+classical field theory
+classical physics
+Claude process
+Clausius, Rudolf Julius Emmanuel (1822–88)
+Clausius–Mossotti equation
+close packing
+cloud chamber
+Clusius column
+cluster
+cluster model
+CMR
+CNB
+coagulation
+coal
+coaxial cable
+cobalt steel
+COBE
+Cockcroft, Sir John Douglas (1897–1967)
+Cockcroft–Walton generator
+coefficient
+coefficient of expansion
+coefficient of friction
+coelostat
+coercive force
+coherence length
+coherent radiation
+coherent scattering
+coherent state
+coherent units
+coinage metals
+coincidence circuit
+cold emission
+cold fusion
+Coleman–Gross theorem
+collective excitation
+collective model
+collective oscillation
+collector
+colliding-beam experiments
+colligative properties
+collimator
+collision density
+colloids
+cologarithm
+colorimeter
+colossal magnetoresistance
+colour
+colour centre
+colour charge
+colour photography
+colour television
+colour temperature
+coma
+combinations
+combined cycle
+combustion
+comet
+commensurate lattice
+common logarithm
+common-collector connection
+communication satellite
+commutative law
+commutator
+compact disk
+compass
+complementarity
+complementary colours
+complex conjugate
+complex number
+complexity
+component vectors
+compound microscope
+compressibility
+compression ratio
+Compton effect
+Compton wavelength
+Compton, Arthur Holly (1892–1962)
+computable structure
+computer
+concave
+concavo-convex
+concentration cell
+conchoidal fracture
+condensation
+condensation pump
+condensed-matter physics
+condenser
+condenser microphone
+conductance
+conduction
+conduction band
+conductivity
+conductor
+cone
+configuration
+configuration space
+confinement
+conformal field theory
+conformal invariance
+conformal transformation
+conic
+conjugate points
+conjunction
+conservation law
+conservative field
+consistent histories
+consolute temperature
+constant
+constant-boiling mixture
+constantan
+constitutive equations
+contact potential difference
+containment
+continuous function
+continuous phase
+continuous spectrum
+continuous wave
+continuum
+control grid
+control rod
+control unit
+convection
+conventional current
+convergent series
+converging lens
+conversion electron
+converter
+converter reactor
+convex
+coolant
+Cooper pairs
+Cooper, Leon
+cooperative phenomenon
+coordinate
+coordinate geometry
+coordinate system
+coordination number
+Copenhagen interpretation
+Copernican astronomy
+Copernicus, Nicolaus (1473–1543)
+core
+Coriolis force
+corkscrew rule
+corona
+corpuscular theory
+corrosion
+cosine rule
+cosmic censorship
+cosmic neutrino background
+cosmic radiation
+cosmic string
+cosmological constant
+cosmological principle
+Cosmology
+cosmology
+Cottrell precipitator
+coudé system
+coulomb
+Coulomb blockade
+Coulomb field
+Coulomb force
+Coulomb's law
+Coulomb, Charles Augustin de (1736–1806)
+counter
+couple
+coupling
+coupling constant
+covariance
+CP invariance
+CPT theorem
+CPU
+crack
+creep
+critical angle
+critical damping
+critical exponents
+critical field
+critical mass
+critical pressure
+critical reaction
+critical state
+critical temperature
+critical volume
+CRO
+Crookes, Sir William (1832–1919)
+cross product
+cross section
+crucible
+cryogenic pump
+cryogenics
+cryohydrate
+cryometer
+cryoscopic constant
+cryostat
+cryotron
+crystal
+crystal counter
+crystal defect
+Crystal Defects
+crystal habit
+crystal lattice
+crystal microphone
+crystal oscillator
+crystal pick-up
+crystal structure
+crystal system
+crystal-field theory
+crystallography
+crystalloids
+CT scanner
+cubic crystal
+cubic equation
+cubic expansivity
+curie
+Curie point
+Curie's law
+Curie, Marie (1867–1934)
+curium
+curl
+current
+current balance
+current density
+cusp
+cycle
+cyclic model
+cycloid
+cyclotron
+cylindrical polar coordinates
+D'Alembert's Principle
+D'Alembertian
+D-brane
+d-form
+D-lines
+d-orbital
+d.c.
+dalton
+Dalton's atomic theory
+Dalton's law
+Dalton, John (1766–1844)
+damping
+Daniell cell
+dark energy
+dark galaxy
+dark matter
+darmstadtium
+DAT
+database
+dating techniques
+daughter
+Davisson–Germer experiment
+Davy, Sir Humphry (1778–1829)
+day
+de Broglie wavelength
+de Broglie, Louis-Victor Pierre Raymond (1892–1987)
+deadbeat
+death of a star
+debye
+Debye temperature
+Debye theory of specific heat
+Debye–Hückel theory
+Debye–Scherrer method
+Debye–Waller factor
+deca-
+decalescence
+decay
+decay sequence
+deci-
+decibel
+decimal system
+declination
+decoherence
+deconfinement temperature
+deep inelastic scattering
+defect
+definite integral
+degaussing
+degeneracy pressure
+degenerate gas
+degenerate level
+degenerate semiconductor
+degenerate states
+degree
+degrees of freedom
+deionized water
+dekatron
+del
+delay line
+delayed neutrons
+deliquescence
+delta function
+demagnetization
+demodulation
+denature
+dendrite
+densitometer
+density
+density functional theory
+density of states
+depleted
+depleted uranium
+depletion layer
+depolarization
+depression of freezing point
+depth of field
+derivative
+derived unit
+desorption
+detailed balance
+detector
+deuterated compound
+deuterium
+deuterium oxide
+deuteron
+deviation
+devil's staircase
+dew
+dew point
+dew-point hygrometer
+Dewar flask
+Dewar, Sir James (1842–1923)
+dextrorotatory
+diamagnetism
+diamond
+diaphragm
+diastereoisomers
+dichroism
+dielectric
+dielectric constant
+dielectric heating
+Diesel engine
+diffeomorphism group
+differential amplifier
+differential calculus
+differential equation
+differential geometry
+differentiation
+diffraction
+diffraction grating
+diffusion
+diffusion cloud chamber
+diffusion limited aggregation
+diffusion pump
+digit
+digital audio tape
+digital camera
+digital computer
+digital display
+digital recording
+digitron
+dihedral
+dilatancy
+dilation
+dilatometer
+dilution refrigeration
+dimensional analysis
+dimensions
+diode
+dioptre
+dip
+dipole
+dipole radiation
+dipole–dipole interaction
+Dirac constant
+Dirac equation
+Dirac, Paul Adrien Maurice (1902–84)
+direct current
+direct motion
+direct transition
+direct-current motor
+directrix
+discharge
+disclination
+discontinuous function
+disintegration
+disintegration constant
+dislocation
+disordered solid
+disperse phase
+dispersion
+dispersion forces
+dispersive power
+displacement
+distortion
+distribution function
+distributive law
+diurnal
+divergence
+divergence theorem
+divergent series
+diverging lens
+dl-
+DLA
+domain
+donor
+doping
+Doppler broadening
+Doppler cooling
+Doppler effect
+dose
+dosimeter
+dot product
+double refraction
+doublet
+drain
+drift-tube accelerator
+dripline
+dry cell
+dry ice
+duality
+dubnium
+ductility
+Dulong and Petit's law
+dust core
+DVD
+dwarf planet
+dwarf star
+dye laser
+dynamic equilibrium
+dynamical system
+dynamics
+dynamo
+dynamo action
+dynamometer
+dyne
+dystectic mixture
+e
+e.m.f.
+early universe
+Earnshaw's theorem
+earth
+earth's atmosphere
+earth's magnetic field
+earthquake
+earthshine
+ebullioscopic constant
+eccentricity
+ECG
+echelon
+echo
+echolocation
+ECL
+eclipse
+ecliptic
+ECM
+Eddington limit
+eddy current
+Edison cell
+EEG
+effective temperature
+effective value
+efficiency
+effusion
+eigenfunction
+Einstein coefficients
+Einstein equation
+Einstein shift
+Einstein theory of specific heat
+Einstein, Albert (1879–1955)
+Einstein–Podolsky–Rosen experiment
+einsteinium
+ekpyrotic universe
+elastance
+elastic collision
+elastic modulus
+elasticity
+electret
+electric arc
+electric bell
+electric charge
+electric constant
+electric current
+electric displacement
+electric field
+electric flux
+electric flux density
+electric lighting
+electric motor
+electric polarization
+electric potential
+electric power
+electric spark
+electric susceptibility
+electric-arc furnace
+electrical conductivity in metals
+Electrical Conductivity in Metals
+electrical energy
+electricity
+electrocardiogram
+electrochemical cell
+electrochemical equivalent
+electrochemical series
+electrochemistry
+electrochromatography
+electrode
+electrode potential
+electrodeposition
+electrodialysis
+electrodynamics
+electroencephalogram
+electroforming
+electroluminescence
+electrolysis
+electrolyte
+electrolytic capacitor
+electrolytic cell
+electrolytic corrosion
+electrolytic gas
+electrolytic rectifier
+electrolytic refining
+electrolytic separation
+electromagnet
+electromagnetic induction
+electromagnetic interaction
+electromagnetic pump
+electromagnetic radiation
+electromagnetic spectrum
+electromagnetic units
+electromagnetic wave
+electrometallurgy
+electrometer
+electromotive force
+electromotive series
+electron
+electron affinity
+electron biprism
+electron capture
+electron counting rules
+electron cyclotron maser
+electron diffraction
+electron gun
+electron lens
+electron microscope
+electron optics
+electron probe microanalysis
+electron spectroscopy
+electron–nuclear double resonance
+electron-spin resonance
+electronegative
+electronics
+Electronics
+electronvolt
+electrophoresis
+electrophorus
+electroplating
+electropositive
+electroscope
+electrospray ionization
+electrostatic field
+electrostatic generator
+electrostatic precipitation
+electrostatic units
+electrostatics
+electrostriction
+electroweak theory
+electrum
+element
+elementary particles
+elements of an orbit
+elevation of boiling point
+Elinvar
+ellipse
+ellipsoid
+elliptical galaxy
+elliptical polarization
+eluate
+eluent
+elution
+elutriation
+emanation
+emergence
+emission spectrum
+emissivity
+emittance
+emitter
+emitter follower
+emitter-coupled logic
+empirical
+empirical formula
+emulsion
+enantiomers
+enantiomorphism
+endoergic
+ENDOR
+endothermic
+energy
+energy bands
+energy landscape
+energy level
+engine
+enrichment
+ensemble
+entanglement
+enthalpy
+entropy
+ephemeris
+ephemeris time
+epicentre
+epicycle
+epidiascope
+epitaxy
+epithermal neutron
+EPM
+EPR experiment
+EPROM
+equation of motion
+equation of state
+equation of time
+equator
+equilibrium
+equinox
+equipartition of energy
+erecting prism
+erg
+ergodic hypothesis
+ergodicity
+ergonomics
+Erlangen Programme
+Esaki diode
+ESCA
+escape velocity
+escapement
+ESI
+ESR
+ether
+eudiometer
+Eulerian fluid dynamics
+eutectic mixture
+evaporation
+evaporative cooling
+even–even nucleus
+even–odd nucleus
+event horizon
+evolute
+exa-
+exbi-
+excess electron
+exchange force
+excimer
+exciplex
+excitation
+exciton
+exclusion principle
+exitance
+exoergic
+exoplanet
+exosphere
+exothermic
+exotic atom
+expansion
+expansion of the universe
+expansivity
+exponent
+exponential
+exponential growth
+exposure meter
+extended ASCII
+extensive variable
+extensometer
+extinction coefficient
+extraction
+extraordinary ray
+extrapolation
+extrasolar planet
+extremely high frequency
+extrinsic semiconductor
+eye
+eyepiece
+F-centre
+f-number
+f.c.c.
+f.p.s. units
+Fabry–Pérot interferometer
+face-centred cubic
+facet
+factorial
+Fahrenheit scale
+Fahrenheit, Gabriel Daniel (1686–1736)
+fall-out
+false vacuum
+farad
+Faraday cage
+Faraday constant
+Faraday disk
+Faraday effect
+Faraday's laws
+Faraday's laws of electromagnetic induction
+Faraday, Michael (1791–1867)
+fast neutron
+fast reactor
+fast-ion conductor
+fatigue
+feedback
+FEM
+femto-
+Fermat's principle
+fermi
+Fermi constant
+Fermi level
+Fermi pressure
+Fermi, Enrico (1901–54)
+Fermi–Dirac statistics
+fermion
+fermium
+ferrimagnetism
+ferrite
+ferroalloys
+ferroelectric materials
+ferromagnetism
+fertile material
+FET
+Feynman diagram
+Feynman, Richard Phillips (1918–88)
+fibre optics
+field
+field coil
+field emission
+field lens
+field magnet
+field-effect transistor
+field-emission microscope
+field-ionization microscope
+file
+film badge
+filter
+filter pump
+filtrate
+filtration
+FIM
+finder
+fine structure
+fine structure constant
+finite series
+fissile material
+fission
+fission products
+fission-track dating
+Fitzgerald contraction
+fixed point
+fixed star
+fixed-target experiments
+Fizeau's method
+Fizeau, Armand Hippolyte Louis (1819–96)
+flame
+flash memory
+flash photolysis
+flash point
+flavour
+Fleming's rules
+flip-flop
+fluctuation–dissipation theorem
+fluctuations
+fluid mechanics
+fluidics
+fluidization
+fluorescence
+fluorescent light
+flux
+flux density
+flux quantum
+fluxmeter
+FM
+focal length
+focal point
+focal ratio
+Fock degeneracy
+focus
+Fokker–Planck equation
+foot
+forbidden band
+forbidden transitions
+force
+force ratio
+forced convection
+formula
+Fortin barometer
+fossil fuel
+Foucault pendulum
+four-level laser
+four-wave mixing
+Fourier analysis
+Fourier series
+Fourier transform
+Fourier-transform infrared
+fourth dimension
+fractal
+fractional quantum Hall effect
+frame dragging
+frame of reference
+francium
+Frank–Kasper phase
+Franklin, Benjamin (1706–90)
+Frasch process
+Fraunhofer diffraction
+Fraunhofer lines
+Fraunhofer, Josef von (1787–1826)
+free electron theory
+free energy
+free fall
+free space
+free-electron laser
+Free-Electron Theory
+freeze drying
+freezing mixture
+Frenkel defect
+Frenkel–Kontorowa model
+frequency
+frequency modulation
+fresnel
+Fresnel diffraction
+Fresnel lens
+friction
+Friedmann–Lemaître–Robertson–Walker model
+froth flotation
+frustration
+frustum
+fuel
+fuel cell
+fuel element
+fugacity
+full-wave rectifier
+fullerene
+fullerite
+function
+functional
+fundamental
+fundamental constants
+fundamental interactions
+fundamental units
+fuse
+fusible alloys
+fusion
+fusion reactor
+fuzzy logic
+Gabor, Dennis (1900–79)
+gain
+galaxy
+galaxy cluster
+galaxy formation
+Galilean telescope
+Galilean transformations
+Galileo Galilei (1564–1642)
+gallon
+Galvani, Luigi (1737–98)
+galvanic cell
+galvanized iron
+galvanometer
+gamma camera
+gamma radiation
+gamma-ray astronomy
+gamma-ray burst
+gas
+gas chromatography
+gas constant
+gas equation
+gas laws
+gas thermometer
+gas turbine
+gas-cooled reactor
+gas-phase electrophoresis
+gate
+gauge boson
+gauge theory
+gauss
+Gauss' law
+Gauss' theorem
+Gauss, Karl Friedrich (1777–1855)
+Gaussian distribution
+Gaussian units
+gaussmeter
+Gay-Lussac's law
+Gay-Lussac, Joseph Louis (1778–1850)
+gebi-
+Gegenschein
+Geiger counter
+Geiger, Hans Wilhelm (1882–1945)
+Geissler tube
+gel
+Gell-Mann, Murray (1929–  )
+general theory of relativity
+generation time
+generator
+geo-neutrinos
+geocentric universe
+geodesic
+geodesy
+geodetic effect
+geodynamics
+geomagnetism
+geometric distribution
+geometric mean
+geometric series
+geometrical optics
+geometrized units
+geophysics
+geostationary orbit
+geosynchronous orbit
+geothermal energy
+German silver
+getter
+GeV
+giant magnetoresistance
+giant star
+gibbous
+Gibbs free energy
+Gibbs, Josiah Willard (1839–1903)
+gibi-
+giga-
+gilbert
+Gilbert, William (1544–1603)
+gimbal
+Giorgi units
+Glaser, Donald Arthur (1926–2013)
+Glashow–Weinberg–Salam model
+glass
+glass electrode
+glass fibres
+glass transition
+Glauber model
+glide
+global positioning system
+globular cluster
+glove box
+glow discharge
+glueball
+gluino
+gluon
+Gödel's theorem
+Golay cell
+Gold, Thomas
+Goldstone's theorem
+Gopher
+Gouy balance
+governor
+GPS
+grad
+gradient
+gradient operator
+Graham's law
+Graham, Thomas (1805–69)
+gram
+grand unified theory
+graph
+graphene
+graphite-moderated reactor
+graticule
+grating
+gravitation
+gravitational collapse
+gravitational constant
+gravitational field
+gravitational interaction
+gravitational lens
+gravitational mass
+gravitational potential
+gravitational shift
+gravitational waves
+graviton
+gravity
+gray
+Great Attractor
+great circle
+greenhouse effect
+Gregorian telescope
+Greisen–Zatsephin–Kuzmin limit
+grey body
+grid
+ground state
+ground wave
+group theory
+Grover's algorithm
+gun metal
+GUT
+GWS model
+gyrocompass
+gyromagnetic ratio
+gyroscope
+GZK limit
+habit
+hadron
+Hahn, Otto (1879–1968)
+half cell
+half-life
+half-thickness
+half-wave plate
+half-wave rectifier
+half-width
+Hall effect
+Halley's comet
+Halley, Edmund (1656–1742)
+halo
+halo nucleus
+Hamilton, Sir William Rowan (1805–65)
+Hamiltonian
+hard ferromagnetic materials
+hard radiation
+hardware
+harmonic
+harmonic mean
+harmonic motion
+harmonic oscillator
+harmonic series
+Harvard classification
+hassium
+Hawking process
+Hawking, Stephen William (1942–  )
+health physics
+heat
+heat balance
+heat capacity
+heat death of the universe
+heat engine
+heat exchanger
+heat of atomization
+heat of combustion
+heat of formation
+heat of neutralization
+heat of reaction
+heat of solution
+heat pump
+heat radiation
+heat shield
+heat transfer
+Heaviside–Kennelly layer
+Heaviside–Lorentz units
+heavy hydrogen
+heavy water
+heavy-fermion system
+hecto-
+Heisenberg uncertainty principle
+Heisenberg, Werner Karl (1901–76)
+heliocentric universe
+helioseismology
+Helmholtz coils
+Helmholtz free energy
+Helmholtz, Hermann Ludwig Ferdinand von (1821–94)
+henry
+Henry's law
+Henry, Joseph (1797–1878)
+Hermann–Mauguin system
+hertz
+Hertz, Heinrich Rudolph (1857–94)
+Hertzsprung–Russell diagram
+Hess's law
+heterodyne
+heuristic
+Heusler alloys
+hidden matter
+hidden-variables theory
+Higgs boson
+Higgs field
+high frequency
+high tension
+high-speed steel
+high-temperature superconductivity
+higher dimensions
+Hilbert space
+Hildebrand rule
+hoarfrost
+HOE
+hole
+holographic hypothesis
+holographic optical element
+holography
+homopolar generator
+Hooke's law
+Hooke, Robert (1635–1703)
+horizon
+horsepower
+hot-wire instrument
+howl
+Hoyle, Sir Fred (1915–2001)
+Hubble constant
+Hubble Space Telescope
+Hubble's law
+Hubble, Edwin Powell (1889–1953)
+hue
+Hulse–Taylor pulsar
+hum
+Hume-Rothery rules
+humidity
+Humphreys series
+Hund coupling cases
+Hund's rules
+hunting
+Huygens' construction
+Huygens, Christiaan (1629–95)
+hydraulic press
+hydraulics
+hydrodynamics
+hydroelectric power
+hydrogen bomb
+hydrogen electrode
+hydrogen half cell
+hydrogen ion
+hydrogen spectrum
+hydrometeor
+hydrometer
+hydrostatics
+hygrometer
+hyper-
+hyperbola
+hyperbolic functions
+hypercharge
+hyperfine structure
+hypermetropia
+hypernetted chain approximation
+hypernova
+hyperon
+hypersonic
+hypertonic solution
+hypo-
+hypothesis
+hypotonic solution
+hypsometer
+hysteresis
+IBFM
+IBM
+ice point
+iconoscope
+icosahedron
+ideal crystal
+ideal gas
+ideal solution
+identity
+ignition temperature
+illuminance
+image
+image converter
+image intensifier
+imaginary number
+immersion objective
+impedance
+Imperial units
+implosion
+impulse
+IMS
+incandescence
+inclination
+incoherent scattering
+incommensurate lattice
+indefinite integral
+indeterminacy
+index theorems
+indirect transition
+induced emission
+induced fission
+inductance
+induction
+induction coil
+induction heating
+induction motor
+inelastic collision
+inequality
+inertia
+inertial confinement
+inertial frame
+inertial mass
+infinite series
+infinitesimal
+infinity
+inflation
+inflationary universe
+inflection
+information technology
+information theory
+infrared astronomy
+infrared radiation
+infrasound
+insolation
+instantaneous value
+insulator
+integer quantum Hall effect
+integral calculus
+integrand
+integrated circuit
+integration
+intensity
+intensive variable
+interacting-boson model
+interaction
+intercalation cell
+interference
+interferometer
+intermediate coupling
+intermediate frequency
+intermediate neutron
+intermediate vector boson
+intermetallic compound
+intermolecular forces
+internal conversion
+internal energy
+internal resistance
+internal-combustion engine
+international candle
+international date line
+International Practical Temperature Scale
+international system
+Internet
+interplanetary space
+interpolation
+interstellar space
+interstitial
+interstitial compound
+intrinsic semiconductor
+Invar
+inverse Compton effect
+inverse functions
+inverse-square law
+inversion layer
+inversion temperature
+involute
+ion
+ion engine
+ion exchange
+ion implantation
+ion pair
+ion pump
+ion trap
+ion-microprobe analysis
+ion-mobility spectrometry
+ionic radius
+ionic strength
+ionization
+ionization chamber
+ionization gauge
+ionization potential
+ionizing radiation
+ionosphere
+ionospheric wave
+IP
+IR
+iris
+irradiance
+irradiation
+irrational number
+irreversibility
+irreversible process
+isentropic process
+Ising model
+isobar
+isobaric spin
+isocline
+isodiaphere
+isodynamic line
+isoelectronic
+isogonal line
+isomerism
+isomers
+isometric
+isomorphism
+isospin
+isotherm
+isothermal process
+isotone
+isotonic
+isotope
+isotope separation
+isotopic number
+isotopic spin
+isotropic
+IT
+iteration
+IUPAC
+IUPAP
+j-j coupling
+Jahn–Teller effect
+Jaynes–Cummings model
+Jeans instability
+jet
+JET
+jet propulsion
+Joliot-Curie, Irène (1897–1956)
+Joly's steam calorimeter
+Josephson effects
+joule
+Joule heating
+Joule's laws
+Joule, James Prescott (1818–89)
+Joule–Thomson effect
+Jovian
+JUGFET
+junction detector
+junction transistor
+Kaluza–Klein theory
+KAM theorem
+kaon
+Kater's pendulum
+katharometer
+keeper
+kelvin
+Kelvin effect
+Kelvin, Lord (1824–1907)
+Kepler's laws
+Kepler, Johannes (1571–1630)
+Kerr effect
+kibi-
+kilo-
+kilogram
+kiloton weapon
+kilowatt-hour
+kinematic equation
+kinematic viscosity
+kinematics
+kinetic effect
+kinetic energy
+kinetic equations
+kinetic theory
+kinetics
+Kirchhoff's law of radiation
+Kirchhoff's laws
+Kirchhoff, Gustav Robert (1824–87)
+Klein–Gordon equation
+klystron
+knocking
+knot theory
+Knudsen flow
+Kohlrausch's law
+Kolmogorov–Arnold–Moser theorem
+Kovar
+Kramers theorem
+Kuiper belt
+Kundt's tube
+L–D process
+l-form
+labelling
+laevorotatory
+lag
+Lagrange multipler
+Lagrangian
+Lagrangian coherent structure
+Lagrangian fluid dynamics
+Lamb shift
+lambda particle
+lambda point
+lambert
+Lambert's laws
+laminar flow
+laminated core
+Landau damping
+Landau ghost
+Landau level
+Landauer's principle
+Landé interval rule
+Langevin equation
+Langlands program
+Langmuir adsorption isotherm
+Langmuir frequency
+Langmuir–Blodgett film
+Laplace equation
+Laplace's correction
+Large Electron-Positron Collider
+Large Hadron Collider
+large-scale structure
+Larmor precession
+laser
+laser cooling
+latent heat
+lateral inversion
+lateral velocity
+latitude and longitude
+lattice
+lattice energy
+lattice gauge theory
+lattice vibrations
+latus rectum
+Laue, Max Theodor Felix von (1879–1960)
+launch vehicle
+Laves phase
+Lavoisier, Antoine Laurent (1743–94)
+lawrencium
+laws, theories, and hypotheses
+Lawson criterion
+LCD
+LDR
+Le Chatelier's principle
+lead
+lead equivalent
+lead–acid accumulator
+least action
+least-squares method
+Leclanché cell
+LED
+LEED
+Leggett's theorem
+lens
+Lense–Thirring effect
+Lenz's law
+LEP
+lepton
+lepton number
+Leslie's cube
+level
+lever
+levitation
+Leyden jar
+LF
+LHC
+libration
+lifetime
+Lifshitz–Slyozov law
+ligand-field theory
+light
+light amplifier
+light bulb
+light scattering by light
+light year
+light-dependent resistor
+light-emitting diode
+lightning
+limit
+limit cycle
+limiting friction
+linac
+Linde process
+line defect
+line integral
+line spectrum
+line-of-sight velocity
+linear absorption coefficient
+linear accelerator
+linear energy transfer
+linear equation
+linear expansivity
+linear momentum
+linear motor
+lines of force
+Linz–Donawitz process
+liquation
+liquefaction of gases
+liquefied petroleum gas
+liquid
+liquid crystal
+liquid-crystal display
+liquid-drop model
+Lissajous figures
+lithium battery
+lithium-ion battery
+litre
+Lloyd's mirror
+loaded concrete
+Local Group
+local realism
+localization
+locus
+Lodge, Sir Oliver Joseph (1851–1940)
+logarithm
+logarithmic scale
+logarithmic series
+logic circuits
+long-sightedness
+longitude
+longitudinal wave
+loop variable
+Lorentz force
+Lorentz group
+Lorentz transformations
+Lorentz, Hendrick Antoon (1853–1928)
+Lorentz–Dirac equation
+Lorentz–Fitzgerald contraction
+Lorentz–Lorenz equation
+Loschmidt's constant
+loudness
+loudspeaker
+low frequency
+low-dimensional system
+low-temperature physics
+Low-Temperature Physics
+lowering of vapour pressure
+lubrication
+lumen
+luminance
+luminescence
+luminosity
+luminous exitance
+luminous flux
+luminous intensity
+lunar eclipse
+lunation
+Luttinger liquid
+lux
+Lyman series
+M-theory
+m.k.s. units
+m.m.f.
+Mach number
+Mach's principle
+machine
+Maclaurin's series
+macroscopic
+Madelung constant
+Madelung's rule
+Magellanic clouds
+magic numbers
+Magnadur
+Magnalium
+magnet
+magnetic bottle
+magnetic bubble memory
+magnetic circuit
+magnetic compass
+magnetic constant
+magnetic containment
+magnetic declination
+magnetic dip
+magnetic disk
+magnetic domain
+magnetic elements
+magnetic equator
+magnetic field
+magnetic field strength
+magnetic flux
+magnetic flux density
+magnetic force
+magnetic induction
+magnetic intensity
+magnetic meridian
+magnetic mirror
+magnetic moment
+magnetic monopole
+magnetic permeability
+magnetic poles
+magnetic potential
+magnetic quantum number
+Magnetic Resonance Imaging
+magnetic resonance imaging
+magnetic susceptibility
+magnetic tape
+magnetic trap
+magnetic variation
+magnetism
+magneto
+magneto-optical effects
+magneto-optical trap
+magnetobremsstrahlung
+magnetocaloric effect
+magnetochemistry
+magnetohydrodynamics
+magnetomechanical ratio
+magnetometer
+magnetomotive force
+magneton
+magnetoresistance
+magnetosphere
+
+magnetostriction
+magnetron
+magnification
+magnifying power
+magnitude
+magnon
+Magnox
+main-sequence stars
+Main-Smith–Stoner rule
+mainframe computer
+majority carrier
+Maksutov telescope
+MALDI
+malleability
+Malus's law
+Mandelbrot set
+manganin
+manometer
+mantissa
+many-body problem
+many-worlds interpretation
+Marconi, Guglielmo (1874–1937)
+Markoffian process
+martensite
+mascon
+maser
+mass
+mass action
+mass decrement
+mass defect
+mass number
+mass spectroscopy
+mass–energy equation
+matrix
+matrix mechanics
+maximum and minimum thermometer
+maximum permissible dose
+maxwell
+Maxwell relations
+Maxwell's demon
+Maxwell's equations
+Maxwell, James Clerk (1831–79)
+Maxwell–Boltzmann distribution
+McLeod gauge
+mean
+mean deviation
+mean free path
+mean free time
+mean life
+mean solar day
+mean-spherical approximation
+measurement error
+measurements of central tendency
+mebi-
+mechanical advantage
+mechanical equivalent of heat
+mechanics
+median
+medium frequency
+mega-
+megaton weapon
+Meissner effect
+Meitner, Lise (1878–1968)
+meitnerium
+melting point
+membrane
+memory
+Mendeleev, Dmitri Ivanovich (1834–1907)
+mendelevium
+meniscus
+mercury cell
+mercury-vapour lamp
+meridian
+meso form
+meson
+meson-catalysed fusion
+mesoscopic
+metal fatigue
+metal–insulator transition
+metallography
+metallurgy
+metamagnet
+metamaterial
+metamict state
+metastable state
+meteor
+meteorite
+method of mixtures
+metre
+metre bridge
+metric system
+metric ton
+metrology
+MHD
+mho
+Michelson–Morley experiment
+micro-
+microbalance
+microcavity
+microelectronics
+microgravity
+micrometeorite
+micrometer
+micron
+microphone
+microprocessor
+microscope
+microscopic
+Microscopy
+microwave background radiation
+microwave optics
+microwaves
+Milky Way
+milli-
+millibar
+Millikan's oil-drop experiment
+Millikan, Robert Andrews (1868–1953)
+minimal supersymmetric standard model
+Minkowski space
+minor planets
+minority carrier
+minute
+mirage
+mirror
+misch metal
+missing mass
+mixed-valence compounds
+mmHg
+mobility
+mobility edge
+mode
+model
+modem
+moderator
+modified Newtonian dynamics
+modulation
+modulus
+modulus of elasticity
+Moho
+Mohs' scale
+moiré pattern
+molar
+molar conductivity
+molar heat capacity
+molar latent heat
+molar volume
+mole
+mole fraction
+molecular beam
+molecular distillation
+molecular flow
+molecular formula
+molecular orbital
+molecular sieve
+molecular volume
+molecular weight
+molecule
+moment of a force
+moment of inertia
+momentum
+momentum space
+MOND
+monochromatic radiation
+monochromator
+monoclinic
+monomode fibre
+Monte Carlo simulation
+moon
+Moore's law
+Moscow zero
+Moseley's law
+Mössbauer effect
+MOT
+motion
+motor
+motor generator
+Mott insulator
+Mott transition
+moving-coil instrument
+moving-iron instrument
+moving-iron microphone
+MSSM
+mu-mesic atom
+multidimensional spectroscopy
+multimeter
+multimode fibre
+multiplet
+multiplication factor
+multiplicity
+multiplier
+multiverse
+multivibrator
+Mumetal
+Muntz metal
+muon
+muonic atom
+musical scale
+mutarotation
+mutual inductance
+myopia
+n-type conductivity
+N.T.P.
+nabla
+nadir
+NAND circuit
+nano-
+nanophysics
+Nanophysics
+nanotechnology
+nanotube
+Napierian logarithm
+natural abundance
+natural frequency
+natural logarithm
+natural units
+nautical mile
+Navier–Stokes equation
+Ne'eman, Yuval
+near point
+nebula
+Néel temperature
+negative binomial distribution
+negative charge
+negative feedback
+nematic crystal
+neon lamp
+neper
+nephelometry
+neptunium
+neptunium series
+Nernst effect
+Nernst heat theorem
+Net
+Neumann's law
+neural network
+neutrino
+neutrino astronomy
+neutron
+neutron bomb
+neutron diffraction
+neutron drip
+neutron excess
+neutron halo
+neutron interferometer
+neutron number
+neutron optics
+neutron scattering
+neutron star
+neutron temperature
+newton
+Newton's formula
+Newton's law of cooling
+Newton's law of gravitation
+Newton's laws of motion
+Newton's rings
+Newton, Sir Isaac (1642–1727)
+Newtonian fluid
+Newtonian mechanics
+Newtonian telescope
+Nichrome
+nickel silver
+nickel–cadmium cell
+nickel–iron accumulator
+Nicol prism
+NIFE cell
+nit
+NMR
+no-cloning theorem
+no-hair theorem
+nobelium
+nodal points
+node
+Noether's theorem
+noise
+Nomarski microscope
+nomogram
+non-Euclidean geometry
+non-Fermi liquid
+non-Newtonian fluid
+noncommutative geometry
+nonequilibrium statistical mechanics
+nonequilibrium thermodynamics
+nonlinear optics
+nonmetal
+nonpolar compound
+nonrelativistic quantum theory
+nonrenormalization theorems
+nonstoichiometric compound
+normal
+normal distribution
+normal modes
+normalizing
+NOT circuit
+note
+nova
+NSOM
+nuclear battery
+nuclear energy
+nuclear fission
+nuclear force
+nuclear fuel
+nuclear fusion
+nuclear isomerism
+nuclear magnetic resonance
+nuclear models
+nuclear moment
+nuclear physics
+nuclear power
+nuclear reaction
+nuclear reactor
+nuclear stability
+nuclear waste
+nuclear weapons
+nucleon
+nucleon emission
+nucleon number
+nucleonics
+nucleosynthesis
+nucleus
+nuclide
+null method
+numerical analysis
+nutation
+objective
+occlusion
+occultation
+octane number
+octave
+octet
+ocular
+odd–even nucleus
+odd–odd nucleus
+oersted
+Oersted, Hans Christian (1777–1851)
+ohm
+Ohm's law
+Ohm, Georg Simon (1787–1854)
+ohmmeter
+oil-immersion lens
+Oklo reactors
+Olbers' paradox
+omega-minus particle
+Oort cloud
+opacity
+opalescence
+open cluster
+open-hearth process
+opera glasses
+operator
+Oppenheimer–Volkoff limit
+opposition
+optic axis
+optical activity
+optical axis
+optical centre
+optical fibre
+optical flat
+optical glass
+optical isomers
+optical lattice
+optical lever
+optical maser
+optical microscope
+optical molasses
+optical pumping
+optical pyrometer
+optical rotary dispersion
+optical rotation
+optical telescope
+optical temperature
+optical trap
+optical tweezers
+optics
+optoelectronics
+OR circuit
+orbit
+orbital
+orbital quantum number
+orbital velocity
+order
+order of magnitude
+order parameter
+ordinary ray
+ordinate
+origin
+ortho-
+orthopositronium
+oscillation
+oscillator
+oscillatory universe
+oscilloscope
+osmiridium
+osmometer
+osmosis
+osmotic pressure
+Ostwald ripening
+Ostwald's dilution law
+Otto engine
+ounce
+overdamped
+overpotential
+overtones
+ozone layer
+p-type conductivity
+p.d.
+packing density
+packing fraction
+pair distribution function
+pair production
+palaeomagnetism
+para-
+parabola
+parabolic reflector
+paraboloid
+parallax
+parallel circuits
+parallel processing
+parallel spins
+parallel worlds
+parallelepiped
+parallelogram of forces
+parallelogram of vectors
+parallelogram of velocities
+paramagnetism
+parametric equation
+parapositronium
+parasitic capture
+paraxial ray
+parent
+parity
+parking orbit
+parsec
+partial
+partial derivative
+partial eclipse
+partial pressure
+particle
+particle physics
+particle-beam experiments
+particle-in-a-box
+partition
+partition coefficient
+partition function
+parton
+pascal
+Pascal's distribution
+Pascal's law
+Pascal, Blaise (1623–62)
+Paschen series
+Paschen–Back effect
+passive device
+path integral formulation
+Paul trap
+Pauli exclusion principle
+Pauli, Wolfgang Ernst (1900–58)
+pearlite
+Pearson symbol
+pebi-
+peculiar motion
+Peierls instability
+pellet fusion
+Peltier effect
+pendulum
+penetration depth
+Penning gauge
+Penning trap
+Penrose process
+Penrose, Sir Roger (1931–  )
+pentaquark
+pentode
+penumbra
+percentile
+Percus–Yevick approximation
+perfect gas
+perfect pitch
+perfect solution
+pericynthion
+perigee
+perihelion
+period
+period doubling
+periodic law
+periodic motion
+periodic table
+peripheral device
+periscope
+Permalloys
+permanent gas
+permanent magnet
+permeability
+permittivity
+permutations and combinations
+perpetual motion
+perturbation
+perturbation theory
+perversion
+PET
+peta-
+pewter
+Pfund series
+pH
+pH scale
+phase
+phase angle
+phase diagram
+phase modulation
+phase rule
+phase space
+phase speed
+phase transition
+phase-contrast microscope
+phases of the moon
+phasor
+phlogiston theory
+phon
+phonon
+phosphor bronze
+phosphorescence
+phot
+photino
+photocathode
+photocell
+photochemical reaction
+photochemistry
+photochromism
+photoconductive effect
+photodiode
+photodisintegration
+photoelasticity
+photoelectric cell
+photoelectric effect
+photoelectron
+photoelectron spectroscopy
+photoemission
+photofission
+photographic density
+photography
+photoionization
+photolithography
+photoluminescence
+photolysis
+photometer
+photometric brightness
+photometry
+photomicrography
+photomultiplier
+photon
+photoneutron
+photonic crystal
+photonics
+photonuclear reaction
+photopic vision
+photoreceptor
+photosensitive substance
+photosphere
+phototransistor
+photovoltaic effect
+physical chemistry
+physics
+physisorption
+pi
+pi electron
+pi-meson
+pico-
+pie chart
+piezoelectric crystal
+piezoelectric effect
+piezoelectric oscillator
+pig iron
+pinch effect
+pion
+PIR detector
+Pirani gauge
+pitch
+Pitot tube
+pixel
+Planck constant
+Planck length
+Planck mass
+Planck time
+Planck units
+Planck's radiation law
+Planck, Max Karl Ernst Ludwig (1858–1947)
+plane
+plane-polarized light
+planet
+planimeter
+plano-concave lens
+plano-convex lens
+plasma
+plasma display
+plasma oscillation
+plasmon
+plasmonics
+plasticity
+pleochroic
+plutonium
+Poincaré group
+Poincaré sphere
+Poincaré stresses
+point defect
+point discharge
+point group
+point-contact transistor
+poise
+Poiseuille's equation
+poison
+Poisson distribution
+Poisson's ratio
+Poisson's spot
+polar coordinates
+polar molecule
+polar vector
+polarimeter
+polarizability
+polarization
+polarization of light
+polarizer
+polarizing angle
+Polaroid
+polaron
+pole
+pollution
+polonium
+polychromatic radiation
+polygon
+polygon of forces
+polyhedron
+polynomial
+population inversion
+population type
+positive charge
+positive feedback
+positron
+positron emission tomography
+positron microscope
+positronium
+post-Newtonian approximation
+potassium–argon dating
+potential
+potential barrier
+potential difference
+potential divider
+potential energy
+potentiometer
+pound
+poundal
+powder metallurgy
+powder method
+power
+power factor
+power reactor
+Poynting vector
+preamplifier
+precession of the equinoxes
+precessional motion
+precipitation
+preons
+presbyopia
+pressure
+pressure gauge
+pressurized-water reactor
+Prévost's theory of exchanges
+primary cell
+primary colour
+primary winding
+principal axis
+principal focus
+principal plane
+principal point
+principle of least action
+principle of superposition
+printed circuit
+prism
+probability
+progressive wave
+projectile
+projective relativity theory
+projector
+PROM
+prompt neutrons
+proper motion
+proportional counter
+proportional limit
+protactinium
+proton
+proton decay
+proton number
+protostar
+pseudo-scalar
+pseudo-vector
+psi particle
+psychrometer
+Ptolemaic astronomy
+pulley
+pulsar
+pulsatance
+pulse
+pulse jet
+pulse modulation
+pump
+pyramid
+pyroelectricity
+pyrometric cones
+pyrometry
+pyrophoric
+Q-value
+QCD
+QED
+QFD
+QSG
+QSO
+QSS
+quadratic equation
+quadrature
+quadrupole mass spectrometer
+quality of sound
+quanglement
+quantization
+quantum
+quantum chaos
+quantum chromodynamics
+quantum cloning
+quantum computing
+quantum cryptography
+quantum dot
+quantum electrodynamics
+quantum electronics
+Quantum Entanglement
+quantum entanglement
+quantum error correction
+quantum field theory
+quantum flavourdynamics
+quantum gravity
+quantum group
+quantum Hall effect
+quantum interferometry
+quantum jump
+quantum mechanics
+quantum number
+quantum optics
+quantum phase transition
+quantum simulation
+quantum spin liquid
+quantum state
+quantum statistics
+quantum teleportation
+quantum theory
+quantum theory of radiation
+quantum Turing machine
+quantum well
+quantum wire
+quantum Zeno effect
+quark
+quark confinement
+quark–gluon plasma
+quarter-wave plate
+quartile
+quartz
+quartz clock
+quasars
+quasicrystal
+quasiparticle
+quasiperiodicity
+quaternion
+qubit
+quenching
+quintessence
+r-process
+r.a.m.
+Rabi model
+racemic mixture
+rad
+radar
+radial field
+radial velocity
+radian
+radiance
+radiant energy
+radiant exitance
+radiant flux
+radiant intensity
+radiation
+radiation belts
+radiation damage
+radiation pressure
+radiation temperature
+radiation units
+radiationless decay
+radiative collision
+radical
+radio
+radio astronomy
+radio frequencies
+radio galaxies
+radio interferometry
+radio source
+radio star
+radio telescope
+radio transmission
+radio window
+radioactive dating
+radioactive equilibrium
+radioactive series
+radioactive tracing
+radioactive waste
+radioactivity
+radiobiology
+radiocarbon dating
+radiochemistry
+radiogenic
+radiography
+radioisotope
+radioisotope imaging
+radiolocation
+radiology
+radiolysis
+radiometric dating
+radionuclide
+radiopaque
+radiosonde
+radiotherapy
+radiotransparent
+radium
+radius of curvature
+radius of gyration
+radius vector
+radon
+rainbow
+Raman effect
+ramjet
+Ramsay, Sir William (1852–1916)
+Ramsden eyepiece
+Randall–Sundrum scenario
+random alloy
+random walk
+Rankine cycle
+Rankine temperature scale
+Raoult's law
+rarefaction
+RAS
+raster
+rational number
+rationalized Planck constant
+rationalized units
+ray
+Rayleigh criterion
+Rayleigh scattering
+Rayleigh, Lord (1842–1919)
+Rayleigh–Jeans formula
+RBS
+reactance
+reaction
+reaction propulsion
+reactor
+real gas
+real image
+real-is-positive convention
+Réaumur temperature scale
+recalescence
+reciprocal space
+recombination era
+recombination process
+rectification
+rectifier
+red dwarf
+red giant
+redshift
+reflectance
+reflecting telescope
+reflection
+reflection anisotropy spectroscopy
+refracting telescope
+refraction
+refractive index
+refractivity
+refractometer
+refractory
+refrigerant
+refrigeration
+Regnault's method
+regression analysis
+relational theory
+relative aperture
+relative atomic mass
+relative density
+relative humidity
+relative molecular mass
+relative permeability
+relative permittivity
+relativistic electronics
+relativistic jets
+relativistic mass
+relativistic mechanics
+relativistic quantum theory
+relativistic runaway theory
+relativistic speed
+relativity
+relaxation oscillator
+relay
+reluctance
+reluctivity
+rem
+remanence
+remote sensing
+renewable energy sources
+renormalization
+renormalization group
+renormalon
+reptation
+resistance
+resistance thermometer
+resistivity
+resistor
+resolution
+resolving power
+resonance
+resonant cavity
+resonant circuit
+resonating valence bond theory
+rest energy
+rest mass
+restitution coefficient
+resultant
+retardation
+retardation plate
+retina
+retrograde motion
+retrorocket
+reverberation time
+reverberatory furnace
+reverse osmosis
+reversible process
+Reynolds number
+rhe
+rheology
+rheopexy
+rheostat
+Richardson equation
+Richter scale
+Riemannian geometry
+rigidity modulus
+ring main
+ripple
+RMS value
+robotics
+Rochelle salt
+Rochon prism
+rock crystal
+rocket
+rocking-chair cell
+rod
+roentgen
+Roentgen, William Konrad (1845–1923)
+roentgenium
+rolling friction
+root-mean-square value
+Rose's metal
+rot
+rotary converter
+rotational motion
+rotor
+rubidium–strontium dating
+Rumford, Count (1753–1814)
+Russell–Saunders coupling
+Rutherford and Royd's apparatus
+Rutherford backscattering spectrometry
+Rutherford scattering
+Rutherford, Ernest, Lord (1871–1937)
+rutherfordium
+Rydberg constant
+Rydberg spectrum
+S-drop
+S-matrix theory
+s-process
+s.t.p.
+Sachs–Wolfe effect
+Sackur–Tetrode equation
+sacrificial protection
+sampling
+satellite
+saturated
+saturation
+sawtooth waveform
+scalar potential
+scalar product
+scalar quantity
+scalar triple product
+scalene
+scaler
+scaling analysis
+scanning
+scanning electron microscope
+scanning probe microscopy
+scanning tunnelling microscopy
+scattering of electromagnetic radiation
+schlieren photography
+Schmidt camera
+Schoenflies system
+Schottky defect
+Schottky effect
+Schrieffer, John
+Schrödinger equation
+Schrödinger's cat
+Schrödinger, Erwin (1887–1961)
+Schwarzschild radius
+Schwinger effect
+scintillation camera
+scintillation counter
+sclerometer
+scotopic vision
+screen grid
+screw
+seaborgium
+search coil
+Searle's bar
+second
+secondary cell
+secondary colour
+secondary emission
+secondary winding
+secular magnetic variation
+sedimentation
+Seebeck effect
+Seger cones
+Segrè chart
+Segrè plot
+seismic waves
+seismograph
+seismology
+selection rules
+selectron
+selenium cell
+selenology
+self inductance
+self-energy
+self-exciting generator
+self-organization
+self-similarity
+semiclassical approximation
+semiconductor
+semiconductor diode
+semiconductor laser
+semipermeable membrane
+series
+series circuits
+series-wound machine
+sets
+sextant
+shadow
+shear modulus
+shearing force
+shell model
+sherardizing
+shielding
+SHM
+shock wave
+Shockley, William
+Shor's algorithm
+short-sightedness
+shower
+shunt
+SI units
+sideband
+sidereal day
+sidereal period
+siemens
+sievert
+sigma particle
+sign convention
+signal
+signal-to-noise ratio
+signature of space-time
+significant figures
+silicon chip
+simple harmonic motion
+simulation
+simultaneity
+sine wave
+single electron transistor
+single-sideband modulation
+singularity
+sintering
+sinusoidal oscillator
+sinusoidal wave
+siphon
+Sisyphus effect
+skin depth
+skip distance
+sky wave
+skyrmion
+slepton
+slow neutron
+slug
+smectic
+smelting
+smoke
+Snell's law
+snowflake curve
+Soddy, Frederick (1877–1956)
+sodium–sulphur cell
+sodium-vapour lamp
+soft iron
+soft matter
+soft radiation
+software
+sol
+solar cell
+solar constant
+solar day
+solar energy
+solar heating
+solar neutrino problem
+solar parallax
+solar prominence
+Solar System
+solar system
+solar wind
+solar year
+solder
+solenoid
+solid
+solid angle
+solid electrolyte
+solid solution
+solid superfluid
+solid-state detector
+solid-state physics
+soliton
+solstice
+solubility
+solubility product
+solute
+solution
+solvation
+solvent
+sonar
+sonic boom
+sonometer
+sorption
+sorption pump
+sound
+source
+space
+space group
+space probe
+space-reflection symmetry
+space–time
+spallation
+spark
+spark chamber
+spark counter
+special theory of relativity
+specific
+specific activity
+specific charge
+specific gravity
+specific heat capacity
+specific humidity
+specific impulse
+specific intensity
+specific latent heat
+specific resistance
+specific surface
+specific volume
+spectral class
+spectrochemical series
+spectrograph
+spectrometer
+spectrophotometer
+spectroscope
+spectroscopic binary
+spectroscopy
+spectrum
+speculum
+speed
+speed of light
+speed of sound
+sphere
+spherical aberration
+spherical harmonics
+spherical mirror
+spherical polar coordinates
+spherometer
+spiegel
+spin
+spin drag
+spin glass
+spin Hall effect
+spin network
+spin transport
+spin wave
+spin–orbit coupling
+spin–statistics theorem
+spinodal curve
+spinodal decomposition
+spinor
+spintronics
+spiral galaxy
+SPM
+spontaneous emission
+spring balance
+SPS
+sputtering
+square wave
+squark
+squeezed state
+SSSB
+stable equilibrium
+stainless steel
+standard cell
+standard deviation
+standard electrode
+standard electrode potential
+standard form
+standard model
+standard state
+standard temperature and pressure
+standing wave
+star
+star cluster
+Stark effect
+starquake
+stat-
+state of matter
+static electricity
+statics
+stationary orbit
+stationary state
+stationary wave
+statistical error
+statistical mechanics
+statistics
+stator
+steady-state theory
+steam distillation
+steam engine
+steam point
+steel
+Stefan's law
+stellar evolution
+stellar wind
+steradian
+stere
+Stern–Gerlach experiment
+stimulated emission
+Stirling engine
+STM
+stochastic process
+stokes
+Stokes' law
+Stokes' parameters
+Stokes' theorem
+Stokes, Sir George Gabriel (1819–1903)
+stop
+stopping power
+storage ring
+strain
+strain gauge
+strain hardening
+strange attractor
+strange matter
+strangeness
+stratosphere
+stray capacitance
+streamline flow
+stress
+string
+string landscape
+stripping reaction
+stroboscope
+strong interaction
+structure formation in the universe
+Strukturbericht
+subatomic particle
+subcritical
+sublimate
+sublimation
+submillimetre waves
+subshell
+subsonic speed
+subtractive process
+sun
+sunspot
+super high frequency
+Super Proton Synchrotron
+superatom
+supercluster
+superconductivity
+supercooling
+supercritical
+superdeformed nucleus
+superexchange
+superficial expansivity
+superfluidity
+supergiant
+supergravity
+superheavy elements
+superheterodyne receiver
+superionic conductor
+superlattice
+supermembrane theory
+supernova
+superplasticity
+superposition principle
+supersaturated solution
+supersaturation
+supersonic
+superstring theory
+supersymmetry
+supertransuranics
+supplementary units
+suppressor grid
+surd
+surface integral
+surface tension
+surfactant
+susceptance
+susceptibility
+suspension
+symmetry
+synchrocyclotron
+synchronous
+synchronous motor
+synchronous orbit
+synchronous rotation
+synchrotron
+synchrotron radiation
+synodic month
+synodic period
+synthetic metal
+Système International d'Unités
+systems software
+syzygy
+T invariance
+T violation
+tachometer
+tachyon
+tandem generator
+tangent
+tangent galvanometer
+tau particle
+Taylor series
+tebi-
+technicolour theory
+tektite
+telecommunications
+telephoto lens
+telescope
+Telescopes, Optical Astronomical
+television
+television tube
+temperament
+temperature
+temperature coefficient
+temperature scales
+tempering
+temporary magnetism
+tensile strength
+tensimeter
+tensiometer
+tensor
+tera-
+terminal
+terminal speed
+terminator
+terrestrial magnetism
+tertiary colour
+tesla
+Tesla coil
+tetragonal
+tetrahedron
+tetrode
+theodolite
+theoretical physics
+theory
+theory of everything
+therm
+thermal capacity
+thermal conductivity
+thermal diffusion
+thermal equilibrium
+thermal expansion
+thermal imaging
+thermal neutrons
+thermal reactor
+thermalization
+thermionic emission
+thermionic valve
+thermionics
+thermistor
+thermite
+thermochemistry
+thermocouple
+thermodynamic temperature
+thermodynamics
+thermoelectricity
+thermograph
+thermography
+thermoluminescence
+thermoluminescent dating
+thermometer
+thermonuclear reaction
+thermonuclear reactor
+thermonuclear weapon
+thermopile
+thermostat
+theta vacuum
+thixotropy
+Thompson, Benjamin
+Thomson effect
+Thomson scattering
+Thomson, Sir Joseph John (1856–1940)
+Thomson, Sir William
+thorium
+thorium series
+three-body problem
+threshold
+threshold frequency
+thrust
+thunderstorm
+thyratron
+thyristor
+tidal energy
+tides
+timbre
+time
+time constant
+time dependence of fundamental constants
+time dilation
+time reversal
+time sharing
+time travel
+time-lapse photography
+time-of-flight mass spectrometer
+timebase
+TOE
+Tokamak
+tomography
+Tomonaga–Luttinger liquid
+top quark
+topological defect
+topological insulator
+topological invariant
+topology
+torque
+torr
+Torricellian vacuum
+torsion
+torsion balance
+torus
+total internal reflection
+total-radiation pyrometer
+totality
+tracing
+trajectory
+transactinide elements
+transcendental number
+transducer
+transformer
+transient
+transistor
+transition point
+translation
+translucent
+transmission coefficient
+transmission electron microscope
+transmittance
+transmitter
+transparent
+transponder
+transport coefficients
+transport number
+transport theory
+transuranic elements
+transverse wave
+travelling wave
+travelling-wave accelerator
+Travers, Morris
+triangle of vectors
+triboelectricity
+tribology
+triboluminescence
+triclinic
+trigonometric functions
+triode
+triple point
+triple product
+tritiated compound
+tritium
+triton
+tropical year
+troposphere
+tuned circuit
+tuning fork
+tunnel diode
+tunnel effect
+turbine
+turbogenerator
+turbojet
+turbulence
+Turing machine
+turns ratio
+tweeter
+twin paradox
+twinning
+twistor
+Tyndall effect
+UHV
+ultracentrifuge
+ultrahigh frequency
+ultramicroscope
+ultrasonic imaging
+ultrasonics
+ultraviolet microscope
+ultraviolet radiation
+umbra
+uncertainty principle
+underdamped
+undetermined multiplier
+uniaxial crystal
+Unicode
+unified model
+unified-field theory
+uniform field
+union
+unit
+unit cell
+unit magnetic pole
+unit vector
+unitary transformation
+universal constant
+universal motor
+universality
+universe
+Unruh effect
+unstable equilibrium
+upper atmosphere
+upthrust
+uranium
+uranium series
+uranium–lead dating
+URL
+UV
+vacancy
+vacuum
+vacuum pump
+vacuum state
+vacuum tube
+valence band
+valence bond theory
+valence electron
+valency
+valley of stability
+valve
+Van Allen belts
+Van de Graaff accelerator
+Van de Graaff generator
+van der Waals' equation
+van der Waals' force
+van't Hoff factor
+van't Hoff's isochore
+vapour density
+vapour pressure
+variable star
+variance
+variation
+variational principle
+variometer
+vector
+vector product
+vector space
+vector triple product
+velocity
+velocity modulation
+velocity ratio
+Venn diagram
+Venturi tube
+vernier
+very high frequency
+very low frequency
+Victor Meyer's method
+video camera
+virial equation
+virtual image
+virtual particle
+virtual state
+virtual work
+viscoelasticity
+viscometer
+viscosity
+visible spectrum
+visual binary
+volt
+Volta, Alessandro Giuseppe Antonio Anastasio (1745–1827)
+voltage
+voltage divider
+voltaic cell
+voltaic pile
+voltameter
+voltmeter
+volume
+volume integral
+von Laue, Max
+vortex dynamics
+vortex pinning
+W boson
+W particle
+wall effect
+Walton, Ernest
+watt
+wattmeter
+wave
+wave equation
+wave form
+wave function
+wave guide
+wave mechanics
+wave number
+wave packet
+wave power
+wave theory
+wave vector
+wave–particle duality
+wavefront
+wavelength
+wavemeter
+weak interaction
+weakly interacting massive particle
+Web
+weber
+Weber, Wilhelm Eduard (1804–91)
+weight
+weightlessness
+Weinberg–Salam model
+Weston cell
+wet-and-dry bulb hygrometer
+Wheatstone bridge
+Wheatstone, Sir Charles (1802–75)
+whistler
+white dwarf
+white hole
+white noise
+Wiedemann–Franz law
+Wien formula
+Wien's displacement law
+Wigner energy
+Wigner nuclides
+Wigner's friend
+Wigner's rule
+Wilson cloud chamber
+Wilson, Charles Thomson Rees (1869–1959)
+WIMP
+Wimshurst machine
+wind power
+window
+wino
+Witten, Edward (1951–  )
+WMAP
+Wollaston prism
+Wood's metal
+woofer
+word
+work
+work function
+work hardening
+world line
+World Wide Web
+wormhole
+wrought iron
+WS model
+WWW
+X-ray astronomy
+X-ray crystallography
+X-ray diffraction
+X-ray fluorescence
+X-ray sources
+X-ray spectrum
+X-ray tube
+X-rays
+Yagi aerial
+Yang–Mills theory
+yard
+year
+yield point
+yocto-
+yotta-
+Young modulus of elasticity
+Young's slits
+Young, Thomas (1773–1829)
+Z boson
+Zeeman effect
+Zeilinger's principle
+Zener diode
+zenith
+zepto-
+zero-point energy
+zeroth law of thermodynamics
+zetta-
+zinc chloride cell
+zino
+zodiac
+zodiacal light
+zone refining
+zoom lens
+zwitterion

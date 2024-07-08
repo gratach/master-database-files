@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://quantsimulant.de/physOnto.owl"
+         xmlns="http://quantsimulant.de/physOnto.owl#">
+
+<owl:Ontology rdf:about="http://quantsimulant.de/physOnto.owl"/>
+
+<owl:ObjectProperty rdf:about="#testAreaHasSetup">
+  <rdfs:domain rdf:resource="#TestArea"/>
+  <rdfs:range rdf:resource="#ExperimentSetup"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentConductedIn">
+  <rdfs:domain rdf:resource="#ConductedExperiment"/>
+  <rdfs:range rdf:resource="#TestArea"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentHasDataFormat">
+  <rdfs:domain rdf:resource="#ConductedExperiment"/>
+  <rdfs:range rdf:resource="#DataFormat"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentOutputHasDataFormat">
+  <rdfs:domain rdf:resource="#ExperimentSetup"/>
+  <rdfs:range rdf:resource="#DataFormat"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentInputHasDataFormat">
+  <rdfs:domain rdf:resource="#ExperimentSetup"/>
+  <rdfs:range rdf:resource="#DataFormat"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#dataHasFormat">
+  <rdfs:domain rdf:resource="#Data"/>
+  <rdfs:range rdf:resource="#DataFormat"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentOutputHasData">
+  <rdfs:domain rdf:resource="#ConductedExperiment"/>
+  <rdfs:range rdf:resource="#Data"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#experimentInputHasData">
+  <rdfs:domain rdf:resource="#ConductedExperiment"/>
+  <rdfs:range rdf:resource="#Data"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="#ExperimentSetup">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#TestArea">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#ConductedExperiment">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#DataFormat">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#Data">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+
+</rdf:RDF>
