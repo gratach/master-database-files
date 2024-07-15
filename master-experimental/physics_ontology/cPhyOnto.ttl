@@ -1,0 +1,80 @@
+@prefix cPhyOnto: <http://quantsimulant.de/owl/clarityPhysOnto/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+cPhyOnto:ExperimentalDeviceHasSetup a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ExperimentalDevice ;
+    rdfs:range cPhyOnto:ExperimentSetup .
+
+cPhyOnto:dataHasFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:Data ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:experimentConductedAtTime a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ConductedExperiment ;
+    rdfs:range cPhyOnto:DateTime .
+
+cPhyOnto:experimentConductedWithDevice a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ConductedExperiment ;
+    rdfs:range cPhyOnto:ExperimentalDevice .
+
+cPhyOnto:experimentHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ConductedExperiment ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:experimentInputHasData a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ConductedExperiment ;
+    rdfs:range cPhyOnto:Data .
+
+cPhyOnto:experimentInputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ExperimentSetup ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:experimentOutputHasData a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ConductedExperiment ;
+    rdfs:range cPhyOnto:Data .
+
+cPhyOnto:experimentOutputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ExperimentSetup ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:isModelOf a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ModelledExperiment ;
+    rdfs:range cPhyOnto:ExperimentSetup .
+
+cPhyOnto:simulatedExperimentUsesModel a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:SimulatedExperiment ;
+    rdfs:range cPhyOnto:ModelledExperiment .
+
+cPhyOnto:simulationInputHasData a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:SimulatedExperiment ;
+    rdfs:range cPhyOnto:Data .
+
+cPhyOnto:simulationInputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ModelledExperiment ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:simulationOutputHasData a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:SimulatedExperiment ;
+    rdfs:range cPhyOnto:Data .
+
+cPhyOnto:simulationOutputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain cPhyOnto:ModelledExperiment ;
+    rdfs:range cPhyOnto:DataFormat .
+
+cPhyOnto:DateTime a owl:Class .
+
+cPhyOnto:ExperimentalDevice a owl:Class .
+
+cPhyOnto:SimulatedExperiment a owl:Class .
+
+cPhyOnto:ExperimentSetup a owl:Class .
+
+cPhyOnto:ModelledExperiment a owl:Class .
+
+cPhyOnto:ConductedExperiment a owl:Class .
+
+cPhyOnto:Data a owl:Class .
+
+cPhyOnto:DataFormat a owl:Class .
+

@@ -1,0 +1,132 @@
+[
+    [
+        2,
+        "is based on",
+        18
+    ],
+    [
+        3,
+        "is explained by",
+        2
+    ],
+    [
+        4,
+        "tests",
+        3
+    ],
+    [
+        4,
+        "uses",
+        8
+    ],
+    [
+        5,
+        "measures",
+        7
+    ],
+    [
+        6,
+        "is a type of",
+        1
+    ],
+    [
+        8,
+        "is used for",
+        9
+    ],
+    [
+        9,
+        "is applied in",
+        4
+    ],
+    [
+        10,
+        "proposes",
+        3
+    ],
+    [
+        10,
+        "studies",
+        1
+    ],
+    [
+        11,
+        "is studied by",
+        15
+    ],
+    [
+        12,
+        "is measured by",
+        4
+    ],
+    [
+        13,
+        "is a type of",
+        14
+    ],
+    [
+        13,
+        "governs",
+        12
+    ],
+    [
+        14,
+        "is converted in",
+        23
+    ],
+    [
+        15,
+        "is a branch of",
+        2
+    ],
+    [
+        16,
+        "is observed with",
+        8
+    ],
+    [
+        17,
+        "is a result of",
+        24
+    ],
+    [
+        18,
+        "describes",
+        19
+    ],
+    [
+        19,
+        "is constant in",
+        1
+    ],
+    [
+        20,
+        "is a characteristic of",
+        12
+    ],
+    [
+        21,
+        "involves",
+        5
+    ],
+    [
+        22,
+        "accelerates",
+        11
+    ],
+    [
+        24,
+        "involves",
+        16
+    ],
+    [
+        25,
+        "categorizes",
+        20
+    ],
+    [
+        26,
+        "produces",
+        11
+    ]
+]

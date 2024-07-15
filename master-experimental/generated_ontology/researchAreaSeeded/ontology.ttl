@@ -1,0 +1,212 @@
+@prefix onto: <http://quantsimulant.de/owl/generated_ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+onto:analyzesPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:DimensionalAnalysis ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:appliesScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:ScientificMethod .
+
+onto:associatedWithMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyType ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:basedOnPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:createdInParticleAccelerator a owl:ObjectProperty ;
+    rdfs:domain onto:SubatomicParticle ;
+    rdfs:range onto:ParticleAccelerator .
+
+onto:definesPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalConcept ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:describePhysicalPhenomenon a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:PhysicalPhenomenon .
+
+onto:describedInPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:MatterState ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:describesPhysicalPhenomenon a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalPhenomenon .
+
+onto:focusesOnPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:governedByPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:ThermodynamicProcess ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:identifiedAsAstronomicalObject a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:AstronomicalObject .
+
+onto:includesFieldTheory a owl:ObjectProperty ;
+    rdfs:domain onto:FieldTheory ;
+    rdfs:range onto:FieldTheory .
+
+onto:includesPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:includesPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:includesPhysicist a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:Physicist .
+
+onto:involvesEnergyType a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyConversion ;
+    rdfs:range onto:EnergyType .
+
+onto:involvesPhysicalConstant a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalConstant_2 a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalConstant_3 a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalConcept ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalExperiment a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalExperiment .
+
+onto:measuresPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:partOfPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:QuantumConcept ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:requiresMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:requiresScientificEquipment a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:ScientificEquipment .
+
+onto:resultOfNuclearReaction a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyType ;
+    rdfs:range onto:NuclearReaction .
+
+onto:resultsInEnergyConversion a owl:ObjectProperty ;
+    rdfs:domain onto:NuclearReaction ;
+    rdfs:range onto:EnergyConversion .
+
+onto:studiedByPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:studiedByPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:SubatomicParticle ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:studiedByPhysicalTheory_2 a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:studiedWithScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:ElectromagneticSpectrum ;
+    rdfs:range onto:ScientificMethod .
+
+onto:studiesPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:typeOfPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:Force ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:typeOfPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:WaveType ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:usedForDimensionalAnalysis a owl:ObjectProperty ;
+    rdfs:domain onto:MeasurementUnit ;
+    rdfs:range onto:DimensionalAnalysis .
+
+onto:usesMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:usesScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:ScientificMethod .
+
+onto:utilizesScientificEquipment a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:ScientificEquipment .
+
+onto:verifiesPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:ElectromagneticSpectrum a owl:Class .
+
+onto:Force a owl:Class .
+
+onto:MatterState a owl:Class .
+
+onto:ParticleAccelerator a owl:Class .
+
+onto:Physicist a owl:Class .
+
+onto:QuantumConcept a owl:Class .
+
+onto:ThermodynamicProcess a owl:Class .
+
+onto:WaveType a owl:Class .
+
+onto:DimensionalAnalysis a owl:Class .
+
+onto:EnergyConversion a owl:Class .
+
+onto:FieldTheory a owl:Class .
+
+onto:NuclearReaction a owl:Class .
+
+onto:PhysicalPhenomenon a owl:Class .
+
+onto:ScientificEquipment a owl:Class .
+
+onto:SubatomicParticle a owl:Class .
+
+onto:EnergyType a owl:Class .
+
+onto:PhysicalConstant a owl:Class .
+
+onto:ScientificMethod a owl:Class .
+
+onto:AstronomicalObject a owl:Class .
+
+onto:MeasurementUnit a owl:Class .
+
+onto:PhysicalProperty a owl:Class .
+
+onto:PhysicalConcept a owl:Class .
+
+onto:PhysicalExperiment a owl:Class .
+
+onto:PhysicalLaw a owl:Class .
+
+onto:PhysicalTheory a owl:Class .
+
+onto:ResearchArea a owl:Class .
+
