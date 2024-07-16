@@ -1,0 +1,601 @@
+@prefix : <http:quantsimulant.de/rdf/auto-generated/> .
+@prefix onto: <http://quantsimulant.de/owl/generated_ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+onto:analyzesPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:DimensionalAnalysis ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:appliesScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:ScientificMethod .
+
+onto:associatedWithMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyType ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:basedOnPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:createdInParticleAccelerator a owl:ObjectProperty ;
+    rdfs:domain onto:SubatomicParticle ;
+    rdfs:range onto:ParticleAccelerator .
+
+onto:definesPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalConcept ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:describePhysicalPhenomenon a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:PhysicalPhenomenon .
+
+onto:describedInPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:MatterState ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:describesPhysicalPhenomenon a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalPhenomenon .
+
+onto:focusesOnPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:governedByPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:ThermodynamicProcess ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:identifiedAsAstronomicalObject a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:AstronomicalObject .
+
+onto:includesFieldTheory a owl:ObjectProperty ;
+    rdfs:domain onto:FieldTheory ;
+    rdfs:range onto:FieldTheory .
+
+onto:includesPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:includesPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:includesPhysicist a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:Physicist .
+
+onto:involvesEnergyType a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyConversion ;
+    rdfs:range onto:EnergyType .
+
+onto:involvesPhysicalConstant a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalTheory ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalConstant_2 a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalConstant_3 a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalConcept ;
+    rdfs:range onto:PhysicalConstant .
+
+onto:involvesPhysicalExperiment a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalExperiment .
+
+onto:measuresPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:partOfPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:QuantumConcept ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:requiresMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalLaw ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:requiresScientificEquipment a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:ScientificEquipment .
+
+onto:resultOfNuclearReaction a owl:ObjectProperty ;
+    rdfs:domain onto:EnergyType ;
+    rdfs:range onto:NuclearReaction .
+
+onto:resultsInEnergyConversion a owl:ObjectProperty ;
+    rdfs:domain onto:NuclearReaction ;
+    rdfs:range onto:EnergyConversion .
+
+onto:studiedByPhysicalLaw a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:PhysicalLaw .
+
+onto:studiedByPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:SubatomicParticle ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:studiedByPhysicalTheory_2 a owl:ObjectProperty ;
+    rdfs:domain onto:AstronomicalObject ;
+    rdfs:range onto:PhysicalTheory .
+
+onto:studiedWithScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:ElectromagneticSpectrum ;
+    rdfs:range onto:ScientificMethod .
+
+onto:studiesPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:typeOfPhysicalConcept a owl:ObjectProperty ;
+    rdfs:domain onto:Force ;
+    rdfs:range onto:PhysicalConcept .
+
+onto:typeOfPhysicalProperty a owl:ObjectProperty ;
+    rdfs:domain onto:WaveType ;
+    rdfs:range onto:PhysicalProperty .
+
+onto:usedForDimensionalAnalysis a owl:ObjectProperty ;
+    rdfs:domain onto:MeasurementUnit ;
+    rdfs:range onto:DimensionalAnalysis .
+
+onto:usesMeasurementUnit a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:MeasurementUnit .
+
+onto:usesScientificMethod a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:ScientificMethod .
+
+onto:utilizesScientificEquipment a owl:ObjectProperty ;
+    rdfs:domain onto:ResearchArea ;
+    rdfs:range onto:ScientificEquipment .
+
+onto:verifiesPhysicalTheory a owl:ObjectProperty ;
+    rdfs:domain onto:PhysicalExperiment ;
+    rdfs:range onto:PhysicalTheory .
+
+:AlbertEinstein a onto:Physicist,
+        owl:NamedIndividual .
+
+:AppliedForce a onto:Force,
+        owl:NamedIndividual .
+
+:ArtificialIntelligence a onto:ResearchArea,
+        owl:NamedIndividual .
+
+:BioreactorEquipment a onto:ScientificEquipment,
+        owl:NamedIndividual .
+
+:BlackHole a onto:AstronomicalObject,
+        owl:NamedIndividual .
+
+:BoltzmannConstant a onto:PhysicalConstant,
+        owl:NamedIndividual .
+
+:BoseEinsteinCondensateState a onto:MatterState,
+        owl:NamedIndividual .
+
+:BoylesLaw a onto:PhysicalLaw,
+        owl:NamedIndividual .
+
+:CaptureReaction a onto:NuclearReaction,
+        owl:NamedIndividual .
+
+:ChernSimonsFieldTheory a onto:FieldTheory,
+        owl:NamedIndividual .
+
+:ChromatographySystem a onto:ScientificEquipment,
+        owl:NamedIndividual .
+
+:ClassicalFieldTheory a onto:FieldTheory,
+        owl:NamedIndividual .
+
+:Comet a onto:AstronomicalObject,
+        owl:NamedIndividual .
+
+:ComputerVision a onto:ResearchArea,
+        owl:NamedIndividual .
+
+:DNASequencerMachine a onto:ScientificEquipment,
+        owl:NamedIndividual .
+
+:DataScience a onto:ResearchArea,
+        owl:NamedIndividual .
+
+:DecayReaction a onto:NuclearReaction,
+        owl:NamedIndividual .
+
+:DensityMeasurement a onto:PhysicalProperty,
+        owl:NamedIndividual .
+
+:ElectricCurrentFlow a onto:PhysicalPhenomenon,
+        owl:NamedIndividual .
+
+:ElectricVehicle a onto:PhysicalConcept,
+        owl:NamedIndividual .
+
+:ElectrochemicalAnalysisExperiment a onto:PhysicalExperiment,
+        owl:NamedIndividual .
+
+:ElectronSpectrometer a onto:ScientificEquipment,
+        owl:NamedIndividual .
+
+:ElementaryCharge a onto:PhysicalConstant,
+        owl:NamedIndividual .
+
+:ExperimentalDesign a onto:ScientificMethod,
+        owl:NamedIndividual .
+
+:FifthInstanceName a onto:ThermodynamicProcess,
+        owl:NamedIndividual .
+
+:FirstInstanceName a onto:ThermodynamicProcess,
+        owl:NamedIndividual .
+
+:FissionReaction a onto:NuclearReaction,
+        owl:NamedIndividual .
+
+:FourthInstanceName a onto:ThermodynamicProcess,
+        owl:NamedIndividual .
+
+:FrictionalForce a onto:Force,
+        owl:NamedIndividual .
+
+:FusionReaction a onto:NuclearReaction,
+        owl:NamedIndividual .
+
+:GalaxyCluster a onto:AstronomicalObject,
+        owl:NamedIndividual .
+
+:GalileoGalilei a onto:Physicist,
+        owl:NamedIndividual .
+
+:GasState a onto:MatterState,
+        owl:NamedIndividual .
+
+:GeneralRelativity a onto:PhysicalTheory,
+        owl:NamedIndividual .
+
+:GeothermalEnergy a onto:EnergyType,
+        owl:NamedIndividual .
+
+:Gluon a onto:SubatomicParticle,
+        owl:NamedIndividual .
+
+:GravitationalConstant a onto:PhysicalConstant,
+        owl:NamedIndividual .
+
+:HubblesLaw a onto:PhysicalLaw,
+        owl:NamedIndividual .
+
+:HydropowerEnergy a onto:EnergyType,
+        owl:NamedIndividual .
+
+:InfraredRay a onto:ElectromagneticSpectrum,
+        owl:NamedIndividual .
+
+:IsaacNewton a onto:Physicist,
+        owl:NamedIndividual .
+
+:JupiterMoon a onto:AstronomicalObject,
+        owl:NamedIndividual .
+
+:KeplersLaws a onto:PhysicalLaw,
+        owl:NamedIndividual .
+
+:LaboratoryMicroscope a onto:ScientificEquipment,
+        owl:NamedIndividual .
+
+:LengthMeasurement a onto:DimensionalAnalysis,
+        owl:NamedIndividual .
+
+:Lepton a onto:SubatomicParticle,
+        owl:NamedIndividual .
+
+:LightReflection a onto:PhysicalPhenomenon,
+        owl:NamedIndividual .
+
+:LiquidState a onto:MatterState,
+        owl:NamedIndividual .
+
+:MachineLearning a onto:ResearchArea,
+        owl:NamedIndividual .
+
+:MagneticFieldGeneration a onto:PhysicalPhenomenon,
+        owl:NamedIndividual .
+
+:MarieCurie a onto:Physicist,
+        owl:NamedIndividual .
+
+:MassComparison a onto:DimensionalAnalysis,
+        owl:NamedIndividual .
+
+:MassMeasurement a onto:PhysicalProperty,
+        owl:NamedIndividual .
+
+:MassSpectrometryExperiment a onto:PhysicalExperiment,
+        owl:NamedIndividual .
+
+:Microwave a onto:ElectromagneticSpectrum,
+        owl:NamedIndividual .
+
+:ModelingSimulation a onto:ScientificMethod,
+        owl:NamedIndividual .
+
+:NaturalLanguageProcessing a onto:ResearchArea,
+        owl:NamedIndividual .
+
+:NetForce a onto:Force,
+        owl:NamedIndividual .
+
+:Neutrino a onto:SubatomicParticle,
+        owl:NamedIndividual .
+
+:NewtonianMechanics a onto:PhysicalTheory,
+        owl:NamedIndividual .
+
+:NewtonsThirdLaw a onto:PhysicalLaw,
+        owl:NamedIndividual .
+
+:NuclearEnergy a onto:EnergyType,
+        owl:NamedIndividual .
+
+:ObservationalStudy a onto:ScientificMethod,
+        owl:NamedIndividual .
+
+:OhmsLaw a onto:PhysicalLaw,
+        owl:NamedIndividual .
+
+:Photon a onto:SubatomicParticle,
+        owl:NamedIndividual .
+
+:PlancksConstant a onto:PhysicalConstant,
+        owl:NamedIndividual .
+
+:PlasmaState a onto:MatterState,
+        owl:NamedIndividual .
+
+:PressureMeasurement a onto:PhysicalProperty,
+        owl:NamedIndividual .
+
+:PressureMeasurementExperiment a onto:PhysicalExperiment,
+        owl:NamedIndividual .
+
+:QualitativeResearch a onto:ScientificMethod,
+        owl:NamedIndividual .
+
+:QuantitativeAnalysis a onto:ScientificMethod,
+        owl:NamedIndividual .
+
+:QuantumFieldTheory a onto:FieldTheory,
+        owl:NamedIndividual .
+
+:QuantumMechanics a onto:PhysicalTheory,
+        owl:NamedIndividual .
+
+:Quark a onto:SubatomicParticle,
+        owl:NamedIndividual .
+
+:Quasar a onto:AstronomicalObject,
+        owl:NamedIndividual .
+
+:RadioWave a onto:ElectromagneticSpectrum,
+        owl:NamedIndividual .
+
+:ReactionKineticsExperiment a onto:PhysicalExperiment,
+        owl:NamedIndividual .
+
+:RenewableEnergy a onto:EnergyType,
+        owl:NamedIndividual .
+
+:RichardFeynman a onto:Physicist,
+        owl:NamedIndividual .
+
+:ScatteringReaction a onto:NuclearReaction,
+        owl:NamedIndividual .
+
+:SecondInstanceName a onto:ThermodynamicProcess,
+        owl:NamedIndividual .
+
+:SolarEnergy a onto:EnergyType,
+        owl:NamedIndividual .
+
+:SolarPanel a onto:PhysicalConcept,
+        owl:NamedIndividual .
+
+:SolidState a onto:MatterState,
+        owl:NamedIndividual .
+
+:SoundWavePropagation a onto:PhysicalPhenomenon,
+        owl:NamedIndividual .
+
+:SpecialRelativity a onto:PhysicalTheory,
+        owl:NamedIndividual .
+
+:SpeedOfLight a onto:PhysicalConstant,
+        owl:NamedIndividual .
+
+:SpringForce a onto:Force,
+        owl:NamedIndividual .
+
+:StringFieldTheory a onto:FieldTheory,
+        owl:NamedIndividual .
+
+:StringTheory a onto:PhysicalTheory,
+        owl:NamedIndividual .
+
+:SupersymmetricFieldTheory a onto:FieldTheory,
+        owl:NamedIndividual .
+
+:TemperatureConversion a onto:DimensionalAnalysis,
+        owl:NamedIndividual .
+
+:TemperatureMeasurement a onto:PhysicalPhenomenon,
+        onto:PhysicalProperty,
+        owl:NamedIndividual .
+
+:TemperatureMeasurementExperiment a onto:PhysicalExperiment,
+        owl:NamedIndividual .
+
+:TemperatureSensor a onto:PhysicalConcept,
+        owl:NamedIndividual .
+
+:TensionForce a onto:Force,
+        owl:NamedIndividual .
+
+:ThirdInstanceName a onto:ThermodynamicProcess,
+        owl:NamedIndividual .
+
+:TimeEstimation a onto:DimensionalAnalysis,
+        owl:NamedIndividual .
+
+:UltravioletRay a onto:ElectromagneticSpectrum,
+        owl:NamedIndividual .
+
+:ViscosityMeasurement a onto:PhysicalProperty,
+        owl:NamedIndividual .
+
+:VisibleLight a onto:ElectromagneticSpectrum,
+        owl:NamedIndividual .
+
+:VolumeCalculation a onto:DimensionalAnalysis,
+        owl:NamedIndividual .
+
+:WaterPump a onto:PhysicalConcept,
+        owl:NamedIndividual .
+
+:WindTurbine a onto:PhysicalConcept,
+        owl:NamedIndividual .
+
+:circularCollider a onto:ParticleAccelerator,
+        owl:NamedIndividual .
+
+:electricVehicleCharging a onto:EnergyConversion,
+        owl:NamedIndividual .
+
+:electronAccelerator a onto:ParticleAccelerator,
+        owl:NamedIndividual .
+
+:energyLevel a onto:QuantumConcept,
+        owl:NamedIndividual .
+
+:entanglement a onto:QuantumConcept,
+        owl:NamedIndividual .
+
+:fuelCellTechnology a onto:EnergyConversion,
+        owl:NamedIndividual .
+
+:hadronCollider a onto:ParticleAccelerator,
+        owl:NamedIndividual .
+
+:hydroelectricPowerPlant a onto:EnergyConversion,
+        owl:NamedIndividual .
+
+:lengthMeasurementUnit a onto:MeasurementUnit,
+        owl:NamedIndividual .
+
+:linearCollider a onto:ParticleAccelerator,
+        owl:NamedIndividual .
+
+:protonSynchrotron a onto:ParticleAccelerator,
+        owl:NamedIndividual .
+
+:pulseWave a onto:WaveType,
+        owl:NamedIndividual .
+
+:quantumBit a onto:QuantumConcept,
+        owl:NamedIndividual .
+
+:sawtoothWave a onto:WaveType,
+        owl:NamedIndividual .
+
+:sineWave a onto:WaveType,
+        owl:NamedIndividual .
+
+:solarPanelInstallation a onto:EnergyConversion,
+        owl:NamedIndividual .
+
+:spinState a onto:QuantumConcept,
+        owl:NamedIndividual .
+
+:squareWave a onto:WaveType,
+        owl:NamedIndividual .
+
+:temperatureMeasurementUnit a onto:MeasurementUnit,
+        owl:NamedIndividual .
+
+:timeMeasurementUnit a onto:MeasurementUnit,
+        owl:NamedIndividual .
+
+:triangleWave a onto:WaveType,
+        owl:NamedIndividual .
+
+:volumeMeasurementUnit a onto:MeasurementUnit,
+        owl:NamedIndividual .
+
+:waveFunction a onto:QuantumConcept,
+        owl:NamedIndividual .
+
+:weightMeasurementUnit a onto:MeasurementUnit,
+        owl:NamedIndividual .
+
+:windTurbineOperation a onto:EnergyConversion,
+        owl:NamedIndividual .
+
+onto:ElectromagneticSpectrum a owl:Class .
+
+onto:Force a owl:Class .
+
+onto:MatterState a owl:Class .
+
+onto:ParticleAccelerator a owl:Class .
+
+onto:Physicist a owl:Class .
+
+onto:QuantumConcept a owl:Class .
+
+onto:ThermodynamicProcess a owl:Class .
+
+onto:WaveType a owl:Class .
+
+onto:DimensionalAnalysis a owl:Class .
+
+onto:EnergyConversion a owl:Class .
+
+onto:FieldTheory a owl:Class .
+
+onto:NuclearReaction a owl:Class .
+
+onto:PhysicalPhenomenon a owl:Class .
+
+onto:ScientificEquipment a owl:Class .
+
+onto:SubatomicParticle a owl:Class .
+
+onto:EnergyType a owl:Class .
+
+onto:PhysicalConstant a owl:Class .
+
+onto:ScientificMethod a owl:Class .
+
+onto:AstronomicalObject a owl:Class .
+
+onto:MeasurementUnit a owl:Class .
+
+onto:PhysicalProperty a owl:Class .
+
+onto:PhysicalConcept a owl:Class .
+
+onto:PhysicalExperiment a owl:Class .
+
+onto:PhysicalLaw a owl:Class .
+
+onto:PhysicalTheory a owl:Class .
+
+onto:ResearchArea a owl:Class .
+
