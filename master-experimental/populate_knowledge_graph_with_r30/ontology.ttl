@@ -1,0 +1,2071 @@
+@prefix : <http://quantsimulant.de/owl/mlPhysOnto/0.1/> .
+@prefix ns1: <http://quantsimulant.de/owl/mlPhysOnto#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix r30: <http://quantsimulant.de/rdf/r30#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:ExperimentalDeviceHasSetup a owl:ObjectProperty ;
+    rdfs:domain :ExperimentalDevice ;
+    rdfs:range :ExperimentSetup .
+
+:PhysicsBasedSignalValueClassificationFunction a owl:Class ;
+    rdfs:subClassOf :SignalValueClassificationFunction .
+
+:TrainedGenerativeMLM a owl:Class ;
+    rdfs:subClassOf :TrainedMLM .
+
+:TrainedSignalValueClassificationMLM a owl:Class ;
+    rdfs:subClassOf :SignalValueClassificationFunction,
+        :TrainedClassifyingMLM .
+
+:UntrainedGenerativeMLM a owl:Class ;
+    rdfs:subClassOf :UntrainedMLM .
+
+:UntrainedSignalValueClassificationMLM a owl:Class ;
+    rdfs:subClassOf :UntrainedClassifyingMLM .
+
+:createsMLMOutput a owl:ObjectProperty ;
+    rdfs:domain :MLMApplicationProcess ;
+    rdfs:range :Data .
+
+:createsTrainedMLM a owl:ObjectProperty ;
+    rdfs:domain :MLMTrainingProcess ;
+    rdfs:range :TrainedMLM .
+
+:dataHasFormat a owl:ObjectProperty ;
+    rdfs:domain :Data ;
+    rdfs:range :DataFormat .
+
+:experimentConductedAtTime a owl:ObjectProperty ;
+    rdfs:domain :ConductedExperiment ;
+    rdfs:range :DateTime .
+
+:experimentConductedWithDevice a owl:ObjectProperty ;
+    rdfs:domain :ConductedExperiment ;
+    rdfs:range :ExperimentalDevice .
+
+:experimentHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain :ConductedExperiment ;
+    rdfs:range :DataFormat .
+
+:experimentInputHasData a owl:ObjectProperty ;
+    rdfs:domain :ConductedExperiment ;
+    rdfs:range :Data .
+
+:experimentInputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain :ExperimentSetup ;
+    rdfs:range :DataFormat .
+
+:experimentOutputHasData a owl:ObjectProperty ;
+    rdfs:domain :ConductedExperiment ;
+    rdfs:range :Data .
+
+:experimentOutputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain :ExperimentSetup ;
+    rdfs:range :DataFormat .
+
+:hasTrainedMLMParametersFormat a owl:ObjectProperty ;
+    rdfs:domain :TrainedMLMParameters ;
+    rdfs:range :TrainedMLMParametersFormat .
+
+:includesTrainedMLMParameters a owl:ObjectProperty ;
+    rdfs:domain :TrainedMLM ;
+    rdfs:range :TrainedMLMParameters .
+
+:isModelOf a owl:ObjectProperty ;
+    rdfs:domain :ModelOfExperiment ;
+    rdfs:range :ExperimentSetup .
+
+:mentionedInPaper a owl:ObjectProperty ;
+    rdfs:domain owl:Thing ;
+    rdfs:range :Paper .
+
+:simulatedExperimentUsesModel a owl:ObjectProperty ;
+    rdfs:domain :SimulatedExperiment ;
+    rdfs:range :ModelOfExperiment .
+
+:simulationInputHasData a owl:ObjectProperty ;
+    rdfs:domain :SimulatedExperiment ;
+    rdfs:range :Data .
+
+:simulationInputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain :ModelOfExperiment ;
+    rdfs:range :DataFormat .
+
+:simulationOutputHasData a owl:ObjectProperty ;
+    rdfs:domain :SimulatedExperiment ;
+    rdfs:range :Data .
+
+:simulationOutputHasDataFormat a owl:ObjectProperty ;
+    rdfs:domain :ModelOfExperiment ;
+    rdfs:range :DataFormat .
+
+:usesInputDataForApplication a owl:ObjectProperty ;
+    rdfs:domain :MLMApplicationProcess ;
+    rdfs:range :Data .
+
+:usesInputDataForTraining a owl:ObjectProperty ;
+    rdfs:domain :MLMTrainingProcess ;
+    rdfs:range :Data .
+
+:usesTrainedMLMForApplication a owl:ObjectProperty ;
+    rdfs:domain :MLMApplicationProcess ;
+    rdfs:range :TrainedMLM .
+
+:usesUntrainedMLMForTraining a owl:ObjectProperty ;
+    rdfs:domain :MLMTrainingProcess ;
+    rdfs:range :UntrainedMLM .
+
+r30:R30Evaluation-CNN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-CNN ;
+    ns1:hasR30Value r30:R30Value-CNN-914 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-CNN .
+
+r30:R30Evaluation-DNN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-DNN ;
+    ns1:hasR30Value r30:R30Value-DNN-844 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-DNN .
+
+r30:R30Evaluation-DO-ADO a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-DO-ADO ;
+    ns1:hasR30Value r30:R30Value-DO-ADO-1212 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-DO-ADO .
+
+r30:R30Evaluation-DisCo-FFS a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-DisCo-FFS ;
+    ns1:hasR30Value r30:R30Value-DisCo-FFS-1249 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-DisCo-FFS .
+
+r30:R30Evaluation-EFN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-EFN ;
+    ns1:hasR30Value r30:R30Value-EFN-481,
+        r30:R30Value-EFN-633 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-EFN .
+
+r30:R30Evaluation-EFN-r-r- a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-EFN-r-r- ;
+    ns1:hasR30Value r30:R30Value-EFN-r-r--619 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-EFN-r-r- .
+
+r30:R30Evaluation-EFP a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-EFP ;
+    ns1:hasR30Value r30:R30Value-EFP-384 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-EFP .
+
+r30:R30Evaluation-EFPs a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-EFPs ;
+    ns1:hasR30Value r30:R30Value-EFPs-384 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-EFPs .
+
+r30:R30Evaluation-EGNN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-EGNN ;
+    ns1:hasR30Value r30:R30Value-EGNN-540 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-EGNN .
+
+r30:R30Evaluation-Energy a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-Energy ;
+    ns1:hasR30Value r30:R30Value-Energy-384,
+        r30:R30Value-Energy-633 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-Energy .
+
+r30:R30Evaluation-GoaT a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-GoaT ;
+    ns1:hasR30Value r30:R30Value-GoaT-1368 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-GoaT .
+
+r30:R30Evaluation-JEDI-net a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-JEDI-net ;
+    ns1:hasR30Value r30:R30Value-JEDI-net-590,
+        r30:R30Value-JEDI-net-775 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-JEDI-net .
+
+r30:R30Evaluation-LBN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-LBN ;
+    ns1:hasR30Value r30:R30Value-LBN-836 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-LBN .
+
+r30:R30Evaluation-LDA a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-LDA ;
+    ns1:hasR30Value r30:R30Value-LDA-151 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-LDA .
+
+r30:R30Evaluation-LGN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-LGN ;
+    ns1:hasR30Value r30:R30Value-LGN-424,
+        r30:R30Value-LGN-435 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-LGN .
+
+r30:R30Evaluation-Linear a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-Linear ;
+    ns1:hasR30Value r30:R30Value-Linear-384 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-Linear .
+
+r30:R30Evaluation-LoLa a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-LoLa ;
+    ns1:hasR30Value r30:R30Value-LoLa-722 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-LoLa .
+
+r30:R30Evaluation-LorentzNet a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-LorentzNet ;
+    ns1:hasR30Value r30:R30Value-LorentzNet-1105,
+        r30:R30Value-LorentzNet-1813,
+        r30:R30Value-LorentzNet-2195 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-LorentzNet .
+
+r30:R30Evaluation-MF a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-MF ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-MF .
+
+r30:R30Evaluation-Multi-body a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-Multi-body ;
+    ns1:hasR30Value r30:R30Value-Multi-body-792,
+        r30:R30Value-Multi-body-867 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-Multi-body .
+
+r30:R30Evaluation-N-sub a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-N-sub ;
+    ns1:hasR30Value r30:R30Value-N-sub-792,
+        r30:R30Value-N-sub-867 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-N-sub .
+
+r30:R30Evaluation-P-CNN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-P-CNN ;
+    ns1:hasR30Value r30:R30Value-P-CNN-732,
+        r30:R30Value-P-CNN-759 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-P-CNN .
+
+r30:R30Evaluation-PCT a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-PCT ;
+    ns1:hasR30Value r30:R30Value-PCT-1177,
+        r30:R30Value-PCT-1343,
+        r30:R30Value-PCT-1533 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-PCT .
+
+r30:R30Evaluation-PELICAN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-PELICAN ;
+    ns1:hasR30Value r30:R30Value-PELICAN-2289 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-PELICAN .
+
+r30:R30Evaluation-PFN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-PFN ;
+    ns1:hasR30Value r30:R30Value-PFN-732,
+        r30:R30Value-PFN-888,
+        r30:R30Value-PFN-891 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-PFN .
+
+r30:R30Evaluation-PFN-r-r- a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-PFN-r-r- ;
+    ns1:hasR30Value r30:R30Value-PFN-r-r--888 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-PFN-r-r- .
+
+r30:R30Evaluation-ParT a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ParT ;
+    ns1:hasR30Value r30:R30Value-ParT-1602 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ParT .
+
+r30:R30Evaluation-ParT-f-t- a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ParT-f-t- ;
+    ns1:hasR30Value r30:R30Value-ParT-f-t--2766 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ParT-f-t- .
+
+r30:R30Evaluation-Particle a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-Particle ;
+    ns1:hasR30Value r30:R30Value-Particle-891 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-Particle .
+
+r30:R30Evaluation-ParticleNet a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ParticleNet ;
+    ns1:hasR30Value r30:R30Value-ParticleNet-1298,
+        r30:R30Value-ParticleNet-1615 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ParticleNet .
+
+r30:R30Evaluation-ParticleNet-Lite a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ParticleNet-Lite ;
+    ns1:hasR30Value r30:R30Value-ParticleNet-Lite-1262 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ParticleNet-Lite .
+
+r30:R30Evaluation-ParticleNet-f-t- a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ParticleNet-f-t- ;
+    ns1:hasR30Value r30:R30Value-ParticleNet-f-t--1771 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ParticleNet-f-t- .
+
+r30:R30Evaluation-RN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-RN ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-RN .
+
+r30:R30Evaluation-ResNeXt a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ResNeXt ;
+    ns1:hasR30Value r30:R30Value-ResNeXt-1122,
+        r30:R30Value-ResNeXt-1147 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ResNeXt .
+
+r30:R30Evaluation-ResNeXt-50 a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-ResNeXt-50 ;
+    ns1:hasR30Value r30:R30Value-ResNeXt-50-1147 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-ResNeXt-50 .
+
+r30:R30Evaluation-SPCT a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-SPCT ;
+    ns1:hasR30Value r30:R30Value-SPCT-130,
+        r30:R30Value-SPCT-645,
+        r30:R30Value-SPCT-725 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-SPCT .
+
+r30:R30Evaluation-TopoDNN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-TopoDNN ;
+    ns1:hasR30Value r30:R30Value-TopoDNN-295 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-TopoDNN .
+
+r30:R30Evaluation-TreeNiN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-TreeNiN ;
+    ns1:hasR30Value r30:R30Value-TreeNiN-1025 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-TreeNiN .
+
+r30:R30Evaluation-rPCN a ns1:R30Evaluation,
+        owl:NamedIndividual ;
+    ns1:datasetUsedForR30Evaluation r30:Data-rPCN ;
+    ns1:hasR30Value r30:R30Value-rPCN-1642 ;
+    ns1:r30EvaluationOf r30:SignalValueClassificationApproximation-rPCN .
+
+:DateTime a owl:Class .
+
+:Paper a owl:Class .
+
+:TrainedClassifyingMLM a owl:Class ;
+    rdfs:subClassOf :TrainedMLM .
+
+:TrainedMLMParametersFormat a owl:Class ;
+    rdfs:subClassOf :DataFormat .
+
+:UntrainedClassifyingMLM a owl:Class ;
+    rdfs:subClassOf :UntrainedMLM .
+
+r30:Data-CNN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-DNN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-DO-ADO a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-DisCo-FFS a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-EFN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-EFN-r-r- a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-EFP a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-EFPs a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-EGNN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-Energy a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-GoaT a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-JEDI-net a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-LBN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-LDA a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-LGN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-Linear a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-LoLa a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-LorentzNet a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-MF a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-Multi-body a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-N-sub a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-P-CNN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-PCT a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-PELICAN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-PFN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-PFN-r-r- a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ParT a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ParT-f-t- a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-Particle a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ParticleNet a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ParticleNet-Lite a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ParticleNet-f-t- a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-RN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ResNeXt a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-ResNeXt-50 a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-SPCT a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-TopoDNN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-TreeNiN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Data-rPCN a ns1:Data,
+        owl:NamedIndividual .
+
+r30:Name-CNN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "CNN" ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2010-13469 .
+
+r30:Name-DNN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "DNN" ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Name-DO-ADO a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "DO-ADO" ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Name-DisCo-FFS a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "DisCo-FFS" ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Name-EFN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "EFN" ;
+    ns1:mentionedInPaper r30:paper-1810-05165,
+        r30:paper-2006-04780,
+        r30:paper-2010-13469 .
+
+r30:Name-EFN-r-r- a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "EFN-r-r-" ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:Name-EFP a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "EFP" ;
+    ns1:mentionedInPaper r30:paper-2006-04780 .
+
+r30:Name-EFPs a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "EFPs" ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:Name-EGNN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "EGNN" ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:Name-Energy a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "Energy" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-GoaT a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "GoaT" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-JEDI-net a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "JEDI-net" ;
+    ns1:mentionedInPaper r30:paper-2102-05073,
+        r30:paper-2202-03772 .
+
+r30:Name-LBN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "LBN" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-LDA a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "LDA" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-LGN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "LGN" ;
+    ns1:mentionedInPaper r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2211-00454 .
+
+r30:Name-Linear a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "Linear" ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Name-LoLa a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "LoLa" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-LorentzNet a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "LorentzNet" ;
+    ns1:mentionedInPaper r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:Name-MF a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "MF" ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Name-Multi-body a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "Multi-body" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-N-sub a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "N-sub" ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Name-P-CNN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "P-CNN" ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772 .
+
+r30:Name-PCT a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "PCT" ;
+    ns1:mentionedInPaper r30:paper-2102-05073,
+        r30:paper-2202-03772 .
+
+r30:Name-PELICAN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "PELICAN" ;
+    ns1:mentionedInPaper r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:Name-PFN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "PFN" ;
+    ns1:mentionedInPaper r30:paper-1810-05165,
+        r30:paper-1902-08570,
+        r30:paper-2006-04780,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2211-00454 .
+
+r30:Name-PFN-r-r- a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "PFN-r-r-" ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:Name-ParT a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ParT" ;
+    ns1:mentionedInPaper r30:paper-2202-03772,
+        r30:paper-2212-00046 .
+
+r30:Name-ParT-f-t- a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ParT-f-t-" ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Name-Particle a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "Particle" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-ParticleNet a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ParticleNet" ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:Name-ParticleNet-Lite a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ParticleNet-Lite" ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073,
+        r30:paper-2212-00046 .
+
+r30:Name-ParticleNet-f-t- a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ParticleNet-f-t-" ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Name-RN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "RN" ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Name-ResNeXt a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ResNeXt" ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2211-00454 .
+
+r30:Name-ResNeXt-50 a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "ResNeXt-50" ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073 .
+
+r30:Name-SPCT a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "SPCT" ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:Name-TopoDNN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "TopoDNN" ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780 .
+
+r30:Name-TreeNiN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "TreeNiN" ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Name-rPCN a ns1:Name,
+        owl:NamedIndividual ;
+    ns1:hasValue "rPCN" ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Parameter-CNN-131740 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 131740 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-CNN-228235 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 228235 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-CNN-610000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 610000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-DNN-237000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 237000 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-DO-ADO-1700 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1700 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-DisCo-FFS-1400 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1400 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-EFN-141762 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 141762 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-EFN-202167 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 202167 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-EFN-348012 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 348012 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-EFN-408417 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 408417 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-EFN-82000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 82000 ;
+    ns1:mentionedInPaper r30:paper-2006-04780 .
+
+r30:Parameter-EFP-1000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1000 ;
+    ns1:mentionedInPaper r30:paper-2006-04780 .
+
+r30:Parameter-EGNN-222000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 222000 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:Parameter-Energy-1000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-Energy-82000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 82000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-GoaT-35000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 35000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-LBN-705000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 705000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-LDA-184000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 184000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-LGN-12000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 12000 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:Parameter-LGN-4500 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 4500 ;
+    ns1:mentionedInPaper r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2211-00454 .
+
+r30:Parameter-Linear-1000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1000 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-LoLa-127000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 127000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-LorentzNet-12000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 12000 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:Parameter-LorentzNet-220000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 220000 ;
+    ns1:mentionedInPaper r30:paper-2211-00454 .
+
+r30:Parameter-LorentzNet-224000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 224000 ;
+    ns1:mentionedInPaper r30:paper-2201-08187,
+        r30:paper-2212-00046 .
+
+r30:Parameter-MF-102407 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 102407 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-Multi-body-57000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 57000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-Multi-body-58000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 58000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-N-sub-57000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 57000 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-N-sub-58000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 58000 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:Parameter-P-CNN-348000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 348000 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2201-08187 .
+
+r30:Parameter-P-CNN-354000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 354000 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Parameter-PELICAN-45000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 45000 ;
+    ns1:mentionedInPaper r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:Parameter-PFN-82000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 82000 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2211-00454 .
+
+r30:Parameter-PFN-86100 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 86100 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Parameter-ParT-2130000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 2130000 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Parameter-ParT-2140000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 2140000 ;
+    ns1:mentionedInPaper r30:paper-2202-03772,
+        r30:paper-2212-00046 .
+
+r30:Parameter-Particle-82000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 82000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:Parameter-ParticleNet-366000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 366000 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2201-08187,
+        r30:paper-2212-00046 .
+
+r30:Parameter-ParticleNet-370000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 370000 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:Parameter-ParticleNet-498000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 498000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2211-00454 .
+
+r30:Parameter-ParticleNet-Lite-26000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 26000 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2212-00046 .
+
+r30:Parameter-RN-149212 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 149212 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-RN-209617 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 209617 ;
+    ns1:mentionedInPaper r30:paper-2010-13469 .
+
+r30:Parameter-ResNeXt-1460000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1460000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2211-00454 .
+
+r30:Parameter-ResNeXt-50-1460000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 1460000 ;
+    ns1:mentionedInPaper r30:paper-1902-08570 .
+
+r30:Parameter-TopoDNN-59000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 59000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780 .
+
+r30:Parameter-TreeNiN-34000 a ns1:ParameterCount,
+        owl:NamedIndividual ;
+    ns1:hasValue 34000 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-CNN-914 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 914 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-DNN-844 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 844 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-DO-ADO-1212 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1212 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-DisCo-FFS-1249 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1249 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-EFN-481 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 481 ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:R30Value-EFN-633 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 633 ;
+    ns1:mentionedInPaper r30:paper-2006-04780 .
+
+r30:R30Value-EFN-r-r--619 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 619 ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:R30Value-EFP-384 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 384 ;
+    ns1:mentionedInPaper r30:paper-2006-04780 .
+
+r30:R30Value-EFPs-384 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 384 ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:R30Value-EGNN-540 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 540 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:R30Value-Energy-384 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 384 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-Energy-633 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 633 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-GoaT-1368 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1368 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-JEDI-net-590 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 590 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-JEDI-net-775 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 775 ;
+    ns1:mentionedInPaper r30:paper-2102-05073,
+        r30:paper-2202-03772 .
+
+r30:R30Value-LBN-836 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 836 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-LDA-151 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 151 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-LGN-424 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 424 ;
+    ns1:mentionedInPaper r30:paper-2211-00454 .
+
+r30:R30Value-LGN-435 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 435 ;
+    ns1:mentionedInPaper r30:paper-2006-04780,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772 .
+
+r30:R30Value-Linear-384 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 384 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-LoLa-722 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 722 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-LorentzNet-1105 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1105 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:R30Value-LorentzNet-1813 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1813 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:R30Value-LorentzNet-2195 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 2195 ;
+    ns1:mentionedInPaper r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:R30Value-Multi-body-792 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 792 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-Multi-body-867 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 867 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-N-sub-792 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 792 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-N-sub-867 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 867 ;
+    ns1:mentionedInPaper r30:paper-2212-00046 .
+
+r30:R30Value-P-CNN-732 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 732 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780 .
+
+r30:R30Value-P-CNN-759 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 759 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772 .
+
+r30:R30Value-PCT-1177 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1177 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-PCT-1343 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1343 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-PCT-1533 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1533 ;
+    ns1:mentionedInPaper r30:paper-2102-05073,
+        r30:paper-2202-03772 .
+
+r30:R30Value-PELICAN-2289 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 2289 ;
+    ns1:mentionedInPaper r30:paper-2211-00454,
+        r30:paper-2212-00046 .
+
+r30:R30Value-PFN-732 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 732 ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:R30Value-PFN-888 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 888 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772 .
+
+r30:R30Value-PFN-891 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 891 ;
+    ns1:mentionedInPaper r30:paper-2006-04780,
+        r30:paper-2211-00454 .
+
+r30:R30Value-PFN-r-r--888 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 888 ;
+    ns1:mentionedInPaper r30:paper-1810-05165 .
+
+r30:R30Value-ParT-1602 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1602 ;
+    ns1:mentionedInPaper r30:paper-2202-03772,
+        r30:paper-2212-00046 .
+
+r30:R30Value-ParT-f-t--2766 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 2766 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:R30Value-Particle-891 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 891 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-ParticleNet-1298 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1298 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2211-00454 .
+
+r30:R30Value-ParticleNet-1615 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1615 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073,
+        r30:paper-2201-08187,
+        r30:paper-2202-03772,
+        r30:paper-2212-00046 .
+
+r30:R30Value-ParticleNet-Lite-1262 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1262 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073,
+        r30:paper-2212-00046 .
+
+r30:R30Value-ParticleNet-f-t--1771 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1771 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:R30Value-ResNeXt-1122 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1122 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780,
+        r30:paper-2211-00454 .
+
+r30:R30Value-ResNeXt-1147 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1147 ;
+    ns1:mentionedInPaper r30:paper-2201-08187 .
+
+r30:R30Value-ResNeXt-50-1147 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1147 ;
+    ns1:mentionedInPaper r30:paper-1902-08570,
+        r30:paper-2102-05073 .
+
+r30:R30Value-SPCT-130 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 130 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-SPCT-645 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 645 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-SPCT-725 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 725 ;
+    ns1:mentionedInPaper r30:paper-2102-05073 .
+
+r30:R30Value-TopoDNN-295 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 295 ;
+    ns1:mentionedInPaper r30:paper-1902-09914,
+        r30:paper-2006-04780 .
+
+r30:R30Value-TreeNiN-1025 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1025 ;
+    ns1:mentionedInPaper r30:paper-1902-09914 .
+
+r30:R30Value-rPCN-1642 a ns1:R30Value,
+        owl:NamedIndividual ;
+    ns1:hasValue 1642 ;
+    ns1:mentionedInPaper r30:paper-2202-03772 .
+
+r30:SignalValueClassificationApproximation-CNN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-CNN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-DNN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-DNN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-DO-ADO a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-DO-ADO ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-DisCo-FFS a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-DisCo-FFS ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-EFN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-EFN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-EFN-r-r- a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-EFN-r-r- ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-EFP a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-EFP ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-EFPs a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-EFPs ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-EGNN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-EGNN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-Energy a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-Energy ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-GoaT a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-GoaT ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-JEDI-net a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-JEDI-net ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-LBN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-LBN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-LDA a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-LDA ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-LGN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-LGN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-Linear a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-Linear ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-LoLa a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-LoLa ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-LorentzNet a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-LorentzNet ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-MF a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-MF ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-Multi-body a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-Multi-body ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-N-sub a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-N-sub ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-P-CNN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-P-CNN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-PCT a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-PCT ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-PELICAN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-PELICAN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-PFN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-PFN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-PFN-r-r- a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-PFN-r-r- ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ParT a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ParT ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ParT-f-t- a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ParT-f-t- ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-Particle a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-Particle ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ParticleNet a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ParticleNet ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ParticleNet-Lite a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ParticleNet-Lite ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ParticleNet-f-t- a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ParticleNet-f-t- ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-RN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-RN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ResNeXt a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ResNeXt ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-ResNeXt-50 a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-ResNeXt-50 ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-SPCT a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-SPCT ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-TopoDNN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-TopoDNN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-TreeNiN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-TreeNiN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:SignalValueClassificationApproximation-rPCN a ns1:SignalValueClassificationApproximation,
+        owl:NamedIndividual ;
+    ns1:functionUsedForSignalValueClassification r30:TrainedSignalValueClassificationMLM-rPCN ;
+    ns1:targetSignalValueClassificationFunction r30:PhysicsBasedTopQuarkClassification .
+
+r30:TrainedMLMParameterFormat-CNN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-CNN-131740,
+        r30:Parameter-CNN-228235,
+        r30:Parameter-CNN-610000 .
+
+r30:TrainedMLMParameterFormat-DNN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-DNN-237000 .
+
+r30:TrainedMLMParameterFormat-DO-ADO a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-DO-ADO-1700 .
+
+r30:TrainedMLMParameterFormat-DisCo-FFS a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-DisCo-FFS-1400 .
+
+r30:TrainedMLMParameterFormat-EFN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-EFN-141762,
+        r30:Parameter-EFN-202167,
+        r30:Parameter-EFN-348012,
+        r30:Parameter-EFN-408417,
+        r30:Parameter-EFN-82000 .
+
+r30:TrainedMLMParameterFormat-EFN-r-r- a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-EFP a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-EFP-1000 .
+
+r30:TrainedMLMParameterFormat-EFPs a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-EGNN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-EGNN-222000 .
+
+r30:TrainedMLMParameterFormat-Energy a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-Energy-1000,
+        r30:Parameter-Energy-82000 .
+
+r30:TrainedMLMParameterFormat-GoaT a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-GoaT-35000 .
+
+r30:TrainedMLMParameterFormat-JEDI-net a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-LBN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-LBN-705000 .
+
+r30:TrainedMLMParameterFormat-LDA a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-LDA-184000 .
+
+r30:TrainedMLMParameterFormat-LGN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-LGN-12000,
+        r30:Parameter-LGN-4500 .
+
+r30:TrainedMLMParameterFormat-Linear a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-Linear-1000 .
+
+r30:TrainedMLMParameterFormat-LoLa a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-LoLa-127000 .
+
+r30:TrainedMLMParameterFormat-LorentzNet a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-LorentzNet-12000,
+        r30:Parameter-LorentzNet-220000,
+        r30:Parameter-LorentzNet-224000 .
+
+r30:TrainedMLMParameterFormat-MF a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-MF-102407 .
+
+r30:TrainedMLMParameterFormat-Multi-body a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-Multi-body-57000,
+        r30:Parameter-Multi-body-58000 .
+
+r30:TrainedMLMParameterFormat-N-sub a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-N-sub-57000,
+        r30:Parameter-N-sub-58000 .
+
+r30:TrainedMLMParameterFormat-P-CNN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-P-CNN-348000,
+        r30:Parameter-P-CNN-354000 .
+
+r30:TrainedMLMParameterFormat-PCT a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-PELICAN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-PELICAN-45000 .
+
+r30:TrainedMLMParameterFormat-PFN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-PFN-82000,
+        r30:Parameter-PFN-86100 .
+
+r30:TrainedMLMParameterFormat-PFN-r-r- a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-ParT a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-ParT-2130000,
+        r30:Parameter-ParT-2140000 .
+
+r30:TrainedMLMParameterFormat-ParT-f-t- a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-Particle a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-Particle-82000 .
+
+r30:TrainedMLMParameterFormat-ParticleNet a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-ParticleNet-366000,
+        r30:Parameter-ParticleNet-370000,
+        r30:Parameter-ParticleNet-498000 .
+
+r30:TrainedMLMParameterFormat-ParticleNet-Lite a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-ParticleNet-Lite-26000 .
+
+r30:TrainedMLMParameterFormat-ParticleNet-f-t- a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-RN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-RN-149212,
+        r30:Parameter-RN-209617 .
+
+r30:TrainedMLMParameterFormat-ResNeXt a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-ResNeXt-1460000 .
+
+r30:TrainedMLMParameterFormat-ResNeXt-50 a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-ResNeXt-50-1460000 .
+
+r30:TrainedMLMParameterFormat-SPCT a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameterFormat-TopoDNN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-TopoDNN-59000 .
+
+r30:TrainedMLMParameterFormat-TreeNiN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual ;
+    ns1:hasParameterCount r30:Parameter-TreeNiN-34000 .
+
+r30:TrainedMLMParameterFormat-rPCN a ns1:TrainedMLMParameterFormat,
+        owl:NamedIndividual .
+
+r30:TrainedMLMParameters-CNN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-CNN .
+
+r30:TrainedMLMParameters-DNN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-DNN .
+
+r30:TrainedMLMParameters-DO-ADO a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-DO-ADO .
+
+r30:TrainedMLMParameters-DisCo-FFS a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-DisCo-FFS .
+
+r30:TrainedMLMParameters-EFN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-EFN .
+
+r30:TrainedMLMParameters-EFN-r-r- a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-EFN-r-r- .
+
+r30:TrainedMLMParameters-EFP a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-EFP .
+
+r30:TrainedMLMParameters-EFPs a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-EFPs .
+
+r30:TrainedMLMParameters-EGNN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-EGNN .
+
+r30:TrainedMLMParameters-Energy a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-Energy .
+
+r30:TrainedMLMParameters-GoaT a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-GoaT .
+
+r30:TrainedMLMParameters-JEDI-net a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-JEDI-net .
+
+r30:TrainedMLMParameters-LBN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-LBN .
+
+r30:TrainedMLMParameters-LDA a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-LDA .
+
+r30:TrainedMLMParameters-LGN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-LGN .
+
+r30:TrainedMLMParameters-Linear a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-Linear .
+
+r30:TrainedMLMParameters-LoLa a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-LoLa .
+
+r30:TrainedMLMParameters-LorentzNet a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-LorentzNet .
+
+r30:TrainedMLMParameters-MF a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-MF .
+
+r30:TrainedMLMParameters-Multi-body a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-Multi-body .
+
+r30:TrainedMLMParameters-N-sub a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-N-sub .
+
+r30:TrainedMLMParameters-P-CNN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-P-CNN .
+
+r30:TrainedMLMParameters-PCT a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-PCT .
+
+r30:TrainedMLMParameters-PELICAN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-PELICAN .
+
+r30:TrainedMLMParameters-PFN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-PFN .
+
+r30:TrainedMLMParameters-PFN-r-r- a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-PFN-r-r- .
+
+r30:TrainedMLMParameters-ParT a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ParT .
+
+r30:TrainedMLMParameters-ParT-f-t- a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ParT-f-t- .
+
+r30:TrainedMLMParameters-Particle a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-Particle .
+
+r30:TrainedMLMParameters-ParticleNet a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ParticleNet .
+
+r30:TrainedMLMParameters-ParticleNet-Lite a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ParticleNet-Lite .
+
+r30:TrainedMLMParameters-ParticleNet-f-t- a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ParticleNet-f-t- .
+
+r30:TrainedMLMParameters-RN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-RN .
+
+r30:TrainedMLMParameters-ResNeXt a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ResNeXt .
+
+r30:TrainedMLMParameters-ResNeXt-50 a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-ResNeXt-50 .
+
+r30:TrainedMLMParameters-SPCT a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-SPCT .
+
+r30:TrainedMLMParameters-TopoDNN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-TopoDNN .
+
+r30:TrainedMLMParameters-TreeNiN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-TreeNiN .
+
+r30:TrainedMLMParameters-rPCN a ns1:TrainedMLMParameters,
+        owl:NamedIndividual ;
+    ns1:hasTrainedMLMParametersFormat r30:TrainedMLMParameterFormat-rPCN .
+
+r30:TrainedSignalValueClassificationMLM-CNN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-CNN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-CNN .
+
+r30:TrainedSignalValueClassificationMLM-DNN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-DNN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-DNN .
+
+r30:TrainedSignalValueClassificationMLM-DO-ADO a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-DO-ADO ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-DO-ADO .
+
+r30:TrainedSignalValueClassificationMLM-DisCo-FFS a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-DisCo-FFS ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-DisCo-FFS .
+
+r30:TrainedSignalValueClassificationMLM-EFN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-EFN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-EFN .
+
+r30:TrainedSignalValueClassificationMLM-EFN-r-r- a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-EFN-r-r- ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-EFN-r-r- .
+
+r30:TrainedSignalValueClassificationMLM-EFP a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-EFP ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-EFP .
+
+r30:TrainedSignalValueClassificationMLM-EFPs a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-EFPs ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-EFPs .
+
+r30:TrainedSignalValueClassificationMLM-EGNN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-EGNN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-EGNN .
+
+r30:TrainedSignalValueClassificationMLM-Energy a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-Energy ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-Energy .
+
+r30:TrainedSignalValueClassificationMLM-GoaT a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-GoaT ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-GoaT .
+
+r30:TrainedSignalValueClassificationMLM-JEDI-net a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-JEDI-net ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-JEDI-net .
+
+r30:TrainedSignalValueClassificationMLM-LBN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-LBN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-LBN .
+
+r30:TrainedSignalValueClassificationMLM-LDA a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-LDA ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-LDA .
+
+r30:TrainedSignalValueClassificationMLM-LGN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-LGN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-LGN .
+
+r30:TrainedSignalValueClassificationMLM-Linear a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-Linear ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-Linear .
+
+r30:TrainedSignalValueClassificationMLM-LoLa a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-LoLa ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-LoLa .
+
+r30:TrainedSignalValueClassificationMLM-LorentzNet a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-LorentzNet ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-LorentzNet .
+
+r30:TrainedSignalValueClassificationMLM-MF a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-MF ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-MF .
+
+r30:TrainedSignalValueClassificationMLM-Multi-body a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-Multi-body ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-Multi-body .
+
+r30:TrainedSignalValueClassificationMLM-N-sub a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-N-sub ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-N-sub .
+
+r30:TrainedSignalValueClassificationMLM-P-CNN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-P-CNN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-P-CNN .
+
+r30:TrainedSignalValueClassificationMLM-PCT a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-PCT ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-PCT .
+
+r30:TrainedSignalValueClassificationMLM-PELICAN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-PELICAN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-PELICAN .
+
+r30:TrainedSignalValueClassificationMLM-PFN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-PFN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-PFN .
+
+r30:TrainedSignalValueClassificationMLM-PFN-r-r- a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-PFN-r-r- ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-PFN-r-r- .
+
+r30:TrainedSignalValueClassificationMLM-ParT a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ParT ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ParT .
+
+r30:TrainedSignalValueClassificationMLM-ParT-f-t- a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ParT-f-t- ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ParT-f-t- .
+
+r30:TrainedSignalValueClassificationMLM-Particle a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-Particle ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-Particle .
+
+r30:TrainedSignalValueClassificationMLM-ParticleNet a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ParticleNet ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ParticleNet .
+
+r30:TrainedSignalValueClassificationMLM-ParticleNet-Lite a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ParticleNet-Lite ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ParticleNet-Lite .
+
+r30:TrainedSignalValueClassificationMLM-ParticleNet-f-t- a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ParticleNet-f-t- ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ParticleNet-f-t- .
+
+r30:TrainedSignalValueClassificationMLM-RN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-RN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-RN .
+
+r30:TrainedSignalValueClassificationMLM-ResNeXt a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ResNeXt ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ResNeXt .
+
+r30:TrainedSignalValueClassificationMLM-ResNeXt-50 a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-ResNeXt-50 ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-ResNeXt-50 .
+
+r30:TrainedSignalValueClassificationMLM-SPCT a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-SPCT ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-SPCT .
+
+r30:TrainedSignalValueClassificationMLM-TopoDNN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-TopoDNN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-TopoDNN .
+
+r30:TrainedSignalValueClassificationMLM-TreeNiN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-TreeNiN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-TreeNiN .
+
+r30:TrainedSignalValueClassificationMLM-rPCN a ns1:TrainedSignalValueClassificationMLM,
+        owl:NamedIndividual ;
+    ns1:hasName r30:Name-rPCN ;
+    ns1:hasTrainedMLMParameters r30:TrainedMLMParameters-rPCN .
+
+:ExperimentalDevice a owl:Class .
+
+:SignalValueClassificationFunction a owl:Class .
+
+:TrainedMLMParameters a owl:Class ;
+    rdfs:subClassOf :Data .
+
+:MLMApplicationProcess a owl:Class .
+
+:MLMTrainingProcess a owl:Class .
+
+:SimulatedExperiment a owl:Class .
+
+:UntrainedMLM a owl:Class .
+
+:ExperimentSetup a owl:Class .
+
+:ModelOfExperiment a owl:Class .
+
+:ConductedExperiment a owl:Class .
+
+:TrainedMLM a owl:Class .
+
+:DataFormat a owl:Class .
+
+:Data a owl:Class .
+
+r30:paper-1810-05165 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/1810.05165" .
+
+r30:paper-2010-13469 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2010.13469" .
+
+r30:paper-1902-08570 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/1902.08570" .
+
+r30:paper-2211-00454 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2211.00454" .
+
+r30:paper-2102-05073 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2102.05073" .
+
+r30:paper-2006-04780 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2006.04780" .
+
+r30:paper-2201-08187 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2201.08187" .
+
+r30:paper-2202-03772 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2202.03772" .
+
+r30:paper-2212-00046 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/2212.00046" .
+
+r30:PhysicsBasedTopQuarkClassification a ns1:PhysicsBasedSignalValueClassificationFunction,
+        owl:NamedIndividual .
+
+r30:paper-1902-09914 a ns1:Paper,
+        owl:NamedIndividual ;
+    ns1:hasPaperURI "arxiv.org/abs/1902.09914" .
+
