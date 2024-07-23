@@ -1,0 +1,26 @@
+
+            <!DOCTYPE html>
+            <html lang="en-US">
+            
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Inline vis</title>
+            </head>
+            
+            <body>
+                <div id="mynetwork" style="width:100vw; height:100vh;"></div>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-data@7.1.9/peer/umd/vis-data.min.js "></script>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/peer/umd/vis-network.min.js "></script>
+                <link href=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/styles/vis-network.min.css " rel="stylesheet">
+                <script>
+                    var jsonData = {"nodes": [{"id": 1, "label": "Topic:\nLight\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 2, "label": "Topic:\nSpecial\nRelativity\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 3, "label": "Topic:\nClassical\nMechanics\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 4, "label": "Question:\nWhat is the speed\nof light?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 6, "label": "Statement:\nThe speed of light is\n299,792,458 meters per\nsecond in a vacuum.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 9, "label": "Statement:\nLight waves can\ntravel through the\nvacuum.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 12, "label": "Statement:\nThe speed of light is a\nnatural constant that is\nindependent of the inertial\nframe of reference.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 16, "label": "Question:\nWhat quantity is\nindependent of the\ninertial frame of\nreference?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 18, "label": "Statement:\nTime is independent of\nthe inertial frame of\nreference.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 21, "label": "Statement:\nThe measured time between two\nevents depends on the\nobserver's inertial frame of\nreference.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 5, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 7, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 8, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 10, "label": "has substatement", "shape": "box", "color": "rgb(255, 190, 220)"}, {"id": 11, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 13, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 14, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 15, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 17, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 19, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 20, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 22, "label": "is contradiction to", "shape": "box", "color": "rgb(255, 120, 120)"}, {"id": 23, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}], "edges": [{"from": 4, "to": 5, "color": "rgb(200, 235, 90)"}, {"from": 5, "to": 1, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 6, "to": 7, "color": "rgb(255, 210, 80)"}, {"from": 7, "to": 4, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 6, "to": 8, "color": "rgb(200, 235, 90)"}, {"from": 8, "to": 1, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 6, "to": 10, "color": "rgb(255, 190, 220)"}, {"from": 10, "to": 9, "arrows": "to", "color": "rgb(255, 190, 220)"}, {"from": 9, "to": 11, "color": "rgb(200, 235, 90)"}, {"from": 11, "to": 1, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 12, "to": 13, "color": "rgb(255, 210, 80)"}, {"from": 13, "to": 4, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 12, "to": 14, "color": "rgb(200, 235, 90)"}, {"from": 14, "to": 1, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 12, "to": 15, "color": "rgb(200, 235, 90)"}, {"from": 15, "to": 2, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 12, "to": 17, "color": "rgb(255, 210, 80)"}, {"from": 17, "to": 16, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 18, "to": 19, "color": "rgb(255, 210, 80)"}, {"from": 19, "to": 16, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 18, "to": 20, "color": "rgb(200, 235, 90)"}, {"from": 20, "to": 3, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 18, "to": 22, "arrows": "from", "color": "rgb(255, 120, 120)"}, {"from": 22, "to": 21, "arrows": "to", "color": "rgb(255, 120, 120)"}, {"from": 21, "to": 23, "color": "rgb(200, 235, 90)"}, {"from": 23, "to": 2, "arrows": "to", "color": "rgb(200, 235, 90)"}]};
+                    // create a network
+                    var container = document.getElementById("mynetwork");
+                    var options = {};
+                    var network = new vis.Network(container, jsonData, options);
+                </script>
+            </body>
+            
+            </html>
+            
