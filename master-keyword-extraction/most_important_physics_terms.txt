@@ -10,7 +10,7 @@ Bose–Einstein condensation
 Boyle's law
 calculus
 Carnot cycle
-CERN
+Cerenkov radiation
 classical physics
 cold fusion
 Compton effect
@@ -20,7 +20,7 @@ CPT theorem
 dark energy
 de Broglie wavelength
 density functional theory
-differential equation
+diamagnetism
 Dirac equation
 Doppler effect
 Einstein equation
@@ -75,9 +75,9 @@ quantum mechanics
 quark
 radioactivity
 Rankine cycle
-relativity
-renormalization
-Rutherford, Ernest, Lord (1871–1937)
+relativistic mass
+resonance
+Rutherford scattering
 Schrödinger equation
 semiconductor
 SI units
@@ -87,11 +87,11 @@ speed of light
 standard model
 strong interaction
 superposition principle
-Système International d'Unités
+synchrotron
 thermodynamics
 thermonuclear reaction
-TOE
-Turing machine
+top quark
+turbulence
 uncertainty principle
 van der Waals' force
 W boson
