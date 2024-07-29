@@ -1,0 +1,26 @@
+
+            <!DOCTYPE html>
+            <html lang="en-US">
+            
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Inline vis</title>
+            </head>
+            
+            <body>
+                <div id="mynetwork" style="width:100vw; height:100vh;"></div>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-data@7.1.9/peer/umd/vis-data.min.js "></script>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/peer/umd/vis-network.min.js "></script>
+                <link href=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/styles/vis-network.min.css " rel="stylesheet">
+                <script>
+                    var jsonData = {"nodes": [{"id": 1, "label": "Question:\nWhat is\nLorentz force?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 2, "label": "Question:\nHow does the Lorentz\nforce affect a charged\nparticle?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 3, "label": "Question:\nWhat is the right-hand\nrule in context of the\nLorentz force?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 4, "label": "Statement:\nLorentz force is the force\nexerted on a charged particle\nmoving through an electric and\nmagnetic field.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 5, "label": "Statement:\nThe Lorentz force formula is given\nby F = q(E + v x B) where q is\ncharge, E is electric field, v is\nvelocity, and B is magnetic field.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 6, "label": "Statement:\nThe Lorentz force can\ncause a charged particle\nto move in a circular path.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 7, "label": "Statement:\nAccording to the right-hand rule, if the thumb\nof the right hand points in the direction of\nthe velocity vector and the fingers in the\ndirection of the magnetic field, the force\n(palm) points in the direction of the Lorentz\nforce.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 8, "label": "Statement:\nThe Lorentz force is\nessential for the working\nof devices like cyclotrons.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 9, "label": "Topic:\nElectromagnetic\nForce\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 10, "label": "Topic:\nCharged\nParticles\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 11, "label": "Topic:\nMagnetic\nField\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 12, "label": "Topic:\nElectric\nField\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 13, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 14, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 15, "label": "has substatement", "shape": "box", "color": "rgb(255, 190, 220)"}, {"id": 16, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 17, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 18, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 19, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 20, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 21, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 22, "label": "has substatement", "shape": "box", "color": "rgb(255, 190, 220)"}, {"id": 23, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}], "edges": [{"from": 4, "to": 13, "color": "rgb(255, 210, 80)"}, {"from": 13, "to": 1, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 4, "to": 14, "color": "rgb(200, 235, 90)"}, {"from": 14, "to": 9, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 4, "to": 15, "color": "rgb(255, 190, 220)"}, {"from": 15, "to": 5, "arrows": "to", "color": "rgb(255, 190, 220)"}, {"from": 5, "to": 16, "color": "rgb(200, 235, 90)"}, {"from": 16, "to": 12, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 5, "to": 17, "color": "rgb(200, 235, 90)"}, {"from": 17, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 6, "to": 18, "color": "rgb(255, 210, 80)"}, {"from": 18, "to": 2, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 6, "to": 19, "color": "rgb(200, 235, 90)"}, {"from": 19, "to": 10, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 7, "to": 20, "color": "rgb(255, 210, 80)"}, {"from": 20, "to": 3, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 7, "to": 21, "color": "rgb(200, 235, 90)"}, {"from": 21, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 8, "to": 22, "color": "rgb(255, 190, 220)"}, {"from": 22, "to": 6, "arrows": "to", "color": "rgb(255, 190, 220)"}, {"from": 8, "to": 23, "color": "rgb(200, 235, 90)"}, {"from": 23, "to": 10, "arrows": "to", "color": "rgb(200, 235, 90)"}]};
+                    // create a network
+                    var container = document.getElementById("mynetwork");
+                    var options = {};
+                    var network = new vis.Network(container, jsonData, options);
+                </script>
+            </body>
+            
+            </html>
+            

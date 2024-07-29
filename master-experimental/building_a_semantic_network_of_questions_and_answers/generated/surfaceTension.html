@@ -1,0 +1,26 @@
+
+            <!DOCTYPE html>
+            <html lang="en-US">
+            
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Inline vis</title>
+            </head>
+            
+            <body>
+                <div id="mynetwork" style="width:100vw; height:100vh;"></div>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-data@7.1.9/peer/umd/vis-data.min.js "></script>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/peer/umd/vis-network.min.js "></script>
+                <link href=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/styles/vis-network.min.css " rel="stylesheet">
+                <script>
+                    var jsonData = {"nodes": [{"id": 1, "label": "Question:\nWhat is\nsurface\ntension?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 2, "label": "Question:\nHow does temperature\naffect surface\ntension?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 3, "label": "Question:\nWhy do liquids\nform droplets?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 4, "label": "Question:\nCan surface tension\nsupport small\nobjects?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 5, "label": "Statement:\nSurface tension is the elastic\ntendency of fluids arising from\nunbalanced molecular cohesive\nforces at the surface.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 6, "label": "Statement:\nSurface tension\ndecreases with\nincreasing temperature.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 7, "label": "Statement:\nLiquids form droplets due\nto surface tension\nminimizing the surface\narea.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 8, "label": "Statement:\nSurface tension can support\nsmall objects such as a paper\nclip on water if not exceeded by\nthe object\u2019s weight.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 9, "label": "Topic:\nPhysics\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 10, "label": "Topic:\nPhysical\nChemistry\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 11, "label": "Topic:\nFluid\nMechanics\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 12, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 13, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 14, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 15, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 16, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 17, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 18, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 19, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 20, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}], "edges": [{"from": 5, "to": 12, "color": "rgb(255, 210, 80)"}, {"from": 12, "to": 1, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 5, "to": 13, "color": "rgb(200, 235, 90)"}, {"from": 13, "to": 9, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 5, "to": 14, "color": "rgb(200, 235, 90)"}, {"from": 14, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 6, "to": 15, "color": "rgb(255, 210, 80)"}, {"from": 15, "to": 2, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 6, "to": 16, "color": "rgb(200, 235, 90)"}, {"from": 16, "to": 10, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 7, "to": 17, "color": "rgb(255, 210, 80)"}, {"from": 17, "to": 3, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 7, "to": 18, "color": "rgb(200, 235, 90)"}, {"from": 18, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 8, "to": 19, "color": "rgb(255, 210, 80)"}, {"from": 19, "to": 4, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 8, "to": 20, "color": "rgb(200, 235, 90)"}, {"from": 20, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}]};
+                    // create a network
+                    var container = document.getElementById("mynetwork");
+                    var options = {};
+                    var network = new vis.Network(container, jsonData, options);
+                </script>
+            </body>
+            
+            </html>
+            

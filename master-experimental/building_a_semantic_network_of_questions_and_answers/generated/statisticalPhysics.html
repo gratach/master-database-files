@@ -1,0 +1,26 @@
+
+            <!DOCTYPE html>
+            <html lang="en-US">
+            
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+                <title>Inline vis</title>
+            </head>
+            
+            <body>
+                <div id="mynetwork" style="width:100vw; height:100vh;"></div>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-data@7.1.9/peer/umd/vis-data.min.js "></script>
+                <script src=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/peer/umd/vis-network.min.js "></script>
+                <link href=" https://cdn.jsdelivr.net/npm/vis-network@9.1.9/styles/vis-network.min.css " rel="stylesheet">
+                <script>
+                    var jsonData = {"nodes": [{"id": 1, "label": "Question:\nWhat is the\nBoltzmann\nconstant?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 2, "label": "Question:\nHow does temperature\naffect the energy\ndistribution of particles?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 3, "label": "Question:\nWhat is the significance\nof the partition function\nin statistical mechanics?\n", "shape": "box", "color": "rgb(120, 190, 255)"}, {"id": 4, "label": "Statement:\nThe Boltzmann constant is a\nfundamental physical constant that\nrelates the average kinetic energy of\nparticles in a gas with the\ntemperature of the gas.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 5, "label": "Statement:\nAs temperature increases,\nthe average kinetic energy\nof the particles increases.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 6, "label": "Statement:\nThe energy distribution of\nparticles at a given temperature\nis described by the Boltzmann\ndistribution.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 7, "label": "Statement:\nThe partition function is a\nmeasure of the number of ways\nenergy can be distributed among\nthe particles.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 8, "label": "Statement:\nStatistical physics utilizes\nprobabilistic methods to describe\nhow macroscopic properties emerge\nfrom the behavior of microscopic\nconstituents.\n", "shape": "box", "color": "rgb(255, 190, 120)"}, {"id": 9, "label": "Topic:\nStatistical\nPhysics\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 10, "label": "Topic:\nFundamental\nConstants\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 11, "label": "Topic:\nEnergy\nDistribution\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 12, "label": "Topic:\nThermodynamics\n", "shape": "box", "color": "rgb(120, 255, 120)"}, {"id": 13, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 14, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 15, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 16, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 17, "label": "has substatement", "shape": "box", "color": "rgb(255, 190, 220)"}, {"id": 18, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 19, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 20, "label": "answers", "shape": "box", "color": "rgb(255, 210, 80)"}, {"id": 21, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}, {"id": 22, "label": "has topic", "shape": "box", "color": "rgb(200, 235, 90)"}], "edges": [{"from": 4, "to": 13, "color": "rgb(255, 210, 80)"}, {"from": 13, "to": 1, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 4, "to": 14, "color": "rgb(200, 235, 90)"}, {"from": 14, "to": 10, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 4, "to": 15, "color": "rgb(200, 235, 90)"}, {"from": 15, "to": 9, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 5, "to": 16, "color": "rgb(255, 210, 80)"}, {"from": 16, "to": 2, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 5, "to": 17, "color": "rgb(255, 190, 220)"}, {"from": 17, "to": 6, "arrows": "to", "color": "rgb(255, 190, 220)"}, {"from": 5, "to": 18, "color": "rgb(200, 235, 90)"}, {"from": 18, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 6, "to": 19, "color": "rgb(200, 235, 90)"}, {"from": 19, "to": 11, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 7, "to": 20, "color": "rgb(255, 210, 80)"}, {"from": 20, "to": 3, "arrows": "to", "color": "rgb(255, 210, 80)"}, {"from": 7, "to": 21, "color": "rgb(200, 235, 90)"}, {"from": 21, "to": 12, "arrows": "to", "color": "rgb(200, 235, 90)"}, {"from": 8, "to": 22, "color": "rgb(200, 235, 90)"}, {"from": 22, "to": 9, "arrows": "to", "color": "rgb(200, 235, 90)"}]};
+                    // create a network
+                    var container = document.getElementById("mynetwork");
+                    var options = {};
+                    var network = new vis.Network(container, jsonData, options);
+                </script>
+            </body>
+            
+            </html>
+            
