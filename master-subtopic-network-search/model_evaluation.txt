@@ -22,3 +22,9 @@ cosmosage
         FoundIterationsAverage: 3.9166666666666665, FoundIterationsError: 0.3495606834224912,
         AverageSubtopicsPerSearchedTopic: 13.96870109546166, SubtopicsPerSearchedTopicError: 0.5253736942499785,
         StabelResultsPercentage: 64.0%, StabelResultsPercentageError: 6.788225099390857%
+llama_3_1_8B
+        Total: 100, Found: 62, Failed: 2,
+        FoundPercentage: 62.0%, FoundPercentageError: 4.853864439804639%, 
+        FoundIterationsAverage: 3.4193548387096775, FoundIterationsError: 0.2716543390102694,
+        AverageSubtopicsPerSearchedTopic: 9.490808823529411, SubtopicsPerSearchedTopicError: 0.18529404174574962,
+        StabelResultsPercentage: 68.0%, StabelResultsPercentageError: 6.596969000988256%
