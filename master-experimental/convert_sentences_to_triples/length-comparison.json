@@ -1,0 +1,10 @@
+{
+  "averageLengthFirst": 142.4069264069264,
+  "averageLengthFirstError": 3.871675240566075,
+  "averageLengthSecond": 127.27705627705627,
+  "averageLengthSecondError": 3.860269445023882,
+  "averageLengthDifference": -15.12987012987013,
+  "averageLengthDifferenceError": 2.2699856012933495,
+  "lengthChangePercentage": -10.624392023346303,
+  "lengthChangePercentageError": 1.6199731815964895
+}
