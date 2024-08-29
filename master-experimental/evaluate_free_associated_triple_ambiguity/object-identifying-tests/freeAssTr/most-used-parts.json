@@ -1,0 +1,736 @@
+{
+  "subjects": [
+    [
+      "absolute zero",
+      4
+    ],
+    [
+      "seesaw mechanism",
+      4
+    ],
+    [
+      "specific heat of solids",
+      3
+    ],
+    [
+      "randall\u2013sundrum model",
+      3
+    ],
+    [
+      "hartree\u2013fock method",
+      3
+    ],
+    [
+      "cosmic distance ladder",
+      3
+    ],
+    [
+      "theory",
+      3
+    ],
+    [
+      "aharonov\u2013bohm effect",
+      3
+    ],
+    [
+      "povm",
+      3
+    ],
+    [
+      "optics",
+      3
+    ],
+    [
+      "tight binding model",
+      3
+    ],
+    [
+      "spectroscope",
+      3
+    ],
+    [
+      "three-body problem",
+      3
+    ],
+    [
+      "heliosphere",
+      2
+    ],
+    [
+      "frequency",
+      2
+    ],
+    [
+      "non-equilibrium thermodynamics",
+      2
+    ],
+    [
+      "w boson",
+      2
+    ],
+    [
+      "feynman diagram",
+      2
+    ],
+    [
+      "gravitational lens",
+      2
+    ],
+    [
+      "kondo insulator",
+      2
+    ],
+    [
+      "theory of relativity",
+      2
+    ],
+    [
+      "magnetic resonance imaging",
+      2
+    ],
+    [
+      "big bang nucleosynthesis",
+      2
+    ],
+    [
+      "angle",
+      2
+    ],
+    [
+      "magnetic field",
+      2
+    ],
+    [
+      "standard temperature and pressure",
+      2
+    ],
+    [
+      "radar astronomy",
+      2
+    ],
+    [
+      "initial mass function",
+      2
+    ],
+    [
+      "continuum mechanics",
+      2
+    ],
+    [
+      "minimal supersymmetric standard model",
+      2
+    ],
+    [
+      "polaron",
+      2
+    ],
+    [
+      "virial theorem",
+      2
+    ],
+    [
+      "heat",
+      2
+    ],
+    [
+      "camera obscura",
+      2
+    ],
+    [
+      "heisenberg uncertainty principle",
+      2
+    ],
+    [
+      "mesoscopic physics",
+      2
+    ],
+    [
+      "state (thermodynamic)",
+      2
+    ],
+    [
+      "fractional quantum hall effect",
+      2
+    ],
+    [
+      "astrostatistics",
+      2
+    ],
+    [
+      "nuclear astrophysics",
+      2
+    ],
+    [
+      "superposition principle",
+      2
+    ],
+    [
+      "thermodynamic free energy",
+      2
+    ],
+    [
+      "baryon",
+      2
+    ],
+    [
+      "second law of motion",
+      2
+    ],
+    [
+      "solar physics",
+      2
+    ],
+    [
+      "speed",
+      2
+    ],
+    [
+      "measurement in quantum mechanics",
+      2
+    ],
+    [
+      "electromagnetics",
+      2
+    ],
+    [
+      "stellar nucleosynthesis",
+      2
+    ],
+    [
+      "laser spectroscopy",
+      2
+    ],
+    [
+      "magnetic monopole",
+      2
+    ],
+    [
+      "eclipse",
+      2
+    ],
+    [
+      "spintronics",
+      2
+    ],
+    [
+      "einstein field equations",
+      2
+    ],
+    [
+      "rigid body dynamics",
+      2
+    ],
+    [
+      "klein\u2013gordon equation",
+      2
+    ],
+    [
+      "critical point (thermodynamics)",
+      2
+    ],
+    [
+      "computational particle physics",
+      2
+    ],
+    [
+      "paramagnetic",
+      2
+    ],
+    [
+      "thermodynamic state",
+      2
+    ],
+    [
+      "law of inertia",
+      2
+    ],
+    [
+      "luttinger liquid",
+      2
+    ],
+    [
+      "spring constant",
+      2
+    ],
+    [
+      "quantum critical point",
+      2
+    ],
+    [
+      "globular cluster",
+      2
+    ],
+    [
+      "bose gas",
+      2
+    ],
+    [
+      "grand unified theory",
+      2
+    ],
+    [
+      "classical thermodynamics",
+      2
+    ],
+    [
+      "fictitious force",
+      2
+    ],
+    [
+      "bargmann\u2013wigner equations",
+      2
+    ],
+    [
+      "propagator (quantum theory)",
+      2
+    ],
+    [
+      "theory of heat",
+      2
+    ],
+    [
+      "astronomia nova",
+      2
+    ],
+    [
+      "galilean relativity",
+      2
+    ],
+    [
+      "cosmic ray",
+      2
+    ],
+    [
+      "radio galaxy",
+      2
+    ],
+    [
+      "adiabatic process",
+      2
+    ],
+    [
+      "debris disk",
+      2
+    ],
+    [
+      "extensive variable",
+      2
+    ],
+    [
+      "quantum thermodynamics",
+      2
+    ],
+    [
+      "sunspot cycle",
+      2
+    ],
+    [
+      "carnot heat engine",
+      2
+    ],
+    [
+      "asteroid belt",
+      2
+    ],
+    [
+      "grand potential",
+      2
+    ],
+    [
+      "boson",
+      2
+    ],
+    [
+      "reionization",
+      2
+    ]
+  ],
+  "predicates": [
+    [
+      "involves",
+      15
+    ],
+    [
+      "is",
+      11
+    ],
+    [
+      "describes",
+      9
+    ],
+    [
+      "is used in",
+      7
+    ],
+    [
+      "studies",
+      7
+    ],
+    [
+      "contains",
+      7
+    ],
+    [
+      "applies",
+      6
+    ],
+    [
+      "has",
+      6
+    ],
+    [
+      "applies to",
+      6
+    ],
+    [
+      "can be",
+      6
+    ],
+    [
+      "interacts with",
+      5
+    ],
+    [
+      "utilizes",
+      5
+    ],
+    [
+      "is a",
+      5
+    ],
+    [
+      "uses",
+      5
+    ],
+    [
+      "are",
+      4
+    ],
+    [
+      "predicts",
+      4
+    ],
+    [
+      "determines",
+      4
+    ],
+    [
+      "plays a crucial role in",
+      4
+    ],
+    [
+      "is a type of",
+      4
+    ],
+    [
+      "leads to",
+      4
+    ],
+    [
+      "analyzes",
+      4
+    ],
+    [
+      "consists of",
+      4
+    ],
+    [
+      "affects",
+      4
+    ],
+    [
+      "assumes",
+      3
+    ],
+    [
+      "emits",
+      3
+    ],
+    [
+      "states",
+      3
+    ],
+    [
+      "investigates",
+      3
+    ],
+    [
+      "helps in",
+      3
+    ],
+    [
+      "is used to study",
+      3
+    ],
+    [
+      "explores",
+      3
+    ],
+    [
+      "is also known as",
+      3
+    ],
+    [
+      "plays a key role in",
+      3
+    ],
+    [
+      "combines",
+      3
+    ],
+    [
+      "deals with",
+      3
+    ],
+    [
+      "exhibits",
+      3
+    ],
+    [
+      "is characterized by",
+      3
+    ],
+    [
+      "relates",
+      3
+    ],
+    [
+      "can be applied to",
+      2
+    ],
+    [
+      "focuses on",
+      2
+    ],
+    [
+      "models",
+      2
+    ],
+    [
+      "relies on",
+      2
+    ],
+    [
+      "states that",
+      2
+    ],
+    [
+      "can exhibit",
+      2
+    ],
+    [
+      "is related to",
+      2
+    ],
+    [
+      "demonstrates",
+      2
+    ],
+    [
+      "can be either",
+      2
+    ],
+    [
+      "forms",
+      2
+    ],
+    [
+      "is a theory that describes",
+      2
+    ],
+    [
+      "was developed by",
+      2
+    ],
+    [
+      "is composed of",
+      2
+    ],
+    [
+      "examines",
+      2
+    ],
+    [
+      "exploits",
+      2
+    ],
+    [
+      "calculates",
+      2
+    ],
+    [
+      "demonstrated",
+      2
+    ],
+    [
+      "was proposed by",
+      2
+    ],
+    [
+      "represents",
+      2
+    ],
+    [
+      "measured in",
+      2
+    ],
+    [
+      "is described by",
+      2
+    ],
+    [
+      "plays a role in",
+      2
+    ],
+    [
+      "is produced in",
+      2
+    ],
+    [
+      "contributes to",
+      2
+    ],
+    [
+      "decays into",
+      2
+    ],
+    [
+      "interacts via",
+      2
+    ],
+    [
+      "attracts",
+      2
+    ],
+    [
+      "occurs in",
+      2
+    ],
+    [
+      "surrounds",
+      2
+    ],
+    [
+      "study",
+      2
+    ],
+    [
+      "enhances",
+      2
+    ]
+  ],
+  "objects": [
+    [
+      "quantum mechanics",
+      6
+    ],
+    [
+      "quantum field theory",
+      3
+    ],
+    [
+      "quantum entanglement",
+      3
+    ],
+    [
+      "quantum computing",
+      3
+    ],
+    [
+      "classical mechanics",
+      3
+    ],
+    [
+      "new data",
+      3
+    ],
+    [
+      "star",
+      3
+    ],
+    [
+      "interstellar medium",
+      2
+    ],
+    [
+      "weak nuclear force",
+      2
+    ],
+    [
+      "light",
+      2
+    ],
+    [
+      "solar wind",
+      2
+    ],
+    [
+      "particle interactions",
+      2
+    ],
+    [
+      "modern physics",
+      2
+    ],
+    [
+      "magnetic field",
+      2
+    ],
+    [
+      "zero electrical resistance",
+      2
+    ],
+    [
+      "the law of acceleration",
+      2
+    ],
+    [
+      "james clerk maxwell",
+      2
+    ],
+    [
+      "magnetic fields",
+      2
+    ],
+    [
+      "matter",
+      2
+    ],
+    [
+      "density",
+      2
+    ],
+    [
+      "quantum mechanics principles",
+      2
+    ],
+    [
+      "spontaneous symmetry breaking",
+      2
+    ],
+    [
+      "pressure and temperature",
+      2
+    ],
+    [
+      "proton",
+      2
+    ],
+    [
+      "celestial bodies",
+      2
+    ],
+    [
+      "electronic band structure",
+      2
+    ],
+    [
+      "sun",
+      2
+    ],
+    [
+      "light behavior",
+      2
+    ]
+  ]
+}
