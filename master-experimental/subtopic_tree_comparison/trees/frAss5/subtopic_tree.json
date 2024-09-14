@@ -1,0 +1,2747 @@
+{
+ "Physics": {
+  "Classical Mechanics": {
+   "Kinematics": {
+    "Rectilinear motion": {},
+    "Curvilinear motion": {
+     "Position, Velocity, and Acceleration in Curvilinear Motion": {
+      "Inclined plane": null,
+      "Mechanics of planar particle motion": null,
+      "Speed": null,
+      "Velocity": null
+     },
+     "Tangential and Normal Components of Acceleration": {
+      "Acceleration": null
+     },
+     "Projectile Motion": {},
+     "Circular Motion": {
+      "History of astronomy": null,
+      "Mathematical physics": null,
+      "Proper motion": null
+     },
+     "Relative Motion": {}
+    },
+    "Rotational motion": {
+     "Absolute time and space": null,
+     "Motion": null,
+     "Motion (physics)": null,
+     "Center of mass": null,
+     "Kepler's laws of planetary motion": null
+    },
+    "Projectile motion": {
+     "Free fall": null
+    },
+    "Relative motion": {
+     "Frame of reference": null,
+     "Degrees of freedom (physics and chemistry)": null,
+     "Galilean relativity": null,
+     "Galilean transformation": null
+    }
+   },
+   "Dynamics": {
+    "Kinematics": {
+     "Classical mechanics": null,
+     "Relativistic mechanics": null,
+     "Harmonic oscillator": null,
+     "Law of inertia": null
+    },
+    "Kinetics": {
+     "Reaction rates": {},
+     "Rate laws": {},
+     "Collision theory": {
+      "Definition of collision theory": {
+       "Newton's third law": null,
+       "Second law of motion": null
+      },
+      "Factors affecting collision frequency": {
+       "Traffic volume": {
+        "Analytical mechanics": null,
+        "Newton's laws of motion": null,
+        "Stellar dynamics": null
+       },
+       "Speed limit": {
+        "Inertial frame of reference": null
+       },
+       "Road conditions": {
+        "Solid mechanics": null,
+        "Statics": null,
+        "Molecular dynamics": null,
+        "Rigid body dynamics": null
+       },
+       "Weather conditions": {},
+       "Driver behavior": {}
+      },
+      "Activation energy in collision theory": {
+       "Definition of activation energy": {},
+       "Factors affecting activation energy": {
+        "Analytical dynamics": null,
+        "D'Alembert's principle": null,
+        "Parameterized post-Newtonian formalism": null
+       },
+       "Relationship between activation energy and reaction rate": {
+        "Definition of activation energy": {},
+        "Impact of activation energy on reaction rate": {
+         "Action (physics)": null
+        },
+        "Factors affecting activation energy": {
+         "Newton\u2013Cartan theory": null
+        },
+        "Calculation of activation energy": {},
+        "Activation energy in different types of reactions": {
+         "Chemical reactions": {},
+         "Biological reactions": {
+          "Newton's law of universal gravitation": null,
+          "Lagrangian mechanics": null,
+          "Newton's second law": null,
+          "Newtonian dynamics": null
+         },
+         "Catalysts": {
+          "Inertial frames": null,
+          "Newtonian mechanics": null,
+          "Newtonian potential": null,
+          "Post-Newtonian expansion": null
+         },
+         "Endothermic reactions": {},
+         "Exothermic reactions": {}
+        }
+       },
+       "Catalysts and activation energy": {},
+       "Experimental determination of activation energy": {
+        "Mechanics": null
+       }
+      },
+      "Successful collisions": {},
+      "Reaction rate calculations in collision theory": {
+       "Continuum mechanics": null,
+       "Dynamical system": null,
+       "Equations of motion": null,
+       "Kinetics (physics)": null
+      }
+     },
+     "Catalysis": {},
+     "Reaction mechanisms": {}
+    },
+    "Friction": {
+     "Friction": null
+    },
+    "Circular Motion": {
+     "Centripetal Acceleration": {
+      "Celestial dynamics": null,
+      "Three-body problem": null
+     },
+     "Centripetal Force": {
+      "Centrifugal force": null,
+      "Centrifugal force (fictitious)": null,
+      "Coriolis force": null,
+      "Fictitious force": null
+     },
+     "Tangential Speed": {},
+     "Radius of Curvature": {},
+     "Banked Roads": {}
+    },
+    "Torque": {
+     "Mechanical equilibrium": null,
+     "Newton\u2013Euler equations": null
+    }
+   },
+   "Energy": {
+    "Renewable Energy": {},
+    "Non-renewable Energy": {
+     "Hamilton\u2013Jacobi theory": null,
+     "Rubble pile": null
+    },
+    "Energy Efficiency": {
+     "Renewable Energy Sources": {
+      "Calculus of variations": null
+     },
+     "Green Building Design": {
+      "Conservation law": null,
+      "Hooke's law": null,
+      "Rocket equation": null,
+      "Simple harmonic motion": null,
+      "Elasticity (physics)": null
+     },
+     "Energy-Efficient Appliances": {
+      "Spring constant": null,
+      "Work\u2013energy theorem": null
+     },
+     "Transportation Efficiency": {
+      "Work (physics)": null
+     },
+     "Smart Energy Management Systems": {
+      "Energy Monitoring": {},
+      "Demand Response": {},
+      "Smart Grid Technologies": {
+       "Fluid mechanics": null,
+       "Hamilton\u2013Jacobi equation": null,
+       "Newton\u2013Cotes formulas": null,
+       "Principle of least action": null,
+       "Stationary-action principle": null
+      },
+      "Renewable Integration": {},
+      "Home Automation": {
+       "Conservation of energy": null
+      }
+     }
+    },
+    "Energy Sources": {
+     "Renewable Energy Sources": {},
+     "Non-Renewable Energy Sources": {},
+     "Fossil Fuels": {
+      "Gravitation": null
+     },
+     "Nuclear Energy": {
+      "Nuclear Power Plants": {},
+      "Nuclear Reactors": {
+       "Types of nuclear reactors": {
+        "Hamiltonian mechanics": null
+       },
+       "Nuclear reactor components": {
+        "Gravitational radiation": null,
+        "Noether's theorem": null,
+        "Gravitational collapse": null,
+        "Inelastic neutron scattering": null
+       },
+       "Nuclear reactor safety measures": {
+        "Conservative force": null
+       },
+       "Nuclear reactor fuel cycle": {},
+       "Nuclear reactor accidents": {}
+      },
+      "Nuclear Waste Management": {
+       "Mass": null
+      },
+      "Nuclear Energy Safety": {},
+      "Nuclear Energy Policy": {}
+     },
+     "Alternative Energy Sources": {
+      "Solar energy": {
+       "Planet": null,
+       "Solar System": null,
+       "Planetary system": null
+      },
+      "Wind energy": {},
+      "Hydropower": {
+       "Gravitational singularity": null,
+       "Gravity": null,
+       "Gravitational constant": null,
+       "Kinetic energy": null,
+       "Stellar population": null
+      },
+      "Geothermal energy": {
+       "Planetary science": null,
+       "Asteroid family": null,
+       "Dark matter halo": null,
+       "Planetary differentiation": null
+      },
+      "Bioenergy": {}
+     }
+    },
+    "Energy Consumption": {
+     "Virial theorem": null
+    }
+   },
+   "Momentum": {
+    "Collision": null,
+    "Canonical momentum": null,
+    "Conservation of momentum": null,
+    "Impulse (physics)": null,
+    "Momentum": null
+   },
+   "Rotational Motion": {
+    "Rotational Kinematics": {
+     "Tangential speed": null
+    },
+    "Torque": {
+     "Phase space formulation": null
+    },
+    "Rotational Dynamics": {
+     "Angular velocity": {},
+     "Torque": {
+      "Euler's equations (rigid body dynamics)": null,
+      "Euler's laws": null
+     },
+     "Moment of inertia": {
+      "Two New Sciences": null,
+      "Rigid body": null,
+      "Routhian mechanics": null,
+      "Tidal acceleration": null
+     },
+     "Rotational kinematics": {
+      "Angular displacement": {},
+      "Angular velocity": {},
+      "Angular acceleration": {},
+      "Rotational motion equations": {
+       "Celestial mechanics": null,
+       "Kepler's laws": null,
+       "Rotating reference frame": null,
+       "Rotation": null
+      },
+      "Torque": {
+       "Centripetal force": null,
+       "Pendulum (mechanics)": null
+      }
+     },
+     "Angular momentum": {
+      "Orbital mechanics": null
+     }
+    },
+    "Moment of Inertia": {
+     "Moment of inertia": null,
+     "Asteroid": null
+    },
+    "Rotational Energy": {}
+   }
+  },
+  "Thermodynamics": {
+   "Laws of Thermodynamics": {
+    "Zeroth Law of Thermodynamics": {},
+    "First Law of Thermodynamics": {
+     "Scientific law": null,
+     "First law of thermodynamics": null
+    },
+    "Second Law of Thermodynamics": {
+     "Heat death paradox": null,
+     "Second law of thermodynamics": null
+    },
+    "Third Law of Thermodynamics": {
+     "Absolute zero": null,
+     "Third law of thermodynamics": null
+    },
+    "Applications of Thermodynamics": {
+     "Laws of thermodynamics": null
+    }
+   },
+   "Thermal Equilibrium": {
+    "Temperature": {
+     "Statistical mechanics": null,
+     "Temperature": null,
+     "Thermodynamic equilibrium": null,
+     "Thermometry": null
+    },
+    "Thermal Conduction": {
+     "Hydrostatics": null,
+     "Thermal expansion": null,
+     "Kinetic theory of gases": null
+    },
+    "Thermal Radiation": {
+     "Clausius theorem": null
+    },
+    "Specific Heat Capacity": {},
+    "Heat Transfer": {
+     "Conduction": {},
+     "Convection": {
+      "Physical oceanography": null,
+      "Psychrometrics": null
+     },
+     "Radiation": {
+      "Atmospheric physics": null,
+      "Dynamic equilibrium": null,
+      "Equilibrium thermodynamics": null
+     },
+     "Thermal conductivity": {
+      "Thermal physics": null,
+      "Steady state": null
+     },
+     "Heat exchangers": {}
+    }
+   },
+   "Heat Transfer": {
+    "Conduction": {
+     "Conduction (heat)": null,
+     "Specific heat of solids": null,
+     "Thermoelectric effect": null
+    },
+    "Convection": {
+     "Natural convection": {
+      "Convection zone": null
+     },
+     "Forced convection": {
+      "Fluid dynamics": null,
+      "Liquid": null,
+      "Turbulence": null,
+      "Newtonian fluid": null
+     },
+     "Heat transfer in convection": {
+      "Natural convection": {
+       "Brownian motion": null
+      },
+      "Forced convection": {
+       "Kinematic viscosity": null,
+       "Convection": null
+      },
+      "Boiling and condensation": {
+       "Surface tension": null,
+       "Interface and colloid science": null
+      },
+      "Heat transfer correlations": {
+       "Heat transfer": null,
+       "Onsager reciprocal relations": null,
+       "Green\u2013Kubo relations": null
+      },
+      "Heat exchangers": {}
+     },
+     "Applications of convection": {
+      "Stack effect": null,
+      "Thermosiphon": null,
+      "Granular material": null
+     },
+     "Examples of convection": {}
+    },
+    "Radiation": {
+     "Types of radiation": {
+      "Nucleation": null
+     },
+     "Effects of radiation exposure": {
+      "Heat": null
+     },
+     "Sources of radiation": {
+      "Black-body radiation": null,
+      "Atmosphere": null
+     },
+     "Measuring radiation": {
+      "Rankine scale": null,
+      "Sensible heat": null
+     },
+     "Radiation protection": {
+      "Newton's law of cooling": null,
+      "Barometer": null,
+      "Latent heat": null,
+      "Theory of heat": null
+     }
+    },
+    "Heat Exchangers": {
+     "Introduction to Heat Exchangers": {},
+     "Types of Heat Exchangers": {
+      "1. Classification based on construction": {},
+      "2. Classification based on fluid flow": {},
+      "3. Classification based on heat transfer mechanism": {
+       "Thermal wheel": null,
+       "Vapor-compression refrigeration": null
+      },
+      "4. Classification based on application": {
+       "Calorimeter": null,
+       "Condenser (heat transfer)": null,
+       "Evaporator": null,
+       "Heat exchanger": null
+      },
+      "5. Special types of heat exchangers": {
+       "Absorption refrigerator": null,
+       "Ground-coupled heat exchanger": null
+      }
+     },
+     "Heat Transfer Mechanisms": {
+      "Mass flow rate": null
+     },
+     "Applications of Heat Exchangers": {},
+     "Troubleshooting and Maintenance of Heat Exchangers": {
+      "Vacuum pump": null
+     }
+    },
+    "Thermal Insulation": {
+     "Types of thermal insulation": {},
+     "Materials used in thermal insulation": {
+      "Types of insulating materials": {},
+      "Properties of thermal insulating materials": {
+       "Humidity": null,
+       "Outgassing": null,
+       "Particulates": null,
+       "Refrigerant": null,
+       "Thermal insulation": null
+      },
+      "Application methods for thermal insulation materials": {},
+      "Environmental impact of thermal insulation materials": {
+       "Volatile organic compound": null
+      },
+      "Innovations in thermal insulation materials": {
+       "Metallurgy": null
+      }
+     },
+     "Benefits of thermal insulation": {
+      "Cryogenic": null
+     },
+     "Installation of thermal insulation": {},
+     "Energy efficiency and cost savings": {}
+    }
+   },
+   "Thermodynamic Processes": {
+    "Isothermal Processes": {
+     "Isothermal process": null
+    },
+    "Isobaric Processes": {
+     "Isobaric process": null
+    },
+    "Isochoric Processes": {
+     "Boyle's Law": null,
+     "Isochoric process": null
+    },
+    "Adiabatic Processes": {
+     "Definition of Adiabatic Processes": {
+      "Quasistatic process": null
+     },
+     "First Law of Thermodynamics for Adiabatic Processes": {
+      "Bridgman's thermodynamic equations": null
+     },
+     "Work Done in Adiabatic Processes": {},
+     "Examples of Adiabatic Processes": {
+      "Adiabatic process": null,
+      "Irreversible process": null,
+      "Isenthalpic process": null,
+      "Polytropic process": null
+     },
+     "Comparison with Isothermal Processes": {
+      "Isentropic process": null
+     }
+    },
+    "Cyclic Processes": {
+     "Carnot cycle": null,
+     "Thermodynamic cycle": null,
+     "Thermodynamic equations": null,
+     "Thermodynamic process": null
+    }
+   },
+   "Thermodynamic Systems": {
+    "Work and heat interactions": {
+     "Work (thermodynamics)": null
+    },
+    "Properties of pure substances": {
+     "Equation of state": {
+      "Ideal gas equation": {
+       "Ideal gas law": null
+      },
+      "Van der Waals equation": {},
+      "Peng-Robinson equation": {},
+      "Redlich-Kwong equation": {},
+      "Cubic equations of state": {
+       "Van der Waals equation": {},
+       "Redlich-Kwong equation": {},
+       "Soave-Redlich-Kwong equation": {
+        "Thermodynamic variable": null
+       },
+       "Peng-Robinson equation": {},
+       "Cubic equation parameters": {
+        "Roots of a cubic equation": {
+         "Thermodynamic potential": null
+        },
+        "Discriminant of a cubic equation": {
+         "Helmholtz free energy": null,
+         "Internal energy": null,
+         "State (thermodynamic)": null
+        },
+        "Vieta's formulas for a cubic equation": {},
+        "Relationship between roots and coefficients of a cubic equation": {
+         "Equation of state": null,
+         "Extensive variable": null,
+         "Grand potential": null
+        },
+        "Graphical representation of a cubic equation": {
+         "Plotting the graph of a cubic equation": {},
+         "Identifying key features on the graph": {},
+         "Finding the x-intercepts": {},
+         "Determining the y-intercept": {
+          "Standard temperature and pressure": null
+         },
+         "Analyzing the end behavior": {
+          "Asymptotic behavior": {},
+          "Leading coefficients": {
+           "Energy density": null,
+           "Thermodynamic system": null,
+           "Volume (thermodynamics)": null
+          },
+          "Degree of polynomial": {},
+          "Horizontal asymptotes": {
+           "Pressure": null,
+           "Ideal gas": null,
+           "Real gas": null
+          },
+          "Vertical asymptotes": {
+           "Thermodynamic state": null
+          }
+         }
+        }
+       }
+      }
+     },
+     "Phase diagrams": {
+      "Binary phase diagrams": {},
+      "Ternary phase diagrams": {},
+      "Phase transitions": {
+       "First-order phase transitions": {},
+       "Second-order phase transitions": {},
+       "Critical phenomena": {
+        "Universality": {
+         "Molecule": null
+        },
+        "Phase transitions": {
+         "Phase transition": null
+        },
+        "Critical exponents": {
+         "Physical chemistry": null,
+         "Chemical potential": null,
+         "Intensive variable": null,
+         "Isotope": null,
+         "Critical point (thermodynamics)": null
+        },
+        "Scaling relations": {},
+        "Renormalization group theory": {}
+       },
+       "Phase diagrams": {
+        "Binary phase diagrams": {},
+        "Ternary phase diagrams": {
+         "Chemical element": null,
+         "Maxwell's thermodynamic surface": null
+        },
+        "Pressure-temperature phase diagrams": {
+         "Density": null
+        },
+        "Solid-liquid phase diagrams": {},
+        "Phase transformations": {
+         "Conservation of mass": null,
+         "Phase (matter)": null,
+         "Enthalpy": null,
+         "Gibbs free energy": null
+        }
+       },
+       "Applications of phase transitions": {
+        "Nucleosynthesis": null,
+        "High temperature superconductor": null
+       }
+      },
+      "Interpretation of phase diagrams": {},
+      "Applications of phase diagrams": {
+       "Gas giant": null
+      }
+     },
+     "Specific heat capacity": {
+      "High-temperature superconductivity": null,
+      "Units of measure": null,
+      "Heat capacity": null,
+      "Thermal mass": null,
+      "Ductility": null
+     },
+     "Thermal expansion": {
+      "Thermal expansion valve": null
+     },
+     "Viscosity": {
+      "Transport theory (statistical physics)": null
+     }
+    },
+    "Thermodynamic processes": {
+     "Adiabatic processes": {},
+     "Isothermal processes": {
+      "Frost line (astrophysics)": null
+     },
+     "Isobaric processes": {},
+     "Isochoric processes": {},
+     "Reversible and irreversible processes": {
+      "Gas": null,
+      "Pneumatics": null,
+      "Atmospheric thermodynamics": null,
+      "Gas laws": null,
+      "Reversible process (thermodynamics)": null,
+      "Thermostat": null
+     }
+    },
+    "First law of thermodynamics": {
+     "Energy": null,
+     "Thermodynamics": null,
+     "Fundamental thermodynamic relation": null,
+     "System (thermodynamics)": null,
+     "Thermodynamic temperature": null
+    },
+    "Second law of thermodynamics": {
+     "Concept of entropy": {
+      "Entropy": null,
+      "Statistical ensemble": null,
+      "Statistical physics": null,
+      "Conjugate variables (thermodynamics)": null,
+      "Statistical thermodynamics": null
+     },
+     "Heat transfer": {
+      "Nuclear power": null
+     },
+     "Irreversibility": {
+      "Endoreversible thermodynamics": null
+     },
+     "Carnot efficiency": {
+      "Carnot's theorem (thermodynamics)": null,
+      "Carnot engine": null,
+      "Carnot heat engine": null,
+      "Thermal efficiency": null
+     },
+     "Applications of second law": {
+      "Heat engines": {},
+      "Refrigerators": {
+       "Gibbs paradox": null,
+       "Caloric theory": null
+      },
+      "Entropy production": {
+       "Black hole thermodynamics": null,
+       "Chemical thermodynamics": null
+      },
+      "Thermodynamic cycles": {
+       "Classical thermodynamics": null,
+       "Thermodynamic free energy": null
+      },
+      "Irreversibility": {
+       "Non-equilibrium thermodynamics": null,
+       "Quantum thermodynamics": null
+      }
+     }
+    }
+   }
+  },
+  "Electricity and Magnetism": {
+   "Electric Charge": {
+    "Charge and Matter": {
+     "Charge (physics)": null,
+     "Charged particle": null
+    },
+    "Conservation of Charge": {},
+    "Quantization of Charge": {
+     "Color charge": null,
+     "Elementary charge": null,
+     "Ferroelectricity": null
+    },
+    "Electric Field": {
+     "Piezoelectricity": null
+    },
+    "Coulomb's Law": {
+     "Aerodynamics": null
+    }
+   },
+   "Electric Fields": {
+    "Definition of Electric Fields": {},
+    "Electric Field Lines": {
+     "Field (physics)": null
+    },
+    "Electric Field Strength": {
+     "Definition of Electric Field Strength": {
+      "Electrostatics": null
+     },
+     "Calculation of Electric Field Strength": {
+      "Mathematical model": null,
+      "Parabola": null,
+      "Gradient": null,
+      "Electron volt": null
+     },
+     "Factors Affecting Electric Field Strength": {
+      "Distance from the source charge": {
+       "Euclidean geometry": null
+      },
+      "Magnitude of the source charge": {
+       "Electrodynamics": null
+      },
+      "Presence of other charges": {
+       "Boundary condition": null,
+       "Conduction electron": null
+      },
+      "Medium between charges": {
+       "Dielectric constant": null,
+       "Drude model": null,
+       "Semimetal": null
+      },
+      "Orientation of the charges": {}
+     },
+     "Electric Field Strength in different contexts": {
+      "Electric Field Strength in a uniform electric field": {
+       "Electric potential": null
+      },
+      "Electric Field Strength near point charges": {
+       "Definition of electric field strength": {},
+       "Electric field strength due to positive point charges": {
+        "Proton": null,
+        "\u00c5ngstrom": null
+       },
+       "Electric field strength due to negative point charges": {
+        "Electron hole": null
+       },
+       "Magnitude and direction of electric field strength": {},
+       "Calculating electric field strength": {
+        "Gauge boson": null,
+        "Polariton": null,
+        "Poisson structure": null
+       }
+      },
+      "Electric Field Strength in capacitors": {},
+      "Electric Field Strength in conductors": {
+       "Fluid": null,
+       "Metallic hydrogen": null
+      },
+      "Electric Field Strength in insulators": {
+       "Electronic band structure": null,
+       "Electrostriction": null
+      }
+     },
+     "Applications of Electric Field Strength": {}
+    },
+    "Calculating Electric Fields": {
+     "Applied mathematics": null,
+     "Background field method": null,
+     "Crystal": null,
+     "Finite difference": null,
+     "Nanometer": null
+    },
+    "Applications of Electric Fields": {
+     "Electric fields in capacitors": {},
+     "Electric fields in electric motors": {},
+     "Electric fields in particle accelerators": {
+      "Generation of electric fields": {},
+      "Focusing electric fields": {
+       "Gyrotron": null,
+       "Chern class": null
+      },
+      "Steering electric fields": {
+       "Kirkwood gap": null
+      },
+      "Acceleration electric fields": {
+       "Definition of acceleration electric fields": {},
+       "Calculation of acceleration electric fields": {},
+       "Applications of acceleration electric fields": {
+        "Particle acceleration": {
+         "Linear particle accelerators": {},
+         "Circular particle accelerators": {
+          "Beijing Electron\u2013Positron Collider II": null,
+          "Cyclotron": null
+         },
+         "Particle acceleration in astrophysics": {
+          "Radiation pressure": null,
+          "Solar System model": null
+         },
+         "Particle acceleration in medical applications": {},
+         "Particle acceleration in particle physics": {
+          "Particle accelerator": null,
+          "Electron beams": null
+         }
+        },
+        "Medical imaging": {
+         "Casimir effect": null
+        },
+        "Ion implantation": {
+         "Ion implantation": null,
+         "Plasma physics": null,
+         "Cathode rays": null
+        },
+        "Electrostatic precipitation": {},
+        "Electric propulsion": {
+         "Plasma (physics)": null
+        }
+       },
+       "Relationship with other types of electric fields": {
+        "Noether charge": null
+       },
+       "Experimental methods to study acceleration electric fields": {
+        "Geiger\u2013Marsden experiments": null,
+        "Mott scattering": null
+       }
+      },
+      "Collimation electric fields": {
+       "Collider": null,
+       "Vacuum chamber": null
+      }
+     },
+     "Electric fields in medical devices": {
+      "Lightning": null
+     },
+     "Electric fields in electronic devices": {
+      "Capacitors": {
+       "Electrostatic precipitator": null,
+       "Magdeburg hemispheres": null
+      },
+      "Transistors": {
+       "Flexoelectricity": null
+      },
+      "Diodes": {},
+      "Integrated circuits": {
+       "Electron microscope": null,
+       "Charge-coupled device": null
+      },
+      "Semiconductors": {
+       "Laser physics": null,
+       "Plasmon": null,
+       "Phonon polariton": null,
+       "Wiedemann\u2013Franz law": null
+      }
+     }
+    }
+   },
+   "Electric Circuits": {
+    "Types of Electric Circuits": {},
+    "Components of Electric Circuits": {
+     "Voltage sources": {
+      "Photovoltaics": null
+     },
+     "Resistors": {
+      "Inverter compressor": null,
+      "Electrical conductor": null
+     },
+     "Capacitors": {
+      "Nuclear medicine": null
+     },
+     "Inductors": {
+      "Superconductivity": null,
+      "Superconductor": null,
+      "Reversing valve": null,
+      "Josephson junction": null
+     },
+     "Diodes": {
+      "Light-emitting diode": null,
+      "Point-contact transistor": null
+     }
+    },
+    "Series and Parallel Circuits": {},
+    "Voltage, Current, and Resistance": {
+     "Electric current": null,
+     "Electrical conduction": null,
+     "Newton (unit)": null,
+     "Josephson effect": null,
+     "Wiedemann-Franz law": null
+    },
+    "Ohm's Law": {}
+   },
+   "Magnetic Fields": {
+    "Magnetic Field Basics": {
+     "Magnetism": null
+    },
+    "Magnetic Field Strength": {
+     "Definition and Units": {
+      "Tesla (unit)": null
+     },
+     "Factors Affecting Magnetic Field Strength": {
+      "Symmetry (physics)": null,
+      "Lorentz symmetry": null,
+      "Side lobe": null
+     },
+     "Calculation of Magnetic Field Strength": {
+      "Gauge theory": null,
+      "Magnetic field": null,
+      "Magnetostatics": null,
+      "Vector boson": null,
+      "Radial velocity": null
+     },
+     "Applications of Magnetic Field Strength": {},
+     "Comparison of Magnetic Field Strength in Different Materials": {
+      "Antiferromagnetism": null,
+      "Magnetic susceptibility": null,
+      "Paramagnetic": null
+     }
+    },
+    "Magnetic Field Direction": {
+     "Earth's magnetic field": {
+      "Earth's magnetic field": null,
+      "Van Allen radiation belt": null
+     },
+     "Magnetic field lines": {
+      "Gauge symmetry (mathematics)": null
+     },
+     "Right-hand rule": {
+      "Astronomia nova": null
+     },
+     "Orientation of magnetic field": {
+      "Angle": null
+     },
+     "Magnetic field of a magnet": {
+      "Aharonov\u2013Bohm effect": null,
+      "Magnetic domain": null
+     }
+    },
+    "Magnetic Field Interactions": {
+     "Magnetic Field Basics": {},
+     "Magnetic Field Sources": {
+      "Solar wind": null,
+      "Charm quark": null,
+      "Magnetic monopole": null,
+      "Stellar wobble": null
+     },
+     "Magnetic Field Strength": {
+      "Termination shock": null
+     },
+     "Magnetic Field Lines": {},
+     "Magnetic Field Effects on Matter": {
+      "Down antiquark": null,
+      "Lorentz force": null,
+      "Interplanetary medium": null,
+      "Tidal locking": null,
+      "Diamagnetic": null
+     }
+    },
+    "Applications of Magnetic Fields": {
+     "Magnetic Levitation": {
+      "Astrometry": null,
+      "Meissner effect": null,
+      "Space physics": null,
+      "Diamagnetism": null
+     },
+     "Magnetic Resonance Imaging (MRI)": {
+      "Principles of MRI": {
+       "Magnetic resonance imaging": null,
+       "Magnetohydrodynamics": null,
+       "Nuclear magnetic resonance": null
+      },
+      "MRI Machine Components": {
+       "Accelerator physics": null,
+       "Space": null,
+       "Ultrasonics": null,
+       "Superconducting magnet": null
+      },
+      "Types of MRI": {
+       "Pulsar": null,
+       "X-ray telescope": null
+      },
+      "Clinical Applications of MRI": {
+       "W\u2032 and Z\u2032 bosons": null,
+       "Michelson\u2013Morley experiment": null,
+       "Electron paramagnetic resonance": null
+      },
+      "MRI Safety": {
+       "Synchrotron emission": null
+      }
+     },
+     "Magnetic Particle Imaging": {
+      "Principles of Magnetic Particle Imaging": {
+       "Spin Hall effect": null,
+       "Superparamagnetism": null
+      },
+      "Applications of Magnetic Particle Imaging": {
+       "Particle detector": null,
+       "Galaxy filament": null,
+       "Magnetoelectric effect": null
+      },
+      "Advantages and Limitations of Magnetic Particle Imaging": {
+       "Antiferromagnet": null
+      },
+      "Comparison with other imaging techniques": {
+       "Energetic neutral atom": null,
+       "Gravitational-wave detector": null,
+       "Main-sequence star": null,
+       "Radio telescope": null
+      },
+      "Current research developments in Magnetic Particle Imaging": {
+       "Graviphoton": null
+      }
+     },
+     "Electric Motors": {},
+     "Magnetic Data Storage": {
+      "Hard disk drives": {
+       "Hard disk drive components": {
+        "Ferromagnet": null,
+        "Magnetite": null,
+        "Accretion disk": null,
+        "Ferromagnetism": null,
+        "X-ray diffraction": null
+       },
+       "Types of hard disk drives": {
+        "Active galactic nuclei": null,
+        "Blazar": null,
+        "Paramagnetism": null
+       },
+       "Hard disk drive capacity": {
+        "Terminology": {},
+        "Historical trend": {
+         "Classical electromagnetism": null,
+         "Kaluza\u2013Klein theory": null,
+         "Seyfert galaxy": null
+        },
+        "Factors affecting capacity": {
+         "Cosmic ray": null,
+         "Roche limit": null
+        },
+        "Different types of hard disk drives": {
+         "Circumstellar disk": null
+        },
+        "Future trends": {
+         "Artificial Intelligence": {
+          "Galaxy": null
+         },
+         "Cybersecurity": {},
+         "Sustainability": {
+          "Renewable Energy": {},
+          "Waste Management": {},
+          "Eco-Friendly Practices": {},
+          "Conservation": {
+           "Biodiversity conservation": {},
+           "Wildlife conservation": {
+            "Jupiter trojan": null
+           },
+           "Ecosystem conservation": {
+            "Clusters of galaxies": null,
+            "Debris disk": null,
+            "Kuiper belt": null,
+            "Lagrangian points": null,
+            "Crystallography": null
+           },
+           "Natural resource conservation": {},
+           "Climate change mitigation": {
+            "Synchrotron radiation": null
+           }
+          },
+          "Corporate Responsibility": {}
+         },
+         "Remote Work": {},
+         "Digital Transformation": {}
+        }
+       },
+       "Hard disk drive speed": {},
+       "Hard disk drive connectivity": {
+        "Active galaxy": null
+       }
+      },
+      "Magnetic tapes": {
+       "History": {
+        "Ancient History": {
+         "Lodestone": null
+        },
+        "Medieval History": {},
+        "Modern History": {
+         "Radio astronomy": null,
+         "Solar physics": null,
+         "Compton Gamma Ray Observatory": null,
+         "Magnetosphere": null,
+         "Radio galaxy": null
+        },
+        "Historical Figures": {},
+        "Historical Events": {
+         "Geophysics": null
+        }
+       },
+       "Uses": {
+        "Magnet": null,
+        "Magnetron": null,
+        "Gamma ray astronomy": null
+       },
+       "Advantages": {},
+       "Disadvantages": {},
+       "Future prospects": {}
+      },
+      "Floppy disks": {},
+      "Magnetic stripe cards": {},
+      "Magnetic drum storage": {
+       "History of magnetic drum storage": {
+        "Invention of magnetic drum storage": {
+         "Spontaneous magnetization": null
+        },
+        "Development of magnetic drum storage technology": {},
+        "Applications of magnetic drum storage": {},
+        "Advantages and disadvantages of magnetic drum storage": {},
+        "Impact of magnetic drum storage on computing history": {
+         "Development of magnetic drum storage technology": {},
+         "Integration of magnetic drum storage in early computers": {},
+         "Impact on computing speed and performance": {},
+         "Challenges and limitations of magnetic drum storage": {},
+         "Transition to more advanced storage technologies": {
+          "Solid state drives (SSDs)": {},
+          "Cloud storage": {
+           "Galactic astronomy": null,
+           "Nebulae": null,
+           "Radar astronomy": null
+          },
+          "Data deduplication": {
+           "Spiral galaxy": null
+          },
+          "Storage virtualization": {
+           "Heliosphere": null,
+           "Proca action": null
+          },
+          "Non-volatile memory express (NVMe)": {
+           "Asteroid belt": null,
+           "Comet": null
+          }
+         }
+        }
+       },
+       "Operation of magnetic drum storage": {
+        "Ring system": null,
+        "Solar corona": null,
+        "Magnetic fields": null,
+        "Orbital magnetization": null
+       },
+       "Advantages of magnetic drum storage": {
+        "Dwarf star": null
+       },
+       "Disadvantages of magnetic drum storage": {},
+       "Comparison of magnetic drum storage with other storage technologies": {
+        "Active asteroid": null,
+        "Hill sphere": null,
+        "Neutrino detector": null
+       }
+      }
+     }
+    }
+   },
+   "Electromagnetic Induction": {
+    "Faraday's Law": {},
+    "Lenz's Law": {
+     "Hubble's law": null,
+     "Gauge symmetry": null
+    },
+    "Induced EMF": {
+     "Faraday's Law": {},
+     "Lenz's Law": {
+      "Maxwell's demon": null
+     },
+     "Inductance": {
+      "Self-inductance": {},
+      "Mutual inductance": {
+       "Definition": {
+        "Electromagnetism": null
+       },
+       "Formula": {},
+       "Factors affecting mutual inductance": {
+        "Electromagnetics": null,
+        "Maxwell's equations": null,
+        "Electromagnetic field": null,
+        "Plane wave": null
+       },
+       "Mutual inductance in transformers": {
+        "Speed of light": null
+       },
+       "Applications of mutual inductance": {
+        "Electromagnetic wave": null,
+        "Muon spin spectroscopy": null
+       }
+      },
+      "Inductive reactance": {
+       "Wave": null,
+       "Angular frequency": null,
+       "Frequency": null
+      },
+      "Inductor types": {},
+      "Applications of inductance": {
+       "Energy storage": {},
+       "Inductive sensing": {
+        "Fermi Gamma-ray Space Telescope": null,
+        "Electromagnetic spectrum": null
+       },
+       "Filters": {},
+       "Transformers": {},
+       "Inductive heating": {
+        "Electromagnetic radiation": null,
+        "Laser": null,
+        "X-ray laser": null,
+        "Gravitational-wave astronomy": null,
+        "Radio wave": null
+       }
+      }
+     },
+     "Self-Induced EMF": {
+      "Electromagnetic force": null
+     },
+     "Mutual Inductance": {
+      "Circumstellar disc": null
+     }
+    },
+    "Mutual Induction": {
+     "X-ray binaries": null
+    },
+    "Self-Induction": {
+     "Definition": {},
+     "Faraday's law": {
+      "Charge conjugation": null,
+      "Maxwell relations": null
+     },
+     "Self-induced emf": {
+      "Electromagnetic theory": null
+     },
+     "Inductance": {
+      "Ordinary differential equation": null
+     },
+     "Applications": {
+      "Biological physics": null,
+      "Sunspot cycle": null
+     }
+    }
+   }
+  },
+  "Optics": {
+   "Geometrical Optics": {
+    "Reflection": {},
+    "Refraction": {},
+    "Lens Theory": {
+     "Thin Lens Equation": {
+      "Geometrical optics": null,
+      "Geometric optics": null
+     },
+     "Lensmaker's Equation": {
+      "Refractive index": null
+     },
+     "Image Formation": {
+      "Lens": {
+       "Types of Lenses": {},
+       "Lens Materials": {},
+       "Lens Design": {
+        "Optical design software": {
+         "Classical optics": null,
+         "Optical telescope": null
+        },
+        "Types of lenses": {
+         "Newtonian telescope": null,
+         "Gravitational lens": null,
+         "Reflecting telescope": null
+        },
+        "Aberrations": {
+         "Spherical astronomy": null
+        },
+        "Lens coating": {},
+        "Lens materials": {}
+       },
+       "Lens Coatings": {},
+       "Lens Applications": {
+        "Telescope": null
+       }
+      },
+      "Aperture": {
+       "Pinhole camera": null
+      },
+      "Focus": {},
+      "Depth of Field": {},
+      "Camera Sensor": {
+       "Camera obscura": null
+      }
+     },
+     "Aberrations": {},
+     "Lens Aperture": {}
+    },
+    "Mirrors": {},
+    "Prisms": {}
+   },
+   "Physical Optics": {
+    "Interference": {
+     "Constructive interference": {},
+     "Destructive interference": {
+      "Young's interference experiment": null
+     },
+     "Coherent interference": {
+      "Mach\u2013Zehnder interferometer": null,
+      "Phase (waves)": null
+     },
+     "Incoherent interference": {},
+     "Quantum interference": {
+      "Wave interference": null,
+      "Beam splitter": null,
+      "Wave theory of light": null,
+      "Stellar parallax": null
+     }
+    },
+    "Diffraction": {
+     "Classical diffraction": {},
+     "Fraunhofer diffraction": {
+      "Infrared astronomy": null,
+      "Light": null
+     },
+     "Fresnel diffraction": {
+      "Physical optics": null,
+      "Irradiance": null,
+      "Eclipse": null
+     },
+     "Crystal diffraction": {},
+     "Grating diffraction": {
+      "Galaxy morphological classification": null
+     }
+    },
+    "Polarization": {
+     "Political polarization": {
+      "Far-infrared astronomy": null
+     },
+     "Social polarization": {
+      "Economic inequality": {},
+      "Political polarization": {
+       "Polarization (waves)": null
+      },
+      "Racial segregation": {},
+      "Urban-rural divide": {},
+      "Digital divide": {
+       "Access to technology": {
+        "Infrared thermometer": null,
+        "Thermographic camera": null
+       },
+       "Internet connectivity": {},
+       "Skills and digital literacy": {
+        "Acoustics": null,
+        "Infrared spectroscopy": null
+       },
+       "Socioeconomic factors": {},
+       "Global disparities": {
+        "Visible light": null,
+        "Irregular galaxy": null,
+        "Supernova remnant": null
+       }
+      }
+     },
+     "Economic polarization": {
+      "Cosmic background radiation": null,
+      "Optical physics": null
+     },
+     "Cultural polarization": {
+      "Corpuscular theory of light": null
+     },
+     "Racial polarization": {
+      "Ultraviolet astronomy": null
+     }
+    },
+    "Dispersion": {
+     "Optical Dispersion": {
+      "Spectroscopy": null
+     },
+     "Chromatic Dispersion": {
+      "Apparent magnitude": null,
+      "Chromosphere": null,
+      "Photometry (astronomy)": null,
+      "Redshift survey": null,
+      "Spectroscope": null
+     },
+     "Polarization Mode Dispersion": {},
+     "Material Dispersion": {
+      "Hubble diagram": null,
+      "Ultraviolet radiation": null,
+      "Near-infrared": null,
+      "Wavelengths": null
+     },
+     "Waveguide Dispersion": {}
+    },
+    "Coherence": {
+     "Structural Coherence": {},
+     "Cohesive Devices": {},
+     "Logical Coherence": {
+      "Psychophysics": null,
+      "X-radiation": null
+     },
+     "Textual Coherence": {},
+     "Thematic Coherence": {
+      "Infrared": null,
+      "Optical astronomy": null,
+      "Planetary nebula": null,
+      "Submillimetre astronomy": null,
+      "Photoluminescence": null
+     }
+    }
+   },
+   "Quantum Optics": {
+    "Optics": null,
+    "Optical amplifier": null
+   },
+   "Nonlinear Optics": {
+    "Non-linear optics": null
+   },
+   "Fiber Optics": {
+    "Optoelectronics": null,
+    "Optical fibres": null
+   }
+  },
+  "Quantum Mechanics": {
+   "Wave-particle duality": {
+    "Historical background": {
+     "Eightfold way (physics)": null,
+     "Supernova nucleosynthesis": null
+    },
+    "Wave properties": {
+     "Wave-particle duality": {
+      "Historical background": {},
+      "Wave properties of particles": {
+       "Gravitational wave": null
+      },
+      "Particle properties of waves": {
+       "De Broglie wavelength": null,
+       "Planck length": null,
+       "Gravitational waves": null
+      },
+      "Quantum mechanics": {
+       "Klein\u2013Gordon equation": null,
+       "Planck's law": null,
+       "Rydberg formula": null,
+       "Fermi\u2013Dirac statistics": null,
+       "Quantum oscillations": null
+      },
+      "Experimental evidence": {}
+     },
+     "Wave interference": {},
+     "Wave reflection": {},
+     "Wave diffraction": {},
+     "Wave refraction": {}
+    },
+    "Particle properties": {
+     "Charge": {},
+     "Mass": {
+      "Particle": null,
+      "Planck constant": null
+     },
+     "Spin": {
+      "Classical Spin": {},
+      "Quantum Spin": {
+       "Spin Angular Momentum": {
+        "Excited state": null
+       },
+       "Spin Operators": {
+        "Elementary particle": null,
+        "Boson": null
+       },
+       "Pauli Matrices": {
+        "Bohr model": null
+       },
+       "Stern-Gerlach Experiment": {
+        "Quantum harmonic oscillator": null
+       },
+       "Quantum Entanglement with Spin": {
+        "Exciton": null
+       }
+      },
+      "Spin Dynamics": {
+       "Phonon": null
+      },
+      "Spintronics": {},
+      "Spin Coherence": {}
+     },
+     "Electric/Magnetic properties": {
+      "Photon": null,
+      "Antiparticle": null,
+      "W boson": null,
+      "Photo-electric effect": null,
+      "Photoelectron spectroscopy": null
+     },
+     "Flavor": {
+      "Lepton": null,
+      "Particle physics": null,
+      "Pion": null,
+      "Resonance (particle physics)": null
+     }
+    },
+    "Experiments supporting wave-particle duality": {
+     "Photoelectric effect": null,
+     "Double-slit experiment": null
+    },
+    "Implications and interpretations": {
+     "Historical context": {
+      "Dirac equation": null,
+      "Propagator (Quantum Theory)": null,
+      "Wave\u2013particle duality": null,
+      "Heisenberg uncertainty principle": null
+     },
+     "Cultural implications": {},
+     "Social interpretations": {
+      "Complementarity (physics)": null
+     },
+     "Ethical considerations": {},
+     "Future impact": {
+      "Quantum electrodynamics": null,
+      "Quantum field theory": null,
+      "Uncertainty principle": null
+     }
+    }
+   },
+   "Quantum superposition": {
+    "Definition": {
+     "Formal definition": {},
+     "Operational definition": {},
+     "Conceptual definition": {
+      "Explanation": {
+       "Physical cosmology": null,
+       "Spacetime": null,
+       "Quantum fluctuation": null
+      },
+      "Examples": {},
+      "Characteristics": {
+       "Electron": null,
+       "Electron shell": null,
+       "Matter": null,
+       "Preon": null,
+       "Two-state quantum system": null
+      },
+      "Importance": {},
+      "Comparison": {}
+     },
+     "Dictionary definition": {},
+     "Practical definition": {}
+    },
+    "Examples": {
+     "Real-life examples": {
+      "Tachyon": null
+     },
+     "Historical examples": {
+      "Ancient civilizations": {
+       "Half-integer": null
+      },
+      "Medieval time period": {
+       "Outline of astronomy": null
+      },
+      "Colonial era": {},
+      "Industrial Revolution": {
+       "Meson": null,
+       "Z boson": null,
+       "Degenerate energy levels": null
+      },
+      "20th century events": {
+       "Annual Review of Nuclear and Particle Science": null,
+       "Pentaquark": null,
+       "Top quark": null,
+       "Upsilon meson": null
+      }
+     },
+     "Case studies": {
+      "Gravitino": null
+     },
+     "Illustrations": {},
+     "Anecdotes": {}
+    },
+    "Principle": {
+     "Definition": {
+      "Etymology": {},
+      "Explanation": {
+       "Collapse of the wavefunction": null
+      },
+      "Classification": {
+       "Spontaneous symmetry breaking": null,
+       "Vacuum expectation value": null,
+       "Ground state": null,
+       "Accretion (astrophysics)": null
+      },
+      "Examples": {},
+      "Distinction": {
+       "Stationary state": null,
+       "Wavefunction collapse": null
+      }
+     },
+     "Types": {
+      "Physical Types": {
+       "Body size": {
+        "Biophysics": null
+       },
+       "Body shape": {
+        "String (physics)": null
+       },
+       "Muscle definition": {
+        "Hyperfine splitting": null,
+        "Graviton": null
+       },
+       "Facial features": {},
+       "Hair type": {
+        "Superfluid": null,
+        "Majorana fermion": null
+       }
+      },
+      "Personality Types": {},
+      "Animal Types": {},
+      "Structural Types": {
+       "Class-based": {},
+       "Object-based": {},
+       "Prototypal": {
+        "Definition": {
+         "Non-linear dynamics": null,
+         "Quantum superposition": null,
+         "Wave function collapse": null,
+         "Critical exponent": null
+        },
+        "Advantages": {
+         "Electroweak interaction": null,
+         "Band theory": null,
+         "Hyperfine structure": null
+        },
+        "Disadvantages": {
+         "Self-consistency principle in high energy physics": null
+        },
+        "Examples": {
+         "Economic Examples": {},
+         "Historical Examples": {},
+         "Scientific Examples": {
+          "Biology": {
+           "Initial mass function": null
+          },
+          "Chemistry": {},
+          "Physics": {
+           "Classical Mechanics": {},
+           "Thermodynamics": {},
+           "Electromagnetism": {},
+           "Quantum Mechanics": {
+            "Wave-particle duality": {},
+            "Quantum superposition": {
+             "Polymer physics": null,
+             "BRST quantization": null,
+             "Quasiparticle": null,
+             "Free electron model": null,
+             "Luttinger liquid": null
+            },
+            "Quantum entanglement": {
+             "Topological charge": null
+            },
+            "Quantum tunneling": {
+             "Beta decay": null
+            },
+            "Quantum measurement problem": {}
+           },
+           "Relativity": {}
+          },
+          "Astronomy": {
+           "Many-worlds interpretation": null
+          },
+          "Geology": {}
+         },
+         "Cultural Examples": {},
+         "Personal Examples": {}
+        },
+        "Comparison with Classical Inheritance": {
+         "Old quantum theory": null,
+         "T-symmetry": null,
+         "Weak force": null,
+         "Superposition principle": null
+        }
+       },
+       "Records": {
+        "Exotic particle": null
+       },
+       "Tuples": {}
+      },
+      "Medical Types": {
+       "Bogoliubov quasiparticle": null
+      }
+     },
+     "Application": {
+      "Mobile applications": {},
+      "Web applications": {
+       "Partition function (quantum field theory)": null,
+       "Wheeler's delayed-choice experiment": null
+      },
+      "Desktop applications": {
+       "User Interface Design": {},
+       "Functionality": {
+        "Franck\u2013Hertz experiment": null
+       },
+       "Performance": {
+        "Music": {},
+        "Sports": {},
+        "Dance": {},
+        "Theater": {},
+        "Academic": {
+         "Research": {
+          "Literature review": {
+           "Sources of literature": {
+            "Primary sources": {},
+            "Secondary sources": {
+             "Schr\u00f6dinger\u2013Newton equation": null,
+             "Perturbation theory (quantum mechanics)": null,
+             "Ginzburg\u2013Landau theory": null,
+             "Goldstone's theorem": null
+            },
+            "Tertiary sources": {
+             "Many-body theory": null,
+             "Landau quantization": null
+            },
+            "Online sources": {},
+            "Print sources": {}
+           },
+           "Purpose of literature review": {},
+           "Methods for conducting literature review": {
+            "Catastrophe theory": null,
+            "Renormalization": null,
+            "Scattering theory": null
+           },
+           "Challenges in conducting literature review": {},
+           "Best practices for writing literature review": {}
+          },
+          "Data collection": {},
+          "Data analysis": {
+           "Condensed matter physics": null,
+           "Wick's theorem": null,
+           "Canonical quantization": null,
+           "Precision tests of QED": null,
+           "Quantum interference": null
+          },
+          "Interpretation of results": {},
+          "Conclusion and recommendations": {}
+         },
+         "Teaching": {},
+         "Writing": {},
+         "Conferences": {},
+         "Grants": {}
+        }
+       },
+       "Compatibility": {},
+       "Security": {
+        "Physical security": {
+         "Bohmian mechanics": null,
+         "Quantum statistical mechanics": null
+        },
+        "Cybersecurity": {
+         "Bloch's theorem": null,
+         "Born rule": null,
+         "De Broglie\u2013Bohm theory": null
+        },
+        "Network security": {},
+        "Information security": {
+         "Symmetry in quantum mechanics": null,
+         "Measurement in quantum mechanics": null
+        },
+        "Biometric security": {}
+       }
+      },
+      "Cloud-based applications": {
+       "Cosmic inflation": null,
+       "Exciton-polariton": null
+      },
+      "Enterprise applications": {
+       "Customer Relationship Management (CRM)": {},
+       "Enterprise Resource Planning (ERP)": {},
+       "Supply Chain Management (SCM)": {},
+       "Human Resources Management (HRM)": {
+        "Energy levels": null
+       },
+       "Business Intelligence (BI)": {
+        "Data collection": {},
+        "Data analysis": {
+         "Cabibbo\u2013Kobayashi\u2013Maskawa matrix": null,
+         "Green's function (many-body theory)": null,
+         "Quantum Hall effect": null
+        },
+        "Data visualization": {},
+        "Reporting": {},
+        "Predictive analytics": {
+         "Data collection": {},
+         "Data preprocessing": {
+          "Dark energy": null,
+          "Principle of covariance": null
+         },
+         "Model training": {
+          "Data preprocessing": {
+           "Electroweak theory": null
+          },
+          "Model architecture selection": {
+           "Standard Model of particle physics": null,
+           "Hamiltonian (quantum mechanics)": null
+          },
+          "Hyperparameter tuning": {},
+          "Validation and evaluation": {
+           "Bohr\u2013Van Leeuwen theorem": null,
+           "Cosmic distance ladder": null
+          },
+          "Transfer learning": {
+           "Definition": {
+            "Effective field theory": null,
+            "General relativity": null,
+            "Polaron": null,
+            "Zero-point energy": null
+           },
+           "Types of transfer learning": {
+            "Twistor theory": null,
+            "Fractional quantum Hall effect": null,
+            "Laughlin wavefunction": null
+           },
+           "Challenges in transfer learning": {
+            "Canonical quantum gravity": null
+           },
+           "Applications of transfer learning": {
+            "Stellar evolution": null,
+            "Stellar structure": null,
+            "Curvaton": null,
+            "Plasmaron": null,
+            "Topological phase": null
+           },
+           "Best practices for transfer learning": {}
+          }
+         },
+         "Model evaluation": {},
+         "Deployment and monitoring": {}
+        }
+       }
+      }
+     },
+     "Ethical Considerations": {},
+     "Examples": {
+      "Faddeev\u2013Popov ghost": null
+     }
+    },
+    "Applications": {
+     "Mobile applications": {},
+     "Web applications": {
+      "Blackbody radiation": null,
+      "Interstellar medium": null
+     },
+     "Business applications": {
+      "Data analysis": {
+       "Descriptive statistics": {},
+       "Inferential statistics": {},
+       "Data visualization": {},
+       "Predictive modeling": {},
+       "Machine learning algorithms": {
+        "Large Hadron Collider": null,
+        "Weakly interacting massive particles": null,
+        "Multi-messenger astronomy": null,
+        "Laser spectroscopy": null,
+        "Nuclear spectroscopy": null,
+        "X-ray spectroscopy": null
+       }
+      },
+      "Customer relationship management": {
+       "Stellar class": null
+      },
+      "Project management": {},
+      "Supply chain management": {},
+      "Financial forecasting": {
+       "Superfluid vacuum theory": null,
+       "M\u00f6ssbauer spectroscopy": null
+      }
+     },
+     "Educational applications": {
+      "Online learning platforms": {
+       "The Feynman Lectures on Physics": null
+      },
+      "Educational games": {
+       "Physics education research": null
+      },
+      "Interactive simulations": {
+       "Astroparticle physics": null,
+       "Bose\u2013Einstein condensate": null,
+       "Radiocarbon dating": null,
+       "Positronium": null,
+       "Astrostatistics": null
+      },
+      "Virtual reality experiences": {
+       "X-ray astronomy": null
+      },
+      "Homework/assignment tools": {}
+     },
+     "Entertainment applications": {}
+    },
+    "Challenges": {
+     "Solar neutrino problem": null
+    }
+   },
+   "Quantum entanglement": {
+    "Definition": {
+     "Etymology": {
+      "Astronomy": null
+     },
+     "Classification": {
+      "Baryon": null,
+      "Dwarf planet": null
+     },
+     "Characteristics": {
+      "Physical characteristics": {
+       "Height": {
+        "Atoms": null
+       },
+       "Weight": {},
+       "Body shape": {
+        "Atomic orbital": null,
+        "Fundamental interaction": null,
+        "Spin (physics)": null,
+        "Composite particle": null,
+        "Thomas\u2013Fermi model": null
+       },
+       "Hair color": {},
+       "Eye color": {
+        "Atomic physics": null,
+        "Quantum spin": null
+       }
+      },
+      "Personality traits": {},
+      "Behavioral characteristics": {
+       "Kondo effect": null
+      },
+      "Unique attributes": {
+       "Physical characteristics": {
+        "Vacuum": null
+       },
+       "Personality traits": {},
+       "Abilities and skills": {
+        "Physical abilities": {
+         "Strange quark": null,
+         "Up quark": null
+        },
+        "Mental abilities": {
+         "Intelligence": {
+          "Artificial Intelligence": {},
+          "Emotional Intelligence": {},
+          "Cognitive Intelligence": {
+           "Memory": {
+            "Fermi liquid theory": null,
+            "Quantum state": null,
+            "Quantum entanglement": null,
+            "Reduced density matrix": null
+           },
+           "Problem Solving": {},
+           "Decision Making": {},
+           "Critical Thinking": {
+            "Baryon number": null,
+            "Lepton number": null,
+            "Pauli exclusion principle": null,
+            "Density matrix": null
+           },
+           "Creativity": {
+            "Fermion": null,
+            "Schr\u00f6dinger's cat": null
+           }
+          },
+          "Social Intelligence": {},
+          "Creative Intelligence": {}
+         },
+         "Memory": {},
+         "Problem-solving": {},
+         "Creativity": {},
+         "Attention": {
+          "Spin (particle physics)": null
+         }
+        },
+        "Creative skills": {
+         "Atom": null
+        },
+        "Social skills": {},
+        "Technical skills": {
+         "Programming": {},
+         "Data Analysis": {
+          "Quantum Entanglement": null,
+          "Mott insulator": null,
+          "Nearly free electron model": null
+         },
+         "Networking": {
+          "Strong nuclear force": null
+         },
+         "Cybersecurity": {
+          "Weak hypercharge": null
+         },
+         "Database Management": {
+          "Vacuum state": null
+         }
+        }
+       },
+       "Background and history": {
+        "Cosmological principle": null,
+        "Universe": null,
+        "Baryon asymmetry": null
+       },
+       "Special interests or hobbies": {}
+      },
+      "Typical patterns": {
+       "Quark": null,
+       "Copenhagen interpretation": null
+      }
+     },
+     "Examples": {
+      "Delta baryon": null,
+      "J/psi meson": null,
+      "List of baryons": null,
+      "List of mesons": null
+     },
+     "Usage": {}
+    },
+    "EPR Paradox": {
+     "Quantum Entanglement": {
+      "Einstein\u2013Podolsky\u2013Rosen paradox": null
+     },
+     "Bell's Theorem": {},
+     "Quantum Mechanics": {
+      "Wave-particle duality": {},
+      "Quantum superposition": {
+       "Concept of superposition": {},
+       "Quantum interference": {
+        "Seesaw mechanism": null
+       },
+       "Entanglement": {
+        "Weak interaction": null,
+        "Subatomic particle": null,
+        "Von Neumann\u2013Wigner interpretation": null,
+        "White dwarf": null,
+        "Fermi surface": null
+       },
+       "Quantum computing": {},
+       "Applications of quantum superposition": {}
+      },
+      "Quantum entanglement": {
+       "Definition": {
+        "Diquark": null,
+        "Down quark": null
+       },
+       "EPR paradox": {
+        "Quantum entanglement": {
+         "EPR paradox": null
+        },
+        "Bell's theorem": {},
+        "Non-locality": {
+         "Randall\u2013Sundrum model": null,
+         "Geometrical frustration": null
+        },
+        "Experimental tests": {
+         "Positron": null,
+         "Stern\u2013Gerlach experiment": null
+        },
+        "Implications": {
+         "Einstein field equations": null,
+         "Color confinement": null,
+         "Event horizon": null
+        }
+       },
+       "Bell's inequality": {
+        "Strong interaction": null,
+        "Eta meson": null
+       },
+       "Applications": {
+        "Cosmic string": null,
+        "Heptaquark": null,
+        "Rho meson": null,
+        "Sigma baryon": null
+       },
+       "Quantum teleportation": {
+        "Chargino": null
+       }
+      },
+      "Quantum teleportation": {},
+      "Quantum tunneling": {}
+     },
+     "Spooky Action at a Distance": {
+      "Ghost (physics)": null
+     },
+     "Quantum Nonlocality": {}
+    },
+    "Bell's theorem": {
+     "Quantum entanglement": {
+      "Weak isospin": null,
+      "X and Y bosons": null
+     },
+     "Locality": {
+      "Astrophysics": null,
+      "Schwarzschild radius": null,
+      "Principle of locality": null
+     },
+     "Hidden variables": {
+      "Classical hidden variables": {},
+      "Quantum hidden variables": {
+       "Bohmian mechanics": {
+        "Hidden variable theory": null
+       },
+       "Pilot-wave theory": {
+        "Definition": {
+         "Objective collapse theory": null
+        },
+        "Historical background": {},
+        "Mathematical formulation": {
+         "Dual graviton": null,
+         "Poincar\u00e9 symmetry": null,
+         "Symmetry breaking": null
+        },
+        "Experimental evidence": {
+         "Force carrier": null,
+         "Neutrons": null
+        },
+        "Comparison to traditional quantum mechanics": {
+         "Exotic matter": null
+        }
+       },
+       "Quantum entanglement": {
+        "Gaugino": null,
+        "Leptoquark": null,
+        "Theta meson": null,
+        "Quantum decoherence": null,
+        "Supermassive black hole": null
+       },
+       "Double-slit experiment": {},
+       "Bell's theorem": {
+        "Quantum phase transition": null
+       }
+      },
+      "Entanglement": {
+       "BCS theory": null
+      },
+      "Bell's theorem": {},
+      "Experimental tests": {}
+     },
+     "Non-locality": {
+      "Bell's theorem": null,
+      "Bell test experiments": null,
+      "Leggett\u2013Garg inequality": null,
+      "Quantum nonlocality": null
+     },
+     "Correlations": {
+      "Positive correlation": {},
+      "Negative correlation": {},
+      "Zero correlation": {
+       "Atomic, molecular, and optical physics": null
+      },
+      "Correlation coefficient": {
+       "Correlation function (quantum field theory)": null,
+       "Tau (particle)": null,
+       "Strongly correlated material": null
+      },
+      "Correlation analysis methods": {
+       "Pomeron": null,
+       "Bell inequalities": null,
+       "Bell test": null,
+       "Binary black hole": null,
+       "Quantum critical point": null
+      }
+     }
+    },
+    "Applications": {
+     "Mobile applications": {},
+     "Web applications": {
+      "Observational astronomy": null,
+      "Muon": null,
+      "Protonium": null
+     },
+     "Enterprise applications": {
+      "Customer Relationship Management (CRM)": {},
+      "Enterprise Resource Planning (ERP)": {
+       "Magnon": null
+      },
+      "Supply Chain Management (SCM)": {
+       "Omega baryon": null,
+       "Planetary migration": null
+      },
+      "Human Resource Management (HRM)": {},
+      "Business Intelligence (BI)": {
+       "Data Collection": {},
+       "Data Analysis": {
+        "Descriptive Statistics": {},
+        "Inferential Statistics": {
+         "Density functional theory": null,
+         "Fundamental particle": null,
+         "Curie point": null,
+         "Hartree\u2013Fock method": null,
+         "Nuclear quadrupole resonance": null
+        },
+        "Data Visualization": {
+         "Spectral line": null
+        },
+        "Hypothesis Testing": {},
+        "Regression Analysis": {}
+       },
+       "Data Visualization": {},
+       "Performance Monitoring": {},
+       "Predictive Analytics": {
+        "Applications in business": {},
+        "Machine learning models": {
+         "Supervised learning": {},
+         "Unsupervised learning": {
+          "Clustering": {
+           "Galaxy groups and clusters": null,
+           "Globular cluster": null
+          },
+          "Anomaly detection": {
+           "Antineutron": null,
+           "Belle II experiment": null,
+           "Relativistic nuclear collisions": null
+          },
+          "Dimensionality reduction": {
+           "Principal Component Analysis": {},
+           "t-Distributed Stochastic Neighbor Embedding (t-SNE)": {
+            "Synergetics (Haken)": null
+           },
+           "Linear Discriminant Analysis": {
+            "Fermi gas": null,
+            "Elliptical galaxy": null,
+            "Bose\u2013Einstein condensates": null,
+            "Perturbed angular correlation": null
+           },
+           "Autoencoders": {},
+           "Factor Analysis": {
+            "Charm antiquark": null,
+            "Celestial body": null,
+            "Population III stars": null
+           }
+          },
+          "Density estimation": {
+           "Radioactive decay": null
+          },
+          "Association rule learning": {}
+         },
+         "Reinforcement learning": {
+          "Neutrino oscillation": null
+         },
+         "Deep learning": {
+          "Neural networks": {},
+          "Convolutional neural networks": {
+           "Architecture": {},
+           "Feature extraction": {},
+           "Training": {},
+           "Applications": {
+            "Mobile applications": {},
+            "Web applications": {},
+            "Business applications": {
+             "Nuclear force": null,
+             "Exotic hadron": null
+            },
+            "Gaming applications": {
+             "Hadron": null,
+             "Phi meson": null,
+             "T meson": null
+            },
+            "Educational applications": {
+             "Electron neutrino": null,
+             "Lambda baryon": null,
+             "Sterile neutrino": null,
+             "Xi baryon": null
+            }
+           },
+           "Performance evaluation": {}
+          },
+          "Recurrent neural networks": {
+           "Tau neutrino": null,
+           "Nuclear matter": null
+          },
+          "Generative models": {
+           "Autoencoders": {},
+           "Variational Autoencoders": {
+            "Big Bang nucleosynthesis": null,
+            "Pionium": null,
+            "Quantum spin Hall effect": null
+           },
+           "Generative Adversarial Networks (GANs)": {
+            "W and Z bosons": null,
+            "B meson": null
+           },
+           "Flow-based Models": {
+            "Tetraquark": null
+           },
+           "Neural Autoregressive Models": {
+            "Muon neutrino": null,
+            "Circumstellar envelope": null
+           }
+          },
+          "Applications of deep learning": {
+           "Computer vision": {
+            "Black hole": null
+           },
+           "Natural language processing": {
+            "Jiangmen Underground Neutrino Observatory": null,
+            "Galaxy formation and evolution": null,
+            "Cooper pair": null
+           },
+           "Speech recognition": {},
+           "Recommendation systems": {},
+           "Healthcare": {
+            "Primary Care": {},
+            "Specialized Care": {},
+            "Health Insurance": {},
+            "Healthcare Technology": {
+             "Telemedicine": {},
+             "Electronic Health Records": {},
+             "Medical Devices": {
+              "Diagnostic Devices": {},
+              "Therapeutic Devices": {},
+              "Monitoring Devices": {
+               "D meson": null,
+               "Kondo insulator": null
+              },
+              "Surgical Instruments": {},
+              "Implantable Devices": {
+               "Exotic atom": null,
+               "Hexaquark": null,
+               "Micro black hole": null,
+               "Hydrogen atom": null
+              }
+             },
+             "Health Information Technology": {},
+             "Artificial Intelligence in Healthcare": {
+              "Nuclear astrophysics": null,
+              "Supernova": null,
+              "Weak nuclear force": null,
+              "CP violation": null,
+              "Quarkonium": null
+             }
+            },
+            "Global Health": {
+             "Cosmochemistry": null,
+             "Supernovae": null
+            }
+           }
+          }
+         },
+         "Transfer learning": {}
+        },
+        "Data preprocessing": {},
+        "Evaluation metrics": {},
+        "Challenges and limitations": {
+         "Fundamental particles": null,
+         "Surface science": null,
+         "Neutron star": null,
+         "Stellar nucleosynthesis": null
+        }
+       }
+      }
+     },
+     "Cloud applications": {
+      "Software as a Service (SaaS)": {},
+      "Platform as a Service (PaaS)": {},
+      "Infrastructure as a Service (IaaS)": {
+       "Definition of Infrastructure as a Service (IaaS)": {},
+       "Benefits of Infrastructure as a Service (IaaS)": {
+        "Reionization": null
+       },
+       "Key features of Infrastructure as a Service (IaaS)": {
+        "Dark matter": null,
+        "Metric expansion of space": null
+       },
+       "Use cases of Infrastructure as a Service (IaaS)": {
+        "Neutrino": null,
+        "Cosmic microwave background radiation": null,
+        "Laniakea Supercluster": null
+       },
+       "Challenges of Infrastructure as a Service (IaaS)": {
+        "Glueball": null
+       }
+      },
+      "Public Cloud": {
+       "Accelerating expansion of the universe": null
+      },
+      "Private Cloud": {
+       "Cosmic microwave background": null,
+       "Cosmic dust": null,
+       "Molecular cloud": null,
+       "Neutrino astronomy": null
+      }
+     },
+     "Desktop applications": {}
+    },
+    "Quantum teleportation": {
+     "Quantum entanglement": {},
+     "Bell state measurement": {},
+     "Quantum superposition": {
+      "Principle of superposition": {},
+      "Mathematical formalism": {},
+      "Experimental evidence": {
+       "Gluon": null,
+       "Higgs boson": null,
+       "Star": null,
+       "Bottom quark": null,
+       "Dropleton": null,
+       "Trion (physics)": null
+      },
+      "Applications": {
+       "Quantum optics": null,
+       "Quantum teleportation": null
+      },
+      "Challenges and limitations": {}
+     },
+     "Classical communication": {
+      "No-communication theorem": null
+     },
+     "Quantum state reconstruction": {}
+    }
+   },
+   "Quantum tunneling": {
+    "Definition": {
+     "Nuclear physics": null,
+     "Cosmological constant": null,
+     "Loschmidt's paradox": null,
+     "Amorphous solid": null,
+     "Anderson localization": null
+    },
+    "Mechanism": {
+     "Exponential decay": null,
+     "Invariant mass": null
+    },
+    "Applications": {
+     "Antimatter": null,
+     "External beam radiotherapy": null,
+     "Small Solar System body": null
+    },
+    "Quantum Tunneling in Electronics": {
+     "Basics of Quantum Tunneling": {},
+     "Tunneling in Transistors": {
+      "Tunnel diode": null
+     },
+     "Applications of Quantum Tunneling": {
+      "Quantum Tunneling in Electronics": {},
+      "Quantum Tunneling in Chemistry": {},
+      "Quantum Tunneling in Biology": {
+       "Hydrogen": null
+      },
+      "Quantum Tunneling in Nanotechnology": {
+       "Nuclear fission": null,
+       "Quantum tunneling": null,
+       "Quantum tunnelling": null,
+       "Scanning tunneling microscope": null
+      },
+      "Quantum Tunneling in Astrophysics": {
+       "Radiation": null,
+       "Pre-stellar core": null
+      }
+     },
+     "Challenges and Limitations": {},
+     "Future Prospects": {}
+    },
+    "Challenges": {
+     "Gamma ray burst": null
+    }
+   },
+   "Quantum computing": {
+    "Quantum gates": {
+     "Basic quantum gates": {},
+     "Universal quantum gates": {
+      "Canonical commutation relation": null,
+      "Heisenberg picture": null,
+      "Unitarity (physics)": null
+     },
+     "Single qubit gates": {
+      "Quantum coherence": null,
+      "Qubit": null
+     },
+     "Two-qubit gates": {},
+     "Multiple qubit gates": {
+      "Quantum circuit": null
+     }
+    },
+    "Quantum algorithms": {
+     "Quantum Fourier Transform": {},
+     "Quantum Search Algorithms": {
+      "Grover's algorithm": {},
+      "Amplitude amplification": {
+       "Theory": null
+      },
+      "Quantum Oracle": {},
+      "Complexity analysis": {},
+      "Applications": {}
+     },
+     "Quantum Simulation": {
+      "Quantum computers": {
+       "Quantum computer": null
+      },
+      "Quantum simulators": {
+       "Physical implementation": {
+        "Experiment": null,
+        "Lattice model (physics)": null
+       },
+       "Applications": {
+        "Mobile applications": {},
+        "Web applications": {},
+        "Desktop applications": {
+         "Feynman diagram": null,
+         "Lattice field theory": null,
+         "Molecular physics": null,
+         "Spin glass": null
+        },
+        "Cloud-based applications": {},
+        "Enterprise applications": {
+         "Customer Relationship Management (CRM)": {},
+         "Enterprise Resource Planning (ERP)": {},
+         "Supply Chain Management (SCM)": {},
+         "Human Resource Management (HRM)": {},
+         "Business Intelligence (BI)": {
+          "AdS/CFT correspondence": null,
+          "Computational particle physics": null,
+          "Computational physics": null,
+          "Quantum chemistry": null,
+          "Scientific computing": null,
+          "Spintronic": null
+         }
+        }
+       },
+       "Quantum algorithms": {
+        "SU(3)": null,
+        "Hubbard model": null,
+        "Tight binding model": null
+       },
+       "Simulation techniques": {
+        "Simulation": null,
+        "Mean-field approximation": null,
+        "Mean-field theory": null,
+        "Numerical computation": null
+       },
+       "Comparison with classical methods": {}
+      },
+      "Quantum algorithms": {
+       "Quantum information science": null,
+       "Weak gravity conjecture": null,
+       "Minimal Supersymmetric Standard Model": null,
+       "Next-to-Minimal Supersymmetric Standard Model": null,
+       "Variational method": null
+      },
+      "Quantum mechanics": {
+       "Wave-particle duality": {
+        "Schr\u00f6dinger equation": null
+       },
+       "Quantum superposition": {
+        "Lambda-CDM model": null,
+        "Neurophysics": null,
+        "Pauli equation": null
+       },
+       "Quantum entanglement": {
+        "Cosmological constant problem": null,
+        "Poincar\u00e9 group": null,
+        "Spin foam": null
+       },
+       "Quantum tunneling": {},
+       "Quantum computing": {
+        "Quantum bits (qubits)": {
+         "Theoretical physics": null,
+         "Bargmann\u2013Wigner equations": null,
+         "Quantization (physics)": null,
+         "Hamiltonian matrix": null
+        },
+        "Quantum gates": {
+         "Basic principles": {
+          "Special theory of relativity": null
+         },
+         "Types of quantum gates": {
+          "Spintronics": null,
+          "Perturbation theory": null
+         },
+         "Quantum gate operations": {
+          "Yang\u2013Mills theory": null,
+          "Operator (physics)": null,
+          "Quantum dynamics": null
+         },
+         "Quantum gate applications": {},
+         "Challenges in implementing quantum gates": {}
+        },
+        "Quantum entanglement": {
+         "Definition": {
+          "Supersymmetry": null
+         },
+         "EPR paradox": {
+          "Loop quantum gravity": null,
+          "Supergravity": null
+         },
+         "Bell's theorem": {
+          "Special relativity": null,
+          "Theory of relativity": null,
+          "Gluino": null
+         },
+         "Applications": {},
+         "Quantum teleportation": {}
+        },
+        "Quantum algorithms": {
+         "Quantum error correction": {},
+         "Quantum search algorithms": {},
+         "Quantum simulation algorithms": {
+          "Variational quantum eigensolver (VQE)": {},
+          "Quantum approximate optimization algorithm (QAOA)": {
+           "M-theory": null,
+           "Scientific method": null
+          },
+          "Quantum phase estimation (QPE)": {
+           "Introduction to Quantum phase estimation (QPE)": {
+            "Modern Quantum Mechanics": null
+           },
+           "Algorithm description": {
+            "Standard Model (mathematical formulation)": null
+           },
+           "Implementation techniques": {},
+           "Applications of QPE": {
+            "Grand Unified Theory": null,
+            "Strong CP problem": null,
+            "Relativistic quantum mechanics": null,
+            "Renormalization group": null
+           },
+           "Challenges and future directions": {}
+          },
+          "Time-evolution algorithms": {
+           "Wheeler\u2013DeWitt equation": null
+          },
+          "Quantum algorithm for solving linear systems of equations": {}
+         },
+         "Quantum factoring algorithms": {},
+         "Quantum machine learning algorithms": {}
+        },
+        "Quantum supremacy": {
+         "Quantum cosmology": null
+        }
+       }
+      },
+      "Applications of quantum simulation": {
+       "Nanotechnology": null,
+       "Astrochemistry": null
+      }
+     },
+     "Quantum Approximation Algorithms": {},
+     "Quantum Machine Learning": {
+      "Bayesian inference": null,
+      "Quantum computation": null,
+      "Quantum information": null
+     }
+    },
+    "Quantum entanglement": {
+     "Definition": {
+      "Formal definition": {
+       "Cosmology": null,
+       "Spacetime topology": null,
+       "Hilbert space": null
+      },
+      "Operational definition": {},
+      "Conceptual definition": {
+       "Higgs mechanism": null,
+       "Vacuum energy": null,
+       "Quark model": null,
+       "Bose gas": null
+      },
+      "Real-world examples": {},
+      "Comparison with related terms": {
+       "Quantum mechanics": null
+      }
+     },
+     "EPR paradox": {
+      "Dilaton": null,
+      "Relativistic particle": null,
+      "Elitzur\u2013Vaidman bomb tester": null,
+      "Ising model": null
+     },
+     "Quantum teleportation": {},
+     "Quantum computing": {
+      "Quantum bits": {
+       "Solid-state physics": null
+      },
+      "Quantum gates": {
+       "Skyrmion": null,
+       "Mesoscopic physics": null,
+       "Optical lattice": null,
+       "Time crystal": null,
+       "Topological insulator": null
+      },
+      "Quantum algorithms": {
+       "Quantum chromodynamics": null,
+       "Axino": null,
+       "Quantum physics": null,
+       "POVM": null
+      },
+      "Quantum entanglement": {
+       "Higgsino": null,
+       "Macroscopic quantum phenomena": null
+      },
+      "Quantum supremacy": {}
+     },
+     "Applications": {
+      "Mobile Applications": {},
+      "Web Applications": {
+       "Quantum electronics": null,
+       "Quasar": null
+      },
+      "Productivity Applications": {
+       "Time management": {},
+       "Project management": {
+        "Nuclear fusion": null,
+        "Photonics": null,
+        "Quantum gravity": null,
+        "Laser guide star": null
+       },
+       "Note-taking": {
+        "Nanometre": null
+       },
+       "Collaboration tools": {},
+       "To-do lists": {
+        "Fullerene": null
+       }
+      },
+      "Gaming Applications": {
+       "Mobile Gaming Apps": {},
+       "Console Gaming Apps": {},
+       "PC Gaming Apps": {
+        "Gamma-ray astronomy": null,
+        "Antiproton": null,
+        "Axion": null,
+        "Superatom": null
+       },
+       "Virtual Reality Gaming Apps": {
+        "Rubidium": null,
+        "Tauonium": null
+       },
+       "Augmented Reality Gaming Apps": {}
+      },
+      "Communication Applications": {}
+     }
+    },
+    "Quantum supremacy": {},
+    "Quantum error correction": {
+     "Superstring theory": null,
+     "Fracton (subdimensional particle)": null,
+     "Extragalactic astronomy": null,
+     "Samarium": null
+    }
+   }
+  }
+ }
+}

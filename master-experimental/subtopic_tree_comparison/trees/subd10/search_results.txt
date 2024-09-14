@@ -1,0 +1,149 @@
+[
+ [
+  "Particulates",
+  true,
+  [
+   "Physics",
+   "Particulates"
+  ],
+  10,
+  137
+ ],
+ [
+  "Orbital magnetization",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Astrophysics",
+   "Chern class",
+   "Chern class",
+   "Chern class",
+   "Chern class"
+  ],
+  33,
+  489
+ ],
+ [
+  "Specific heat of solids",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Basic physics",
+   "Basic physics",
+   "Basic physics",
+   "Fundamental principles",
+   "Thermodynamics",
+   "Thermodynamics",
+   "Thermal physics",
+   "Thermal physics"
+  ],
+  52,
+  788
+ ],
+ [
+  "Galaxy filament",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Astrophysics",
+   "Galaxy formation and evolution"
+  ],
+  67,
+  964
+ ],
+ [
+  "Chemical potential",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Physical chemistry"
+  ],
+  20,
+  290
+ ],
+ [
+  "Geometrical optics",
+  true,
+  [
+   "Physics",
+   "Modern physics",
+   "Basic physics",
+   "Optics",
+   "Optics",
+   "Geometrical optics"
+  ],
+  40,
+  569
+ ],
+ [
+  "Symmetry in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum chemistry"
+  ],
+  20,
+  290
+ ],
+ [
+  "Canonical commutation relation",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum chemistry"
+  ],
+  20,
+  290
+ ],
+ [
+  "Thermometry",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Basic physics",
+   "Basic physics",
+   "Basic physics",
+   "Measurement",
+   "Units of measure"
+  ],
+  38,
+  570
+ ],
+ [
+  "Energy density",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Astrophysics",
+   "Biological physics",
+   "Biological physics",
+   "Biological physics",
+   "Biological physics",
+   "Biological physics",
+   "Biological physics",
+   "Equation of state"
+  ],
+  46,
+  733
+ ]
+]
