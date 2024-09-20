@@ -1,0 +1,1375 @@
+[
+ [
+  "Ultraviolet astronomy",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Cosmological constant",
+   "Role in cosmology",
+   "Infrared astronomy"
+  ],
+  40,
+  718
+ ],
+ [
+  "Thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Thermodynamics"
+  ],
+  18,
+  324
+ ],
+ [
+  "Black hole",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications of quantum entanglement",
+   "Quantum computing",
+   "Quantum applications",
+   "Black hole"
+  ],
+  41,
+  764
+ ],
+ [
+  "Planetary differentiation",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Nuclear Energy",
+   "Nuclear waste management",
+   "Planetary differentiation"
+  ],
+  22,
+  348
+ ],
+ [
+  "Friction",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Friction",
+   "Friction"
+  ],
+  16,
+  182
+ ],
+ [
+  "Electromagnetic theory",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Properties of Electromagnetic Waves",
+   "Electromagnetic theory"
+  ],
+  26,
+  503
+ ],
+ [
+  "Gravitino",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum teleportation",
+   "Quantum Information Theory",
+   "Quantum Entanglement",
+   "Globular cluster"
+  ],
+  40,
+  973
+ ],
+ [
+  "Planetary system",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Gravity",
+   "Celestial dynamics"
+  ],
+  27,
+  419
+ ],
+ [
+  "Variational method",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in physics",
+   "Entropy in quantum mechanics",
+   "Quantum thermodynamics"
+  ],
+  24,
+  465
+ ],
+ [
+  "Cryogenic",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Radiation",
+   "Sources of radiation",
+   "Atmosphere"
+  ],
+  28,
+  442
+ ],
+ [
+  "Gas giant",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Radiation",
+   "Radiation measurement",
+   "Barometer"
+  ],
+  24,
+  389
+ ],
+ [
+  "Graviton",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum teleportation",
+   "Quantum Information Theory",
+   "Quantum Communication",
+   "Quantum electronics"
+  ],
+  40,
+  953
+ ],
+ [
+  "Composite particle",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Generation of entangled states",
+   "Composite particle"
+  ],
+  40,
+  803
+ ],
+ [
+  "Pauli exclusion principle",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition of quantum entanglement",
+   "Pauli exclusion principle"
+  ],
+  21,
+  465
+ ],
+ [
+  "Redshift survey",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Dimensionality of spacetime",
+   "Redshift survey"
+  ],
+  31,
+  522
+ ],
+ [
+  "Molecule",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Conduction",
+   "Molecular physics"
+  ],
+  20,
+  309
+ ],
+ [
+  "High-temperature superconductivity",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Radiation",
+   "Radiation protection",
+   "High-temperature superconductivity"
+  ],
+  23,
+  396
+ ],
+ [
+  "Analytical mechanics",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Newton's Laws",
+   "Analytical mechanics"
+  ],
+  31,
+  457
+ ],
+ [
+  "Carnot engine",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Isothermal Processes",
+   "Carnot heat engine"
+  ],
+  22,
+  384
+ ],
+ [
+  "Gravitational wave",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Gravitational waves",
+   "Gravitational wave"
+  ],
+  18,
+  334
+ ],
+ [
+  "Frame of reference",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Kinematics",
+   "Frame of reference"
+  ],
+  28,
+  465
+ ],
+ [
+  "Einstein field equations",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Einstein's field equations",
+   "Einstein field equations"
+  ],
+  18,
+  334
+ ],
+ [
+  "Stellar evolution",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications of quantum entanglement",
+   "Quantum computing",
+   "Quantum applications",
+   "Nuclear fission"
+  ],
+  41,
+  764
+ ],
+ [
+  "Reversible process (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Isothermal Processes",
+   "Carnot cycle"
+  ],
+  22,
+  384
+ ],
+ [
+  "List of baryons",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum uncertainty",
+   "Quantum indeterminacy",
+   "Quantum entanglement",
+   "Supernova nucleosynthesis"
+  ],
+  28,
+  526
+ ],
+ [
+  "Photon",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Photon"
+  ],
+  25,
+  420
+ ],
+ [
+  "T meson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Shor's Algorithm",
+   "Quantum chromodynamics"
+  ],
+  33,
+  651
+ ],
+ [
+  "Irreversible process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in physics",
+   "Thermodynamic entropy",
+   "Endoreversible thermodynamics"
+  ],
+  32,
+  637
+ ],
+ [
+  "Camera obscura",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Dimensionality of spacetime",
+   "Observational astronomy"
+  ],
+  31,
+  522
+ ],
+ [
+  "Planet",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Renewable Energy"
+  ],
+  15,
+  202
+ ],
+ [
+  "Conservation of mass",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Conservation law"
+  ],
+  18,
+  324
+ ],
+ [
+  "Heliosphere",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "Solar physics"
+  ],
+  30,
+  626
+ ],
+ [
+  "Chargino",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum logic gates",
+   "String (physics)"
+  ],
+  32,
+  575
+ ],
+ [
+  "SU(3)",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum logic gates",
+   "SU(3)"
+  ],
+  44,
+  874
+ ],
+ [
+  "Applied mathematics",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Friction",
+   "Friction"
+  ],
+  16,
+  182
+ ],
+ [
+  "Synergetics (Haken)",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Induction",
+   "Particle accelerator"
+  ],
+  22,
+  352
+ ],
+ [
+  "Green\u2013Kubo relations",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Convection",
+   "Physical oceanography"
+  ],
+  33,
+  477
+ ],
+ [
+  "Relativistic nuclear collisions",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Curved spacetime",
+   "Cosmology"
+  ],
+  25,
+  448
+ ],
+ [
+  "Pulsar",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum error correction",
+   "Quantum error correction codes",
+   "Cosmic string"
+  ],
+  48,
+  1023
+ ],
+ [
+  "Bell test experiments",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Bell test experiments",
+   "Bell test experiments"
+  ],
+  35,
+  829
+ ],
+ [
+  "Debris disk",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Scattering",
+   "Debris disk"
+  ],
+  24,
+  453
+ ],
+ [
+  "Liquid",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Thermal Equilibrium in Everyday Life",
+   "Liquid"
+  ],
+  33,
+  610
+ ],
+ [
+  "Elementary charge",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electricity",
+   "Elementary charge"
+  ],
+  26,
+  440
+ ],
+ [
+  "Barometer",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Radiation",
+   "Radiation measurement",
+   "Barometer"
+  ],
+  24,
+  389
+ ],
+ [
+  "Cosmic microwave background",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Dimensionality of spacetime",
+   "Universe"
+  ],
+  31,
+  522
+ ],
+ [
+  "Reflecting telescope",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Induction",
+   "Electromagnetics"
+  ],
+  22,
+  352
+ ],
+ [
+  "External beam radiotherapy",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "External beam radiotherapy"
+  ],
+  30,
+  626
+ ],
+ [
+  "Nearly free electron model",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Schr\u00f6dinger's cat",
+   "Energy levels"
+  ],
+  26,
+  485
+ ],
+ [
+  "Centripetal force",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Circular Motion",
+   "Centripetal force"
+  ],
+  22,
+  297
+ ],
+ [
+  "Seyfert galaxy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications of quantum entanglement",
+   "Quantum sensing",
+   "Supernovae"
+  ],
+  30,
+  602
+ ],
+ [
+  "Charm quark",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum logic gates",
+   "Charm antiquark"
+  ],
+  44,
+  874
+ ],
+ [
+  "Physical optics",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Refraction",
+   "Laws of Refraction",
+   "Optical physics"
+  ],
+  29,
+  581
+ ],
+ [
+  "Weak hypercharge",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications of quantum entanglement",
+   "Quantum computing",
+   "Quantum gates",
+   "Color charge"
+  ],
+  30,
+  594
+ ],
+ [
+  "Fermion",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Generation of entangled states",
+   "Fermion"
+  ],
+  40,
+  803
+ ],
+ [
+  "Beta decay",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum uncertainty",
+   "Quantum indeterminacy",
+   "Quantum entanglement",
+   "T meson"
+  ],
+  28,
+  526
+ ],
+ [
+  "Side lobe",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Scattering",
+   "Side lobe"
+  ],
+  24,
+  453
+ ],
+ [
+  "Nuclear spectroscopy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum tomography",
+   "Applications of quantum tomography",
+   "Tomography in quantum information and computation",
+   "Hadron"
+  ],
+  55,
+  1208
+ ],
+ [
+  "Conservation of momentum",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Momentum",
+   "Conservation of momentum"
+  ],
+  15,
+  201
+ ],
+ [
+  "Physics education research",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Theory of relativity",
+   "Principle of covariance"
+  ],
+  26,
+  501
+ ],
+ [
+  "External beam radiotherapy",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "External beam radiotherapy"
+  ],
+  30,
+  626
+ ],
+ [
+  "Pinhole camera",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Cosmological constant",
+   "Role in cosmology",
+   "Cosmic microwave background"
+  ],
+  40,
+  718
+ ],
+ [
+  "Mathematical physics",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Einstein's field equations",
+   "Einstein field equations"
+  ],
+  18,
+  334
+ ],
+ [
+  "Real gas",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Factors Affecting Thermal Equilibrium",
+   "Real gas"
+  ],
+  29,
+  553
+ ],
+ [
+  "Spring constant",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Nuclear Energy",
+   "Nuclear reactors",
+   "Nuclear reactor components",
+   "Spring constant"
+  ],
+  27,
+  474
+ ],
+ [
+  "Tau (particle)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum phase estimation",
+   "Precision tests of QED"
+  ],
+  26,
+  499
+ ],
+ [
+  "Electron volt",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum uncertainty",
+   "Quantum indeterminacy",
+   "Heisenberg uncertainty principle",
+   "Electron volt"
+  ],
+  23,
+  456
+ ],
+ [
+  "Optical lattice",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "Applications",
+   "Bose\u2013Einstein condensates"
+  ],
+  31,
+  540
+ ],
+ [
+  "Nucleation",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Heat Exchangers",
+   "Operating Principles",
+   "Vapor-compression refrigeration"
+  ],
+  32,
+  534
+ ],
+ [
+  "Background field method",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum error correction",
+   "Quantum error correction codes",
+   "Background field method"
+  ],
+  48,
+  1023
+ ],
+ [
+  "Meissner effect",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum error correction",
+   "Fault-tolerant quantum computation",
+   "Weak nuclear force"
+  ],
+  33,
+  788
+ ],
+ [
+  "Kondo insulator",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum walk algorithms",
+   "Luttinger liquid"
+  ],
+  42,
+  746
+ ],
+ [
+  "Irreversible process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Statistical entropy",
+   "Transport theory (statistical physics)"
+  ],
+  20,
+  389
+ ],
+ [
+  "Optical telescope",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "Optical telescope"
+  ],
+  30,
+  626
+ ],
+ [
+  "W\u2032 and Z\u2032 bosons",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Types of Electromagnetic Waves",
+   "Electromagnetic spectrum"
+  ],
+  35,
+  636
+ ],
+ [
+  "Many-worlds interpretation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum bits (qubits)",
+   "Quantum coherence"
+  ],
+  38,
+  684
+ ],
+ [
+  "Spectroscopy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Wave-particle duality",
+   "Particle physics"
+  ],
+  29,
+  497
+ ],
+ [
+  "Electron paramagnetic resonance",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic materials",
+   "Electron paramagnetic resonance"
+  ],
+  33,
+  529
+ ],
+ [
+  "Vacuum energy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum uncertainty",
+   "Quantum indeterminacy",
+   "Quantum superposition",
+   "Zero-point energy"
+  ],
+  29,
+  604
+ ],
+ [
+  "Binary black hole",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum error correction",
+   "Quantum error correction codes",
+   "Cosmic string"
+  ],
+  48,
+  1023
+ ],
+ [
+  "Thermodynamic equilibrium",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Factors Affecting Thermal Equilibrium",
+   "Intensive variable"
+  ],
+  29,
+  553
+ ],
+ [
+  "Measurement in quantum mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Bell test experiments",
+   "Measurement in quantum mechanics"
+  ],
+  35,
+  829
+ ],
+ [
+  "Preon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "Definition",
+   "Pentaquark"
+  ],
+  24,
+  420
+ ],
+ [
+  "Thermodynamic free energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in physics",
+   "Thermodynamic entropy",
+   "Thermodynamic free energy"
+  ],
+  32,
+  637
+ ],
+ [
+  "Thermal expansion",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Factors Affecting Thermal Equilibrium",
+   "Thermal expansion"
+  ],
+  29,
+  553
+ ],
+ [
+  "Universe",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Dimensionality of spacetime",
+   "Universe"
+  ],
+  31,
+  522
+ ],
+ [
+  "Delta baryon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum logic gates",
+   "Gluon"
+  ],
+  44,
+  874
+ ],
+ [
+  "Hyperfine structure",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Schr\u00f6dinger equation",
+   "Wave function",
+   "Hyperfine structure"
+  ],
+  31,
+  508
+ ],
+ [
+  "Thomas\u2013Fermi model",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Schr\u00f6dinger equation",
+   "Development",
+   "Atomic physics"
+  ],
+  22,
+  404
+ ],
+ [
+  "Klein\u2013Gordon equation",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Schr\u00f6dinger equation",
+   "Mathematical formulation",
+   "Klein\u2013Gordon equation"
+  ],
+  31,
+  595
+ ],
+ [
+  "Celestial mechanics",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Rotational Motion",
+   "Orbital mechanics"
+  ],
+  30,
+  449
+ ],
+ [
+  "Standard temperature and pressure",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Importance of Thermal Equilibrium",
+   "Thermodynamic temperature"
+  ],
+  19,
+  412
+ ],
+ [
+  "Applied mathematics",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Maxwell's Equations",
+   "Euclidean geometry"
+  ],
+  15,
+  251
+ ],
+ [
+  "Laser guide star",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Transmission",
+   "Radiation pressure"
+  ],
+  30,
+  543
+ ],
+ [
+  "Topological phase",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Challenges and future directions in quantum entanglement research",
+   "Theoretical developments in quantum entanglement research",
+   "Quantum entanglement theories",
+   "Bell's theorem",
+   "Quantum field theory"
+  ],
+  44,
+  1176
+ ],
+ [
+  "Roche limit",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Properties of spacetime",
+   "Dimensionality of spacetime",
+   "Universe"
+  ],
+  31,
+  522
+ ],
+ [
+  "Z boson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Electroweak theory"
+  ],
+  24,
+  423
+ ],
+ [
+  "Orbital mechanics",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Gravity",
+   "Celestial dynamics"
+  ],
+  27,
+  419
+ ],
+ [
+  "Enthalpy",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Radiation",
+   "Biological effects of radiation",
+   "Theory of heat"
+  ],
+  25,
+  421
+ ],
+ [
+  "Strong nuclear force",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement experiments",
+   "Quantum state engineering experiments",
+   "Quantum error correction",
+   "Quantum error correction codes",
+   "Strong nuclear force"
+  ],
+  48,
+  1023
+ ],
+ [
+  "Weakly interacting massive particles",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications of quantum entanglement",
+   "Quantum computing",
+   "Quantum applications",
+   "Dark matter"
+  ],
+  41,
+  764
+ ]
+]

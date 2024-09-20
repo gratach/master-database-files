@@ -1,0 +1,1720 @@
+{
+ "Physics": {
+  "General Concepts": {
+   "General Physics": {
+    "Foundations of Physics": {
+     "General Physics": {
+      "General Physics": {
+       "General Physics": {
+        "Mechanics": {
+         "Classical Mechanics": {
+          "Foundations of Classical Mechanics": {
+           "Absolute time and space": null,
+           "Action (physics)": null,
+           "Classical mechanics": null,
+           "Kepler's laws": null,
+           "Motion": null
+          },
+          "Branches of Classical Mechanics": {
+           "Analytical dynamics": null,
+           "Analytical mechanics": null,
+           "Celestial mechanics": null
+          },
+          "Key Concepts in Classical Mechanics": {
+           "Collision": null,
+           "Conservation of energy": null,
+           "Frame of reference": null,
+           "Free fall": null,
+           "Gravitational radiation": null,
+           "Gravitational singularity": null,
+           "Mass": null
+          },
+          "Related Fields": {
+           "Classical electromagnetism": null
+          }
+         },
+         "Fluid Dynamics": {
+          "Aerodynamics": null,
+          "Atmospheric physics": null,
+          "Conservation of mass": null,
+          "Fluid dynamics": null,
+          "Fluid mechanics": null,
+          "Hydrostatics": null
+         }
+        },
+        "General Physics": {
+         "Interdisciplinary Physics": {
+          "Mathematical and Computational Physics": {
+           "Applied mathematics": null,
+           "Catastrophe theory": null,
+           "Computational physics": null,
+           "Condensed matter physics": null,
+           "Continuum mechanics": null,
+           "Mechanics": null,
+           "Newton's laws of motion": null,
+           "Turbulence": null,
+           "Electric potential": null,
+           "Critical point (thermodynamics)": null
+          },
+          "Astronomical and Astrophysical Sciences": {
+           "Astronomy": {
+            "Astrometry": null,
+            "Astronomy": null,
+            "Galaxy": null,
+            "History of astronomy": null
+           },
+           "Astrophysics": {
+            "Astrophysics": null,
+            "Cosmic microwave background": null,
+            "Gravitation": null,
+            "Gravity": null
+           },
+           "Cosmology": {
+            "Cosmological principle": null,
+            "Cosmology": null,
+            "Dark energy": null,
+            "Heliosphere": null
+           },
+           "Geophysics": {
+            "Geophysics": null
+           },
+           "Large Hadron Collider": null
+          },
+          "Optics and Optical Physics": {
+           "Atomic, Molecular, and Optical Physics": {
+            "Atomic, molecular, and optical physics": null
+           },
+           "Classical Optics": {
+            "Camera obscura": null,
+            "Classical optics": null,
+            "Geometrical optics": null,
+            "Visible light": null,
+            "Electromagnetic wave": null,
+            "Refractive index": null
+           },
+           "Electromagnetic Theory": {
+            "Electric current": null,
+            "Units of measure": null,
+            "Frequency": null,
+            "Dielectric constant": null
+           }
+          },
+          "Biological and Medical Physics": {
+           "Biological physics": null,
+           "Biophysics": null,
+           "Energy": null,
+           "Matter": null,
+           "Work (physics)": null
+          },
+          "Field (physics)": null,
+          "Physics education research": null
+         },
+         "Boundary condition": null,
+         "Chemical element": null,
+         "Statics": null,
+         "Angular frequency": null
+        },
+        "Gas": null,
+        "General relativity": null
+       },
+       "Fundamental Physics": {
+        "Particle and Nuclear Physics": {
+         "Particle Physics": {
+          "Fundamental interaction": null,
+          "Particle": null,
+          "Particle physics": null,
+          "Charge (physics)": null,
+          "Plane wave": null
+         },
+         "Nuclear Physics and Medicine": {
+          "Nuclear medicine": null,
+          "Nuclear physics": null
+         },
+         "Plasma Physics": {
+          "Plasma physics": null
+         }
+        },
+        "Thermal and Molecular Physics": {
+         "Molecular Physics": {
+          "Molecule": null
+         },
+         "Thermodynamics": {
+          "Non-equilibrium thermodynamics": null,
+          "Statistical mechanics": null,
+          "Statistical physics": null,
+          "Thermodynamics": null,
+          "Extensive variable": null,
+          "Quasistatic process": null,
+          "Blackbody radiation": null,
+          "Thermodynamic variable": null
+         },
+         "States of Matter": {
+          "Phase (matter)": null,
+          "Ground state": null,
+          "Phase (waves)": null
+         }
+        },
+        "Interdisciplinary Physics": {
+         "Neurophysics": {
+          "Neurophysics": null
+         },
+         "Young's interference experiment": null
+        },
+        "Cosmology and Astronomy": {
+         "Cosmic microwave background radiation": null
+        },
+        "Mathematical Physics": {
+         "Theoretical Physics": {
+          "General Physics Concepts": {
+           "Scientific method": null,
+           "Theoretical physics": null
+          },
+          "Relativity": {
+           "Principle of covariance": null,
+           "Special relativity": null,
+           "Special theory of relativity": null,
+           "Principle of locality": null
+          },
+          "Quantum Mechanics": {
+           "Bohr\u2013Van Leeuwen theorem": null,
+           "Double-slit experiment": null,
+           "Einstein\u2013Podolsky\u2013Rosen paradox": null,
+           "Leggett\u2013Garg inequality": null,
+           "Quantum fluctuation": null,
+           "Superposition principle": null,
+           "Wavefunction collapse": null
+          },
+          "Conservation Laws": {
+           "Noether's theorem": null,
+           "Post-Newtonian expansion": null
+          }
+         },
+         "Euclidean geometry": null
+        }
+       },
+       "Motion (physics)": null
+      },
+      "Scientific law": null,
+      "Simulation": null
+     },
+     "Experiment": null,
+     "Ghost (physics)": null,
+     "Calculus of variations": null,
+     "Two-state quantum system": null
+    },
+    "Interdisciplinary Physics": {
+     "Psychophysics": {
+      "Psychophysics": {
+       "Psychophysics": null
+      }
+     },
+     "Physical Chemistry": {
+      "Physical Chemistry": {
+       "Physical chemistry": null,
+       "Quantum chemistry": null,
+       "Radiocarbon dating": null,
+       "Surface tension": null,
+       "External beam radiotherapy": null,
+       "X-ray laser": null,
+       "Fluid": null
+      }
+     },
+     "Relativistic nuclear collisions": null,
+     "Dynamical system": null,
+     "Rocket equation": null,
+     "Vacuum chamber": null,
+     "Accretion (astrophysics)": null,
+     "Cosmic dust": null,
+     "Earth's magnetic field": null
+    },
+    "Apparent magnitude": null,
+    "Chromosphere": null
+   },
+   "Branches of Physics": {
+    "Quantum Physics": {
+     "Quantum Particles": {
+      "Gravitino": null,
+      "List of baryons": null,
+      "List of mesons": null,
+      "Pentaquark": null,
+      "Phi meson": null,
+      "Rho meson": null,
+      "Top quark": null
+     },
+     "Quantum Mechanics": {
+      "Quantum Physics": {
+       "Quantum Physics": {
+        "Quantum Physics": {
+         "Quantum Physics": {
+          "Quantum Physics": {
+           "Quantum Physics": {
+            "Quantum Physics": {
+             "Quantum Field Theory": {
+              "AdS/CFT correspondence": null,
+              "Bloch's theorem": null,
+              "Casimir effect": null,
+              "Density functional theory": null,
+              "Effective field theory": null,
+              "Electromagnetic radiation": null,
+              "Quantum electrodynamics": null,
+              "Quantum field theory": null,
+              "Superstring theory": null,
+              "Half-integer": null
+             },
+             "Quantum Mechanics": {
+              "Quantum Theory and Interpretations": {
+               "Quantum Mechanics and Foundations": {
+                "Many-worlds interpretation": null,
+                "Old quantum theory": null,
+                "Quantum mechanics": null,
+                "Schr\u00f6dinger equation": null,
+                "Quantum physics": null,
+                "Planck constant": null
+               },
+               "Quantum Theoretical Concepts": {
+                "Quantum information": null,
+                "Quantum optics": null,
+                "Propagator (Quantum Theory)": null,
+                "Quantization (physics)": null
+               },
+               "Quantum Educational Resources": {
+                "The Feynman Lectures on Physics": null
+               },
+               "General Physics Concepts": {
+                "Speed of light": null
+               }
+              },
+              "Quantum States and Phenomena": {
+               "Bose\u2013Einstein condensate": null,
+               "Optical physics": null,
+               "Photoelectric effect": null,
+               "Quantum information science": null,
+               "Quantum state": null,
+               "Wave\u2013particle duality": null,
+               "De Broglie wavelength": null,
+               "Photo-electric effect": null,
+               "Quantum tunneling": null,
+               "Wave interference": null
+              },
+              "Quantum Particles and Properties": {
+               "Antimatter": null,
+               "Electron": null,
+               "Photon": null,
+               "Spin (physics)": null,
+               "Majorana fermion": null,
+               "Quantum spin": null
+              },
+              "Atomic and Molecular Structure": {
+               "Atomic orbital": null,
+               "Electron shell": null,
+               "Spectral line": null
+              },
+              "Quantum Materials": {
+               "Antiferromagnet": null,
+               "Electrical conduction": null,
+               "Quantum computation": null,
+               "Quantum computer": null,
+               "Quantum electronics": null,
+               "Spintronics": null
+              }
+             },
+             "General Relativity and Quantum Cosmology": {
+              "Black hole": null,
+              "Einstein field equations": null,
+              "M-theory": null,
+              "Quantum gravity": null,
+              "Spacetime": null,
+              "Spacetime topology": null,
+              "Vacuum energy": null,
+              "Loop quantum gravity": null
+             },
+             "Quantum Thermodynamics": {
+              "Black-body radiation": null
+             }
+            },
+            "Particle and Nuclear Physics": {
+             "Particle Physics": {
+              "Subatomic Particles": {
+               "Elementary particle": null,
+               "Fundamental particles": null,
+               "Gluon": null,
+               "Higgs boson": null,
+               "Lepton": null,
+               "Neutrino": null,
+               "Quark": null,
+               "Spin (particle physics)": null,
+               "W and Z bosons": null
+              },
+              "Theories in Particle Physics": {
+               "Grand Unified Theory": null,
+               "Quantum chromodynamics": null,
+               "Standard Model of particle physics": null,
+               "Supersymmetry": null,
+               "Weak interaction": null
+              },
+              "Physics Mechanisms": {
+               "Higgs mechanism": null
+              },
+              "Applied Particle Physics": {
+               "Accelerator physics": null,
+               "Computational particle physics": null,
+               "Particle accelerator": null,
+               "Particle detector": null
+              },
+              "Intersection of Particle Physics with Other Fields": {
+               "Astroparticle physics": null
+              }
+             },
+             "Cosmology and Astrophysics": {
+              "Early Universe Phenomena": {
+               "Big Bang nucleosynthesis": null,
+               "Cosmic background radiation": null,
+               "Cosmic inflation": null,
+               "Cosmic string": null
+              },
+              "Dark Universe": {
+               "Dark matter": null,
+               "Energetic neutral atom": null
+              },
+              "Astrophysical Processes": {
+               "Gamma-ray astronomy": null,
+               "Nuclear fusion": null,
+               "Radiation": null
+              },
+              "Astroparticle Physics": {
+               "Gravitational wave": null,
+               "Solar neutrino problem": null
+              }
+             },
+             "Quantum Mechanics and Atomic Physics": {
+              "Atom": null,
+              "Atomic physics": null,
+              "Conduction electron": null,
+              "Feynman diagram": null,
+              "Hyperfine splitting": null,
+              "Weak nuclear force": null,
+              "Elementary charge": null,
+              "Trion (physics)": null
+             },
+             "Solid-State and Condensed Matter Physics": {
+              "BCS theory": null
+             },
+             "Nuclear fission": null,
+             "Strong nuclear force": null
+            },
+            "Hubble diagram": null
+           }
+          },
+          "Statistical and Mathematical Physics": {
+           "Statistical and Mathematical Physics": {
+            "Quantum Physics": {
+             "Quantum Mechanics": {
+              "Energy levels": null,
+              "Fermi gas": null,
+              "Fermi liquid theory": null,
+              "Harmonic oscillator": null,
+              "Planck's law": null
+             },
+             "Quantum Field Theory": {
+              "Correlation function (quantum field theory)": null
+             },
+             "Quantum Materials": {
+              "High-temperature superconductivity": null,
+              "Polariton": null,
+              "Polaron": null
+             },
+             "Quantum Particles": {
+              "Neutrino oscillation": null
+             },
+             "Quantum Electronics": {
+              "Gyrotron": null
+             }
+            },
+            "Cosmological Models": {
+             "Lambda-CDM model": null,
+             "Energy density": null,
+             "Loschmidt's paradox": null
+            },
+            "Statistical Mechanics": {
+             "Foundational Concepts": {
+              "Entropy": null,
+              "Statistical ensemble": null,
+              "Degrees of freedom (physics and chemistry)": null,
+              "Gibbs paradox": null,
+              "Adiabatic process": null,
+              "Brownian motion": null
+             },
+             "Quantum Statistical Mechanics": {
+              "Many-body theory": null,
+              "Partition function (quantum field theory)": null,
+              "Grand potential": null,
+              "Intensive variable": null
+             },
+             "Phenomena and Processes": {
+              "Superfluid": null,
+              "Gradient": null
+             }
+            },
+            "Theoretical Frameworks and Models": {
+             "Mathematical Modeling": {
+              "Mathematical model": null,
+              "Pinhole camera": null,
+              "Theory": null
+             },
+             "Physics Theories and Concepts": {
+              "Field Theory": {
+               "Lattice field theory": null,
+               "Seesaw mechanism": null,
+               "Spontaneous symmetry breaking": null,
+               "Lorentz symmetry": null
+              },
+              "Quantum Physics": {
+               "String (physics)": null,
+               "Weak gravity conjecture": null,
+               "Magnon": null,
+               "Quasiparticle": null
+              },
+              "Theoretical Methods": {
+               "Mathematical physics": null,
+               "Wick's theorem": null,
+               "Hamilton\u2013Jacobi theory": null
+              },
+              "Symmetry in Physics": {
+               "Symmetry (physics)": null
+              }
+             },
+             "Historical Physics Texts": {
+              "Two New Sciences": null
+             }
+            },
+            "Bayesian Statistics": {
+             "Bayesian inference": null
+            },
+            "Strong interaction": null,
+            "Superconductivity": null
+           },
+           "Parabola": null,
+           "Michelson\u2013Morley experiment": null
+          },
+          "Molecular physics": {
+           "Molecular physics": null,
+           "Electron hole": null,
+           "Exciton": null,
+           "Atoms": null,
+           "Absolute zero": null
+          },
+          "Nanotechnology": {
+           "Nanotechnology": null,
+           "Dropleton": null
+          },
+          "Nuclear Physics": {
+           "Nuclear force": null,
+           "Nuclear power": null,
+           "Beta decay": null,
+           "Radioactive decay": null,
+           "Exponential decay": null
+          },
+          "Theoretical Physics": {
+           "Relativity": {
+            "Relativistic mechanics": null,
+            "Theory of relativity": null,
+            "Kaluza\u2013Klein theory": null,
+            "Poincar\u00e9 symmetry": null,
+            "Hamilton\u2013Jacobi equation": null,
+            "Parameterized post-Newtonian formalism": null,
+            "Poincar\u00e9 group": null,
+            "Principle of least action": null
+           },
+           "Quantum Field Theory": {
+            "Quantization Methods": {
+             "BRST quantization": null,
+             "Background field method": null,
+             "Faddeev\u2013Popov ghost": null,
+             "Renormalization": null
+            },
+            "Symmetry and Field Equations": {
+             "Gauge symmetry (mathematics)": null,
+             "Klein\u2013Gordon equation": null,
+             "Proca action": null,
+             "Twistor theory": null,
+             "Stationary-action principle": null
+            },
+            "Quantum Mechanics Fundamentals": {
+             "Hilbert space": null,
+             "Symmetry in quantum mechanics": null
+            },
+            "Specific Equations and Principles": {
+             "Bargmann\u2013Wigner equations": null,
+             "Self-consistency principle in high energy physics": null,
+             "Vacuum expectation value": null
+            }
+           },
+           "Quantum Gravity": {
+            "Canonical quantum gravity": null,
+            "Randall\u2013Sundrum model": null,
+            "Strong CP problem": null,
+            "Superfluid vacuum theory": null,
+            "Wheeler\u2013DeWitt equation": null,
+            "Schr\u00f6dinger\u2013Newton equation": null,
+            "Black hole thermodynamics": null
+           },
+           "Particle Physics": {
+            "Dilaton": null,
+            "Dirac equation": null,
+            "Fracton (subdimensional particle)": null,
+            "Noether charge": null,
+            "Pauli exclusion principle": null,
+            "T-symmetry": null,
+            "Tachyon": null,
+            "Topological charge": null,
+            "Vacuum state": null
+           }
+          },
+          "Particle Physics": {
+           "Antiparticles": {
+            "Antineutron": null,
+            "Antiparticle": null,
+            "Antiproton": null,
+            "Positron": null
+           },
+           "Baryons and Related Concepts": {
+            "Basic Properties and Types of Baryons": {
+             "Baryon": null,
+             "Composite particle": null,
+             "Delta baryon": null,
+             "Exotic hadron": null,
+             "Hadron": null,
+             "Heptaquark": null,
+             "Omega baryon": null,
+             "Sigma baryon": null
+            },
+            "Baryon Characteristics and Conservation": {
+             "Baryon asymmetry": null,
+             "Baryon number": null
+            },
+            "Theoretical Models and Classification Frameworks": {
+             "Eightfold way (physics)": null,
+             "Hexaquark": null,
+             "Lambda baryon": null,
+             "Protonium": null,
+             "Xi baryon": null
+            },
+            "Symmetries and Violations in Particle Physics": {
+             "CP violation": null
+            },
+            "Historical Experiments Related to Particle Physics": {
+             "Geiger\u2013Marsden experiments": null
+            }
+           },
+           "Bosons and Quarks": {
+            "Bosons": {
+             "Boson": null,
+             "Collider": null,
+             "Cyclotron": null,
+             "Vector boson": null,
+             "W boson": null,
+             "W\u2032 and Z\u2032 bosons": null,
+             "X and Y bosons": null,
+             "Z boson": null
+            },
+            "Quarks": {
+             "Types of Quarks": {
+              "Bottom quark": null,
+              "Charm quark": null,
+              "Down quark": null,
+              "Up quark": null
+             },
+             "Antiquarks": {
+              "Charm antiquark": null,
+              "Down antiquark": null
+             },
+             "Quark Properties": {
+              "Color charge": null,
+              "Color confinement": null
+             },
+             "Quark Combinations": {
+              "B meson": null,
+              "Meson": null,
+              "Tetraquark": null
+             },
+             "Quark-related Particles": {
+              "Leptoquark": null,
+              "Pion": null,
+              "Quarkonium": null
+             },
+             "Quark Classifications": {
+              "Fermion": null,
+              "Preon": null,
+              "Quark model": null,
+              "SU(3)": null
+             }
+            },
+            "Particle interactions and properties": {
+             "Particle Types": {
+              "Leptons": {
+               "Electron neutrino": null,
+               "Muon": null,
+               "Muon neutrino": null,
+               "Weak force": null
+              },
+              "Quarks": {
+               "Cabibbo\u2013Kobayashi\u2013Maskawa matrix": null,
+               "T meson": null
+              },
+              "Composite Particles": {
+               "Exotic atom": null,
+               "Exotic particle": null,
+               "Glueball": null,
+               "J/psi meson": null,
+               "Resonance (particle physics)": null
+              },
+              "Supersymmetric Particles": {
+               "Higgsino": null
+              },
+              "Basic Concepts": {
+               "Fundamental particle": null,
+               "Relativistic particle": null,
+               "Subatomic particle": null
+              }
+             },
+             "Symmetry and Conservation Laws": {
+              "Charge conjugation": null,
+              "Lepton number": null,
+              "Weak isospin": null,
+              "Invariant mass": null
+             },
+             "Theoretical Models and Concepts": {
+              "Particle Physics Models": {
+               "Force carrier": null,
+               "Minimal Supersymmetric Standard Model": null,
+               "Next-to-Minimal Supersymmetric Standard Model": null,
+               "Standard Model (mathematical formulation)": null,
+               "Weak hypercharge": null
+              },
+              "Quantum Field Theory": {
+               "Dual graviton": null,
+               "Supergravity": null,
+               "Yang\u2013Mills theory": null
+              },
+              "Composite Particles": {
+               "Positronium": null,
+               "Theta meson": null,
+               "Upsilon meson": null
+              },
+              "Experimental Physics Facilities": {
+               "Jiangmen Underground Neutrino Observatory": null
+              }
+             }
+            }
+           },
+           "Dark Matter Candidates": {
+            "Weakly interacting massive particles": null,
+            "Axion": null,
+            "Chargino": null,
+            "Exotic matter": null,
+            "Micro black hole": null,
+            "Sterile neutrino": null
+           },
+           "Magnetic monopole": null
+          },
+          "Chemistry": {
+           "Rubidium": null,
+           "Proton": null,
+           "Tauonium": null
+          }
+         },
+         "D meson": null,
+         "Gluino": null,
+         "Graviton": null,
+         "Strange quark": null,
+         "Tau (particle)": null,
+         "Tunnel diode": null,
+         "Heat death paradox": null
+        }
+       },
+       "Quantum Particles": {
+        "Curvaton": null,
+        "Diquark": null,
+        "Eta meson": null,
+        "Gaugino": null,
+        "Graviphoton": null,
+        "Pionium": null,
+        "Plasmaron": null,
+        "Beam splitter": null,
+        "Scanning tunneling microscope": null,
+        "Spin foam": null
+       },
+       "Quantum Mechanics Concepts": {
+        "Quantum Thermodynamics": {
+         "Maxwell's demon": null,
+         "Maxwell relations": null,
+         "Onsager reciprocal relations": null,
+         "Phase transition": null,
+         "Quantum thermodynamics": null,
+         "Quantum harmonic oscillator": null,
+         "Quantum statistical mechanics": null,
+         "Quantum critical point": null
+        },
+        "Quantum Entanglement and Nonlocality": {
+         "Bell's theorem": null,
+         "Bell inequalities": null,
+         "Bell test": null,
+         "Bell test experiments": null,
+         "Mach\u2013Zehnder interferometer": null,
+         "No-communication theorem": null,
+         "Quantum Entanglement": null,
+         "Quantum entanglement": null,
+         "Quantum nonlocality": null,
+         "Quantum teleportation": null
+        },
+        "Quantum Foundations": {
+         "Interpretations of Quantum Mechanics": {
+          "Pilot-wave theories": {
+           "Bohmian mechanics": null,
+           "De Broglie\u2013Bohm theory": null,
+           "Hidden variable theory": null
+          },
+          "Copenhagen interpretation and its derivatives": {
+           "Bohr model": null,
+           "Complementarity (physics)": null,
+           "Copenhagen interpretation": null,
+           "Von Neumann\u2013Wigner interpretation": null
+          },
+          "Quantum measurement and collapse": {
+           "Collapse of the wavefunction": null,
+           "EPR paradox": null,
+           "Objective collapse theory": null,
+           "Schr\u00f6dinger's cat": null
+          },
+          "Quantum paradoxes and experiments": {
+           "Elitzur\u2013Vaidman bomb tester": null,
+           "Macroscopic quantum phenomena": null
+          }
+         },
+         "Quantum Mechanics Formulations": {
+          "Principles and Concepts of Quantum Mechanics": {
+           "Born rule": null,
+           "Degenerate energy levels": null,
+           "Excited state": null,
+           "Measurement in quantum mechanics": null,
+           "Quantum superposition": null,
+           "Uncertainty principle": null,
+           "Unitarity (physics)": null
+          },
+          "Methods and Models in Quantum Mechanics": {
+           "Fundamental Concepts in Quantum Mechanics": {
+            "Canonical quantization": null,
+            "Hamiltonian (quantum mechanics)": null,
+            "Operator (physics)": null,
+            "Pauli equation": null
+           },
+           "Quantum States and Operators": {
+            "Density matrix": null,
+            "POVM": null,
+            "Quantum coherence": null,
+            "Fermi\u2013Dirac statistics": null
+           },
+           "Quantum Systems and Models": {
+            "Hydrogen atom": null,
+            "Perturbation theory (quantum mechanics)": null,
+            "Quantum interference": null,
+            "Quantum tunnelling": null,
+            "Reduced density matrix": null
+           },
+           "Quantum Mechanics Theory Development": {
+            "Modern Quantum Mechanics": null,
+            "Relativistic quantum mechanics": null,
+            "Rydberg formula": null,
+            "Wheeler's delayed-choice experiment": null,
+            "Quantum phase transition": null
+           },
+           "Quantum Physics Constants and Fundamentals": {
+            "Planck length": null
+           }
+          },
+          "Quantum Theories and Interpretations": {
+           "Canonical commutation relation": null,
+           "Franck\u2013Hertz experiment": null,
+           "Heisenberg picture": null,
+           "Quantum decoherence": null
+          }
+         }
+        },
+        "Diamagnetism": null,
+        "Electroweak theory": null,
+        "Quantum circuit": null,
+        "Quantum dynamics": null
+       },
+       "Scientific Publications": {
+        "Annual Review of Nuclear and Particle Science": null
+       },
+       "Quantum Electrodynamics": {
+        "Ultraviolet radiation": null,
+        "Precision tests of QED": null
+       }
+      },
+      "Poisson structure": null,
+      "Polytropic process": null
+     },
+     "Neutrinos": {
+      "Tau neutrino": null
+     },
+     "Astronomy": {
+      "Kepler's laws of planetary motion": null,
+      "Equation of state": null,
+      "Event horizon": null
+     },
+     "Reversing valve": null
+    },
+    "Classical Physics": {
+     "Mechanics": {
+      "Mechanics": {
+       "Classical Mechanics": {
+        "Dynamics": {
+         "Equations of motion": null,
+         "Mechanics of planar particle motion": null,
+         "Newton's second law": null,
+         "Newton's third law": null,
+         "Newtonian dynamics": null,
+         "Newtonian mechanics": null,
+         "Pendulum (mechanics)": null,
+         "Rigid body dynamics": null,
+         "Second law of motion": null,
+         "Simple harmonic motion": null
+        },
+        "Kinematics": {
+         "Center of mass": null,
+         "Inclined plane": null,
+         "Speed": null,
+         "Tangential speed": null,
+         "Velocity": null
+        },
+        "Conservation Laws and Principles": {
+         "Galilean relativity": null,
+         "Momentum": null,
+         "Work\u2013energy theorem": null
+        },
+        "Statics": {
+         "Impulse (physics)": null,
+         "Law of inertia": null,
+         "Mechanical equilibrium": null,
+         "Dynamic equilibrium": null
+        }
+       },
+       "Analytical Mechanics": {
+        "Dynamics of Particles and Rigid Bodies": {
+         "Euler's laws": null,
+         "Kinetics (physics)": null,
+         "Newton\u2013Euler equations": null,
+         "Rigid body": null
+        },
+        "Advanced Formulations": {
+         "Lagrangian mechanics": null,
+         "Newton\u2013Cartan theory": null,
+         "Routhian mechanics": null
+        },
+        "Computational and Approximate Methods": {
+         "Newton\u2013Cotes formulas": null
+        },
+        "Rotational Dynamics": {
+         "Moment of inertia": null,
+         "Rotating reference frame": null,
+         "Rotation": null
+        },
+        "Spring constant": null,
+        "Magdeburg hemispheres": null
+       }
+      },
+      "Newton (unit)": null
+     },
+     "Acoustics": {
+      "Acoustics": {
+       "Acoustics": {
+        "Acoustics": {
+         "Acoustics": {
+          "Acoustics": {
+           "Sound and Vibrations": {
+            "Acoustics": null,
+            "Phonon": null,
+            "Ultrasonics": null,
+            "Wave": null
+           },
+           "Liquid": null
+          },
+          "Polarization (waves)": null
+         }
+        }
+       }
+      }
+     },
+     "Fluid Mechanics": {
+      "Fluid Mechanics": {
+       "Thermodynamics": {
+        "Fundamental Laws of Thermodynamics": {
+         "First law of thermodynamics": null,
+         "Ideal gas": null,
+         "Second law of thermodynamics": null
+        },
+        "Types of Thermodynamic Processes": {
+         "Newton's law of cooling": null,
+         "Convection": null,
+         "Heat transfer": null,
+         "Irreversible process": null,
+         "Isenthalpic process": null,
+         "Isentropic process": null,
+         "Isobaric process": null,
+         "Isochoric process": null,
+         "Isothermal process": null,
+         "Reversible process (thermodynamics)": null
+        },
+        "Thermodynamic Engines and Theorems": {
+         "Carnot's theorem (thermodynamics)": null,
+         "Carnot engine": null,
+         "Carnot heat engine": null,
+         "Clausius theorem": null,
+         "Heat": null,
+         "Rankine scale": null,
+         "Sensible heat": null
+        },
+        "Branches and Concepts of Thermodynamics": {
+         "Thermal physics": null,
+         "Bridgman's thermodynamic equations": null,
+         "Classical thermodynamics": null,
+         "Endoreversible thermodynamics": null,
+         "Fundamental thermodynamic relation": null,
+         "Gas laws": null,
+         "Ideal gas law": null
+        }
+       },
+       "Properties of fluids": {
+        "Newtonian fluid": null,
+        "Barometer": null,
+        "Mass flow rate": null
+       },
+       "Pneumatics": {
+        "Pneumatics": {
+         "Pneumatics": {
+          "Pneumatics": null,
+          "Pressure": null,
+          "Carnot cycle": null
+         }
+        }
+       }
+      },
+      "Boyle's Law": null
+     },
+     "Electromagnetism": {
+      "Electromagnetism": {
+       "Electromagnetism": {
+        "Electromagnetism": {
+         "Electromagnetism": {
+          "Electromagnetism": {
+           "Electromagnetism": {
+            "Electromagnetic Forces": {
+             "Electromagnetic force": null,
+             "Electroweak interaction": null,
+             "Gauge boson": null,
+             "Magnetic field": null,
+             "Magnetism": null,
+             "Conservative force": null,
+             "Lorentz force": null,
+             "Charged particle": null
+            },
+            "Electromagnetic Physics": {
+             "Electromagnetic Theory": {
+              "Electromagnetics": null,
+              "Electromagnetism": null,
+              "Electrostatics": null,
+              "Magnetostatics": null,
+              "Maxwell's equations": null,
+              "Electromagnetic theory": null,
+              "Electromagnetic field": null
+             },
+             "Applications of Electromagnetism": {
+              "Laser physics": null,
+              "Magnetohydrodynamics": null,
+              "Optics": null,
+              "Physical optics": null,
+              "Centripetal force": null,
+              "Conservation of momentum": null,
+              "Inertial frame of reference": null,
+              "Cathode rays": null,
+              "Stern\u2013Gerlach experiment": null
+             },
+             "Advanced Electromagnetic Concepts": {
+              "Gauge theory": null,
+              "Canonical momentum": null,
+              "Conservation law": null,
+              "Fictitious force": null,
+              "Hamiltonian mechanics": null
+             }
+            },
+            "Applications of Electromagnetism": {
+             "Fermi Gamma-ray Space Telescope": null,
+             "Ion implantation": null,
+             "Laser": null,
+             "Lightning": null,
+             "Magnetic resonance imaging": null,
+             "Optoelectronics": null,
+             "Photovoltaics": null
+            },
+            "Electromagnetic Materials": {
+             "Ferromagnet": null,
+             "Lodestone": null,
+             "Magnet": null,
+             "Magnetite": null,
+             "Meissner effect": null,
+             "Photonics": null,
+             "Finite difference": null,
+             "Maxwell's thermodynamic surface": null
+            },
+            "Electromagnetic Spectrum": {
+             "Infrared": null,
+             "Light": null
+            }
+           },
+           "Galilean transformation": null,
+           "Inertial frames": null
+          },
+          "Acceleration": null,
+          "Angle": null,
+          "D'Alembert's principle": null,
+          "Euler's equations (rigid body dynamics)": null
+         }
+        },
+        "Forces in classical mechanics": {
+         "Centrifugal force": null,
+         "Centrifugal force (fictitious)": null,
+         "Coriolis force": null,
+         "Friction": null,
+         "Hooke's law": null,
+         "Kinetic energy": null
+        },
+        "Optics": {
+         "Corpuscular theory of light": null,
+         "Geometric optics": null,
+         "Irradiance": null,
+         "Electron microscope": null,
+         "Optical amplifier": null,
+         "Scattering theory": null,
+         "Wave theory of light": null
+        },
+        "Gravitation": {
+         "Gravitational constant": null
+        },
+        "Ordinary differential equation": null,
+        "Phase space formulation": null
+       },
+       "Newtonian potential": null
+      }
+     },
+     "Thermodynamics": {
+      "Caloric theory": null,
+      "Conjugate variables (thermodynamics)": null,
+      "Equilibrium thermodynamics": null,
+      "Laws of thermodynamics": null
+     },
+     "Statistical Physics": {
+      "Transport theory (statistical physics)": null
+     }
+    },
+    "Astrophysics": {
+     "Astrophysics": {
+      "Astrophysics": {
+       "Astrophysics": {
+        "Gravitational Physics": {
+         "Newton's law of universal gravitation": null,
+         "Schwarzschild radius": null,
+         "Binary black hole": null
+        },
+        "Astrophysical Processes": {
+         "Stellar Phenomena": {
+          "Nuclear astrophysics": null,
+          "Star": null,
+          "Stellar evolution": null,
+          "Stellar structure": null,
+          "Supernova": null,
+          "Circumstellar disc": null,
+          "Circumstellar disk": null,
+          "Circumstellar envelope": null,
+          "Dwarf star": null
+         },
+         "Solar Studies": {
+          "Solar physics": null
+         },
+         "High-Energy Astrophysics": {
+          "X-ray astronomy": null,
+          "Cosmic ray": null,
+          "Active galactic nuclei": null,
+          "Blazar": null,
+          "Compton Gamma Ray Observatory": null
+         },
+         "Plasma Astrophysics": {
+          "Plasma (physics)": null,
+          "Termination shock": null,
+          "Accretion disk": null
+         },
+         "Particle Physics Facilities": {
+          "Beijing Electron\u2013Positron Collider II": null
+         },
+         "Dynamical Systems in Astronomy": {
+          "Non-linear dynamics": null,
+          "Astronomia nova": null,
+          "Celestial dynamics": null
+         },
+         "Clusters of galaxies": null
+        },
+        "Astronomical Observation Methods": {
+         "Infrared astronomy": null,
+         "Observational astronomy": null,
+         "Radio astronomy": null,
+         "Telescope": null,
+         "Ultraviolet astronomy": null,
+         "Newtonian telescope": null,
+         "Side lobe": null,
+         "Charge-coupled device": null,
+         "Cosmic distance ladder": null
+        },
+        "Cosmology": {
+         "Physical cosmology": null,
+         "Solar wind": null,
+         "Universe": null,
+         "Cosmological constant": null,
+         "Cosmological constant problem": null,
+         "Quantum cosmology": null,
+         "Accelerating expansion of the universe": null,
+         "Dark matter halo": null
+        },
+        "Planetary Science": {
+         "General Planetary Science": {
+          "Planet": null,
+          "Planetary science": null,
+          "Solar System": null,
+          "Celestial body": null,
+          "Cosmochemistry": null
+         },
+         "Planetary Features and Phenomena": {
+          "Atmospheric thermodynamics": null,
+          "Outgassing": null,
+          "Active asteroid": null,
+          "Comet": null
+         },
+         "Asteroid Specifics": {
+          "Asteroid": null,
+          "Asteroid belt": null,
+          "Asteroid family": null
+         },
+         "Broader Context and Space Sciences": {
+          "Space": null
+         }
+        },
+        "Non-Astrophysical Science": {
+         "Physical oceanography": null,
+         "Space physics": null,
+         "Axino": null
+        }
+       }
+      },
+      "Belle II experiment": null
+     },
+     "Pomeron": null
+    },
+    "Synergetics (Haken)": null
+   }
+  },
+  "Applied Physics": {
+   "Condensed Matter Physics": {
+    "Electron Theory and Models": {
+     "Band theory": null,
+     "Free electron model": null,
+     "Nearly free electron model": null
+    },
+    "Quantum Physics in Condensed Matter": {
+     "Quantum Many-Body Physics": {
+      "Quantum Many-Body Techniques": {
+       "Perturbation theory": null,
+       "Green's function (many-body theory)": null,
+       "Hartree\u2013Fock method": null,
+       "Renormalization group": null,
+       "Variational method": null
+      },
+      "Quantum Many-Body Models": {
+       "Hubbard model": null,
+       "Mott insulator": null,
+       "Strongly correlated material": null,
+       "Tight binding model": null
+      },
+      "Quantum Many-Body Quasiparticles": {
+       "Bogoliubov quasiparticle": null
+      },
+      "Quantum Information in Many-Body Systems": {
+       "Qubit": null
+      }
+     },
+     "Quantum Hall Effects": {
+      "Fractional quantum Hall effect": null,
+      "Landau quantization": null,
+      "Quantum Hall effect": null,
+      "Quantum spin Hall effect": null,
+      "Spin Hall effect": null,
+      "Topological insulator": null,
+      "Topological phase": null
+     },
+     "Quantum Superconductivity": {
+      "High temperature superconductor": null,
+      "Thomas\u2013Fermi model": null
+     },
+     "Quantum Materials Characterization": {
+      "Hamiltonian matrix": null,
+      "Inelastic neutron scattering": null,
+      "Photoelectron spectroscopy": null,
+      "Photoluminescence": null,
+      "Quantum oscillations": null
+     },
+     "Mesoscopic Systems": {
+      "Mesoscopic physics": null
+     },
+     "Spintronic": null
+    },
+    "Materials Structure": {
+     "Crystallography": null,
+     "Fullerene": null,
+     "Lattice model (physics)": null
+    },
+    "Electrical Properties": {
+     "Ferroelectricity": null,
+     "Josephson effect": null,
+     "Thermoelectric effect": null,
+     "Wiedemann-Franz law": null,
+     "Wiedemann\u2013Franz law": null
+    },
+    "Statistical Mechanics": {
+     "Green\u2013Kubo relations": null,
+     "Mean-field approximation": null,
+     "Mean-field theory": null,
+     "Specific heat of solids": null
+    },
+    "Magnetic Properties": {
+     "Geometrical frustration": null,
+     "Ising model": null,
+     "Josephson junction": null,
+     "Kondo effect": null,
+     "Kondo insulator": null,
+     "Magnetic domain": null,
+     "Muon spin spectroscopy": null,
+     "Spontaneous magnetization": null
+    }
+   },
+   "Materials Science": {
+    "Properties of Materials": {
+     "Elasticity (physics)": null,
+     "Granular material": null,
+     "Interface and colloid science": null,
+     "Metallurgy": null,
+     "Nanometer": null,
+     "Piezoelectricity": null
+    },
+    "Spectroscopy Techniques": {
+     "Infrared spectroscopy": null,
+     "Laser spectroscopy": null,
+     "M\u00f6ssbauer spectroscopy": null,
+     "Nuclear magnetic resonance": null,
+     "Optical lattice": null,
+     "Spectroscopy": null,
+     "Thermometry": null,
+     "X-ray diffraction": null
+    },
+    "Computational Techniques": {
+     "Numerical computation": null
+    },
+    "Materials Fabrication": {
+     "Optical fibres": null,
+     "Point-contact transistor": null
+    }
+   },
+   "Electromagnetism": {
+    "Electrodynamics": null,
+    "Electron volt": null,
+    "Gauge symmetry": null,
+    "Magnetic fields": null,
+    "Magnetic susceptibility": null,
+    "Magnetoelectric effect": null,
+    "Non-linear optics": null,
+    "Superparamagnetism": null,
+    "Tesla (unit)": null
+   },
+   "Engineering Physics": {
+    "Appliances and Engineering": {
+     "Absorption refrigerator": null,
+     "Thermographic camera": null,
+     "Vacuum pump": null,
+     "Light-emitting diode": null,
+     "Cooper pair": null,
+     "Electron beams": null,
+     "Electronic band structure": null
+    },
+    "Building Physics and HVAC": {
+     "Thermodynamics and Refrigeration": {
+      "Psychrometrics": null,
+      "Thermal expansion valve": null,
+      "Vapor-compression refrigeration": null,
+      "Conduction (heat)": null,
+      "Cryogenic": null
+     },
+     "Air Movement in Buildings": {
+      "Stack effect": null,
+      "Thermal wheel": null
+     },
+     "Climate Control Systems": {
+      "Thermostat": null
+     },
+     "Miscellaneous Physics Concepts": {
+      "Atmosphere": null,
+      "Gravitational-wave detector": null,
+      "Nanometre": null,
+      "Anderson localization": null,
+      "Bose gas": null,
+      "Bose\u2013Einstein condensates": null,
+      "Diamagnetic": null,
+      "Drude model": null,
+      "Exciton-polariton": null
+     },
+     "Ductility": null,
+     "Electrical conductor": null,
+     "Electron paramagnetic resonance": null,
+     "Electrostriction": null,
+     "Flexoelectricity": null
+    }
+   },
+   "Nuclear quadrupole resonance": null
+  },
+  "Classic Physics": {
+   "Thermodynamics and Fluid Dynamics": {
+    "Thermodynamic Properties": {
+     "Kinematic viscosity": null,
+     "Real gas": null,
+     "Standard temperature and pressure": null,
+     "State (thermodynamic)": null,
+     "Temperature": null,
+     "Thermal expansion": null,
+     "Thermal insulation": null,
+     "Thermodynamic temperature": null,
+     "Volume (thermodynamics)": null
+    },
+    "Thermodynamic Systems and States": {
+     "Steady state": null,
+     "System (thermodynamics)": null,
+     "Thermodynamic equilibrium": null,
+     "Thermodynamic state": null,
+     "Thermodynamic system": null,
+     "Stationary state": null
+    },
+    "Thermodynamic Processes": {
+     "Thermal efficiency": null,
+     "Thermodynamic cycle": null,
+     "Thermodynamic process": null,
+     "Thermosiphon": null,
+     "Work (thermodynamics)": null
+    },
+    "Thermodynamic Theories": {
+     "Statistical thermodynamics": null,
+     "Theory of heat": null,
+     "Thermodynamic equations": null,
+     "Thermodynamic free energy": null,
+     "Thermodynamic potential": null,
+     "Third law of thermodynamics": null,
+     "Virial theorem": null,
+     "Kinetic theory of gases": null,
+     "Zero-point energy": null
+    },
+    "Vacuum": null,
+    "Wave function collapse": null,
+    "Convection zone": null
+   },
+   "Material Properties": {
+    "Material Science": {
+     "Material Science": {
+      "Material Science": {
+       "Properties of Materials": {
+        "Physical Properties of Materials": {
+         "Solid-state physics": null,
+         "Solid mechanics": null,
+         "Superconductor": null,
+         "Surface science": null,
+         "Superatom": null,
+         "Density": null
+        },
+        "Thermal Properties of Materials": {
+         "Thermodynamics": {
+          "Chemical thermodynamics": null,
+          "Enthalpy": null,
+          "Helmholtz free energy": null,
+          "Internal energy": null
+         },
+         "Heat Transfer": {
+          "Condenser (heat transfer)": null,
+          "Refrigerant": null
+         },
+         "Properties of Materials": {
+          "Heat capacity": null,
+          "Latent heat": null,
+          "Thermal mass": null,
+          "Curie point": null
+         },
+         "Atmospheric Properties": {
+          "Humidity": null
+         }
+        },
+        "Chemical Properties of Materials": {
+         "Polymer physics": null,
+         "Paramagnetic": null
+        }
+       },
+       "Material Structures and Phenomena": {
+        "Material Science": {
+         "Plasmon": null,
+         "Skyrmion": null,
+         "Crystal": null,
+         "Nucleation": null,
+         "Isotope": null,
+         "\u00c5ngstrom": null,
+         "Amorphous solid": null,
+         "Fermi surface": null,
+         "Ferromagnetism": null
+        },
+        "Thermodynamics": {
+         "Chemical potential": null,
+         "Gibbs free energy": null
+        },
+        "Heat Transfer Devices": {
+         "Evaporator": null,
+         "Heat exchanger": null
+        },
+        "Electromechanical Devices": {
+         "Inverter compressor": null
+        },
+        "Physical Phenomena": {
+         "Particulates": null,
+         "Superconducting magnet": null,
+         "Debris disk": null,
+         "Critical exponent": null,
+         "Hyperfine structure": null,
+         "Paramagnetism": null,
+         "Symmetry breaking": null
+        }
+       },
+       "Research Tools and Techniques": {
+        "Neutrons": null,
+        "Synchrotron radiation": null,
+        "Magnetron": null,
+        "Molecular dynamics": null,
+        "Calorimeter": null,
+        "Electrostatic precipitator": null,
+        "Infrared thermometer": null,
+        "Perturbed angular correlation": null
+       },
+       "Computational Science": {
+        "Scientific computing": null
+       }
+      },
+      "Ground-coupled heat exchanger": null
+     }
+    },
+    "Volatile organic compound": null,
+    "Antiferromagnetism": null,
+    "Luttinger liquid": null
+   },
+   "Three-body problem": null,
+   "Wavelengths": null,
+   "Aharonov\u2013Bohm effect": null,
+   "Goldstone's theorem": null,
+   "Heisenberg uncertainty principle": null,
+   "Mott scattering": null
+  },
+  "Astrophysics": {
+   "Galactic and Extragalactic Astronomy": {
+    "Extragalactic Astronomy": {
+     "Extragalactic Astronomy": {
+      "Extragalactic astronomy": null,
+      "Quasar": null,
+      "Radio galaxy": null,
+      "Seyfert galaxy": null,
+      "Supermassive black hole": null,
+      "Supernova remnant": null,
+      "Supernovae": null
+     },
+     "Galaxy Types": {
+      "Active galaxy": null,
+      "Elliptical galaxy": null,
+      "Galaxy morphological classification": null
+     },
+     "Galaxy Structures": {
+      "Galaxy filament": null,
+      "Galaxy groups and clusters": null,
+      "Laniakea Supercluster": null
+     },
+     "Galaxy Dynamics": {
+      "Galaxy formation and evolution": null,
+      "Gravitational lens": null,
+      "Hubble's law": null,
+      "Redshift survey": null
+     },
+     "Cosmic Components": {
+      "Hydrogen": null,
+      "Metric expansion of space": null,
+      "Nucleosynthesis": null,
+      "Population III stars": null,
+      "Radio wave": null,
+      "Reionization": null,
+      "Supernova nucleosynthesis": null
+     }
+    },
+    "Galactic Astronomy": {
+     "Galaxy Types": {
+      "Galactic astronomy": null,
+      "Irregular galaxy": null,
+      "Spiral galaxy": null
+     },
+     "Stellar Evolution": {
+      "Globular cluster": null,
+      "Main-sequence star": null,
+      "Neutron star": null,
+      "Pulsar": null,
+      "Stellar nucleosynthesis": null,
+      "White dwarf": null
+     },
+     "Star Formation": {
+      "Initial mass function": null,
+      "Molecular cloud": null,
+      "Pre-stellar core": null,
+      "Stellar population": null
+     },
+     "Interstellar Matter": {
+      "Interstellar medium": null,
+      "Nebulae": null,
+      "Submillimetre astronomy": null
+     },
+     "Astronomical Tools": {
+      "Near-infrared": null,
+      "Radio telescope": null
+     },
+     "Solar Astronomy": {
+      "Solar corona": null,
+      "Stellar parallax": null
+     },
+     "Stellar Motion and Properties": {
+      "Proper motion": null,
+      "Spherical astronomy": null,
+      "Stellar class": null,
+      "Stellar dynamics": null
+     }
+    },
+    "High Energy Astrophysics": {
+     "Gamma Ray Observations": {
+      "Gamma ray astronomy": null,
+      "Gamma ray burst": null
+     },
+     "Gravitational Phenomena": {
+      "Gravitational collapse": null,
+      "Gravitational waves": null
+     },
+     "Multi-messenger Astronomy": {
+      "Multi-messenger astronomy": null,
+      "Neutrino astronomy": null
+     },
+     "Radiative Mechanisms": {
+      "Radiation pressure": null,
+      "Synchrotron emission": null
+     },
+     "X-ray Astronomy": {
+      "X-radiation": null,
+      "X-ray binaries": null,
+      "X-ray telescope": null,
+      "X-ray spectroscopy": null
+     },
+     "Nuclear matter": null
+    },
+    "Gravitational-wave astronomy": null,
+    "Radar astronomy": null,
+    "Tidal acceleration": null,
+    "Van Allen radiation belt": null,
+    "Chern class": null,
+    "Ginzburg\u2013Landau theory": null
+   },
+   "Planetary Science": {
+    "Types of Celestial Bodies": {
+     "Dwarf planet": null,
+     "Gas giant": null,
+     "Kuiper belt": null,
+     "Small Solar System body": null
+    },
+    "Planetary Environment": {
+     "Frost line (astrophysics)": null,
+     "Interplanetary medium": null,
+     "Magnetosphere": null,
+     "Planetary differentiation": null,
+     "Ring system": null,
+     "Rubble pile": null,
+     "Tidal locking": null,
+     "Metallic hydrogen": null
+    },
+    "Planetary Orbital Dynamics": {
+     "Gravitational influences": {
+      "Hill sphere": null,
+      "Lagrangian points": null,
+      "Roche limit": null
+     },
+     "Types of orbits and regions": {
+      "Jupiter trojan": null,
+      "Kirkwood gap": null,
+      "Orbital mechanics": null
+     },
+     "Planetary system structures": {
+      "Planetary migration": null,
+      "Planetary system": null,
+      "Solar System model": null,
+      "Laughlin wavefunction": null
+     },
+     "Stellar phenomena": {
+      "Planetary nebula": null,
+      "Sunspot cycle": null
+     }
+    },
+    "Phonon polariton": null
+   },
+   "Observational Astronomy Techniques": {
+    "Astronomical Instruments": {
+     "Laser guide star": null,
+     "Neutrino detector": null,
+     "Optical telescope": null,
+     "Reflecting telescope": null,
+     "Spectroscope": null
+    },
+    "Astronomical Measurement Techniques": {
+     "Photometry (astronomy)": null,
+     "Radial velocity": null,
+     "Stellar wobble": null
+    },
+    "Astronomy by Wavelength": {
+     "Electromagnetic spectrum": null,
+     "Far-infrared astronomy": null,
+     "Optical astronomy": null
+    },
+    "Astronomical Events": {
+     "Eclipse": null
+    }
+   },
+   "Astrochemistry and Astrostatistics": {
+    "Astrochemistry": null,
+    "Astrostatistics": null,
+    "Nuclear spectroscopy": null,
+    "Spin glass": null
+   },
+   "Outline of astronomy": null,
+   "Orbital magnetization": null,
+   "Samarium": null,
+   "Semimetal": null,
+   "Time crystal": null
+  }
+ }
+}

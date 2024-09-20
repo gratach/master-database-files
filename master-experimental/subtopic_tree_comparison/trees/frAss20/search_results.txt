@@ -1,0 +1,1206 @@
+[
+ [
+  "Gaugino",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Supersymmetry",
+   "Chargino"
+  ],
+  47,
+  751
+ ],
+ [
+  "Black hole",
+  true,
+  [
+   "Physics",
+   "Cosmology",
+   "Black holes",
+   "Black hole"
+  ],
+  50,
+  884
+ ],
+ [
+  "Mass",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Atomic and molecular beams",
+   "Magdeburg hemispheres"
+  ],
+  44,
+  763
+ ],
+ [
+  "Bose\u2013Einstein condensate",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum optics",
+   "Bose\u2013Einstein condensate"
+  ],
+  50,
+  879
+ ],
+ [
+  "Nucleosynthesis",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "History of astronomy"
+  ],
+  48,
+  754
+ ],
+ [
+  "Cooper pair",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Ultrafast molecular dynamics",
+   "Cooper pair"
+  ],
+  49,
+  860
+ ],
+ [
+  "Antiferromagnet",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Antiferromagnet"
+  ],
+  39,
+  601
+ ],
+ [
+  "Loop quantum gravity",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum gravity",
+   "Loop quantum gravity"
+  ],
+  54,
+  955
+ ],
+ [
+  "Rankine scale",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Temperature Scales",
+   "Rankine scale"
+  ],
+  46,
+  730
+ ],
+ [
+  "Special relativity",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Special relativity"
+  ],
+  37,
+  658
+ ],
+ [
+  "Graviton",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Quantum Gravity",
+   "Graviton"
+  ],
+  41,
+  636
+ ],
+ [
+  "Hamiltonian matrix",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum operators",
+   "Hamiltonian matrix"
+  ],
+  49,
+  904
+ ],
+ [
+  "Schwarzschild radius",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Gravity"
+  ],
+  37,
+  658
+ ],
+ [
+  "Kaluza\u2013Klein theory",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Kaluza\u2013Klein theory"
+  ],
+  37,
+  658
+ ],
+ [
+  "Spontaneous symmetry breaking",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum many-body systems",
+   "Goldstone's theorem"
+  ],
+  45,
+  821
+ ],
+ [
+  "Fundamental particle",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Fermions",
+   "Fundamental particle"
+  ],
+  67,
+  897
+ ],
+ [
+  "Dark matter halo",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Dark Matter",
+   "Dark matter halo"
+  ],
+  41,
+  620
+ ],
+ [
+  "Thermodynamic equations",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Thermodynamic equations"
+  ],
+  54,
+  926
+ ],
+ [
+  "Absolute time and space",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Spacetime"
+  ],
+  37,
+  658
+ ],
+ [
+  "Particle physics",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Bosons",
+   "Particle physics"
+  ],
+  67,
+  885
+ ],
+ [
+  "Phi meson",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Mesons",
+   "Phi meson"
+  ],
+  75,
+  919
+ ],
+ [
+  "Electrodynamics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric Field",
+   "Electrodynamics"
+  ],
+  42,
+  665
+ ],
+ [
+  "Force carrier",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Weak Force",
+   "Force carrier"
+  ],
+  43,
+  667
+ ],
+ [
+  "Adiabatic process",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Adiabatic process"
+  ],
+  54,
+  926
+ ],
+ [
+  "Particle physics",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Bosons",
+   "Particle physics"
+  ],
+  67,
+  885
+ ],
+ [
+  "Thermographic camera",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Thermographic camera"
+  ],
+  52,
+  833
+ ],
+ [
+  "Elementary charge",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Atomic structure",
+   "Protons"
+  ],
+  60,
+  964
+ ],
+ [
+  "Conduction (heat)",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Conduction",
+   "Conduction (heat)"
+  ],
+  41,
+  641
+ ],
+ [
+  "Onsager reciprocal relations",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Concepts and principles",
+   "Onsager reciprocal relations"
+  ],
+  54,
+  1035
+ ],
+ [
+  "Cosmic ray",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Detectors",
+   "Particle detector"
+  ],
+  42,
+  662
+ ],
+ [
+  "Gas giant",
+  false,
+  [
+   "Physics",
+   "Cosmology",
+   "Galaxy formation and evolution",
+   "Planetary system"
+  ],
+  45,
+  786
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum optics",
+   "Polariton"
+  ],
+  50,
+  879
+ ],
+ [
+  "Carnot engine",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Carnot Cycle",
+   "Carnot engine"
+  ],
+  48,
+  801
+ ],
+ [
+  "Spiral galaxy",
+  false,
+  [
+   "Physics",
+   "Cosmology",
+   "Galaxy formation and evolution",
+   "Planetary system"
+  ],
+  45,
+  786
+ ],
+ [
+  "Isothermal process",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Isothermal process"
+  ],
+  50,
+  797
+ ],
+ [
+  "Wave\u2013particle duality",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Wave\u2013particle duality"
+  ],
+  50,
+  905
+ ],
+ [
+  "Strongly correlated material",
+  true,
+  [
+   "Physics",
+   "Condensed Matter Physics",
+   "Strongly correlated material"
+  ],
+  24,
+  390
+ ],
+ [
+  "Spontaneous symmetry breaking",
+  true,
+  [
+   "Physics",
+   "Quantum Field Theory",
+   "Symmetries in Quantum Field Theory",
+   "Spontaneous symmetry breaking"
+  ],
+  42,
+  914
+ ],
+ [
+  "Inelastic neutron scattering",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Scattering theory",
+   "Inelastic neutron scattering"
+  ],
+  43,
+  769
+ ],
+ [
+  "Scattering theory",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum states",
+   "Quantization (physics)"
+  ],
+  57,
+  1000
+ ],
+ [
+  "Planetary differentiation",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary differentiation"
+  ],
+  48,
+  740
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galaxies",
+   "Types of Galaxies",
+   "Spiral galaxy"
+  ],
+  67,
+  1098
+ ],
+ [
+  "Superposition principle",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Superposition principle"
+  ],
+  47,
+  869
+ ],
+ [
+  "Finite difference",
+  false,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Transport phenomena",
+   "Transport theory (statistical physics)"
+  ],
+  43,
+  832
+ ],
+ [
+  "String (physics)",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum gravity",
+   "String (physics)"
+  ],
+  54,
+  955
+ ],
+ [
+  "EPR paradox",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox"
+  ],
+  50,
+  883
+ ],
+ [
+  "Bose gas",
+  false,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Phase transitions",
+   "Phase transition"
+  ],
+  44,
+  818
+ ],
+ [
+  "Perturbation theory (quantum mechanics)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum operators",
+   "Perturbation theory"
+  ],
+  49,
+  904
+ ],
+ [
+  "Bose gas",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Bose-Einstein statistics",
+   "Bose gas"
+  ],
+  41,
+  767
+ ],
+ [
+  "Boyle's Law",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Boyle's Law"
+  ],
+  54,
+  926
+ ],
+ [
+  "Simulation",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Concepts and principles",
+   "Simulation"
+  ],
+  54,
+  1035
+ ],
+ [
+  "Josephson junction",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum mechanics",
+   "Quantum computing"
+  ],
+  60,
+  1085
+ ],
+ [
+  "Newton (unit)",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Newton's Laws",
+   "Newton (unit)"
+  ],
+  54,
+  884
+ ],
+ [
+  "Density functional theory",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum chemistry",
+   "Density functional theory"
+  ],
+  56,
+  1016
+ ],
+ [
+  "Dark matter halo",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Dark Matter",
+   "Dark matter halo"
+  ],
+  41,
+  620
+ ],
+ [
+  "Spring constant",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Simple Harmonic Motion",
+   "Spring constant"
+  ],
+  44,
+  692
+ ],
+ [
+  "Evaporator",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Refrigeration Cycle",
+   "Evaporator"
+  ],
+  45,
+  712
+ ],
+ [
+  "Internal energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Internal Energy",
+   "Internal energy"
+  ],
+  43,
+  659
+ ],
+ [
+  "Photon",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Applications",
+   "Electromagnetism"
+  ],
+  47,
+  746
+ ],
+ [
+  "Gas laws",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Ideal Gas Laws",
+   "Gas laws"
+  ],
+  48,
+  714
+ ],
+ [
+  "Multi-messenger astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Gravitational Waves",
+   "Multi-messenger astronomy"
+  ],
+  41,
+  629
+ ],
+ [
+  "Michelson\u2013Morley experiment",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical optics",
+   "Corpuscular theory of light"
+  ],
+  48,
+  686
+ ],
+ [
+  "Partition function (quantum field theory)",
+  true,
+  [
+   "Physics",
+   "Quantum Field Theory",
+   "Path Integral Formulation",
+   "Partition function (quantum field theory)"
+  ],
+  41,
+  909
+ ],
+ [
+  "Conservation of mass",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Biophysics"
+  ],
+  27,
+  418
+ ],
+ [
+  "Relativistic mechanics",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Relativistic mechanics"
+  ],
+  37,
+  658
+ ],
+ [
+  "Electromagnetic force",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Lorentz Force Law"
+  ],
+  40,
+  629
+ ],
+ [
+  "X-ray binaries",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Neutron Stars",
+   "Pulsar"
+  ],
+  43,
+  637
+ ],
+ [
+  "Chromosphere",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Solar System",
+   "The Sun",
+   "Chromosphere"
+  ],
+  75,
+  1006
+ ],
+ [
+  "Analytical dynamics",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Lagrangian Mechanics",
+   "Analytical dynamics"
+  ],
+  48,
+  798
+ ],
+ [
+  "Electrical conductor",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Resistance",
+   "Electrical conductor"
+  ],
+  41,
+  649
+ ],
+ [
+  "Standard temperature and pressure",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Temperature Scales",
+   "Standard temperature and pressure"
+  ],
+  46,
+  730
+ ],
+ [
+  "Irradiance",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Photometry",
+   "Irradiance"
+  ],
+  41,
+  558
+ ],
+ [
+  "Quantum entanglement",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum entanglement"
+  ],
+  50,
+  883
+ ],
+ [
+  "Charged particle",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric Charge",
+   "Charged particle"
+  ],
+  45,
+  724
+ ],
+ [
+  "Galaxy morphological classification",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galaxies",
+   "Types of Galaxies",
+   "Galaxy morphological classification"
+  ],
+  67,
+  1098
+ ],
+ [
+  "Work (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Engines",
+   "Thermal efficiency"
+  ],
+  41,
+  642
+ ],
+ [
+  "Superconductivity",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Atomic structure",
+   "Periodic table",
+   "Semimetal"
+  ],
+  67,
+  1040
+ ],
+ [
+  "Magnon",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum mechanics",
+   "Quantum spin",
+   "Magnon"
+  ],
+  72,
+  1244
+ ],
+ [
+  "Spintronic",
+  false,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum mechanics",
+   "Quantum spin",
+   "Spin Hall effect"
+  ],
+  72,
+  1244
+ ],
+ [
+  "Apparent magnitude",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar Evolution",
+   "Apparent magnitude"
+  ],
+  55,
+  865
+ ],
+ [
+  "Dwarf planet",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Dwarf planet"
+  ],
+  48,
+  740
+ ],
+ [
+  "Electron neutrino",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Neutrino Physics",
+   "Electron neutrino"
+  ],
+  50,
+  786
+ ],
+ [
+  "Conservation of momentum",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Conservation of Momentum",
+   "Conservation of momentum"
+  ],
+  44,
+  681
+ ],
+ [
+  "Quantum Entanglement",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum Entanglement"
+  ],
+  50,
+  883
+ ],
+ [
+  "Quantum cosmology",
+  false,
+  [
+   "Physics",
+   "Cosmology",
+   "Origin and evolution of the universe",
+   "Physical cosmology"
+  ],
+  49,
+  885
+ ],
+ [
+  "Up quark",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Quarks and Leptons",
+   "Up quark",
+   "Up quark"
+  ],
+  61,
+  874
+ ],
+ [
+  "Photon",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical optics",
+   "Quantum optics"
+  ],
+  48,
+  686
+ ],
+ [
+  "Chemical potential",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum chemistry",
+   "Chemical potential"
+  ],
+  56,
+  1016
+ ],
+ [
+  "Physical chemistry",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Quantum chemistry",
+   "Physical chemistry"
+  ],
+  56,
+  1016
+ ],
+ [
+  "Hooke's law",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Simple Harmonic Motion",
+   "Hooke's law"
+  ],
+  44,
+  692
+ ],
+ [
+  "Nanometre",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Molecular structure",
+   "Molecular modeling",
+   "Nanometre"
+  ],
+  71,
+  1183
+ ],
+ [
+  "Electron volt",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Atomic spectroscopy",
+   "Electron volt"
+  ],
+  57,
+  1021
+ ],
+ [
+  "Simple harmonic motion",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Simple Harmonic Motion",
+   "Simple harmonic motion"
+  ],
+  44,
+  692
+ ],
+ [
+  "Small Solar System body",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Solar System",
+   "Asteroids",
+   "Small Solar System body"
+  ],
+  66,
+  855
+ ],
+ [
+  "Rigid body",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Rotational Motion",
+   "Rigid body"
+  ],
+  49,
+  779
+ ],
+ [
+  "Spintronic",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Spintronic"
+  ],
+  39,
+  601
+ ],
+ [
+  "Stellar wobble",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Stellar wobble"
+  ],
+  48,
+  754
+ ],
+ [
+  "Quantum critical point",
+  true,
+  [
+   "Physics",
+   "Quantum Field Theory",
+   "Nonperturbative Methods in Quantum Field Theory",
+   "Quantum critical point"
+  ],
+  41,
+  890
+ ],
+ [
+  "Twistor theory",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum field theory",
+   "Twistor theory"
+  ],
+  44,
+  784
+ ],
+ [
+  "Atomic orbital",
+  true,
+  [
+   "Physics",
+   "Atomic and Molecular Physics",
+   "Atomic structure",
+   "Orbitals",
+   "Atomic orbital"
+  ],
+  61,
+  978
+ ]
+]

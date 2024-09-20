@@ -1,0 +1,3132 @@
+[
+ [
+  "Polymer physics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Specialized Fields in Physics",
+   "Specialized Fields in Physics",
+   "Biophysics",
+   "Biological Applications",
+   "Biophysics",
+   "Biophysics",
+   "Biophysics",
+   "Fluid"
+  ],
+  38,
+  639
+ ],
+ [
+  "Wave\u2013particle duality",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Thermal expansion",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Thermal mass"
+  ],
+  21,
+  342
+ ],
+ [
+  "Astrophysics",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Properties",
+   "Stellar Evolution",
+   "Stellar Characteristics",
+   "Stellar nucleosynthesis"
+  ],
+  31,
+  627
+ ],
+ [
+  "Analytical mechanics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Theoretical Physics",
+   "Theoretical Physics",
+   "Particle Physics",
+   "Physical Concepts",
+   "Physics Theories",
+   "Particle physics"
+  ],
+  47,
+  814
+ ],
+ [
+  "Fermi\u2013Dirac statistics",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Statistical Properties of Particles",
+   "Fermi surface"
+  ],
+  14,
+  341
+ ],
+ [
+  "Magnet",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic domain"
+  ],
+  18,
+  313
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Rigid body dynamics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Applied Physics",
+   "Classical Mechanics",
+   "Mechanics",
+   "Kinetics (physics)"
+  ],
+  41,
+  715
+ ],
+ [
+  "POVM",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Hubbard model"
+  ],
+  16,
+  337
+ ],
+ [
+  "Outline of astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Celestial Mechanics and General Dynamics",
+   "Celestial Mechanics",
+   "Celestial Mechanics",
+   "Orbital mechanics"
+  ],
+  20,
+  409
+ ],
+ [
+  "Condensed matter physics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Equilibrium thermodynamics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Foundations and Concepts",
+   "Types of Thermodynamic Processes",
+   "Equilibrium Thermodynamic Processes",
+   "Isothermal Processes",
+   "Isothermal Processes",
+   "Constant Temperature Processes",
+   "Isothermal process"
+  ],
+  27,
+  591
+ ],
+ [
+  "Magnetite",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Earth Science",
+   "Ground-coupled heat exchanger"
+  ],
+  13,
+  192
+ ],
+ [
+  "Scattering theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Scattering techniques",
+   "Mott scattering"
+  ],
+  18,
+  372
+ ],
+ [
+  "Atoms",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Modern Physics",
+   "Quantum Mechanics and Nuclear Physics",
+   "Nuclear Physics",
+   "Nuclear Physics",
+   "Nuclear Physics",
+   "Nuclear Reactivity",
+   "Nuclear fusion"
+  ],
+  36,
+  620
+ ],
+ [
+  "Nuclear astrophysics",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Early Universe",
+   "Supermassive black hole"
+  ],
+  22,
+  444
+ ],
+ [
+  "Submillimetre astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Fundamental Astrophysics Concepts",
+   "Types of Astronomy",
+   "Optical astronomy"
+  ],
+  26,
+  603
+ ],
+ [
+  "Invariant mass",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Dwarf star",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Properties",
+   "Stellar Evolution",
+   "Stellar Characteristics",
+   "Stellar class"
+  ],
+  31,
+  627
+ ],
+ [
+  "Radio astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Radio wave"
+  ],
+  20,
+  453
+ ],
+ [
+  "Thermal mass",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Thermal mass"
+  ],
+  21,
+  342
+ ],
+ [
+  "Crystal",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Quantum Mechanics",
+   "Quantum Material Science",
+   "Lattice model (physics)"
+  ],
+  20,
+  376
+ ],
+ [
+  "Internal energy",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Specific heat of solids"
+  ],
+  21,
+  342
+ ],
+ [
+  "Einstein field equations",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Quantum Physics",
+   "Quantum theories and models",
+   "Thomas\u2013Fermi model"
+  ],
+  15,
+  295
+ ],
+ [
+  "Pomeron",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Gauge symmetry"
+  ],
+  21,
+  440
+ ],
+ [
+  "Carnot heat engine",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermodynamics",
+   "Thermodynamic state"
+  ],
+  21,
+  378
+ ],
+ [
+  "Radial velocity",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Celestial Mechanics and General Dynamics",
+   "Celestial Mechanics",
+   "Celestial Mechanics",
+   "Radial velocity"
+  ],
+  20,
+  409
+ ],
+ [
+  "Xi baryon",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Fundamental particles",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Loop quantum gravity",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Quantum Physics",
+   "Quantum theories and models",
+   "Thomas\u2013Fermi model"
+  ],
+  15,
+  295
+ ],
+ [
+  "Plasma physics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Spectroscopy",
+   "Spectroscope"
+  ],
+  19,
+  311
+ ],
+ [
+  "Quark model",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Rubidium",
+  true,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Chemistry",
+   "Chemistry Topic",
+   "Basic Chemistry Concepts",
+   "Chemical Substances",
+   "Rubidium"
+  ],
+  22,
+  333
+ ],
+ [
+  "Noether charge",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Gauge symmetry"
+  ],
+  21,
+  440
+ ],
+ [
+  "Carnot engine",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermodynamics",
+   "Thermodynamic state"
+  ],
+  21,
+  378
+ ],
+ [
+  "Tight binding model",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Quantum Hall Effects",
+   "Landau quantization"
+  ],
+  21,
+  438
+ ],
+ [
+  "Baryon",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Routhian mechanics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic domain"
+  ],
+  18,
+  313
+ ],
+ [
+  "Baryon number",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Galaxy groups and clusters",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Galactic Astronomy",
+   "Galactic Components",
+   "Galactic Structures",
+   "Galaxy groups and clusters"
+  ],
+  19,
+  312
+ ],
+ [
+  "Earth's magnetic field",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Stellar Phenomena",
+   "Curie point"
+  ],
+  15,
+  254
+ ],
+ [
+  "Stellar dynamics",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Properties",
+   "Stellar dynamics"
+  ],
+  24,
+  478
+ ],
+ [
+  "Density functional theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Quantum Physics",
+   "Quantum theories and models",
+   "Thomas\u2013Fermi model"
+  ],
+  15,
+  295
+ ],
+ [
+  "Acceleration",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Applied Physics",
+   "Classical Mechanics",
+   "Mechanics",
+   "Kinetics (physics)"
+  ],
+  41,
+  715
+ ],
+ [
+  "Comet",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Celestial Phenomena",
+   "Comet"
+  ],
+  18,
+  276
+ ],
+ [
+  "Gauge boson",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Solar corona",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Early Universe",
+   "Supermassive black hole"
+  ],
+  22,
+  444
+ ],
+ [
+  "Quantum nonlocality",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Quantum Physics",
+   "Quantum theories and models",
+   "Thomas\u2013Fermi model"
+  ],
+  15,
+  295
+ ],
+ [
+  "Conservation of energy",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "First law of thermodynamics"
+  ],
+  17,
+  307
+ ],
+ [
+  "Clusters of galaxies",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Galactic Astronomy",
+   "Galactic Components",
+   "Large Scale Structures",
+   "Clusters of galaxies"
+  ],
+  18,
+  297
+ ],
+ [
+  "Canonical quantization",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Hubbard model"
+  ],
+  16,
+  337
+ ],
+ [
+  "Submillimetre astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Fundamental Astrophysics Concepts",
+   "Types of Astronomy",
+   "Optical astronomy"
+  ],
+  26,
+  603
+ ],
+ [
+  "Finite difference",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Scientific Methods",
+   "Statistical Methods",
+   "Research Methods",
+   "Experiment"
+  ],
+  21,
+  364
+ ],
+ [
+  "Thermodynamic free energy",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermodynamics",
+   "Critical point (thermodynamics)"
+  ],
+  21,
+  378
+ ],
+ [
+  "Fullerene",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Chemistry",
+   "Chemistry Topic",
+   "Branches of Chemistry",
+   "Materials Chemistry",
+   "Crystallography"
+  ],
+  20,
+  308
+ ],
+ [
+  "Newtonian fluid",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Conduction (heat)"
+  ],
+  21,
+  342
+ ],
+ [
+  "Two New Sciences",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Classical Mechanics",
+   "Branches of Mechanics",
+   "General Mechanics",
+   "Theoretical Mechanics",
+   "Rigid body dynamics"
+  ],
+  41,
+  681
+ ],
+ [
+  "Noether's theorem",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Quantum Field Theory",
+   "Hamiltonian matrix"
+  ],
+  21,
+  460
+ ],
+ [
+  "Cosmic dust",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Outline of astronomy"
+  ],
+  18,
+  307
+ ],
+ [
+  "The Feynman Lectures on Physics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Field Theory",
+   "Theoretical Frameworks",
+   "String (physics)"
+  ],
+  39,
+  737
+ ],
+ [
+  "Work\u2013energy theorem",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Theoretical Physics",
+   "Theoretical Physics",
+   "Particle Physics",
+   "Physical Concepts",
+   "Physics Theories",
+   "Particle physics"
+  ],
+  47,
+  814
+ ],
+ [
+  "Charge-coupled device",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Astronomy",
+   "Galactic Astronomy",
+   "Apparent magnitude"
+  ],
+  17,
+  296
+ ],
+ [
+  "Quantum computation",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Theoretical physics"
+  ],
+  39,
+  732
+ ],
+ [
+  "Conservation of momentum",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Theoretical Mechanics",
+   "Fluid dynamics"
+  ],
+  39,
+  698
+ ],
+ [
+  "Weak interaction",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Nanotechnology",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Physics",
+   "Condensed Matter Physics",
+   "Spectroscopy"
+  ],
+  20,
+  324
+ ],
+ [
+  "Newton\u2013Cartan theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Magnetoelectric Phenomena",
+   "Muon spin spectroscopy"
+  ],
+  21,
+  442
+ ],
+ [
+  "Newtonian dynamics",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Classical Mechanics",
+   "Foundations of Mechanics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Classical Mechanics",
+   "Laws of Motion",
+   "Newtonian dynamics"
+  ],
+  47,
+  803
+ ],
+ [
+  "High-temperature superconductivity",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Magnetosphere",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Space Environment",
+   "Magnetosphere"
+  ],
+  22,
+  381
+ ],
+ [
+  "Statistical thermodynamics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Statistical Mechanics",
+   "Thermodynamics",
+   "Green\u2013Kubo relations"
+  ],
+  19,
+  373
+ ],
+ [
+  "Phonon",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Acoustics",
+   "Phase (waves)"
+  ],
+  15,
+  232
+ ],
+ [
+  "Finite difference",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Electromechanical Phenomena",
+   "Thermoelectric effect"
+  ],
+  17,
+  292
+ ],
+ [
+  "Boson",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Synchrotron emission",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Electromagnetism",
+   "Electrical Phenomena",
+   "Quantum Hall effect"
+  ],
+  14,
+  260
+ ],
+ [
+  "Twistor theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Mott scattering",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Subatomic Physics",
+   "Nuclear Physics",
+   "Quantum Phase Transitions",
+   "Quantum phase transition"
+  ],
+  20,
+  399
+ ],
+ [
+  "Computational physics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Specialized Fields in Physics",
+   "Specialized Fields in Physics",
+   "Mathematical Physics",
+   "Mathematical Physics",
+   "Dynamical Systems and Chaos Theory",
+   "Dynamical Systems and Chaos Theory",
+   "Numerical computation"
+  ],
+  37,
+  694
+ ],
+ [
+  "Hooke's law",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Classical Mechanics",
+   "Forces and Motion",
+   "Newton's law of universal gravitation"
+  ],
+  35,
+  618
+ ],
+ [
+  "Majorana fermion",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Outline of astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Stellar Phenomena",
+   "Stellar Interactions",
+   "Eclipse"
+  ],
+  18,
+  292
+ ],
+ [
+  "Tau (particle)",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Relativistic particle",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Stationary state",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Quantum Mechanics",
+   "Fundamental Concepts in Quantum Mechanics",
+   "Collapse of the wavefunction"
+  ],
+  17,
+  343
+ ],
+ [
+  "Theory of relativity",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Special theory of relativity"
+  ],
+  29,
+  525
+ ],
+ [
+  "Weak interaction",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Ductility",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Ductility"
+  ],
+  17,
+  307
+ ],
+ [
+  "Interface and colloid science",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Chemistry",
+   "Chemistry Topic",
+   "Branches of Chemistry",
+   "Materials Chemistry",
+   "Metallurgy"
+  ],
+  20,
+  308
+ ],
+ [
+  "Applied mathematics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Physics in Engineering",
+   "Numerical Methods",
+   "Finite difference"
+  ],
+  29,
+  504
+ ],
+ [
+  "Special relativity",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Special theory of relativity"
+  ],
+  29,
+  525
+ ],
+ [
+  "Particle physics",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "General Particle Physics",
+   "General Particle Physics",
+   "Particle Physics",
+   "Foundational Concepts in Particle Physics",
+   "Foundational Concepts in Particle Physics",
+   "Particle Physics",
+   "Fundamental Particles",
+   "Theoretical Physics and Particle Models",
+   "Particles and Lists",
+   "Particle Physics Concepts",
+   "Relativistic particle"
+  ],
+  35,
+  755
+ ],
+ [
+  "Quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Quantum Field Theory",
+   "Hamiltonian matrix"
+  ],
+  21,
+  460
+ ],
+ [
+  "Magnetic domain",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic domain"
+  ],
+  18,
+  313
+ ],
+ [
+  "Collision",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Quantum Physics",
+   "Quantum theories and models",
+   "Thomas\u2013Fermi model"
+  ],
+  15,
+  295
+ ],
+ [
+  "Spacetime",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Modern Physics",
+   "Quantum Mechanics and Nuclear Physics",
+   "Nuclear Physics",
+   "Nuclear Physics",
+   "Nuclear Physics",
+   "Astrophysics",
+   "Supernova"
+  ],
+  36,
+  620
+ ],
+ [
+  "Color charge",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Earth's magnetic field",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Stellar Phenomena",
+   "Curie point"
+  ],
+  15,
+  254
+ ],
+ [
+  "Heliosphere",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Stellar Phenomena",
+   "Stellar Interactions",
+   "Eclipse"
+  ],
+  18,
+  292
+ ],
+ [
+  "Delta baryon",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Momentum",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Theoretical Physics",
+   "Theoretical Physics",
+   "Particle Physics",
+   "Physical Concepts",
+   "Physics Theories",
+   "Particle physics"
+  ],
+  47,
+  814
+ ],
+ [
+  "Comet",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Celestial Phenomena",
+   "Comet"
+  ],
+  18,
+  276
+ ],
+ [
+  "Pauli equation",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Quantum Magnetic Effects",
+   "Kondo insulator"
+  ],
+  22,
+  441
+ ],
+ [
+  "Comet",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Celestial Phenomena",
+   "Comet"
+  ],
+  18,
+  276
+ ],
+ [
+  "Spontaneous magnetization",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "T-symmetry",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Gauge symmetry"
+  ],
+  21,
+  440
+ ],
+ [
+  "Psychophysics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Electromechanical Phenomena",
+   "Thermoelectric effect"
+  ],
+  17,
+  292
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Fundamental Astrophysics Concepts",
+   "Observational Astronomy Instruments",
+   "Optical telescope"
+  ],
+  27,
+  613
+ ],
+ [
+  "Fermi surface",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Quantum Hall Effects",
+   "Landau quantization"
+  ],
+  21,
+  438
+ ],
+ [
+  "Electroweak theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Rocket equation",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic domain"
+  ],
+  18,
+  313
+ ],
+ [
+  "Propagator (Quantum Theory)",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Hubbard model"
+  ],
+  16,
+  337
+ ],
+ [
+  "Tight binding model",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Outgassing",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Space Environment",
+   "Planetary system"
+  ],
+  22,
+  381
+ ],
+ [
+  "External beam radiotherapy",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Physics",
+   "Classical Physics",
+   "Thermography and Heat Transfer",
+   "Thermographic camera"
+  ],
+  18,
+  298
+ ],
+ [
+  "Spring constant",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Radiation",
+   "Heat"
+  ],
+  32,
+  538
+ ],
+ [
+  "Nanometre",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Quantum Mechanics",
+   "Quantum Material Science",
+   "Lattice model (physics)"
+  ],
+  20,
+  376
+ ],
+ [
+  "Kinetic theory of gases",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Statistical Mechanics",
+   "Thermodynamics",
+   "Kinetic theory of gases"
+  ],
+  19,
+  373
+ ],
+ [
+  "Extensive variable",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Statistical Mechanics",
+   "Thermodynamics",
+   "Thermodynamic Properties",
+   "Related Concepts in Thermodynamics",
+   "Thermodynamic variable"
+  ],
+  25,
+  535
+ ],
+ [
+  "Theoretical physics",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Theoretical physics"
+  ],
+  39,
+  732
+ ],
+ [
+  "Antineutron",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Higgsino",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Thermostat",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Temperature",
+   "Thermometry"
+  ],
+  18,
+  281
+ ],
+ [
+  "Surface science",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Physics",
+   "Condensed Matter Physics",
+   "Photoelectron spectroscopy"
+  ],
+  20,
+  324
+ ],
+ [
+  "Fluid",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Heat transfer"
+  ],
+  27,
+  463
+ ],
+ [
+  "Carnot engine",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Applications",
+   "Thermal expansion"
+  ],
+  16,
+  285
+ ],
+ [
+  "Quantum fluctuation",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Quantum Magnetic Effects",
+   "Luttinger liquid"
+  ],
+  22,
+  441
+ ],
+ [
+  "Lodestone",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Astronomy",
+   "Planetary Science",
+   "Asteroid"
+  ],
+  18,
+  279
+ ],
+ [
+  "Kepler's laws",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Celestial Mechanics and General Dynamics",
+   "Celestial Mechanics",
+   "Celestial Mechanics",
+   "Orbital mechanics"
+  ],
+  20,
+  409
+ ],
+ [
+  "Atmospheric thermodynamics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Applications",
+   "Psychrometrics"
+  ],
+  16,
+  285
+ ],
+ [
+  "Euler's equations (rigid body dynamics)",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Rotating reference frame"
+  ],
+  25,
+  443
+ ],
+ [
+  "Absolute zero",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Temperature",
+   "Thermometry"
+  ],
+  18,
+  281
+ ],
+ [
+  "Self-consistency principle in high energy physics",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Hamiltonian mechanics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Theoretical Physics",
+   "Theoretical Physics",
+   "Particle Physics",
+   "Physical Concepts",
+   "Physics Theories",
+   "Particle physics"
+  ],
+  47,
+  814
+ ],
+ [
+  "Superconductor",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Thermodynamic free energy",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Foundations and Concepts",
+   "Maxwell's thermodynamic surface"
+  ],
+  15,
+  301
+ ],
+ [
+  "Poincar\u00e9 group",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Parameterized post-Newtonian formalism",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Special theory of relativity"
+  ],
+  29,
+  525
+ ],
+ [
+  "Isothermal process",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Foundations and Concepts",
+   "Types of Thermodynamic Processes",
+   "Thermodynamic Concepts",
+   "Basic Thermodynamic Principles",
+   "Basic Thermodynamic Principles",
+   "Fundamental Concepts and Laws",
+   "Thermodynamic Processes",
+   "Reversible process (thermodynamics)"
+  ],
+  28,
+  683
+ ],
+ [
+  "Energy levels",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Foundations of Quantum Physics",
+   "Quantum Mechanics",
+   "Quantum Physics",
+   "Condensed Matter Physics",
+   "Electronic Properties",
+   "Quantum electronics"
+  ],
+  49,
+  917
+ ],
+ [
+  "X-ray binaries",
+  true,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Observational Techniques",
+   "X-ray binaries"
+  ],
+  24,
+  471
+ ],
+ [
+  "Volatile organic compound",
+  true,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Chemistry",
+   "Chemistry Topic",
+   "Basic Chemistry Concepts",
+   "Chemical Substances",
+   "Volatile organic compound"
+  ],
+  22,
+  333
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Electromechanical Phenomena",
+   "Thermoelectric effect"
+  ],
+  17,
+  292
+ ],
+ [
+  "Infrared spectroscopy",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Astronomy",
+   "Galactic Astronomy",
+   "Accelerating expansion of the universe"
+  ],
+  17,
+  296
+ ],
+ [
+  "Heisenberg picture",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Hubbard model"
+  ],
+  16,
+  337
+ ],
+ [
+  "Dirac equation",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Lepton number",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Phase (matter)",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Thermal mass"
+  ],
+  21,
+  342
+ ],
+ [
+  "Pomeron",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Wavelengths",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Fundamental Astrophysics Concepts",
+   "Light and Electromagnetic Radiation",
+   "Electromagnetic spectrum"
+  ],
+  25,
+  590
+ ],
+ [
+  "Ising model",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Subatomic Physics",
+   "Nuclear Physics",
+   "Quantum Phase Transitions",
+   "Quantum phase transition"
+  ],
+  20,
+  399
+ ],
+ [
+  "Exotic hadron",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Subatomic Physics",
+   "Nuclear Physics",
+   "Nuclear Magnetization Properties",
+   "Orbital magnetization"
+  ],
+  18,
+  365
+ ],
+ [
+  "Antiferromagnet",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Thermal wheel",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Thermal wheel"
+  ],
+  21,
+  342
+ ],
+ [
+  "Atmospheric physics",
+  true,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Applied Physics",
+   "Environmental Physics",
+   "Environmental Physics",
+   "Environmental Physics",
+   "Atmospheric Sciences",
+   "Atmospheric physics"
+  ],
+  29,
+  504
+ ],
+ [
+  "Quantum thermodynamics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Statistical Mechanics",
+   "Thermodynamics",
+   "Thermodynamic Properties",
+   "Related Concepts in Thermodynamics",
+   "Thermodynamic variable"
+  ],
+  25,
+  535
+ ],
+ [
+  "Reduced density matrix",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Fundamental interaction",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Gauge symmetry"
+  ],
+  21,
+  440
+ ],
+ [
+  "Noether charge",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Gauge symmetry"
+  ],
+  21,
+  440
+ ],
+ [
+  "Cosmic microwave background radiation",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Gravitational Astrophysics",
+   "Metric expansion of space"
+  ],
+  17,
+  381
+ ],
+ [
+  "Neutrons",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Vacuum pump",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Modern Physics",
+   "Quantum Mechanics and Nuclear Physics",
+   "Radiation pressure"
+  ],
+  25,
+  453
+ ],
+ [
+  "Absorption refrigerator",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Mechanical Engineering",
+   "Refrigeration and HVAC Systems",
+   "Thermal expansion valve"
+  ],
+  14,
+  251
+ ],
+ [
+  "Faddeev\u2013Popov ghost",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Curie point",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Strongly correlated material"
+  ],
+  8,
+  139
+ ],
+ [
+  "Weak force",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Quantum Field Theory",
+   "Hamiltonian matrix"
+  ],
+  21,
+  460
+ ],
+ [
+  "Lepton number",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "De Broglie\u2013Bohm theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic phenomena",
+   "Quantum Magnetic Effects",
+   "Luttinger liquid"
+  ],
+  22,
+  441
+ ],
+ [
+  "Thermal expansion valve",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Thermal wheel"
+  ],
+  21,
+  342
+ ],
+ [
+  "Magnetostatics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "General Physics",
+   "General Physics",
+   "Theoretical Physics",
+   "Theoretical Physics",
+   "Particle Physics",
+   "Physical Concepts",
+   "Physics Theories",
+   "Particle physics"
+  ],
+  47,
+  814
+ ],
+ [
+  "Rubidium",
+  true,
+  [
+   "Physics",
+   "Related Sciences",
+   "Related Sciences",
+   "Related Sciences",
+   "Chemistry",
+   "Chemistry Topic",
+   "Basic Chemistry Concepts",
+   "Chemical Substances",
+   "Rubidium"
+  ],
+  22,
+  333
+ ],
+ [
+  "Diamagnetic",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Applications and Phenomena",
+   "Electromagnetism",
+   "Electrical Phenomena",
+   "Quantum Hall effect"
+  ],
+  14,
+  260
+ ],
+ [
+  "Asteroid",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Space Environment",
+   "Planetary system"
+  ],
+  22,
+  381
+ ],
+ [
+  "Relativistic mechanics",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Special theory of relativity"
+  ],
+  29,
+  525
+ ],
+ [
+  "Particulates",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Natural Phenomena",
+   "Physics and Astrophysics",
+   "Modern Physics",
+   "Quantum Mechanics and Nuclear Physics",
+   "Radiation pressure"
+  ],
+  25,
+  453
+ ],
+ [
+  "Nuclear astrophysics",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Early Universe",
+   "Supermassive black hole"
+  ],
+  22,
+  444
+ ],
+ [
+  "Heliosphere",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Space Environment",
+   "Planetary system"
+  ],
+  22,
+  381
+ ],
+ [
+  "Black hole thermodynamics",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Gravitational Astrophysics",
+   "Metric expansion of space"
+  ],
+  17,
+  381
+ ],
+ [
+  "Nucleosynthesis",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Early Universe",
+   "Reionization"
+  ],
+  22,
+  444
+ ],
+ [
+  "Ground-coupled heat exchanger",
+  false,
+  [
+   "Physics",
+   "Related Sciences",
+   "Mechanical Engineering",
+   "Refrigeration and HVAC Systems",
+   "Cryogenic"
+  ],
+  14,
+  251
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Rotating reference frame"
+  ],
+  25,
+  443
+ ],
+ [
+  "Lagrangian points",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Planetary Science",
+   "Planetary Components",
+   "Planetary Science",
+   "Space and Astronomy",
+   "Space Environment",
+   "Planetary system"
+  ],
+  22,
+  381
+ ],
+ [
+  "Faddeev\u2013Popov ghost",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Scattering techniques",
+   "Mott scattering"
+  ],
+  18,
+  372
+ ],
+ [
+  "Superstring theory",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  16,
+  337
+ ],
+ [
+  "Cosmic inflation",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Gravitational Physics",
+   "Theoretical Frameworks in Physics",
+   "Goldstone's theorem"
+  ],
+  21,
+  440
+ ],
+ [
+  "Electron neutrino",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Pinhole camera",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Specialized Fields in Physics",
+   "Specialized Fields in Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electrodynamics",
+   "Electrodynamics"
+  ],
+  37,
+  650
+ ],
+ [
+  "Intensive variable",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Foundations and Concepts",
+   "Maxwell's thermodynamic surface"
+  ],
+  15,
+  301
+ ],
+ [
+  "J/psi meson",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Fermi\u2013Dirac statistics"
+  ],
+  14,
+  357
+ ],
+ [
+  "Wave theory of light",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Wave Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Light experiments",
+   "Optical fibres"
+  ],
+  21,
+  361
+ ],
+ [
+  "Minimal Supersymmetric Standard Model",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "Condensed Matter Physics",
+   "Superconductivity",
+   "High temperature superconductor"
+  ],
+  19,
+  394
+ ],
+ [
+  "Spectroscope",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Observational Techniques in Astrophysics",
+   "Observational Astrophysics",
+   "Observational Astrophysics",
+   "Fundamental Astrophysics Concepts",
+   "Observational Astronomy Instruments",
+   "Optical telescope"
+  ],
+  27,
+  613
+ ],
+ [
+  "Universe",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Galactic Astronomy",
+   "Galactic Components",
+   "Large Scale Structures",
+   "Laniakea Supercluster"
+  ],
+  18,
+  297
+ ],
+ [
+  "Action (physics)",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "General Physics Topics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Theoretical Mechanics",
+   "Principle of least action"
+  ],
+  39,
+  698
+ ],
+ [
+  "Sensible heat",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "State of Matter",
+   "Thermal Properties",
+   "Specific heat of solids"
+  ],
+  21,
+  342
+ ],
+ [
+  "List of baryons",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Properties of Particles",
+   "Quantum Mechanics of Particles",
+   "Heisenberg uncertainty principle"
+  ],
+  14,
+  357
+ ],
+ [
+  "Solar physics",
+  false,
+  [
+   "Physics",
+   "Astronomy",
+   "Astrophysics",
+   "Stellar and Galactic Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Properties",
+   "Stellar Evolution",
+   "Stellar Characteristics",
+   "Stellar nucleosynthesis"
+  ],
+  31,
+  627
+ ],
+ [
+  "Gibbs paradox",
+  false,
+  [
+   "Physics",
+   "General Physics Topics",
+   "Thermodynamics",
+   "Statistical Mechanics",
+   "Thermodynamics",
+   "Thermodynamic Properties",
+   "Related Concepts in Thermodynamics",
+   "Thermodynamic variable"
+  ],
+  25,
+  535
+ ],
+ [
+  "Quantum chromodynamics",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "General Concepts in Particle Physics",
+   "Fields in Particle Physics",
+   "General Physics",
+   "Radiation Physics",
+   "Quantum Physics",
+   "Ginzburg\u2013Landau theory"
+  ],
+  21,
+  429
+ ]
+]

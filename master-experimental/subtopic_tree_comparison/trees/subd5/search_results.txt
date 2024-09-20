@@ -1,0 +1,4625 @@
+[
+ [
+  "Superatom",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Nanotechnology",
+   "Nanometer"
+  ],
+  17,
+  216
+ ],
+ [
+  "Electromagnetic theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Dielectric constant"
+  ],
+  20,
+  315
+ ],
+ [
+  "CP violation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Observational astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Spherical astronomy"
+  ],
+  43,
+  798
+ ],
+ [
+  "Heat",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Galaxy filament",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Nuclear Matter",
+   "Nuclear matter"
+  ],
+  24,
+  369
+ ],
+ [
+  "Electron hole",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Electronic band structure",
+   "Electronic band structure",
+   "Tight binding model"
+  ],
+  26,
+  430
+ ],
+ [
+  "Einstein\u2013Podolsky\u2013Rosen paradox",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Solar physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Solar System model"
+  ],
+  27,
+  433
+ ],
+ [
+  "Acceleration",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational waves"
+  ],
+  24,
+  416
+ ],
+ [
+  "Optics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Electrodynamics"
+  ],
+  20,
+  245
+ ],
+ [
+  "Cosmic microwave background radiation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Near-infrared"
+  ],
+  43,
+  798
+ ],
+ [
+  "Submillimetre astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Computational Methods",
+   "Numerical computation"
+  ],
+  25,
+  397
+ ],
+ [
+  "Active galaxy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Radio wave",
+   "Wavelengths"
+  ],
+  39,
+  725
+ ],
+ [
+  "De Broglie wavelength",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Universe",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Standard Model of particle physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Computational physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Bottom quark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Electron shell",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "X-ray spectroscopy"
+  ],
+  30,
+  507
+ ],
+ [
+  "Supersymmetry",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Schr\u00f6dinger's cat",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Inertial frame of reference",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Analytical mechanics",
+   "Frame of reference",
+   "Inertial frame of reference"
+  ],
+  45,
+  650
+ ],
+ [
+  "Particle detector",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino detector"
+  ],
+  37,
+  704
+ ],
+ [
+  "Perturbation theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Hamiltonian matrix"
+  ],
+  28,
+  486
+ ],
+ [
+  "Chemical potential",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Catastrophe theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Computational Methods",
+   "Numerical computation"
+  ],
+  25,
+  397
+ ],
+ [
+  "Thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Conjugate variables (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Action (physics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Supernova",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar nucleosynthesis"
+  ],
+  45,
+  708
+ ],
+ [
+  "Magnetic fields",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Electrodynamics"
+  ],
+  20,
+  245
+ ],
+ [
+  "Sterile neutrino",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Mathematical model",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Multi-messenger astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino astronomy",
+   "Neutrino astronomy"
+  ],
+  38,
+  722
+ ],
+ [
+  "Magnetostatics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Lambda-CDM model",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Reionization"
+  ],
+  35,
+  561
+ ],
+ [
+  "Quantum interference",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Rocket equation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Planetary system"
+  ],
+  27,
+  433
+ ],
+ [
+  "Quasistatic process",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Thermodynamics",
+   "Theory of heat"
+  ],
+  21,
+  274
+ ],
+ [
+  "Metallurgy",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Solar corona"
+  ],
+  11,
+  124
+ ],
+ [
+  "Supernova",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar nucleosynthesis"
+  ],
+  45,
+  708
+ ],
+ [
+  "Third law of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Big Bang nucleosynthesis",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Rubble pile",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Fullerene"
+  ],
+  7,
+  58
+ ],
+ [
+  "Isochoric process",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Statistical ensemble",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Spherical astronomy"
+  ],
+  43,
+  798
+ ],
+ [
+  "Solar physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Solar System model"
+  ],
+  27,
+  433
+ ],
+ [
+  "Radio wave",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Applied mathematics",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Fullerene"
+  ],
+  7,
+  58
+ ],
+ [
+  "Electron beams",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Electrodynamics"
+  ],
+  20,
+  245
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Tachyon",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Geometrical frustration",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Types of magnetism",
+   "Quantum magnetism",
+   "Quantum critical point"
+  ],
+  22,
+  377
+ ],
+ [
+  "Green's function (many-body theory)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "High-temperature superconductivity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Superconductivity",
+   "High temperature superconductor"
+  ],
+  27,
+  459
+ ],
+ [
+  "Qubit",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Quantum computing"
+  ],
+  18,
+  246
+ ],
+ [
+  "Intensive variable",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Transport properties",
+   "Specific heat of solids"
+  ],
+  23,
+  375
+ ],
+ [
+  "Kondo effect",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Strongly correlated material"
+  ],
+  28,
+  486
+ ],
+ [
+  "Infrared spectroscopy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Synchrotron radiation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Electrodynamics"
+  ],
+  20,
+  245
+ ],
+ [
+  "Loop quantum gravity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Up quark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Wave",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Spiral galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Inelastic neutron scattering",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Magnetic Properties",
+   "Ferromagnetism"
+  ],
+  25,
+  388
+ ],
+ [
+  "Curvaton",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Electron neutrino",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino astronomy",
+   "Neutrino astronomy"
+  ],
+  38,
+  722
+ ],
+ [
+  "Magdeburg hemispheres",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Techniques for studying magnetic properties",
+   "Perturbed angular correlation"
+  ],
+  20,
+  362
+ ],
+ [
+  "Circumstellar disc",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Spiral galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Cosmological constant problem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Quantum spin",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Types of magnetism",
+   "Quantum magnetism",
+   "Quantum critical point"
+  ],
+  22,
+  377
+ ],
+ [
+  "Orbital magnetization",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Magnetic properties",
+   "Antiferromagnetism"
+  ],
+  20,
+  335
+ ],
+ [
+  "Relativistic nuclear collisions",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Nuclear physics",
+   "Quantum field theory",
+   "Kondo effect"
+  ],
+  29,
+  469
+ ],
+ [
+  "Side lobe",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Elliptical galaxy",
+   "Submillimetre astronomy"
+  ],
+  16,
+  261
+ ],
+ [
+  "X-ray laser",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Crystallography"
+  ],
+  9,
+  121
+ ],
+ [
+  "Friction",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Kinetics (physics)"
+  ],
+  17,
+  224
+ ],
+ [
+  "Franck\u2013Hertz experiment",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Weak isospin",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Tangential speed",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Elliptical galaxy",
+   "Elliptical galaxy"
+  ],
+  16,
+  261
+ ],
+ [
+  "X-radiation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Crystallography"
+  ],
+  9,
+  121
+ ],
+ [
+  "Infrared spectroscopy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Eta meson",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "The Feynman Lectures on Physics",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Photometry (astronomy)"
+  ],
+  11,
+  124
+ ],
+ [
+  "Analytical mechanics",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Analytical mechanics",
+   "Analytical mechanics",
+   "Analytical mechanics"
+  ],
+  44,
+  627
+ ],
+ [
+  "Atmospheric thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Vacuum expectation value",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Green's function (many-body theory)"
+  ],
+  21,
+  332
+ ],
+ [
+  "Tetraquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "Seesaw mechanism",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Ferroelectricity"
+  ],
+  15,
+  222
+ ],
+ [
+  "Coriolis force",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Outline of astronomy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Optical physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Radar astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Dielectric constant"
+  ],
+  20,
+  315
+ ],
+ [
+  "Molecular physics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics / Molecular physics",
+   "Molecular physics",
+   "Topological charge"
+  ],
+  37,
+  646
+ ],
+ [
+  "Gauge symmetry (mathematics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Newton (unit)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Nuclear Matter",
+   "Nuclear matter"
+  ],
+  24,
+  369
+ ],
+ [
+  "Superfluid",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Solar System model",
+  true,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Solar System model"
+  ],
+  27,
+  433
+ ],
+ [
+  "Graviphoton",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Orbital mechanics"
+  ],
+  37,
+  611
+ ],
+ [
+  "Photo-electric effect",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Wavefunction collapse",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Fractional quantum Hall effect"
+  ],
+  24,
+  386
+ ],
+ [
+  "Laser guide star",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Electromagnetics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Dielectric constant"
+  ],
+  20,
+  315
+ ],
+ [
+  "Measurement in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Subatomic particle",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics",
+   "Solid-state physics"
+  ],
+  40,
+  657
+ ],
+ [
+  "Synchrotron radiation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Radio wave",
+   "Wavelengths"
+  ],
+  39,
+  725
+ ],
+ [
+  "Scientific law",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Electrodynamics"
+  ],
+  20,
+  245
+ ],
+ [
+  "Spin foam",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Types of magnetism",
+   "Quantum magnetism",
+   "Quantum critical point"
+  ],
+  22,
+  377
+ ],
+ [
+  "Planetary science",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational collapse"
+  ],
+  24,
+  416
+ ],
+ [
+  "Chromosphere",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Quantum electrodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Interstellar medium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Nuclear Matter",
+   "Nuclear matter"
+  ],
+  24,
+  369
+ ],
+ [
+  "X-ray diffraction",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Crystallography"
+  ],
+  9,
+  121
+ ],
+ [
+  "Rubidium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "X-ray spectroscopy"
+  ],
+  30,
+  507
+ ],
+ [
+  "Supermassive black hole",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Main-sequence star"
+  ],
+  45,
+  708
+ ],
+ [
+  "Flexoelectricity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Exotic atom",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Ring system",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Spiral galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Quantum tunnelling",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Atomic physics",
+   "Atomic physics",
+   "Overview of Atomic Physics",
+   "Quantum tunneling"
+  ],
+  91,
+  1598
+ ],
+ [
+  "Kirkwood gap",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Electronic transport",
+   "Kondo insulator"
+  ],
+  26,
+  429
+ ],
+ [
+  "Celestial mechanics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational collapse"
+  ],
+  24,
+  416
+ ],
+ [
+  "Gas",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Elliptical galaxy",
+   "Stellar population"
+  ],
+  16,
+  261
+ ],
+ [
+  "Thermodynamic process",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Boundary condition",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Mach\u2013Zehnder interferometer",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Refractive index"
+  ],
+  21,
+  315
+ ],
+ [
+  "Kondo insulator",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Strongly correlated material"
+  ],
+  28,
+  486
+ ],
+ [
+  "Faddeev\u2013Popov ghost",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Laughlin wavefunction"
+  ],
+  28,
+  486
+ ],
+ [
+  "Einstein field equations",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Initial mass function",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Nuclear Matter",
+   "Nuclear matter"
+  ],
+  24,
+  369
+ ],
+ [
+  "Weak force",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Radio astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Canonical momentum",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Statistical mechanics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Laser spectroscopy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Mott scattering",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics / Mathematics",
+   "Partition function (quantum field theory)"
+  ],
+  34,
+  578
+ ],
+ [
+  "Van Allen radiation belt",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Solar corona"
+  ],
+  11,
+  124
+ ],
+ [
+  "Gravitino",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino astronomy",
+   "Neutrino astronomy"
+  ],
+  38,
+  722
+ ],
+ [
+  "State (thermodynamic)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Phase transitions",
+   "Lattice model (physics)"
+  ],
+  19,
+  297
+ ],
+ [
+  "Down quark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "Dynamic equilibrium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Critical point (thermodynamics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Gas",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Elliptical galaxy",
+   "Submillimetre astronomy"
+  ],
+  16,
+  261
+ ],
+ [
+  "Polarization (waves)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Lepton number",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Compton Gamma Ray Observatory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Optical telescope"
+  ],
+  43,
+  798
+ ],
+ [
+  "Weak force",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Dynamical system",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Computational Methods",
+   "Numerical computation"
+  ],
+  25,
+  397
+ ],
+ [
+  "Upsilon meson",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Crystallography"
+  ],
+  9,
+  121
+ ],
+ [
+  "Dwarf planet",
+  true,
+  [
+   "Physics",
+   "Other",
+   "Other",
+   "Dwarf planet"
+  ],
+  19,
+  296
+ ],
+ [
+  "Superfluid",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Crystallography"
+  ],
+  9,
+  121
+ ],
+ [
+  "Heat capacity",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Thermodynamics",
+   "Theory of heat"
+  ],
+  21,
+  274
+ ],
+ [
+  "Accretion disk",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Spiral galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Photon",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Astrophysics",
+   "Astrophysics"
+  ],
+  59,
+  960
+ ],
+ [
+  "Photovoltaics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Circumstellar disc",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Tau (particle)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Quantum nonlocality",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Klein\u2013Gordon equation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Gradient",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Mechanics of planar particle motion",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Elasticity (physics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Quantum field theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Aerodynamics",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Dirac equation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics",
+   "Solid-state physics"
+  ],
+  40,
+  657
+ ],
+ [
+  "Inertial frame of reference",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Principle of least action"
+  ],
+  55,
+  912
+ ],
+ [
+  "Solar System",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Planetary system"
+  ],
+  27,
+  433
+ ],
+ [
+  "Tauonium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Electric current",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Dielectric constant"
+  ],
+  20,
+  315
+ ],
+ [
+  "Noether's theorem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Neutrino oscillation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino astronomy",
+   "Neutrino astronomy"
+  ],
+  38,
+  722
+ ],
+ [
+  "Gradient",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Force carrier",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Earth's magnetic field",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Composite particle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Symmetry breaking"
+  ],
+  30,
+  507
+ ],
+ [
+  "Antiferromagnetism",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Types of magnetism",
+   "Quantum magnetism",
+   "Quantum critical point"
+  ],
+  22,
+  377
+ ],
+ [
+  "Statistical ensemble",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Neutrino detector"
+  ],
+  43,
+  798
+ ],
+ [
+  "Laws of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Refractive index",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Electromagnetic theory"
+  ],
+  37,
+  609
+ ],
+ [
+  "String (physics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Pulsar",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Radio wave",
+   "Radio wave"
+  ],
+  39,
+  725
+ ],
+ [
+  "Density matrix",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Maxwell's demon",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Dielectric constant"
+  ],
+  20,
+  315
+ ],
+ [
+  "Flexoelectricity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Excited state",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Spin Hall effect",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Tangential speed",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Analytical mechanics",
+   "Analytical dynamics",
+   "Analytical dynamics - Rigid body dynamics",
+   "Rigid body dynamics"
+  ],
+  46,
+  717
+ ],
+ [
+  "Far-infrared astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Atoms",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics / Chemical element",
+   "Matter"
+  ],
+  37,
+  582
+ ],
+ [
+  "Parabola",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Parabola"
+  ],
+  26,
+  370
+ ],
+ [
+  "Rubidium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Magnetic properties",
+   "Types of magnetism",
+   "Magnetic materials",
+   "Samarium"
+  ],
+  23,
+  381
+ ],
+ [
+  "Stationary-action principle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Orbital mechanics"
+  ],
+  37,
+  611
+ ],
+ [
+  "Weak isospin",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Strong CP problem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Symmetry breaking"
+  ],
+  30,
+  507
+ ],
+ [
+  "Schwarzschild radius",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Main-sequence star"
+  ],
+  45,
+  708
+ ],
+ [
+  "Orbital mechanics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Astronomy",
+   "Celestial dynamics",
+   "Celestial dynamics (1)",
+   "Celestial dynamics"
+  ],
+  28,
+  384
+ ],
+ [
+  "Gravitational radiation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics / Geophysics",
+   "Planetary science"
+  ],
+  39,
+  629
+ ],
+ [
+  "Thermodynamic free energy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Acceleration",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Analytical mechanics",
+   "Dynamics",
+   "Acceleration"
+  ],
+  43,
+  595
+ ],
+ [
+  "X-radiation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Astrophysics",
+   "Celestial Objects",
+   "Space Phenomena",
+   "Gravitational singularity"
+  ],
+  66,
+  1060
+ ],
+ [
+  "Particle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Stellar structure",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar structure",
+   "Neutron star"
+  ],
+  40,
+  626
+ ],
+ [
+  "Clusters of galaxies",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Other",
+   "Active galaxy"
+  ],
+  19,
+  296
+ ],
+ [
+  "Ring system",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Spiral galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Charm antiquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Polarization (waves)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Bohmian mechanics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Laughlin wavefunction"
+  ],
+  28,
+  486
+ ],
+ [
+  "Gas giant",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Astronomy",
+   "Astronomy",
+   "Stellar Astronomy",
+   "Stellar Astronomy",
+   "High-energy Astrophysics",
+   "Gamma ray burst"
+  ],
+  39,
+  572
+ ],
+ [
+  "Visible light",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Astronomy",
+   "Astronomy",
+   "Observational Astronomy",
+   "Reflecting telescope"
+  ],
+  28,
+  388
+ ],
+ [
+  "Three-body problem",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Celestial mechanics"
+  ],
+  26,
+  370
+ ],
+ [
+  "Absolute time and space",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational collapse"
+  ],
+  24,
+  416
+ ],
+ [
+  "External beam radiotherapy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "Nuclear spectroscopy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "Pentaquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  18,
+  270
+ ],
+ [
+  "Wheeler's delayed-choice experiment",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Virial theorem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Nuclear physics",
+   "Statistical mechanics",
+   "Mean-field theory"
+  ],
+  30,
+  498
+ ],
+ [
+  "Collision",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Elasticity (physics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Work (physics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Elasticity (physics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Josephson junction",
+  true,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Superconductivity",
+   "Josephson junction"
+  ],
+  27,
+  459
+ ],
+ [
+  "Particle accelerator",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Particle physics",
+   "Subatomic particles",
+   "Particle physics",
+   "Particle physics",
+   "Particle physics/Experimental methods",
+   "Collider"
+  ],
+  72,
+  1274
+ ],
+ [
+  "Astroparticle physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Gauge symmetry"
+  ],
+  39,
+  614
+ ],
+ [
+  "Laniakea Supercluster",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Photometry (astronomy)"
+  ],
+  11,
+  124
+ ],
+ [
+  "Tetraquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Symmetry breaking"
+  ],
+  30,
+  507
+ ],
+ [
+  "Stellar wobble",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Computational Methods",
+   "Numerical computation"
+  ],
+  25,
+  397
+ ],
+ [
+  "Redshift survey",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Spectroscope"
+  ],
+  43,
+  798
+ ],
+ [
+  "Rotating reference frame",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Electromagnetism",
+   "Nuclear magnetic resonance"
+  ],
+  20,
+  315
+ ],
+ [
+  "Heat death paradox",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Reionization"
+  ],
+  35,
+  561
+ ],
+ [
+  "Spin (particle physics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Hartree\u2013Fock method",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Nuclear physics",
+   "Quantum mechanics",
+   "Heisenberg uncertainty principle"
+  ],
+  29,
+  489
+ ],
+ [
+  "Mechanics of planar particle motion",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Elasticity (physics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Apparent magnitude",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "Precision tests of QED",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Muon spin spectroscopy"
+  ],
+  31,
+  505
+ ],
+ [
+  "Dwarf star",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Other",
+   "Nuclear Matter",
+   "Nuclear matter"
+  ],
+  24,
+  369
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  true,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Superconductivity",
+   "Bogoliubov quasiparticle"
+  ],
+  27,
+  459
+ ],
+ [
+  "Newton's law of cooling",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Conduction (heat)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Laser",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Neutron star",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Main-sequence star"
+  ],
+  45,
+  708
+ ],
+ [
+  "Fermi surface",
+  true,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Electronic band structure",
+   "Electronic band structure",
+   "Fermi surface"
+  ],
+  26,
+  430
+ ],
+ [
+  "Anderson localization",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Amorphous solids",
+   "Amorphous solid"
+  ],
+  16,
+  237
+ ],
+ [
+  "Wave interference",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Electromagnetic theory"
+  ],
+  37,
+  609
+ ],
+ [
+  "Strange quark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Reversing valve",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Spring constant",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Classical Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Analytical mechanics",
+   "Solid mechanics"
+  ],
+  40,
+  557
+ ],
+ [
+  "Thermoelectric effect",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Wiedemann\u2013Franz law"
+  ],
+  18,
+  270
+ ],
+ [
+  "X and Y bosons",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Quark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Spectroscopy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "X-ray spectroscopy"
+  ],
+  30,
+  507
+ ],
+ [
+  "Superposition principle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Green's function (many-body theory)"
+  ],
+  21,
+  332
+ ],
+ [
+  "Geophysics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Astronomy",
+   "Earth's magnetic field"
+  ],
+  22,
+  284
+ ],
+ [
+  "Relativistic particle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino astronomy",
+   "Neutrino astronomy"
+  ],
+  38,
+  722
+ ],
+ [
+  "Axino",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Quantum computing"
+  ],
+  18,
+  246
+ ],
+ [
+  "Lepton number",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Modern physics (1)",
+   "Biological physics"
+  ],
+  55,
+  912
+ ],
+ [
+  "Numerical computation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Molecular physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "X-ray spectroscopy"
+  ],
+  30,
+  507
+ ],
+ [
+  "State (thermodynamic)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Phase transitions",
+   "Lattice model (physics)"
+  ],
+  19,
+  297
+ ],
+ [
+  "Isentropic process",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Circumstellar disk",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Gravitational collapse",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar formation",
+   "Molecular cloud"
+  ],
+  40,
+  629
+ ],
+ [
+  "Astronomia nova",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Orbital mechanics"
+  ],
+  37,
+  611
+ ],
+ [
+  "Stellar evolution",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar structure",
+   "Neutron star"
+  ],
+  40,
+  626
+ ],
+ [
+  "Bridgman's thermodynamic equations",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Phase transitions",
+   "Lattice model (physics)"
+  ],
+  19,
+  297
+ ],
+ [
+  "Outgassing",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Elliptical galaxy",
+   "Irregular galaxy"
+  ],
+  12,
+  180
+ ],
+ [
+  "Liquid",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "No-communication theorem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Proca action",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Harmonic oscillator",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Symmetry breaking"
+  ],
+  30,
+  507
+ ],
+ [
+  "Higgsino",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Gravitational collapse",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Stellar formation",
+   "Molecular cloud"
+  ],
+  40,
+  629
+ ],
+ [
+  "Phonon polariton",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nanotechnology",
+   "Physics",
+   "Condensed matter physics",
+   "Granular material"
+  ],
+  19,
+  263
+ ],
+ [
+  "Young's interference experiment",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Topological phase"
+  ],
+  28,
+  486
+ ],
+ [
+  "Bargmann\u2013Wigner equations",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Newtonian dynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "Elasticity (physics)"
+  ],
+  16,
+  247
+ ],
+ [
+  "Gravitational constant",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational waves"
+  ],
+  24,
+  416
+ ],
+ [
+  "Quarkonium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Spacetime",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Cosmology",
+   "Extragalactic astronomy"
+  ],
+  35,
+  561
+ ],
+ [
+  "Computational particle physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Nuclear physics",
+   "Subatomic physics",
+   "Isotope"
+  ],
+  24,
+  371
+ ],
+ [
+  "Particulates",
+  false,
+  [
+   "Physics",
+   "Fluid Dynamics",
+   "Green\u2013Kubo relations"
+  ],
+  6,
+  74
+ ],
+ [
+  "Far-infrared astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ],
+ [
+  "T-symmetry",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Fractional quantum Hall effect"
+  ],
+  24,
+  386
+ ],
+ [
+  "Mean-field theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Symmetry breaking"
+  ],
+  30,
+  507
+ ],
+ [
+  "Tidal locking",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Astronomy",
+   "Celestial dynamics",
+   "Celestial dynamics (1)",
+   "Celestial dynamics"
+  ],
+  28,
+  384
+ ],
+ [
+  "No-communication theorem",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum phenomena",
+   "Quantum phenomena in astrophysics",
+   "Bose\u2013Einstein condensates"
+  ],
+  33,
+  563
+ ],
+ [
+  "Hamilton\u2013Jacobi theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Orbital mechanics"
+  ],
+  37,
+  611
+ ],
+ [
+  "Cosmic distance ladder",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Spherical astronomy"
+  ],
+  43,
+  798
+ ],
+ [
+  "Termination shock",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Planetary system"
+  ],
+  27,
+  433
+ ],
+ [
+  "Mesoscopic physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Transport properties",
+   "Electrical conductor"
+  ],
+  23,
+  375
+ ],
+ [
+  "Thermodynamic system",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Thermometry"
+  ],
+  18,
+  270
+ ],
+ [
+  "Cosmic ray",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations/Neutrino detector"
+  ],
+  37,
+  704
+ ],
+ [
+  "Topological insulator",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Electronic transport",
+   "Kondo insulator"
+  ],
+  26,
+  429
+ ],
+ [
+  "Fermi Gamma-ray Space Telescope",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Optical telescope"
+  ],
+  43,
+  798
+ ],
+ [
+  "Mott scattering",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Transport properties",
+   "Electrical conductor"
+  ],
+  23,
+  375
+ ],
+ [
+  "Kuiper belt",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Solar System",
+   "Planetary system"
+  ],
+  27,
+  433
+ ],
+ [
+  "Pomeron",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics",
+   "Modern physics (1)",
+   "Optics",
+   "Interferometry",
+   "Mach\u2013Zehnder interferometer"
+  ],
+  49,
+  802
+ ],
+ [
+  "Bargmann\u2013Wigner equations",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Quantum mechanics",
+   "Laughlin wavefunction"
+  ],
+  28,
+  486
+ ],
+ [
+  "Inertial frames",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Classical Physics",
+   "General relativity",
+   "General relativity",
+   "Gravitational waves"
+  ],
+  24,
+  416
+ ],
+ [
+  "Electrical conduction",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Solid state physics",
+   "Electronic properties",
+   "Electronic transport",
+   "Kondo insulator"
+  ],
+  26,
+  429
+ ],
+ [
+  "Geometrical optics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Modern Physics",
+   "Modern physics",
+   "Modern physics (1)",
+   "Modern physics / Mathematics",
+   "Mathematics",
+   "Physics",
+   "Classical Mechanics",
+   "Hamilton\u2013Jacobi equation"
+  ],
+  42,
+  700
+ ],
+ [
+  "Optical fibres",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Photometry (astronomy)"
+  ],
+  11,
+  124
+ ],
+ [
+  "Stellar parallax",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Observations",
+   "Astrophysical observations",
+   "Astronomical observations",
+   "Astronomical observations",
+   "Spherical astronomy"
+  ],
+  43,
+  798
+ ],
+ [
+  "Thermographic camera",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics (1)",
+   "Modern Physics",
+   "Heat Transfer",
+   "Thermal expansion valve"
+  ],
+  20,
+  269
+ ],
+ [
+  "Irradiance",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Non-linear optics"
+  ],
+  21,
+  315
+ ],
+ [
+  "Astrostatistics",
+  false,
+  [
+   "Physics",
+   "Other",
+   "Eclipse",
+   "Photometry (astronomy)"
+  ],
+  11,
+  124
+ ],
+ [
+  "Mean-field approximation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure",
+   "Transport theory (statistical physics)"
+  ],
+  30,
+  507
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics",
+   "Modern Physics",
+   "Optics",
+   "Spectroscopy"
+  ],
+  21,
+  315
+ ]
+]

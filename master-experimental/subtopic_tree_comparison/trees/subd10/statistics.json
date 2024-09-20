@@ -1,0 +1,10 @@
+{
+ "numberLeafNodes": 1038,
+ "averageDepthOfLeafNodes": 9.144508670520231,
+ "averageDepthOfLeafNodesError": 0.06780176444147462,
+ "numberJunctionNodes": 261,
+ "averageNumberOfSubbranchesPerSupportingJunctionNode": 4.6130268199233715,
+ "averageNumberOfSubbranchesPerSupportingJunctionNodeError": 0.22251396035416357,
+ "averageSubJunctionNodesPerJunctionNodeWithSubJunctionNodes": 3.7282608695652173,
+ "averageSubJunctionNodesPerJunctionNodeWithSubJunctionNodesError": 0.23749331012257566
+}

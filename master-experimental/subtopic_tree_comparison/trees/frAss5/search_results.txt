@@ -1,0 +1,1534 @@
+[
+ [
+  "Muon neutrino",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Desktop applications"
+  ],
+  20,
+  341
+ ],
+ [
+  "Von Neumann\u2013Wigner interpretation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Types",
+   "Structural Types",
+   "Prototypal",
+   "Comparison with Classical Inheritance",
+   "Superposition principle"
+  ],
+  39,
+  539
+ ],
+ [
+  "Quantum critical point",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Correlations",
+   "Correlation coefficient",
+   "Strongly correlated material"
+  ],
+  28,
+  505
+ ],
+ [
+  "Atomic orbital",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Physical characteristics",
+   "Body shape",
+   "Atomic orbital"
+  ],
+  35,
+  525
+ ],
+ [
+  "Wick's theorem",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum Simulation",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum simulation algorithms",
+   "Quantum approximate optimization algorithm (QAOA)",
+   "M-theory"
+  ],
+  47,
+  1046
+ ],
+ [
+  "Omega baryon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Examples",
+   "List of baryons"
+  ],
+  24,
+  348
+ ],
+ [
+  "Quantum electronics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum gates",
+   "Multiple qubit gates",
+   "Quantum circuit"
+  ],
+  21,
+  379
+ ],
+ [
+  "Unitarity (physics)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Locality",
+   "Astrophysics"
+  ],
+  23,
+  366
+ ],
+ [
+  "Wiedemann\u2013Franz law",
+  true,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Electric Fields",
+   "Applications of Electric Fields",
+   "Electric fields in electronic devices",
+   "Semiconductors",
+   "Wiedemann\u2013Franz law"
+  ],
+  29,
+  587
+ ],
+ [
+  "Isenthalpic process",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Adiabatic Processes",
+   "Examples of Adiabatic Processes",
+   "Isenthalpic process"
+  ],
+  24,
+  528
+ ],
+ [
+  "Evaporator",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Heat Exchangers",
+   "Types of Heat Exchangers",
+   "4. Classification based on application",
+   "Evaporator"
+  ],
+  29,
+  660
+ ],
+ [
+  "Superconductivity",
+  false,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Electromagnetic Induction",
+   "Self-Induction",
+   "Applications",
+   "Biological physics"
+  ],
+  22,
+  324
+ ],
+ [
+  "Nuclear quadrupole resonance",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR Paradox",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Rho meson"
+  ],
+  34,
+  557
+ ],
+ [
+  "Half-integer",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Quantum entanglement",
+   "Weak isospin"
+  ],
+  22,
+  339
+ ],
+ [
+  "Infrared",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Wave properties",
+   "Wave-particle duality",
+   "Particle properties of waves",
+   "Planck length"
+  ],
+  28,
+  560
+ ],
+ [
+  "Vacuum energy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Unique attributes",
+   "Abilities and skills",
+   "Creative skills",
+   "Atom"
+  ],
+  36,
+  591
+ ],
+ [
+  "Dynamic equilibrium",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Thermal Radiation",
+   "Clausius theorem"
+  ],
+  16,
+  276
+ ],
+ [
+  "Thermodynamic state",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Systems",
+   "Properties of pure substances",
+   "Equation of state",
+   "Cubic equations of state",
+   "Soave-Redlich-Kwong equation",
+   "Thermodynamic variable"
+  ],
+  31,
+  640
+ ],
+ [
+  "Supernova",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum tunneling",
+   "Definition",
+   "Cosmological constant"
+  ],
+  20,
+  341
+ ],
+ [
+  "Extragalactic astronomy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Educational applications",
+   "Virtual reality experiences",
+   "X-ray astronomy"
+  ],
+  26,
+  464
+ ],
+ [
+  "Nanotechnology",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum Simulation",
+   "Quantum simulators",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Spintronic"
+  ],
+  46,
+  984
+ ],
+ [
+  "Quantum fluctuation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Unique attributes",
+   "Physical characteristics",
+   "Vacuum"
+  ],
+  31,
+  515
+ ],
+ [
+  "Electrodynamics",
+  false,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Electric Fields",
+   "Applications of Electric Fields",
+   "Electric fields in capacitors"
+  ],
+  20,
+  472
+ ],
+ [
+  "Thermodynamic equations",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Cyclic Processes",
+   "Thermodynamic equations"
+  ],
+  19,
+  346
+ ],
+ [
+  "Delta baryon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR Paradox",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Sigma baryon"
+  ],
+  34,
+  557
+ ],
+ [
+  "Quantum spin Hall effect",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Unsupervised learning",
+   "Anomaly detection",
+   "Belle II experiment"
+  ],
+  48,
+  943
+ ],
+ [
+  "Free fall",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Kinematics",
+   "Projectile motion",
+   "Free fall"
+  ],
+  16,
+  224
+ ],
+ [
+  "Force carrier",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Correlations",
+   "Correlation analysis methods",
+   "Pomeron"
+  ],
+  30,
+  492
+ ],
+ [
+  "Newton's law of universal gravitation",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Kinetics",
+   "Collision theory",
+   "Factors affecting collision frequency",
+   "Traffic volume",
+   "Newton's laws of motion"
+  ],
+  33,
+  547
+ ],
+ [
+  "Particle physics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Spin",
+   "Quantum Spin",
+   "Spin Operators",
+   "Elementary particle"
+  ],
+  32,
+  547
+ ],
+ [
+  "Speed",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Kinematics",
+   "Curvilinear motion",
+   "Position, Velocity, and Acceleration in Curvilinear Motion",
+   "Speed"
+  ],
+  24,
+  430
+ ],
+ [
+  "Mach\u2013Zehnder interferometer",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Interference",
+   "Quantum interference",
+   "Beam splitter"
+  ],
+  24,
+  389
+ ],
+ [
+  "Corpuscular theory of light",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Diffraction",
+   "Grating diffraction",
+   "Galaxy morphological classification"
+  ],
+  21,
+  345
+ ],
+ [
+  "Color confinement",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Hidden variables",
+   "Quantum hidden variables",
+   "Quantum entanglement",
+   "Theta meson"
+  ],
+  35,
+  567
+ ],
+ [
+  "Dirac equation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Application",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive analytics",
+   "Model training",
+   "Model architecture selection",
+   "Standard Model of particle physics"
+  ],
+  47,
+  880
+ ],
+ [
+  "Pionium",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Deep learning",
+   "Generative models",
+   "Variational Autoencoders",
+   "Pionium"
+  ],
+  53,
+  1077
+ ],
+ [
+  "Grand Unified Theory",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Types",
+   "Structural Types",
+   "Prototypal",
+   "Comparison with Classical Inheritance",
+   "Weak force"
+  ],
+  39,
+  539
+ ],
+ [
+  "Law of inertia",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Kinematics",
+   "Law of inertia"
+  ],
+  19,
+  251
+ ],
+ [
+  "Newtonian fluid",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Convection",
+   "Heat transfer in convection",
+   "Heat exchangers"
+  ],
+  25,
+  451
+ ],
+ [
+  "Antiparticle",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Electric/Magnetic properties",
+   "Antiparticle"
+  ],
+  25,
+  428
+ ],
+ [
+  "Metric expansion of space",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Unique attributes",
+   "Physical characteristics",
+   "Vacuum"
+  ],
+  31,
+  515
+ ],
+ [
+  "Bohr\u2013Van Leeuwen theorem",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Application",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive analytics",
+   "Data preprocessing",
+   "Principle of covariance"
+  ],
+  42,
+  740
+ ],
+ [
+  "Helmholtz free energy",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Systems",
+   "Properties of pure substances",
+   "Equation of state",
+   "Cubic equations of state",
+   "Soave-Redlich-Kwong equation",
+   "Thermodynamic variable"
+  ],
+  31,
+  640
+ ],
+ [
+  "Physics education research",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum Simulation",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum gates",
+   "Basic principles",
+   "Special theory of relativity"
+  ],
+  41,
+  836
+ ],
+ [
+  "Elasticity (physics)",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Energy Efficiency",
+   "Smart Energy Management Systems",
+   "Smart Grid Technologies",
+   "Fluid mechanics"
+  ],
+  30,
+  546
+ ],
+ [
+  "Topological charge",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum error correction",
+   "Fracton (subdimensional particle)"
+  ],
+  19,
+  351
+ ],
+ [
+  "Schwarzschild radius",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR Paradox",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Entanglement",
+   "Subatomic particle"
+  ],
+  35,
+  643
+ ],
+ [
+  "Hexaquark",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Deep learning",
+   "Applications of deep learning",
+   "Healthcare",
+   "Healthcare Technology",
+   "Medical Devices",
+   "Implantable Devices",
+   "Hexaquark"
+  ],
+  69,
+  1334
+ ],
+ [
+  "Pneumatics",
+  false,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Electric Circuits",
+   "Components of Electric Circuits",
+   "Resistors",
+   "Inverter compressor"
+  ],
+  22,
+  382
+ ],
+ [
+  "Adiabatic process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Adiabatic Processes",
+   "Definition of Adiabatic Processes",
+   "Quasistatic process"
+  ],
+  21,
+  473
+ ],
+ [
+  "Thermodynamic equations",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Systems",
+   "Properties of pure substances",
+   "Equation of state",
+   "Cubic equations of state",
+   "Cubic equation parameters",
+   "Graphical representation of a cubic equation",
+   "Analyzing the end behavior",
+   "Degree of polynomial"
+  ],
+  45,
+  1070
+ ],
+ [
+  "Phonon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Electric/Magnetic properties",
+   "W boson"
+  ],
+  25,
+  428
+ ],
+ [
+  "Particle physics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Spin",
+   "Quantum Spin",
+   "Spin Angular Momentum",
+   "Excited state"
+  ],
+  31,
+  536
+ ],
+ [
+  "Green's function (many-body theory)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Correlations",
+   "Correlation analysis methods",
+   "Quantum critical point"
+  ],
+  30,
+  492
+ ],
+ [
+  "Schr\u00f6dinger equation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Implications and interpretations",
+   "Future impact",
+   "Quantum field theory"
+  ],
+  23,
+  468
+ ],
+ [
+  "Simulation",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum Simulation",
+   "Quantum simulators",
+   "Simulation techniques",
+   "Simulation"
+  ],
+  34,
+  676
+ ],
+ [
+  "Electron",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Mass",
+   "Particle"
+  ],
+  22,
+  379
+ ],
+ [
+  "Heat capacity",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Systems",
+   "Properties of pure substances",
+   "Specific heat capacity",
+   "Heat capacity"
+  ],
+  25,
+  475
+ ],
+ [
+  "Copenhagen interpretation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Definition",
+   "Explanation",
+   "Collapse of the wavefunction"
+  ],
+  26,
+  363
+ ],
+ [
+  "Big Bang nucleosynthesis",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum entanglement",
+   "Applications",
+   "Productivity Applications",
+   "Project management",
+   "Quantum gravity"
+  ],
+  34,
+  573
+ ],
+ [
+  "Macroscopic quantum phenomena",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum entanglement",
+   "Quantum computing",
+   "Quantum supremacy"
+  ],
+  25,
+  420
+ ],
+ [
+  "Gravitational wave",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Wave properties",
+   "Wave-particle duality",
+   "Wave properties of particles",
+   "Gravitational wave"
+  ],
+  26,
+  525
+ ],
+ [
+  "Astrophysics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Deep learning",
+   "Applications of deep learning",
+   "Computer vision",
+   "Black hole"
+  ],
+  51,
+  1005
+ ],
+ [
+  "Conservation of momentum",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Momentum",
+   "Conservation of momentum"
+  ],
+  15,
+  206
+ ],
+ [
+  "Bose\u2013Einstein condensate",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Physical characteristics",
+   "Body shape",
+   "Spin (physics)"
+  ],
+  35,
+  525
+ ],
+ [
+  "Spin glass",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Unsupervised learning",
+   "Dimensionality reduction",
+   "Factor Analysis",
+   "Celestial body"
+  ],
+  53,
+  1065
+ ],
+ [
+  "Fundamental interaction",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle",
+   "Definition",
+   "Classification",
+   "Spontaneous symmetry breaking"
+  ],
+  29,
+  424
+ ],
+ [
+  "Weak hypercharge",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum entanglement",
+   "Definition",
+   "Conceptual definition",
+   "Quark model"
+  ],
+  29,
+  495
+ ],
+ [
+  "Non-linear optics",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Nonlinear Optics",
+   "Non-linear optics"
+  ],
+  11,
+  173
+ ],
+ [
+  "Scientific law",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "First Law of Thermodynamics",
+   "Scientific law"
+  ],
+  17,
+  360
+ ],
+ [
+  "Pauli exclusion principle",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Unique attributes",
+   "Abilities and skills",
+   "Mental abilities",
+   "Intelligence",
+   "Cognitive Intelligence",
+   "Critical Thinking",
+   "Pauli exclusion principle"
+  ],
+  54,
+  874
+ ],
+ [
+  "Kondo insulator",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Hidden variables",
+   "Quantum hidden variables",
+   "Quantum entanglement",
+   "Supermassive black hole"
+  ],
+  35,
+  567
+ ],
+ [
+  "Rankine scale",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Temperature",
+   "Thermometry"
+  ],
+  19,
+  328
+ ],
+ [
+  "Ground state",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "Characteristics",
+   "Unique attributes",
+   "Abilities and skills",
+   "Mental abilities",
+   "Intelligence",
+   "Cognitive Intelligence",
+   "Memory",
+   "Quantum state"
+  ],
+  54,
+  883
+ ],
+ [
+  "Turbulence",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Friction",
+   "Friction"
+  ],
+  16,
+  185
+ ],
+ [
+  "Photo-electric effect",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Experiments supporting wave-particle duality",
+   "Photoelectric effect"
+  ],
+  17,
+  350
+ ],
+ [
+  "Energetic neutral atom",
+  false,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Magnetic Fields",
+   "Applications of Magnetic Fields",
+   "Magnetic Particle Imaging",
+   "Applications of Magnetic Particle Imaging",
+   "Galaxy filament"
+  ],
+  28,
+  693
+ ],
+ [
+  "Speed of light",
+  false,
+  [
+   "Physics",
+   "Electricity and Magnetism",
+   "Electromagnetic Induction",
+   "Induced EMF",
+   "Inductance",
+   "Applications of inductance",
+   "Inductive heating",
+   "Electromagnetic radiation"
+  ],
+  35,
+  535
+ ],
+ [
+  "Crystal",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum error correction",
+   "Samarium"
+  ],
+  19,
+  351
+ ],
+ [
+  "Calorimeter",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Heat Exchangers",
+   "Types of Heat Exchangers",
+   "5. Special types of heat exchangers",
+   "Ground-coupled heat exchanger"
+  ],
+  27,
+  652
+ ],
+ [
+  "Degrees of freedom (physics and chemistry)",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Rotational Motion",
+   "Rotational Dynamics",
+   "Moment of inertia",
+   "Rigid body"
+  ],
+  24,
+  348
+ ],
+ [
+  "Irreversible process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Adiabatic Processes",
+   "Work Done in Adiabatic Processes"
+  ],
+  20,
+  454
+ ],
+ [
+  "Antiparticle",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Flavor",
+   "Particle physics"
+  ],
+  24,
+  410
+ ],
+ [
+  "Ghost (physics)",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR Paradox",
+   "Spooky Action at a Distance",
+   "Ghost (physics)"
+  ],
+  21,
+  357
+ ],
+ [
+  "Mass",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Energy Sources",
+   "Nuclear Energy",
+   "Nuclear Waste Management",
+   "Mass"
+  ],
+  26,
+  425
+ ],
+ [
+  "Newton's law of universal gravitation",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Energy Sources",
+   "Nuclear Energy",
+   "Nuclear Reactors",
+   "Nuclear reactor components",
+   "Gravitational radiation"
+  ],
+  34,
+  644
+ ],
+ [
+  "Law of inertia",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Kinematics",
+   "Law of inertia"
+  ],
+  19,
+  251
+ ],
+ [
+  "Numerical computation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum Simulation",
+   "Quantum simulators",
+   "Applications",
+   "Desktop applications",
+   "Lattice field theory"
+  ],
+  39,
+  768
+ ],
+ [
+  "Symmetry (physics)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Implications and interpretations",
+   "Historical context",
+   "Dirac equation"
+  ],
+  24,
+  498
+ ],
+ [
+  "Pion",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Examples",
+   "Historical examples",
+   "Ancient civilizations",
+   "Half-integer"
+  ],
+  26,
+  402
+ ],
+ [
+  "Muon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Cloud applications",
+   "Infrastructure as a Service (IaaS)",
+   "Key features of Infrastructure as a Service (IaaS)",
+   "Dark matter"
+  ],
+  32,
+  731
+ ],
+ [
+  "Quantum harmonic oscillator",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Particle properties",
+   "Spin",
+   "Quantum Spin",
+   "Quantum Entanglement with Spin",
+   "Exciton"
+  ],
+  31,
+  530
+ ],
+ [
+  "Thermodynamic equilibrium",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium",
+   "Temperature",
+   "Thermodynamic equilibrium"
+  ],
+  19,
+  328
+ ],
+ [
+  "Quasistatic process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Isochoric Processes",
+   "Isochoric process"
+  ],
+  17,
+  299
+ ],
+ [
+  "Seesaw mechanism",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR Paradox",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Entanglement",
+   "Subatomic particle"
+  ],
+  35,
+  643
+ ],
+ [
+  "Supernova",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Quantum entanglement",
+   "Applications",
+   "Gaming Applications",
+   "PC Gaming Apps",
+   "Gamma-ray astronomy"
+  ],
+  34,
+  595
+ ],
+ [
+  "Fluid mechanics",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Energy Efficiency",
+   "Renewable Energy Sources",
+   "Calculus of variations"
+  ],
+  21,
+  365
+ ],
+ [
+  "Correlation function (quantum field theory)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Correlations",
+   "Correlation analysis methods",
+   "Quantum critical point"
+  ],
+  30,
+  492
+ ],
+ [
+  "Relativistic nuclear collisions",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Challenges and limitations",
+   "Neutron star"
+  ],
+  39,
+  767
+ ],
+ [
+  "Tau neutrino",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Enterprise applications",
+   "Business Intelligence (BI)",
+   "Predictive Analytics",
+   "Machine learning models",
+   "Deep learning",
+   "Convolutional neural networks",
+   "Applications",
+   "Educational applications",
+   "Electron neutrino"
+  ],
+  59,
+  1129
+ ]
+]

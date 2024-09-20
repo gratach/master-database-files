@@ -1,4 +1,4 @@
 
-prompt: Is the topic Modern physics including "X-ray spectroscopy" as a subtopic? Return 1 if yes, 0 if no.
+prompt: Which of the topics {0: "Stellar Astrophysics", 1: "Quasar", 2: "Radio galaxy"} is most likely to contain "Nucleosynthesis" as a subtopic? Return only the number without description.
 
-answer: Yes, X-ray spectroscopy is a subtopic within the broader field of modern physics. Therefore, the answer is 1.
+answer: 0.

@@ -1,0 +1,1370 @@
+[
+ [
+  "Young's interference experiment",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Atomic, molecular, and optical physics",
+   "Optical Physics",
+   "Wave and Interference Phenomena",
+   "Young's interference experiment"
+  ],
+  38,
+  791
+ ],
+ [
+  "Cabibbo\u2013Kobayashi\u2013Maskawa matrix",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Theoretical frameworks in particle physics",
+   "Quantum Field Theories",
+   "Particle Physics within QFT",
+   "Standard Model (mathematical formulation)"
+  ],
+  48,
+  1066
+ ],
+ [
+  "Asteroid",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Asteroids and Related Phenomena",
+   "Asteroid"
+  ],
+  25,
+  463
+ ],
+ [
+  "Bottom quark",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Properties of Particles",
+   "Down quark"
+  ],
+  43,
+  897
+ ],
+ [
+  "Bose gas",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Macroscopic quantum phenomena"
+  ],
+  44,
+  961
+ ],
+ [
+  "Bridgman's thermodynamic equations",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Tidal acceleration"
+  ],
+  13,
+  236
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Atomic, molecular, and optical physics",
+   "Optical Physics",
+   "Properties of Light",
+   "Electromagnetic wave"
+  ],
+  36,
+  729
+ ],
+ [
+  "Randall\u2013Sundrum model",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Theoretical frameworks in particle physics",
+   "String Theory",
+   "Randall\u2013Sundrum model"
+  ],
+  39,
+  852
+ ],
+ [
+  "Josephson effect",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Josephson effect"
+  ],
+  44,
+  961
+ ],
+ [
+  "Black hole thermodynamics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum cosmology"
+  ],
+  25,
+  556
+ ],
+ [
+  "Nuclear fusion",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Types of Forces and Interactions",
+   "Nuclear force"
+  ],
+  40,
+  844
+ ],
+ [
+  "Transport theory (statistical physics)",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Transport theory (statistical physics)"
+  ],
+  18,
+  386
+ ],
+ [
+  "Celestial dynamics",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "Celestial dynamics"
+  ],
+  27,
+  479
+ ],
+ [
+  "Supernova nucleosynthesis",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Properties of Particles",
+   "Charged particle"
+  ],
+  43,
+  897
+ ],
+ [
+  "Astrochemistry",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  27,
+  479
+ ],
+ [
+  "Isentropic process",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Transport theory (statistical physics)"
+  ],
+  18,
+  386
+ ],
+ [
+  "Dwarf star",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Properties of Celestial Bodies",
+   "Characteristics of Stars and Planets",
+   "White dwarf"
+  ],
+  30,
+  609
+ ],
+ [
+  "Poincar\u00e9 group",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Relativistic quantum mechanics"
+  ],
+  25,
+  556
+ ],
+ [
+  "Friction",
+  true,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Classical physics",
+   "Mechanics",
+   "Classical mechanics",
+   "Laws of Motion",
+   "Applications and Concepts in Motion",
+   "Friction"
+  ],
+  37,
+  636
+ ],
+ [
+  "Newton's third law",
+  true,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Classical physics",
+   "Mechanics",
+   "Classical mechanics",
+   "Laws of Motion",
+   "Newton's Laws of Motion",
+   "Newton's third law"
+  ],
+  36,
+  647
+ ],
+ [
+  "Dual graviton",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Relativistic quantum mechanics"
+  ],
+  25,
+  556
+ ],
+ [
+  "Einstein field equations",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Relativistic quantum mechanics"
+  ],
+  25,
+  556
+ ],
+ [
+  "Celestial body",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Properties of Celestial Bodies",
+   "Types of Celestial Bodies",
+   "Celestial body"
+  ],
+  26,
+  550
+ ],
+ [
+  "Beijing Electron\u2013Positron Collider II",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Particle Physics Experiments",
+   "Beijing Electron\u2013Positron Collider II"
+  ],
+  38,
+  893
+ ],
+ [
+  "Nuclear fission",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Specialized branches of particle physics",
+   "Cosmological and astrophysical aspects of particle physics",
+   "Nuclear matter"
+  ],
+  46,
+  1025
+ ],
+ [
+  "Electron shell",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Atomic, molecular, and optical physics",
+   "Atomic Physics",
+   "Atomic Structure",
+   "Electron shell"
+  ],
+  41,
+  788
+ ],
+ [
+  "Magnetostatics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "Sigma baryon",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Rho meson"
+  ],
+  13,
+  236
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Macroscopic quantum phenomena"
+  ],
+  44,
+  961
+ ],
+ [
+  "Tauonium",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Specialized Particles",
+   "Higgs boson"
+  ],
+  46,
+  924
+ ],
+ [
+  "Dwarf planet",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Properties of Celestial Bodies",
+   "Types of Celestial Bodies",
+   "Dwarf planet"
+  ],
+  26,
+  550
+ ],
+ [
+  "Spontaneous symmetry breaking",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Quantum phase transition"
+  ],
+  44,
+  961
+ ],
+ [
+  "Lambda-CDM model",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum cosmology"
+  ],
+  25,
+  556
+ ],
+ [
+  "Roche limit",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Astrophysical Phenomena and Techniques",
+   "Frost line (astrophysics)"
+  ],
+  33,
+  750
+ ],
+ [
+  "Equilibrium thermodynamics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Curie point"
+  ],
+  13,
+  236
+ ],
+ [
+  "Routhian mechanics",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Nanotechnology and Molecular Physics",
+   "Nanotechnology"
+  ],
+  28,
+  527
+ ],
+ [
+  "Physical chemistry",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Interface and colloid science"
+  ],
+  13,
+  236
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Galactic and Intergalactic Structures",
+   "Spiral galaxy"
+  ],
+  34,
+  784
+ ],
+ [
+  "Magnetohydrodynamics",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "Space physics"
+  ],
+  27,
+  479
+ ],
+ [
+  "Grand Unified Theory",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum cosmology"
+  ],
+  25,
+  556
+ ],
+ [
+  "Conduction (heat)",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Laws of thermodynamics"
+  ],
+  20,
+  418
+ ],
+ [
+  "Extensive variable",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Transport theory (statistical physics)"
+  ],
+  18,
+  386
+ ],
+ [
+  "Thermodynamic potential",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Thermodynamic temperature"
+  ],
+  34,
+  723
+ ],
+ [
+  "Wave",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Phase (waves)"
+  ],
+  34,
+  723
+ ],
+ [
+  "Wave theory of light",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Atomic, molecular, and optical physics",
+   "Optical Physics",
+   "Wave and Interference Phenomena",
+   "Wave theory of light"
+  ],
+  38,
+  791
+ ],
+ [
+  "Color charge",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Properties of Particles",
+   "Charged particle"
+  ],
+  43,
+  897
+ ],
+ [
+  "M-theory",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Field Theories and Models",
+   "Topological phase"
+  ],
+  47,
+  1028
+ ],
+ [
+  "Solar corona",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Astrophysical Phenomena and Techniques",
+   "Redshift survey"
+  ],
+  33,
+  750
+ ],
+ [
+  "Cosmic inflation",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Cosmological Phenomena",
+   "Expansion of the Universe",
+   "Metric expansion of space"
+  ],
+  24,
+  533
+ ],
+ [
+  "Hadron",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Rho meson"
+  ],
+  13,
+  236
+ ],
+ [
+  "Poincar\u00e9 symmetry",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Relativistic quantum mechanics"
+  ],
+  25,
+  556
+ ],
+ [
+  "Conservative force",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Laws of thermodynamics"
+  ],
+  20,
+  418
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Field Theories and Models",
+   "Bogoliubov quasiparticle"
+  ],
+  47,
+  1028
+ ],
+ [
+  "Ground state",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Zero-point energy"
+  ],
+  34,
+  723
+ ],
+ [
+  "Far-infrared astronomy",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Astrophysical Phenomena and Techniques",
+   "Far-infrared astronomy"
+  ],
+  33,
+  750
+ ],
+ [
+  "Electrostriction",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "Active galactic nuclei",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "Space physics"
+  ],
+  27,
+  479
+ ],
+ [
+  "Electron beams",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Interface and colloid science"
+  ],
+  13,
+  236
+ ],
+ [
+  "Virial theorem",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Perturbation theory"
+  ],
+  34,
+  723
+ ],
+ [
+  "Topological charge",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Chern class"
+  ],
+  13,
+  236
+ ],
+ [
+  "X-ray astronomy",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "X-ray binaries"
+  ],
+  27,
+  479
+ ],
+ [
+  "Isotope",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Atomic, molecular, and optical physics",
+   "Atomic Physics",
+   "Atomic Structure",
+   "Hydrogen atom"
+  ],
+  41,
+  788
+ ],
+ [
+  "Tau neutrino",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Elementary Particles",
+   "Neutrino"
+  ],
+  43,
+  850
+ ],
+ [
+  "D meson",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Rho meson"
+  ],
+  13,
+  236
+ ],
+ [
+  "Measurement in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Foundational Quantum Mechanics",
+   "Quantum Mechanics Concepts",
+   "Wave function collapse"
+  ],
+  40,
+  925
+ ],
+ [
+  "Goldstone's theorem",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Mechanics and Theorems",
+   "Band theory"
+  ],
+  37,
+  846
+ ],
+ [
+  "Two New Sciences",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Electrostatic precipitator"
+  ],
+  20,
+  418
+ ],
+ [
+  "Superfluid vacuum theory",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Field Theories and Models",
+   "Mean-field theory"
+  ],
+  47,
+  1028
+ ],
+ [
+  "Quantum information",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Vacuum"
+  ],
+  34,
+  723
+ ],
+ [
+  "Velocity",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Fluid Dynamics",
+   "Kinematic viscosity"
+  ],
+  32,
+  588
+ ],
+ [
+  "Magnetic field",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "AdS/CFT correspondence",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Field Theories and Models",
+   "Topological phase"
+  ],
+  47,
+  1028
+ ],
+ [
+  "Thermodynamics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Thermodynamic temperature"
+  ],
+  34,
+  723
+ ],
+ [
+  "Principle of covariance",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Relativistic quantum mechanics"
+  ],
+  25,
+  556
+ ],
+ [
+  "Nuclear fission",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Types of Forces and Interactions",
+   "Nuclear force"
+  ],
+  40,
+  844
+ ],
+ [
+  "Statics",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Classical physics",
+   "Mechanics",
+   "Classical mechanics",
+   "Dynamics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Newtonian dynamics"
+  ],
+  39,
+  652
+ ],
+ [
+  "Latent heat",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "Quantum gravity",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum cosmology"
+  ],
+  25,
+  556
+ ],
+ [
+  "Isenthalpic process",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Interface and colloid science"
+  ],
+  13,
+  236
+ ],
+ [
+  "Superconductor",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Superconductivity",
+   "High temperature superconductor"
+  ],
+  28,
+  619
+ ],
+ [
+  "Solid-state physics",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "Cosmic distance ladder",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Measurement of Distance in Space",
+   "Cosmic distance ladder"
+  ],
+  24,
+  596
+ ],
+ [
+  "Half-integer",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Quantum superposition"
+  ],
+  34,
+  723
+ ],
+ [
+  "Principle of least action",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Perturbation theory"
+  ],
+  34,
+  723
+ ],
+ [
+  "Z boson",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Particle physics",
+   "Particle physics",
+   "Particles and Interactions",
+   "Elementary Particles",
+   "Z boson"
+  ],
+  43,
+  850
+ ],
+ [
+  "Cosmic distance ladder",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Structures and Regions in Space",
+   "Measurement of Distance in Space",
+   "Cosmic distance ladder"
+  ],
+  24,
+  596
+ ],
+ [
+  "Meson",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Rho meson"
+  ],
+  13,
+  236
+ ],
+ [
+  "Quasiparticle",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Kondo effect"
+  ],
+  44,
+  961
+ ],
+ [
+  "Reflecting telescope",
+  true,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Observational Astronomy",
+   "Reflecting telescope"
+  ],
+  25,
+  491
+ ],
+ [
+  "Kinetic energy",
+  false,
+  [
+   "Physics",
+   "Classical physics subfields",
+   "Modern physics",
+   "Medical and Biological Physics",
+   "Internal energy"
+  ],
+  31,
+  663
+ ],
+ [
+  "Many-body theory",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Theoretical Concepts",
+   "Quantum Field Theories and Models",
+   "Bogoliubov quasiparticle"
+  ],
+  47,
+  1028
+ ],
+ [
+  "Quantum Hall effect",
+  true,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "Quantum Matter",
+   "Quantum Physical Phenomena",
+   "Quantum Hall effect"
+  ],
+  44,
+  961
+ ],
+ [
+  "Vacuum chamber",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Interface and colloid science"
+  ],
+  13,
+  236
+ ],
+ [
+  "Astrochemistry",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Subdisciplines",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  27,
+  479
+ ],
+ [
+  "Tetraquark",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Rho meson"
+  ],
+  13,
+  236
+ ],
+ [
+  "Wiedemann\u2013Franz law",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Transport theory (statistical physics)"
+  ],
+  18,
+  386
+ ],
+ [
+  "Dielectric constant",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Piezoelectricity"
+  ],
+  13,
+  236
+ ],
+ [
+  "Stellar class",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Properties of Celestial Bodies",
+   "Characteristics of Stars and Planets",
+   "Stellar population"
+  ],
+  30,
+  609
+ ],
+ [
+  "Dark energy",
+  false,
+  [
+   "Physics",
+   "Astronomy and space science",
+   "Astronomical Phenomena",
+   "Cosmological Phenomena",
+   "Expansion of the Universe",
+   "Accelerating expansion of the universe"
+  ],
+  24,
+  533
+ ],
+ [
+  "Quantum fluctuation",
+  false,
+  [
+   "Physics",
+   "Quantum physics subfields",
+   "Quantum physics",
+   "Quantum mechanics theories and applications",
+   "General Quantum Physics Concepts",
+   "Perturbation theory"
+  ],
+  34,
+  723
+ ]
+]

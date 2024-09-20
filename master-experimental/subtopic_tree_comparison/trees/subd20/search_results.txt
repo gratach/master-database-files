@@ -1,0 +1,1257 @@
+[
+ [
+  "Ordinary differential equation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Condensed Matter Physics",
+   "Quantum oscillations"
+  ],
+  44,
+  762
+ ],
+ [
+  "Mathematical model",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1) (1)",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Quantum mechanics",
+   "Tight binding model"
+  ],
+  81,
+  1328
+ ],
+ [
+  "Outgassing",
+  false,
+  [
+   "Physics",
+   "Volatile organic compound"
+  ],
+  4,
+  59
+ ],
+ [
+  "Kuiper belt",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Asteroid family"
+  ],
+  18,
+  292
+ ],
+ [
+  "Ultrasonics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Experimental Physics",
+   "Experiment"
+  ],
+  35,
+  604
+ ],
+ [
+  "Quantum fluctuation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Mathematical Physics",
+   "Bayesian inference"
+  ],
+  22,
+  344
+ ],
+ [
+  "Binary black hole",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Newtonian mechanics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Rigid body dynamics"
+  ],
+  64,
+  1153
+ ],
+ [
+  "Variational method",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Mechanics",
+   "Gauge symmetry"
+  ],
+  46,
+  808
+ ],
+ [
+  "Canonical quantum gravity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Field Theory",
+   "Variational method"
+  ],
+  35,
+  612
+ ],
+ [
+  "Tetraquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Kinematic viscosity",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Surface science"
+  ],
+  35,
+  585
+ ],
+ [
+  "Anderson localization",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "State (thermodynamic)",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Thermodynamics",
+   "Equation of state"
+  ],
+  36,
+  591
+ ],
+ [
+  "Gravitation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Astrophysics",
+   "Theory of relativity"
+  ],
+  48,
+  785
+ ],
+ [
+  "Weak hypercharge",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Symmetry breaking"
+  ],
+  37,
+  636
+ ],
+ [
+  "Classical thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Hartree\u2013Fock method",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Barometer"
+  ],
+  18,
+  292
+ ],
+ [
+  "Newton's law of universal gravitation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Antimatter",
+   "Matter"
+  ],
+  53,
+  786
+ ],
+ [
+  "Radio telescope",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Hubble diagram",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Nebulae"
+  ],
+  18,
+  292
+ ],
+ [
+  "Hadron",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Electron beams"
+  ],
+  37,
+  636
+ ],
+ [
+  "Radar astronomy",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Astrophysics",
+   "Astrometry",
+   "Observational astronomy"
+  ],
+  46,
+  688
+ ],
+ [
+  "Equation of state",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Bose gas"
+  ],
+  36,
+  516
+ ],
+ [
+  "Maxwell relations",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Planetary system",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Astrophysics",
+   "Astrometry",
+   "Planetary system"
+  ],
+  46,
+  688
+ ],
+ [
+  "Gas",
+  false,
+  [
+   "Physics",
+   "Volatile organic compound"
+  ],
+  4,
+  59
+ ],
+ [
+  "Down antiquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Electron beams"
+  ],
+  37,
+  636
+ ],
+ [
+  "Clusters of galaxies",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Astrophysics",
+   "Astrometry",
+   "Galaxy"
+  ],
+  46,
+  688
+ ],
+ [
+  "Gravitational waves",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Irradiance",
+   "Irradiance"
+  ],
+  20,
+  299
+ ],
+ [
+  "Faddeev\u2013Popov ghost",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Galilean transformation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Mechanics of planar particle motion"
+  ],
+  64,
+  1153
+ ],
+ [
+  "Collider",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Antimatter",
+   "Particle Physics",
+   "Particle"
+  ],
+  58,
+  872
+ ],
+ [
+  "Diamagnetic",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Electron paramagnetic resonance",
+   "Electron paramagnetic resonance"
+  ],
+  35,
+  625
+ ],
+ [
+  "Second law of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic variable"
+  ],
+  36,
+  591
+ ],
+ [
+  "Electron beams",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Solid State Physics",
+   "Crystallography"
+  ],
+  35,
+  563
+ ],
+ [
+  "Hamiltonian matrix",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Angular frequency",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Electromagnetism",
+   "Optical physics"
+  ],
+  46,
+  762
+ ],
+ [
+  "Kaluza\u2013Klein theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Symmetry breaking"
+  ],
+  37,
+  636
+ ],
+ [
+  "Heptaquark",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Virial theorem",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Mathematical Physics",
+   "Applied mathematics",
+   "Mathematical physics",
+   "Mathematical physics"
+  ],
+  34,
+  525
+ ],
+ [
+  "Metallic hydrogen",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Metallic hydrogen"
+  ],
+  36,
+  516
+ ],
+ [
+  "Absolute time and space",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Newtonian Concepts",
+   "Newtonian dynamics"
+  ],
+  62,
+  1119
+ ],
+ [
+  "Cosmic string",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Phonon",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Solid State Physics",
+   "Crystallography"
+  ],
+  35,
+  563
+ ],
+ [
+  "Ising model",
+  true,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Solid State Physics",
+   "Ising model"
+  ],
+  35,
+  563
+ ],
+ [
+  "Delta baryon",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Quantum thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Gravitational-wave astronomy",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Magdeburg hemispheres",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Barometer"
+  ],
+  18,
+  292
+ ],
+ [
+  "Kepler's laws of planetary motion",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Radio wave",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Optics",
+   "Frequency"
+  ],
+  25,
+  376
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Sensible heat",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "First law of thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "The Feynman Lectures on Physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Experimental Physics",
+   "Experiment"
+  ],
+  35,
+  604
+ ],
+ [
+  "Hartree\u2013Fock method",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical potential"
+  ],
+  18,
+  292
+ ],
+ [
+  "Faddeev\u2013Popov ghost",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "De Broglie wavelength",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Mechanics",
+   "Heisenberg uncertainty principle"
+  ],
+  46,
+  808
+ ],
+ [
+  "Laws of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Self-consistency principle in high energy physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Symmetry breaking"
+  ],
+  37,
+  636
+ ],
+ [
+  "Free fall",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Physics",
+   "Classical mechanics",
+   "Classical mechanics",
+   "Free fall"
+  ],
+  45,
+  733
+ ],
+ [
+  "Bayesian inference",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Geometrical optics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Electromagnetism",
+   "Optics",
+   "Optics"
+  ],
+  56,
+  907
+ ],
+ [
+  "Quark model",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Antimatter",
+   "Fundamental Particles"
+  ],
+  53,
+  786
+ ],
+ [
+  "Statistical thermodynamics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Mathematical Physics",
+   "Intensive variable"
+  ],
+  22,
+  344
+ ],
+ [
+  "Polarization (waves)",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Optics",
+   "Photonics"
+  ],
+  25,
+  376
+ ],
+ [
+  "Poisson structure",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Mathematical Physics",
+   "Bayesian inference"
+  ],
+  22,
+  344
+ ],
+ [
+  "Omega baryon",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Barometer"
+  ],
+  18,
+  292
+ ],
+ [
+  "Internal energy",
+  true,
+  [
+   "Physics",
+   "Physics",
+   "Thermodynamics",
+   "Internal energy"
+  ],
+  36,
+  591
+ ],
+ [
+  "Supersymmetry",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Symmetry breaking"
+  ],
+  37,
+  636
+ ],
+ [
+  "Rubidium",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Condensed Matter Physics",
+   "Isotope"
+  ],
+  36,
+  516
+ ],
+ [
+  "Latent heat",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Gravitational collapse",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Two-state quantum system",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Mechanics",
+   "Fermi\u2013Dirac statistics"
+  ],
+  46,
+  808
+ ],
+ [
+  "Van Allen radiation belt",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Astrophysics",
+   "Astroparticle physics",
+   "Space physics"
+  ],
+  32,
+  552
+ ],
+ [
+  "Relativistic particle",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Astrophysics",
+   "Astrophysics",
+   "Particle physics",
+   "Graviton"
+  ],
+  67,
+  1044
+ ],
+ [
+  "The Feynman Lectures on Physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Field Theory",
+   "Variational method"
+  ],
+  35,
+  612
+ ],
+ [
+  "Electronic band structure",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Stern\u2013Gerlach experiment",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Mechanics",
+   "Ghost (physics)"
+  ],
+  46,
+  808
+ ],
+ [
+  "Weak isospin",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Electron beams"
+  ],
+  37,
+  636
+ ],
+ [
+  "Solid-state physics",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Solid State Physics",
+   "Amorphous solid"
+  ],
+  35,
+  563
+ ],
+ [
+  "Enthalpy",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Thermodynamics",
+   "Isenthalpic process"
+  ],
+  36,
+  591
+ ],
+ [
+  "Fermi liquid theory",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Strongly correlated material"
+  ],
+  18,
+  292
+ ],
+ [
+  "Quarkonium",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Electron beams"
+  ],
+  37,
+  636
+ ],
+ [
+  "Conjugate variables (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "First law of thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Phase space formulation",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Mathematical Physics",
+   "Intensive variable"
+  ],
+  22,
+  344
+ ],
+ [
+  "Wiedemann\u2013Franz law",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Electromagnetism",
+   "Thermodynamics",
+   "Temperature"
+  ],
+  57,
+  930
+ ],
+ [
+  "W and Z bosons",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Particle Physics",
+   "Symmetry breaking"
+  ],
+  37,
+  636
+ ],
+ [
+  "Magnetic resonance imaging",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Magnetic Resonance Imaging"
+  ],
+  34,
+  594
+ ],
+ [
+  "Complementarity (physics)",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Quantum Mechanics",
+   "Heisenberg uncertainty principle"
+  ],
+  46,
+  808
+ ],
+ [
+  "Celestial body",
+  false,
+  [
+   "Physics",
+   "Irregular galaxy"
+  ],
+  4,
+  59
+ ],
+ [
+  "Magnet",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Solid State Physics",
+   "Ferromagnetism"
+  ],
+  35,
+  563
+ ],
+ [
+  "Critical exponent",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Quantum Mechanics",
+   "Condensed Matter Physics",
+   "Quantum oscillations"
+  ],
+  44,
+  762
+ ],
+ [
+  "Baryon asymmetry",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Chemical thermodynamics"
+  ],
+  18,
+  292
+ ],
+ [
+  "Reflecting telescope",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Circumstellar disk",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Astrophysics",
+   "Astrometry",
+   "Circumstellar disc"
+  ],
+  46,
+  688
+ ],
+ [
+  "Planet",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Physical cosmology",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Astrochemistry"
+  ],
+  18,
+  292
+ ],
+ [
+  "Large Hadron Collider",
+  false,
+  [
+   "Physics",
+   "Physics (1)",
+   "Physics (1)",
+   "Physics (1)",
+   "Astrophysics",
+   "Physics",
+   "Particle physics",
+   "B meson"
+  ],
+  58,
+  958
+ ]
+]

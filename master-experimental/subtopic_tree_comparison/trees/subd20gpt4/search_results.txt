@@ -1,0 +1,1347 @@
+[
+ [
+  "Thermodynamic state",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Systems and Processes",
+   "Thermodynamic system"
+  ],
+  40,
+  697
+ ],
+ [
+  "Molecular dynamics",
+  false,
+  [
+   "Physics",
+   "Amorphous solid"
+  ],
+  20,
+  305
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Superconductivity",
+   "Quasiparticle"
+  ],
+  49,
+  867
+ ],
+ [
+  "Gyrotron",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Laser and Optical Physics",
+   "Gyrotron"
+  ],
+  49,
+  813
+ ],
+ [
+  "Mott insulator",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Material Science",
+   "Quantum Matter",
+   "Semimetal"
+  ],
+  52,
+  990
+ ],
+ [
+  "Specific heat of solids",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Concepts",
+   "Endoreversible thermodynamics"
+  ],
+  33,
+  639
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "General Astronomy",
+   "Celestial Bodies and Phenomena",
+   "Spiral galaxy"
+  ],
+  52,
+  779
+ ],
+ [
+  "Equation of state",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Mathematical Physics",
+   "Applied Mathematics in Physics",
+   "Mathematical model"
+  ],
+  39,
+  684
+ ],
+ [
+  "Gravitation",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Cosmology",
+   "Expansion and Composition of the Universe",
+   "Dark matter"
+  ],
+  41,
+  755
+ ],
+ [
+  "Mechanics of planar particle motion",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Dynamics",
+   "Kinematics",
+   "Velocity"
+  ],
+  54,
+  793
+ ],
+ [
+  "Electromagnetic theory",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Magnetism"
+  ],
+  43,
+  697
+ ],
+ [
+  "Real gas",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Principles and Theories",
+   "Statistical thermodynamics"
+  ],
+  44,
+  854
+ ],
+ [
+  "Thermodynamic free energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Principles and Theories",
+   "Thermodynamic free energy"
+  ],
+  44,
+  854
+ ],
+ [
+  "Quark",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Elementary Particles",
+   "Quarks",
+   "Quark"
+  ],
+  48,
+  773
+ ],
+ [
+  "Quantum gravity",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Dual graviton"
+  ],
+  28,
+  440
+ ],
+ [
+  "Seesaw mechanism",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Particle Interactions and Mechanisms",
+   "Neutrino Physics",
+   "Seesaw mechanism"
+  ],
+  41,
+  786
+ ],
+ [
+  "Energy levels",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Atomic and Molecular Physics",
+   "Energy levels"
+  ],
+  48,
+  809
+ ],
+ [
+  "BRST quantization",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Particle and Field Physics",
+   "Supersymmetry and Theoretical Models",
+   "Supergravity"
+  ],
+  43,
+  835
+ ],
+ [
+  "Tau (particle)",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Elementary Particles",
+   "Leptons",
+   "Tau (particle)"
+  ],
+  49,
+  787
+ ],
+ [
+  "Loschmidt's paradox",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Cosmology",
+   "Cosmological Models and Theories",
+   "Quantum cosmology"
+  ],
+  40,
+  716
+ ],
+ [
+  "X-radiation",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "General Astrophysics",
+   "Astrophysical Processes and Radiation",
+   "Electromagnetic spectrum"
+  ],
+  45,
+  806
+ ],
+ [
+  "Work\u2013energy theorem",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Analytical Mechanics",
+   "Analytical mechanics"
+  ],
+  50,
+  766
+ ],
+ [
+  "Physical oceanography",
+  false,
+  [
+   "Physics",
+   "Geophysics",
+   "Atmosphere"
+  ],
+  28,
+  418
+ ],
+ [
+  "Numerical computation",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Numerical computation"
+  ],
+  35,
+  566
+ ],
+ [
+  "Euler's laws",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Analytical Mechanics",
+   "Euler's laws"
+  ],
+  50,
+  766
+ ],
+ [
+  "Electromagnetism",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Magnetism"
+  ],
+  43,
+  697
+ ],
+ [
+  "Conduction electron",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure and Electrical Properties",
+   "Conduction electron"
+  ],
+  45,
+  789
+ ],
+ [
+  "Graviphoton",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Dual graviton"
+  ],
+  28,
+  440
+ ],
+ [
+  "Conjugate variables (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Principles and Theories",
+   "Thermodynamic potential"
+  ],
+  44,
+  854
+ ],
+ [
+  "CP violation",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Particle Interactions and Mechanisms",
+   "Mechanisms of Symmetry Breaking",
+   "Resonance (particle physics)"
+  ],
+  40,
+  731
+ ],
+ [
+  "Poincar\u00e9 symmetry",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Quantum Field Theory",
+   "Relativistic particle"
+  ],
+  47,
+  802
+ ],
+ [
+  "Spintronic",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Quantum Mechanics and States",
+   "Solid State Physics",
+   "Hyperfine structure"
+  ],
+  43,
+  784
+ ],
+ [
+  "Measurement in quantum mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Foundations and Concepts of Quantum Mechanics",
+   "Measurement in quantum mechanics"
+  ],
+  55,
+  1137
+ ],
+ [
+  "Molecule",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Materials Biophysics",
+   "Interface and colloid science"
+  ],
+  32,
+  639
+ ],
+ [
+  "Composite particle",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Hadrons",
+   "Composite Particles",
+   "Composite particle"
+  ],
+  43,
+  693
+ ],
+ [
+  "Superconducting magnet",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Superconductivity",
+   "Superconductivity"
+  ],
+  49,
+  867
+ ],
+ [
+  "Einstein\u2013Podolsky\u2013Rosen paradox",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "General Theoretical Physics",
+   "Theoretical physics"
+  ],
+  47,
+  830
+ ],
+ [
+  "Baryon asymmetry",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Particle Interactions and Mechanisms",
+   "Neutrino Physics",
+   "Seesaw mechanism"
+  ],
+  41,
+  786
+ ],
+ [
+  "Earth's magnetic field",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Magnetic Properties in Biophysics",
+   "Nuclear magnetic resonance"
+  ],
+  34,
+  661
+ ],
+ [
+  "Pion",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Hadrons",
+   "Mesons",
+   "Pion"
+  ],
+  50,
+  737
+ ],
+ [
+  "Beam splitter",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Optics and Electromagnetic Radiation",
+   "Beam splitter"
+  ],
+  49,
+  844
+ ],
+ [
+  "Galactic astronomy",
+  true,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "General Astronomy",
+   "Branches of Astronomy",
+   "Galactic astronomy"
+  ],
+  42,
+  707
+ ],
+ [
+  "High temperature superconductor",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Superconductivity",
+   "Superconductivity"
+  ],
+  49,
+  867
+ ],
+ [
+  "Measurement in quantum mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Foundations and Concepts of Quantum Mechanics",
+   "Measurement in quantum mechanics"
+  ],
+  55,
+  1137
+ ],
+ [
+  "Fermi\u2013Dirac statistics",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "General Theoretical Physics",
+   "Theoretical physics"
+  ],
+  47,
+  830
+ ],
+ [
+  "Curie point",
+  true,
+  [
+   "Physics",
+   "Curie point"
+  ],
+  20,
+  305
+ ],
+ [
+  "Optical amplifier",
+  false,
+  [
+   "Physics",
+   "Non-linear optics"
+  ],
+  20,
+  305
+ ],
+ [
+  "Solar wind",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "Solar and Space Physics",
+   "Space physics"
+  ],
+  42,
+  681
+ ],
+ [
+  "Photoelectron spectroscopy",
+  false,
+  [
+   "Physics",
+   "Spectroscopy"
+  ],
+  20,
+  305
+ ],
+ [
+  "Molecule",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Materials Biophysics",
+   "Interface and colloid science"
+  ],
+  32,
+  639
+ ],
+ [
+  "Objective collapse theory",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Quantum Physics",
+   "Theoretical and Mathematical Frameworks",
+   "Quantum circuit"
+  ],
+  36,
+  644
+ ],
+ [
+  "Infrared spectroscopy",
+  false,
+  [
+   "Physics",
+   "Spectroscopy"
+  ],
+  20,
+  305
+ ],
+ [
+  "Electromagnetic wave",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Plane wave"
+  ],
+  43,
+  697
+ ],
+ [
+  "Electromagnetism",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Laser and Optical Physics",
+   "Electromagnetic theory"
+  ],
+  49,
+  813
+ ],
+ [
+  "Initial mass function",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "General Astrophysics",
+   "Stellar Phenomena",
+   "Stellar population"
+  ],
+  58,
+  987
+ ],
+ [
+  "Topological phase",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "General Theoretical Physics",
+   "Theoretical physics"
+  ],
+  47,
+  830
+ ],
+ [
+  "Dropleton",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Superconductivity",
+   "Dropleton"
+  ],
+  49,
+  867
+ ],
+ [
+  "Small Solar System body",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "Solar and Space Physics",
+   "Solar physics"
+  ],
+  42,
+  681
+ ],
+ [
+  "Wheeler's delayed-choice experiment",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Quantum Physics",
+   "Specific Quantum Effects and Phenomena",
+   "Wave function collapse"
+  ],
+  41,
+  756
+ ],
+ [
+  "Wave function collapse",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Foundations and Concepts of Quantum Mechanics",
+   "Measurement in quantum mechanics"
+  ],
+  55,
+  1137
+ ],
+ [
+  "Photo-electric effect",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Atomic and Molecular Physics",
+   "Atomic physics"
+  ],
+  48,
+  809
+ ],
+ [
+  "Superconductivity",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Particle and Field Physics",
+   "Condensed Matter Physics",
+   "High temperature superconductor"
+  ],
+  47,
+  867
+ ],
+ [
+  "Surface tension",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Fluid Dynamics",
+   "Properties of Fluids",
+   "Surface tension"
+  ],
+  36,
+  565
+ ],
+ [
+  "Rigid body",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Analytical Mechanics",
+   "Rigid body"
+  ],
+  50,
+  766
+ ],
+ [
+  "Interstellar medium",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "General Astrophysics",
+   "Astrophysics",
+   "Astrochemistry"
+  ],
+  47,
+  812
+ ],
+ [
+  "Quantum electronics",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Computing",
+   "Josephson junction"
+  ],
+  49,
+  879
+ ],
+ [
+  "Magnetosphere",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "Solar and Space Physics",
+   "Space physics"
+  ],
+  42,
+  681
+ ],
+ [
+  "Collapse of the wavefunction",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Quantum Phenomena and Applications",
+   "Quantum Phenomena",
+   "Quantum States and Phenomena",
+   "Topological phase"
+  ],
+  52,
+  1147
+ ],
+ [
+  "Renormalization",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Particle and Field Physics",
+   "Quantum Field Theory",
+   "Renormalization group"
+  ],
+  49,
+  933
+ ],
+ [
+  "Spin (physics)",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Quantum Field Theory and Fundamental Particles",
+   "Symmetry in quantum mechanics"
+  ],
+  48,
+  985
+ ],
+ [
+  "Conduction electron",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Electronic Structure and Electrical Properties",
+   "Conduction electron"
+  ],
+  45,
+  789
+ ],
+ [
+  "Dwarf star",
+  true,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "General Astronomy",
+   "Celestial Bodies and Phenomena",
+   "Dwarf star"
+  ],
+  52,
+  779
+ ],
+ [
+  "Scattering theory",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "String and Particle Theories",
+   "Superstring theory"
+  ],
+  50,
+  914
+ ],
+ [
+  "Leggett\u2013Garg inequality",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Hidden variable theory"
+  ],
+  28,
+  440
+ ],
+ [
+  "Top quark",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Elementary Particles",
+   "Quarks",
+   "Top quark"
+  ],
+  48,
+  773
+ ],
+ [
+  "Electromagnetism",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Magnetism"
+  ],
+  43,
+  697
+ ],
+ [
+  "Newton's laws of motion",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Classical Mechanics",
+   "Laws and Principles",
+   "Newton's laws of motion"
+  ],
+  53,
+  828
+ ],
+ [
+  "X and Y bosons",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Types of Particles",
+   "Gauge Bosons and Their Relatives",
+   "X and Y bosons"
+  ],
+  46,
+  702
+ ],
+ [
+  "Condensed matter physics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Numerical computation"
+  ],
+  35,
+  566
+ ],
+ [
+  "Galaxy groups and clusters",
+  true,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "Astrophysics and Related Fields",
+   "Cosmology and Gravitational Physics",
+   "Cosmic Structures and Dynamics",
+   "Galaxy groups and clusters"
+  ],
+  46,
+  812
+ ],
+ [
+  "Brownian motion",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical thermodynamics"
+  ],
+  35,
+  507
+ ],
+ [
+  "Celestial body",
+  true,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "General Astronomy",
+   "Celestial Bodies and Phenomena",
+   "Celestial body"
+  ],
+  52,
+  779
+ ],
+ [
+  "Double-slit experiment",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Theories and Phenomena",
+   "Quantum Phenomena and Applications",
+   "Quantum Phenomena",
+   "Quantum Mechanics Fundamentals",
+   "Quantum interference"
+  ],
+  50,
+  1094
+ ],
+ [
+  "Ultrasonics",
+  true,
+  [
+   "Physics",
+   "Biophysics",
+   "Acoustic Biophysics",
+   "Ultrasonics"
+  ],
+  30,
+  579
+ ],
+ [
+  "Josephson junction",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Particle and Field Physics",
+   "Condensed Matter Physics",
+   "High temperature superconductor"
+  ],
+  47,
+  867
+ ],
+ [
+  "Wiedemann-Franz law",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Principles and Theories",
+   "Wiedemann-Franz law"
+  ],
+  44,
+  854
+ ],
+ [
+  "Momentum",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Dynamics",
+   "Conservation Laws",
+   "Conservation of momentum"
+  ],
+  51,
+  768
+ ],
+ [
+  "Stack effect",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Mechanical Properties in Biophysics",
+   "Ductility"
+  ],
+  31,
+  593
+ ],
+ [
+  "Phonon polariton",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Laser and Optical Physics",
+   "Phonon polariton"
+  ],
+  49,
+  813
+ ],
+ [
+  "Orbital magnetization",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Condensed Matter Physics",
+   "Magnetic Properties",
+   "Magnet"
+  ],
+  44,
+  733
+ ],
+ [
+  "Strong interaction",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Particle Physics",
+   "Particle Interactions and Mechanisms",
+   "Fundamental Forces and Interactions",
+   "Strong nuclear force"
+  ],
+  43,
+  766
+ ],
+ [
+  "Pneumatics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Vacuum pump"
+  ],
+  35,
+  566
+ ],
+ [
+  "Dual graviton",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Dual graviton"
+  ],
+  28,
+  440
+ ],
+ [
+  "Sunspot cycle",
+  false,
+  [
+   "Physics",
+   "Cosmology and Astronomy",
+   "Cosmology and Astronomy",
+   "General Astronomy",
+   "Space Phenomena",
+   "Chromosphere"
+  ],
+  37,
+  608
+ ],
+ [
+  "Newtonian fluid",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Fluid Dynamics",
+   "Properties of Fluids",
+   "Newtonian fluid"
+  ],
+  36,
+  565
+ ],
+ [
+  "Critical point (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Concepts",
+   "Thermodynamic equilibrium"
+  ],
+  33,
+  639
+ ],
+ [
+  "Radiation pressure",
+  true,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Classical Physics",
+   "Biophysics and Medical Physics",
+   "Radiation pressure"
+  ],
+  41,
+  678
+ ],
+ [
+  "Frame of reference",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Analytical Mechanics",
+   "Inertial frames"
+  ],
+  50,
+  766
+ ],
+ [
+  "Exotic matter",
+  false,
+  [
+   "Physics",
+   "Quantum Physics",
+   "Theoretical Physics",
+   "Modern Physics",
+   "Particle and Field Physics",
+   "Cosmology and Astrophysics",
+   "Magnetic monopole"
+  ],
+  42,
+  774
+ ],
+ [
+  "Calculus of variations",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Physics",
+   "Classical thermodynamics"
+  ],
+  35,
+  507
+ ]
+]

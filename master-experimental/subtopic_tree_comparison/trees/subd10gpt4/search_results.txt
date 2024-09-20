@@ -1,0 +1,2668 @@
+[
+ [
+  "Double-slit experiment",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Aharonov\u2013Bohm effect"
+  ],
+  12,
+  225
+ ],
+ [
+  "Scanning tunneling microscope",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Materials Characterization",
+   "Photoelectron spectroscopy"
+  ],
+  26,
+  544
+ ],
+ [
+  "Rigid body dynamics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Systems and States",
+   "System (thermodynamics)"
+  ],
+  25,
+  484
+ ],
+ [
+  "Nucleosynthesis",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Nucleosynthesis"
+  ],
+  34,
+  631
+ ],
+ [
+  "Polaron",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Quasiparticles",
+   "Bogoliubov quasiparticle"
+  ],
+  26,
+  583
+ ],
+ [
+  "X-radiation",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "X-ray diffraction"
+  ],
+  21,
+  395
+ ],
+ [
+  "Supergravity",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational collapse"
+  ],
+  30,
+  592
+ ],
+ [
+  "Radio wave",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Interstellar Matter",
+   "Submillimetre astronomy"
+  ],
+  32,
+  605
+ ],
+ [
+  "Z boson",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Free fall",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Debris disk"
+  ],
+  35,
+  672
+ ],
+ [
+  "Experiment",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Phase transition",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "State (thermodynamic)"
+  ],
+  28,
+  544
+ ],
+ [
+  "Antiferromagnetism",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Canonical commutation relation",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Hydrostatics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "Temperature"
+  ],
+  28,
+  544
+ ],
+ [
+  "Dual graviton",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational waves"
+  ],
+  30,
+  592
+ ],
+ [
+  "Debris disk",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Galaxy Structures",
+   "Galaxy groups and clusters"
+  ],
+  30,
+  578
+ ],
+ [
+  "Thermodynamics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Thermodynamic equations"
+  ],
+  28,
+  561
+ ],
+ [
+  "Redshift survey",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic astronomy"
+  ],
+  34,
+  621
+ ],
+ [
+  "Fictitious force",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Hexaquark",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  13,
+  249
+ ],
+ [
+  "Physical cosmology",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Reionization"
+  ],
+  34,
+  631
+ ],
+ [
+  "Mean-field theory",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Cosmic ray",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Multi-messenger Astronomy",
+   "Neutrino astronomy"
+  ],
+  30,
+  594
+ ],
+ [
+  "Thermodynamic equilibrium",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Systems and States",
+   "Thermodynamic equilibrium"
+  ],
+  25,
+  484
+ ],
+ [
+  "Cosmological constant",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Metric expansion of space"
+  ],
+  34,
+  631
+ ],
+ [
+  "Standard Model (mathematical formulation)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Luttinger liquid"
+  ],
+  16,
+  300
+ ],
+ [
+  "Mass",
+  false,
+  [
+   "Physics",
+   "General Concepts",
+   "General Physics",
+   "Foundations of Physics",
+   "General Physics",
+   "General Physics",
+   "Fundamental Physics",
+   "Particle and Nuclear Physics",
+   "Nuclear Physics and Medicine",
+   "Nuclear physics"
+  ],
+  31,
+  558
+ ],
+ [
+  "Bargmann\u2013Wigner equations",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational waves"
+  ],
+  30,
+  592
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Theory of heat"
+  ],
+  28,
+  561
+ ],
+ [
+  "T-symmetry",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Theory of heat"
+  ],
+  28,
+  561
+ ],
+ [
+  "Theta meson",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Phonon polariton"
+  ],
+  17,
+  337
+ ],
+ [
+  "Charge-coupled device",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Gravitational-wave detector",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Magnetic Properties",
+   "Spontaneous magnetization"
+  ],
+  23,
+  444
+ ],
+ [
+  "Gravitational-wave astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Gravitational-wave astronomy"
+  ],
+  22,
+  432
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  13,
+  249
+ ],
+ [
+  "Wave function collapse",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Extragalactic astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic astronomy"
+  ],
+  34,
+  621
+ ],
+ [
+  "Statistical thermodynamics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Photoelectric effect",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Superconducting magnet"
+  ],
+  35,
+  672
+ ],
+ [
+  "B meson",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Models",
+   "Strongly correlated material"
+  ],
+  29,
+  633
+ ],
+ [
+  "Irregular galaxy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Galaxy Types",
+   "Galaxy morphological classification"
+  ],
+  30,
+  581
+ ],
+ [
+  "Leggett\u2013Garg inequality",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Wave\u2013particle duality",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Cosmic background radiation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Reionization"
+  ],
+  34,
+  631
+ ],
+ [
+  "Wiedemann-Franz law",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Thermodynamics",
+   "Chemical potential"
+  ],
+  30,
+  596
+ ],
+ [
+  "Photoelectric effect",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Superconducting magnet"
+  ],
+  35,
+  672
+ ],
+ [
+  "Wave function collapse",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Galaxy Types",
+   "Spiral galaxy"
+  ],
+  32,
+  603
+ ],
+ [
+  "Optical fibres",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Psychophysics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Exciton-polariton"
+  ],
+  29,
+  554
+ ],
+ [
+  "Quark model",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Material Science",
+   "Ferromagnetism"
+  ],
+  37,
+  650
+ ],
+ [
+  "Tunnel diode",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Josephson effect",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Dark matter halo",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Population III stars"
+  ],
+  34,
+  631
+ ],
+ [
+  "Relativistic mechanics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Computational Science",
+   "Scientific computing"
+  ],
+  24,
+  487
+ ],
+ [
+  "Quantum decoherence",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Cosmology",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Reionization"
+  ],
+  34,
+  631
+ ],
+ [
+  "Radio galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Radio galaxy"
+  ],
+  34,
+  621
+ ],
+ [
+  "Ion implantation",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Computational Techniques",
+   "Numerical computation"
+  ],
+  14,
+  274
+ ],
+ [
+  "Solar neutrino problem",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Environment",
+   "Interplanetary medium"
+  ],
+  25,
+  473
+ ],
+ [
+  "Astrochemistry",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Astrochemistry and Astrostatistics",
+   "Astrochemistry"
+  ],
+  17,
+  308
+ ],
+ [
+  "Gravitation",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Vacuum"
+  ],
+  19,
+  369
+ ],
+ [
+  "Quantum chromodynamics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Volume (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Physical cosmology",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Metric expansion of space"
+  ],
+  34,
+  631
+ ],
+ [
+  "Accretion (astrophysics)",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Population III stars"
+  ],
+  34,
+  631
+ ],
+ [
+  "Quantum cosmology",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Ginzburg\u2013Landau theory"
+  ],
+  22,
+  432
+ ],
+ [
+  "Magnon",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Magnetic Properties",
+   "Magnetic domain"
+  ],
+  23,
+  444
+ ],
+ [
+  "Law of inertia",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Zero-point energy"
+  ],
+  28,
+  561
+ ],
+ [
+  "Cosmological constant problem",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Metric expansion of space"
+  ],
+  34,
+  631
+ ],
+ [
+  "Gravitational-wave detector",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Gravitational-wave detector"
+  ],
+  29,
+  554
+ ],
+ [
+  "Active asteroid",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Environment",
+   "Rubble pile"
+  ],
+  25,
+  473
+ ],
+ [
+  "Energy levels",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Hyperfine structure"
+  ],
+  35,
+  672
+ ],
+ [
+  "Fermi Gamma-ray Space Telescope",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gamma Ray Observations",
+   "Gamma ray astronomy"
+  ],
+  30,
+  585
+ ],
+ [
+  "Sigma baryon",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Star Formation",
+   "Stellar population"
+  ],
+  33,
+  626
+ ],
+ [
+  "Isobaric process",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Thermodynamics and Refrigeration",
+   "Psychrometrics"
+  ],
+  25,
+  509
+ ],
+ [
+  "Lepton number",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Astrochemistry and Astrostatistics",
+   "Nuclear spectroscopy"
+  ],
+  17,
+  308
+ ],
+ [
+  "Perturbation theory (quantum mechanics)",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Models",
+   "Strongly correlated material"
+  ],
+  29,
+  633
+ ],
+ [
+  "Quantum superposition",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Muon",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Environment",
+   "Interplanetary medium"
+  ],
+  25,
+  473
+ ],
+ [
+  "Ultraviolet astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic astronomy"
+  ],
+  34,
+  621
+ ],
+ [
+  "Outline of astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Outline of astronomy"
+  ],
+  13,
+  249
+ ],
+ [
+  "Cosmochemistry",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Astrochemistry and Astrostatistics",
+   "Astrochemistry"
+  ],
+  17,
+  308
+ ],
+ [
+  "Spin (particle physics)",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Spintronic"
+  ],
+  21,
+  435
+ ],
+ [
+  "Electric potential",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Electromechanical Devices",
+   "Inverter compressor"
+  ],
+  29,
+  580
+ ],
+ [
+  "Wave function collapse",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Nuclear power",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  9,
+  162
+ ],
+ [
+  "De Broglie\u2013Bohm theory",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Quantum critical point",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Spectroscope",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Von Neumann\u2013Wigner interpretation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Ginzburg\u2013Landau theory"
+  ],
+  22,
+  432
+ ],
+ [
+  "Pressure",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "State (thermodynamic)"
+  ],
+  28,
+  544
+ ],
+ [
+  "Electrical conductor",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Action (physics)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Third law of thermodynamics"
+  ],
+  28,
+  561
+ ],
+ [
+  "Continuum mechanics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Material Science",
+   "Crystal"
+  ],
+  37,
+  650
+ ],
+ [
+  "Atomic physics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Spring constant",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Electromechanical Devices",
+   "Inverter compressor"
+  ],
+  29,
+  580
+ ],
+ [
+  "Magdeburg hemispheres",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Gravitational-wave detector"
+  ],
+  29,
+  554
+ ],
+ [
+  "Calorimeter",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Properties of Materials",
+   "Interface and colloid science"
+  ],
+  19,
+  354
+ ],
+ [
+  "Quantum chromodynamics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Absolute zero",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "Temperature"
+  ],
+  28,
+  544
+ ],
+ [
+  "Asteroid belt",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Types of Celestial Bodies",
+   "Gas giant"
+  ],
+  21,
+  392
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  13,
+  249
+ ],
+ [
+  "Hexaquark",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Nuclear quadrupole resonance"
+  ],
+  9,
+  162
+ ],
+ [
+  "Vacuum pump",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Thermodynamics and Refrigeration",
+   "Vapor-compression refrigeration"
+  ],
+  25,
+  509
+ ],
+ [
+  "Stellar nucleosynthesis",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Stellar Evolution",
+   "Stellar nucleosynthesis"
+  ],
+  35,
+  642
+ ],
+ [
+  "Vacuum",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Vacuum"
+  ],
+  19,
+  369
+ ],
+ [
+  "Collider",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Exciton-polariton"
+  ],
+  29,
+  554
+ ],
+ [
+  "Scattering theory",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Mott scattering"
+  ],
+  12,
+  225
+ ],
+ [
+  "Neutrino oscillation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Multi-messenger Astronomy",
+   "Neutrino astronomy"
+  ],
+  30,
+  594
+ ],
+ [
+  "Topological insulator",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Hall Effects",
+   "Topological insulator"
+  ],
+  28,
+  581
+ ],
+ [
+  "Newton's third law",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Kinetic theory of gases"
+  ],
+  28,
+  561
+ ],
+ [
+  "Numerical computation",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Computational Techniques",
+   "Numerical computation"
+  ],
+  14,
+  274
+ ],
+ [
+  "Scientific law",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Third law of thermodynamics"
+  ],
+  28,
+  561
+ ],
+ [
+  "Electromagnetic force",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Electromechanical Devices",
+   "Inverter compressor"
+  ],
+  29,
+  580
+ ],
+ [
+  "Supersymmetry",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational collapse"
+  ],
+  30,
+  592
+ ],
+ [
+  "Optics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Wavelengths"
+  ],
+  12,
+  225
+ ],
+ [
+  "Gauge symmetry (mathematics)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Stellar population",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Stellar Motion and Properties",
+   "Stellar class"
+  ],
+  33,
+  617
+ ],
+ [
+  "Thermographic camera",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Flexoelectricity",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Electrical Properties",
+   "Ferroelectricity"
+  ],
+  20,
+  394
+ ],
+ [
+  "Infrared",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Radio wave"
+  ],
+  34,
+  631
+ ],
+ [
+  "Dielectric constant",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Magnetic susceptibility"
+  ],
+  18,
+  311
+ ],
+ [
+  "Cyclotron",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Magnetic fields"
+  ],
+  18,
+  311
+ ],
+ [
+  "Zero-point energy",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Superconducting magnet"
+  ],
+  35,
+  672
+ ],
+ [
+  "Green's function (many-body theory)",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Techniques",
+   "Green's function (many-body theory)"
+  ],
+  30,
+  671
+ ],
+ [
+  "Supermassive black hole",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Supermassive black hole"
+  ],
+  34,
+  621
+ ],
+ [
+  "Vapor-compression refrigeration",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Thermodynamics and Refrigeration",
+   "Vapor-compression refrigeration"
+  ],
+  25,
+  509
+ ],
+ [
+  "Elementary charge",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Vector boson",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Black hole thermodynamics",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational collapse"
+  ],
+  30,
+  592
+ ],
+ [
+  "Liquid",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Materials Structure",
+   "Fullerene"
+  ],
+  18,
+  350
+ ],
+ [
+  "Accelerator physics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Exciton-polariton"
+  ],
+  29,
+  554
+ ],
+ [
+  "Kepler's laws of planetary motion",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Three-body problem"
+  ],
+  12,
+  225
+ ],
+ [
+  "Pulsar",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Population III stars"
+  ],
+  34,
+  631
+ ],
+ [
+  "Einstein field equations",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Gravitational-wave astronomy"
+  ],
+  22,
+  432
+ ],
+ [
+  "Clausius theorem",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Thermodynamic equations"
+  ],
+  28,
+  561
+ ],
+ [
+  "Strong nuclear force",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Density",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Properties of Materials",
+   "Physical Properties of Materials",
+   "Density"
+  ],
+  32,
+  641
+ ],
+ [
+  "Self-consistency principle in high energy physics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Models",
+   "Strongly correlated material"
+  ],
+  29,
+  633
+ ],
+ [
+  "Spectral line",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Interstellar Matter",
+   "Interstellar medium"
+  ],
+  32,
+  605
+ ],
+ [
+  "Conservation law",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Thermodynamic potential"
+  ],
+  28,
+  561
+ ],
+ [
+  "Thermal physics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Dwarf star",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Stellar Motion and Properties",
+   "Stellar class"
+  ],
+  33,
+  617
+ ],
+ [
+  "Weak force",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Reduced density matrix",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Information in Many-Body Systems",
+   "Qubit"
+  ],
+  26,
+  564
+ ],
+ [
+  "Speed",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Air Movement in Buildings",
+   "Thermal wheel"
+  ],
+  22,
+  440
+ ],
+ [
+  "Collider",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Miscellaneous Physics Concepts",
+   "Exciton-polariton"
+  ],
+  29,
+  554
+ ],
+ [
+  "Angular frequency",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Electromechanical Devices",
+   "Inverter compressor"
+  ],
+  29,
+  580
+ ],
+ [
+  "Objective collapse theory",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Phonon polariton",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Phonon polariton"
+  ],
+  17,
+  337
+ ],
+ [
+  "Catastrophe theory",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Models",
+   "Strongly correlated material"
+  ],
+  29,
+  633
+ ],
+ [
+  "Hilbert space",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Many-Body Models",
+   "Strongly correlated material"
+  ],
+  29,
+  633
+ ],
+ [
+  "Rankine scale",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Systems and States",
+   "Thermodynamic system"
+  ],
+  25,
+  484
+ ],
+ [
+  "Galaxy groups and clusters",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Metric expansion of space"
+  ],
+  34,
+  631
+ ],
+ [
+  "Perturbed angular correlation",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Semimetal"
+  ],
+  13,
+  249
+ ],
+ [
+  "Fluid dynamics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Climate Control Systems",
+   "Thermostat"
+  ],
+  21,
+  425
+ ],
+ [
+  "Conduction electron",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Electron Theory and Models",
+   "Free electron model"
+  ],
+  18,
+  359
+ ],
+ [
+  "Internal energy",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Plane wave",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Electromagnetism",
+   "Electrodynamics"
+  ],
+  18,
+  311
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Theories",
+   "Kinetic theory of gases"
+  ],
+  28,
+  561
+ ],
+ [
+  "Klein\u2013Gordon equation",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Computational Science",
+   "Scientific computing"
+  ],
+  24,
+  487
+ ],
+ [
+  "POVM",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Many-Body Physics",
+   "Quantum Information in Many-Body Systems",
+   "Qubit"
+  ],
+  26,
+  564
+ ],
+ [
+  "Quantum phase transition",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Young's interference experiment",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Wavelengths"
+  ],
+  12,
+  225
+ ],
+ [
+  "Rubble pile",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Types of Celestial Bodies",
+   "Small Solar System body"
+  ],
+  21,
+  392
+ ],
+ [
+  "Heisenberg uncertainty principle",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "Stellar population",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Stellar Motion and Properties",
+   "Stellar class"
+  ],
+  33,
+  617
+ ],
+ [
+  "Heat transfer",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Building Physics and HVAC",
+   "Thermodynamics and Refrigeration",
+   "Conduction (heat)"
+  ],
+  25,
+  509
+ ],
+ [
+  "Harmonic oscillator",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Electromechanical Devices",
+   "Inverter compressor"
+  ],
+  29,
+  580
+ ],
+ [
+  "Phase transition",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "State (thermodynamic)"
+  ],
+  28,
+  544
+ ],
+ [
+  "Galactic astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Galaxy Types",
+   "Galactic astronomy"
+  ],
+  32,
+  603
+ ],
+ [
+  "Sigma baryon",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Nucleosynthesis"
+  ],
+  34,
+  631
+ ],
+ [
+  "Twistor theory",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Extragalactic Astronomy",
+   "Cosmic Components",
+   "Metric expansion of space"
+  ],
+  34,
+  631
+ ],
+ [
+  "Bose gas",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Rubble pile",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Properties of Materials",
+   "Granular material"
+  ],
+  19,
+  354
+ ],
+ [
+  "Equation of state",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Nuclear matter"
+  ],
+  28,
+  551
+ ],
+ [
+  "Next-to-Minimal Supersymmetric Standard Model",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "High Energy Astrophysics",
+   "Gravitational Phenomena",
+   "Gravitational waves"
+  ],
+  30,
+  592
+ ],
+ [
+  "Interplanetary medium",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Environment",
+   "Interplanetary medium"
+  ],
+  25,
+  473
+ ],
+ [
+  "Leptoquark",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Materials Science",
+   "Spectroscopy Techniques",
+   "Spectroscopy"
+  ],
+  21,
+  395
+ ],
+ [
+  "Relativistic mechanics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Point-contact transistor",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Engineering Physics",
+   "Appliances and Engineering",
+   "Electronic band structure"
+  ],
+  18,
+  337
+ ],
+ [
+  "Color confinement",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Graviphoton",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Gravitational-wave astronomy"
+  ],
+  22,
+  432
+ ],
+ [
+  "Conjugate variables (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Statistical Mechanics",
+   "Mean-field theory"
+  ],
+  19,
+  387
+ ],
+ [
+  "Wick's theorem",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Volatile organic compound"
+  ],
+  16,
+  300
+ ],
+ [
+  "Continuum mechanics",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Material Science",
+   "Crystal"
+  ],
+  37,
+  650
+ ],
+ [
+  "Quantum spin Hall effect",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Condensed Matter Physics",
+   "Quantum Physics in Condensed Matter",
+   "Quantum Hall Effects",
+   "Quantum spin Hall effect"
+  ],
+  28,
+  581
+ ],
+ [
+  "Thermodynamic temperature",
+  true,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "Thermodynamic temperature"
+  ],
+  28,
+  544
+ ],
+ [
+  "Newtonian telescope",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Observational Astronomy Techniques",
+   "Astronomical Instruments",
+   "Reflecting telescope"
+  ],
+  22,
+  432
+ ],
+ [
+  "Refractive index",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Particulates"
+  ],
+  35,
+  672
+ ],
+ [
+  "Black-body radiation",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Material Science",
+   "Material Science",
+   "Material Science",
+   "Material Structures and Phenomena",
+   "Physical Phenomena",
+   "Particulates"
+  ],
+  35,
+  672
+ ],
+ [
+  "Critical point (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Thermodynamics and Fluid Dynamics",
+   "Thermodynamic Properties",
+   "State (thermodynamic)"
+  ],
+  28,
+  544
+ ],
+ [
+  "Hubbard model",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Antiferromagnetism"
+  ],
+  16,
+  300
+ ],
+ [
+  "Annual Review of Nuclear and Particle Science",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Luttinger liquid"
+  ],
+  16,
+  300
+ ],
+ [
+  "Cosmic dust",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic and Extragalactic Astronomy",
+   "Galactic Astronomy",
+   "Interstellar Matter",
+   "Interstellar medium"
+  ],
+  32,
+  605
+ ],
+ [
+  "Planck constant",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Heisenberg uncertainty principle"
+  ],
+  12,
+  225
+ ],
+ [
+  "X and Y bosons",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Goldstone's theorem"
+  ],
+  12,
+  225
+ ],
+ [
+  "Feynman diagram",
+  false,
+  [
+   "Physics",
+   "Classic Physics",
+   "Material Properties",
+   "Luttinger liquid"
+  ],
+  16,
+  300
+ ]
+]
