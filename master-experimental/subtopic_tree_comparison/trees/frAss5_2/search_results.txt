@@ -1,0 +1,1539 @@
+[
+ [
+  "Bargmann\u2013Wigner equations",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum gates",
+   "Canonical quantization"
+  ],
+  34,
+  651
+ ],
+ [
+  "Thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Applications of Thermodynamics",
+   "Thermodynamics"
+  ],
+  19,
+  391
+ ],
+ [
+  "Ring system",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Types of Electromagnetic Waves",
+   "Visible light",
+   "Optics",
+   "Solar corona"
+  ],
+  28,
+  561
+ ],
+ [
+  "Photoluminescence",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Business applications",
+   "Business intelligence (BI)",
+   "Data analysis",
+   "Data visualization",
+   "Photoluminescence"
+  ],
+  37,
+  730
+ ],
+ [
+  "Angle",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Kinematics",
+   "Rotational motion",
+   "Moment of inertia",
+   "Angle"
+  ],
+  23,
+  328
+ ],
+ [
+  "Event horizon",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Black holes",
+   "Types",
+   "Binary black hole"
+  ],
+  24,
+  377
+ ],
+ [
+  "Nuclear fission",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum tunneling",
+   "Mechanism",
+   "Chemical mechanisms",
+   "Subtopic 5: Stereochemistry",
+   "Nuclear fusion"
+  ],
+  30,
+  594
+ ],
+ [
+  "Axino",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum teleportation",
+   "Quantum Entanglement",
+   "Applications in Quantum Computing",
+   "Dropleton"
+  ],
+  31,
+  564
+ ],
+ [
+  "Mathematical physics",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Hamiltonian Mechanics",
+   "Symplectic Geometry",
+   "Hamiltonian dynamics",
+   "Analytical mechanics"
+  ],
+  23,
+  394
+ ],
+ [
+  "Hamiltonian matrix",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Definition",
+   "Theoretical definition",
+   "Operational definition",
+   "Planck constant"
+  ],
+  26,
+  495
+ ],
+ [
+  "Boundary condition",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Basics of general relativity",
+   "Einstein's field equations",
+   "Einstein field equations"
+  ],
+  22,
+  383
+ ],
+ [
+  "Josephson effect",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Web applications",
+   "Web application security",
+   "Secure communication",
+   "Digital signatures",
+   "Tau (particle)"
+  ],
+  40,
+  692
+ ],
+ [
+  "Metric expansion of space",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Cosmology",
+   "Dark Energy",
+   "Metric expansion of space"
+  ],
+  25,
+  450
+ ],
+ [
+  "Quantum Entanglement",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Quantum entanglement",
+   "Einstein\u2013Podolsky\u2013Rosen paradox"
+  ],
+  22,
+  382
+ ],
+ [
+  "Astrometry",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Basics of general relativity",
+   "Curved spacetime",
+   "Geodesics",
+   "Astrometry"
+  ],
+  26,
+  442
+ ],
+ [
+  "Bohmian mechanics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Quantum mechanics",
+   "Quantum superposition",
+   "Quantum coherence",
+   "Atomic, molecular, and optical physics"
+  ],
+  35,
+  680
+ ],
+ [
+  "Meissner effect",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium and Temperature Scales",
+   "Heat transfer",
+   "Thermal Insulation",
+   "Thermoelectric effect"
+  ],
+  24,
+  428
+ ],
+ [
+  "Dwarf star",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Black holes",
+   "Characteristics",
+   "Stellar class"
+  ],
+  25,
+  385
+ ],
+ [
+  "Stellar population",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Cosmology",
+   "Formation of Galaxies",
+   "Star Formation",
+   "Stellar Evolution",
+   "Formation of Stars",
+   "Stellar population"
+  ],
+  40,
+  678
+ ],
+ [
+  "Weakly interacting massive particles",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Supply chain management",
+   "Quasar"
+  ],
+  26,
+  479
+ ],
+ [
+  "Newton's laws of motion",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Classical dynamics",
+   "Newton's laws of motion",
+   "Applications of Newton's laws",
+   "Dynamics",
+   "Newton's laws of motion"
+  ],
+  35,
+  583
+ ],
+ [
+  "Nuclear quadrupole resonance",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Project management",
+   "Monitoring and Controlling"
+  ],
+  30,
+  533
+ ],
+ [
+  "Radio wave",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Types of Electromagnetic Waves",
+   "Radio waves",
+   "Radio wave"
+  ],
+  24,
+  479
+ ],
+ [
+  "Bell test",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Experimental tests",
+   "Bell test"
+  ],
+  24,
+  403
+ ],
+ [
+  "Condensed matter physics",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Theory of relativity",
+   "Einstein's equations",
+   "Mathematical physics"
+  ],
+  18,
+  312
+ ],
+ [
+  "Rotating reference frame",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Quantum dynamics",
+   "Quantum coherence",
+   "Rotating reference frame"
+  ],
+  24,
+  381
+ ],
+ [
+  "Hamilton\u2013Jacobi equation",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Bell's theorem",
+   "Implications for quantum physics",
+   "Geometrical frustration"
+  ],
+  30,
+  522
+ ],
+ [
+  "Quantum coherence",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "Definition",
+   "Theoretical definition",
+   "Constructs",
+   "Quantum coherence"
+  ],
+  41,
+  777
+ ],
+ [
+  "Cyclotron",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Electromagnetism",
+   "Magnetism",
+   "Electromagnetism",
+   "Cyclotron"
+  ],
+  29,
+  499
+ ],
+ [
+  "Geometrical optics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Refraction",
+   "Geometrical optics"
+  ],
+  25,
+  480
+ ],
+ [
+  "Classical electromagnetism",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Electromagnetism",
+   "Electromagnetic Fields",
+   "Applications of electromagnetic fields",
+   "Electromagnetic compatibility",
+   "Classical electromagnetism"
+  ],
+  35,
+  702
+ ],
+ [
+  "Thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Applications of Thermodynamics",
+   "Thermodynamics"
+  ],
+  19,
+  391
+ ],
+ [
+  "Muon spin spectroscopy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Project management",
+   "Execution",
+   "Execution process",
+   "Nuclear spectroscopy"
+  ],
+  37,
+  701
+ ],
+ [
+  "T meson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Gaming applications",
+   "Online multiplayer gaming apps",
+   "Upsilon meson"
+  ],
+  27,
+  479
+ ],
+ [
+  "Adiabatic process",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat and Work",
+   "Thermodynamics Laws",
+   "First Law of Thermodynamics",
+   "Thermodynamic Systems",
+   "Thermodynamic process"
+  ],
+  31,
+  624
+ ],
+ [
+  "Electrostatics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electricity",
+   "Electromagnetism",
+   "Electric fields",
+   "Electric field intensity",
+   "Electrostatics"
+  ],
+  30,
+  567
+ ],
+ [
+  "Force carrier",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Quantum mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Supply chain management",
+   "Plasmaron"
+  ],
+  44,
+  780
+ ],
+ [
+  "Isotope",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Energy and Internal Energy",
+   "The First Law of Thermodynamics",
+   "Thermodynamic Systems",
+   "Thermodynamic properties",
+   "Pressure",
+   "Infrared spectroscopy"
+  ],
+  35,
+  703
+ ],
+ [
+  "Ising model",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Quantum mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Supply chain management",
+   "Plasmaron"
+  ],
+  44,
+  780
+ ],
+ [
+  "Magnetohydrodynamics",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Electromagnetism",
+   "Electromagnetic Fields",
+   "Applications of electromagnetic fields",
+   "Radar and sensing",
+   "Magnetron"
+  ],
+  34,
+  676
+ ],
+ [
+  "X-ray astronomy",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "Medical imaging",
+   "X-ray imaging",
+   "X-ray astronomy"
+  ],
+  26,
+  524
+ ],
+ [
+  "Quantum information",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum teleportation",
+   "Quantum Entanglement",
+   "Definition and Principles",
+   "Quantum information"
+  ],
+  26,
+  496
+ ],
+ [
+  "Sunspot cycle",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Statistical Mechanics",
+   "Quantum statistical mechanics",
+   "Grand canonical ensemble",
+   "Surface science"
+  ],
+  28,
+  597
+ ],
+ [
+  "Loschmidt's paradox",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive 3D models",
+   "Creation process",
+   "Cosmic inflation"
+  ],
+  36,
+  734
+ ],
+ [
+  "Cooper pair",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive simulations",
+   "Biology simulations",
+   "Genetic level simulations",
+   "Exotic atom"
+  ],
+  46,
+  887
+ ],
+ [
+  "Lodestone",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic materials",
+   "Ferromagnetic materials",
+   "Basic properties",
+   "Spontaneous magnetization"
+  ],
+  27,
+  491
+ ],
+ [
+  "Stern\u2013Gerlach experiment",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Experimental verifications",
+   "Laboratory experiments",
+   "Data collection and analysis",
+   "Experiments",
+   "Fermi gas"
+  ],
+  36,
+  651
+ ],
+ [
+  "Bose\u2013Einstein condensate",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive 3D models",
+   "Application in various industries",
+   "Healthcare",
+   "Healthcare technology",
+   "Artificial Intelligence in Healthcare",
+   "Drug discovery and development",
+   "Preclinical research",
+   "Superstring theory"
+  ],
+  62,
+  1231
+ ],
+ [
+  "Cathode rays",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Experimental verifications",
+   "Laboratory experiments",
+   "Equipment and materials",
+   "Hydrogen atom"
+  ],
+  32,
+  574
+ ],
+ [
+  "Beam splitter",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Applications of magnetism",
+   "Beam splitter"
+  ],
+  20,
+  345
+ ],
+ [
+  "Nuclear magnetic resonance",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic materials",
+   "Paramagnetic materials",
+   "Magnetic properties of paramagnetic materials",
+   "Magnetic susceptibility",
+   "Magnetic susceptibility"
+  ],
+  33,
+  756
+ ],
+ [
+  "X-ray astronomy",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "Medical imaging",
+   "X-ray imaging",
+   "X-ray astronomy"
+  ],
+  26,
+  524
+ ],
+ [
+  "Proton",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic materials",
+   "Diamagnetic materials",
+   "Diamagnetic"
+  ],
+  22,
+  389
+ ],
+ [
+  "Infrared spectroscopy",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Equilibrium and Temperature Scales",
+   "Heat transfer",
+   "Radiation",
+   "Radiation in technology",
+   "Radiation in imaging technology",
+   "Thermographic camera"
+  ],
+  33,
+  660
+ ],
+ [
+  "Electron",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "In various fields",
+   "Science",
+   "Chemistry",
+   "Electron"
+  ],
+  35,
+  485
+ ],
+ [
+  "Work (physics)",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Energy",
+   "Electricity Generation",
+   "Elasticity (physics)"
+  ],
+  18,
+  265
+ ],
+ [
+  "Curvaton",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Bell's theorem",
+   "Quantum mechanics",
+   "Quantum superposition",
+   "Quantum coherence",
+   "Feynman diagram"
+  ],
+  35,
+  680
+ ],
+ [
+  "Strong nuclear force",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Supply chain management",
+   "Quasar"
+  ],
+  26,
+  479
+ ],
+ [
+  "D meson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Business applications",
+   "Business intelligence (BI)",
+   "Predictive analytics",
+   "Data preprocessing",
+   "Superatom"
+  ],
+  38,
+  732
+ ],
+ [
+  "Topological charge",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Quantum teleportation",
+   "Quantum Entanglement",
+   "Definition and Principles",
+   "Quantum information"
+  ],
+  26,
+  496
+ ],
+ [
+  "Laws of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Applications of Thermodynamics",
+   "Classical thermodynamics"
+  ],
+  19,
+  391
+ ],
+ [
+  "\u00c5ngstrom",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetism",
+   "Magnetic materials",
+   "Antiferromagnetic materials",
+   "Crystallography"
+  ],
+  25,
+  445
+ ],
+ [
+  "Energy",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Energy and Internal Energy",
+   "The First Law of Thermodynamics",
+   "Thermodynamic Systems",
+   "Thermodynamic properties",
+   "Internal energy",
+   "Potential energy",
+   "Grand potential"
+  ],
+  36,
+  711
+ ],
+ [
+  "Physics education research",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Theory of relativity",
+   "Einstein's equations",
+   "Mathematical physics"
+  ],
+  18,
+  312
+ ],
+ [
+  "Electromagnetics",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Induction",
+   "Magnetic Flux",
+   "Magnetic Flux Linkage",
+   "X-ray spectroscopy"
+  ],
+  21,
+  357
+ ],
+ [
+  "Bose\u2013Einstein condensate",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive 3D models",
+   "Application in various industries",
+   "Healthcare",
+   "Healthcare technology",
+   "Artificial Intelligence in Healthcare",
+   "Drug discovery and development",
+   "Preclinical research",
+   "Superstring theory"
+  ],
+  62,
+  1231
+ ],
+ [
+  "Electron hole",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Bell's theorem",
+   "Implications for quantum physics",
+   "Down antiquark"
+  ],
+  30,
+  522
+ ],
+ [
+  "Down antiquark",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Experimental verifications",
+   "Laboratory experiments",
+   "Variables and controls"
+  ],
+  30,
+  549
+ ],
+ [
+  "Meissner effect",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Gaming applications",
+   "PC gaming apps",
+   "Performance optimization tools",
+   "Memory management",
+   "Meissner effect"
+  ],
+  39,
+  682
+ ],
+ [
+  "Ground-coupled heat exchanger",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat and Work",
+   "Temperature and Heat Transfer",
+   "Heat transfer"
+  ],
+  19,
+  378
+ ],
+ [
+  "Plane wave",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Properties of Electromagnetic Waves",
+   "Polarization",
+   "Plane wave"
+  ],
+  22,
+  479
+ ],
+ [
+  "Quantum superposition",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle of superposition",
+   "Definition",
+   "Quantum superposition"
+  ],
+  25,
+  455
+ ],
+ [
+  "Isotope",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Energy and Internal Energy",
+   "The First Law of Thermodynamics",
+   "Thermodynamic Systems",
+   "Thermodynamic properties",
+   "Pressure",
+   "Infrared spectroscopy"
+  ],
+  35,
+  703
+ ],
+ [
+  "Camera obscura",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Induction",
+   "Magnetic Flux",
+   "Magnetic Flux through a Surface",
+   "Pinhole camera"
+  ],
+  22,
+  370
+ ],
+ [
+  "Feynman diagram",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Wave-particle duality"
+  ],
+  20,
+  383
+ ],
+ [
+  "Nuclear spectroscopy",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Business applications",
+   "Project management",
+   "Monitoring and Controlling"
+  ],
+  30,
+  533
+ ],
+ [
+  "Perturbation theory (quantum mechanics)",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Double-slit experiment",
+   "Topological phase"
+  ],
+  21,
+  400
+ ],
+ [
+  "Photon",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Wave-particle duality",
+   "Quantum mechanics",
+   "Quantum entanglement",
+   "Symmetry (physics)"
+  ],
+  22,
+  401
+ ],
+ [
+  "Transport theory (statistical physics)",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Statistical Mechanics",
+   "Quantum statistical mechanics",
+   "Canonical ensemble",
+   "Green\u2013Kubo relations"
+  ],
+  26,
+  550
+ ],
+ [
+  "Irradiance",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Absorption",
+   "Radiation pressure"
+  ],
+  24,
+  466
+ ],
+ [
+  "Cryogenic",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Energy and Internal Energy",
+   "Thermal Equilibrium and Temperature Scales",
+   "Heat Transfer",
+   "Thermal Insulation",
+   "Psychrometrics"
+  ],
+  27,
+  570
+ ],
+ [
+  "Hydrogen atom",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Enhancing classroom learning"
+  ],
+  30,
+  583
+ ],
+ [
+  "Pomeron",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Bell's theorem",
+   "Implications for quantum physics",
+   "Gluino"
+  ],
+  30,
+  522
+ ],
+ [
+  "Radioactive decay",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive simulations",
+   "Biology simulations",
+   "Genetic level simulations",
+   "Beta decay"
+  ],
+  46,
+  887
+ ],
+ [
+  "Superconductor",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electricity",
+   "Insulators and conductors",
+   "Superconductor"
+  ],
+  20,
+  346
+ ],
+ [
+  "Boson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Definition",
+   "In various fields",
+   "Science",
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "Elementary particle"
+  ],
+  49,
+  796
+ ],
+ [
+  "Operator (physics)",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Principle of superposition",
+   "Applications in physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Operator (physics)"
+  ],
+  32,
+  555
+ ],
+ [
+  "Side lobe",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Interaction of Electromagnetic Waves with Matter",
+   "Scattering",
+   "Side lobe"
+  ],
+  25,
+  467
+ ],
+ [
+  "Planetary migration",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Quantum dynamics",
+   "Quantum entanglement",
+   "Applications",
+   "Planetary migration"
+  ],
+  30,
+  450
+ ],
+ [
+  "Thermodynamic system",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Energy and Internal Energy",
+   "The First Law of Thermodynamics",
+   "Thermodynamic Systems",
+   "Equilibrium in thermodynamic systems",
+   "Thermodynamic system"
+  ],
+  30,
+  669
+ ],
+ [
+  "Feynman diagram",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Ginzburg\u2013Landau theory"
+  ],
+  33,
+  629
+ ],
+ [
+  "Perturbation theory",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum computing",
+   "Quantum gates",
+   "Background field method"
+  ],
+  34,
+  651
+ ],
+ [
+  "W boson",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum computing",
+   "Bloch's theorem"
+  ],
+  31,
+  591
+ ],
+ [
+  "Polaron",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Quantum interference",
+   "Quantum superposition",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Bogoliubov quasiparticle"
+  ],
+  33,
+  621
+ ],
+ [
+  "Tetraquark",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Gaming applications",
+   "PC gaming apps",
+   "Modding tools",
+   "Modeling software",
+   "Simulation software",
+   "Hexaquark"
+  ],
+  45,
+  831
+ ],
+ [
+  "Standard Model of particle physics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive 3D models",
+   "Application in various industries",
+   "Healthcare",
+   "Healthcare technology",
+   "Artificial Intelligence in Healthcare",
+   "Drug discovery and development",
+   "Preclinical research",
+   "Antiparticle"
+  ],
+  62,
+  1231
+ ],
+ [
+  "Absolute time and space",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Theory of relativity",
+   "Space-time continuum",
+   "Spacetime"
+  ],
+  18,
+  305
+ ],
+ [
+  "Black hole thermodynamics",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Statistical Mechanics",
+   "Thermodynamic properties",
+   "Entropy",
+   "Statistical thermodynamics"
+  ],
+  30,
+  557
+ ],
+ [
+  "Muon neutrino",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "Applications",
+   "Educational applications",
+   "Virtual reality in education",
+   "Interactive simulations",
+   "Biology simulations",
+   "Genetic level simulations",
+   "Muon neutrino"
+  ],
+  46,
+  887
+ ],
+ [
+  "Top quark",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Bell's theorem",
+   "Implications for quantum physics",
+   "Down antiquark"
+  ],
+  30,
+  522
+ ]
+]

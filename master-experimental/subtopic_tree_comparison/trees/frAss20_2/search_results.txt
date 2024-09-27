@@ -1,0 +1,1207 @@
+[
+ [
+  "Quantum physics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Theoretical physics"
+  ],
+  51,
+  929
+ ],
+ [
+  "Quantum critical point",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum many-body systems",
+   "Quantum critical point"
+  ],
+  47,
+  842
+ ],
+ [
+  "X-ray diffraction",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Crystal structure",
+   "X-ray diffraction"
+  ],
+  46,
+  771
+ ],
+ [
+  "Color charge",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Quantum Chromodynamics",
+   "Color charge"
+  ],
+  47,
+  746
+ ],
+ [
+  "Twistor theory",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum field theory",
+   "Twistor theory"
+  ],
+  59,
+  1087
+ ],
+ [
+  "Self-consistency principle in high energy physics",
+  true,
+  [
+   "Physics",
+   "Quantum Field Theory",
+   "Renormalization",
+   "Self-consistency principle in high energy physics"
+  ],
+  43,
+  914
+ ],
+ [
+  "Nearly free electron model",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Electronic band structure",
+   "Nearly free electron model"
+  ],
+  54,
+  899
+ ],
+ [
+  "Polarization (waves)",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Polarization",
+   "Polarization (waves)"
+  ],
+  41,
+  585
+ ],
+ [
+  "Baryon",
+  false,
+  [
+   "Physics",
+   "Particle Physics",
+   "Quarks and Leptons",
+   "Baryon number"
+  ],
+  59,
+  898
+ ],
+ [
+  "Atmospheric thermodynamics",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Humidity"
+  ],
+  55,
+  864
+ ],
+ [
+  "Acceleration",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Newtonian dynamics"
+  ],
+  47,
+  709
+ ],
+ [
+  "X-ray telescope",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-Energy Astrophysics",
+   "X-ray telescope"
+  ],
+  52,
+  830
+ ],
+ [
+  "Beta decay",
+  true,
+  [
+   "Physics",
+   "Nuclear Physics",
+   "Radioactive decay",
+   "Beta decay"
+  ],
+  42,
+  640
+ ],
+ [
+  "Kinetic theory of gases",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Kinetic theory",
+   "Kinetic theory of gases"
+  ],
+  42,
+  858
+ ],
+ [
+  "Electromagnetic wave",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic waves",
+   "Electromagnetic wave"
+  ],
+  44,
+  729
+ ],
+ [
+  "Ultraviolet astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-Energy Astrophysics",
+   "Observational astronomy"
+  ],
+  52,
+  830
+ ],
+ [
+  "Electrostatics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric charge",
+   "Electrostatics"
+  ],
+  43,
+  699
+ ],
+ [
+  "Radar astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Astronomy",
+   "Radar astronomy"
+  ],
+  67,
+  1024
+ ],
+ [
+  "Tachyon",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum field theory",
+   "Tachyon"
+  ],
+  59,
+  1087
+ ],
+ [
+  "Optical lattice",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Ray Optics",
+   "Geometric optics"
+  ],
+  44,
+  642
+ ],
+ [
+  "Three-body problem",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Planetary Motion",
+   "Three-body problem"
+  ],
+  42,
+  601
+ ],
+ [
+  "Scanning tunneling microscope",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Experimental techniques in solid state physics",
+   "Scanning tunneling microscope"
+  ],
+  43,
+  750
+ ],
+ [
+  "Weakly interacting massive particles",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum many-body systems",
+   "Ground state"
+  ],
+  47,
+  842
+ ],
+ [
+  "Ferroelectricity",
+  false,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Optical properties",
+   "Flexoelectricity"
+  ],
+  45,
+  769
+ ],
+ [
+  "Evaporator",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Refrigerators",
+   "Evaporator"
+  ],
+  43,
+  674
+ ],
+ [
+  "Gravitation",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General relativity",
+   "Gravitation"
+  ],
+  50,
+  852
+ ],
+ [
+  "Plasmon",
+  true,
+  [
+   "Physics",
+   "Plasma Physics",
+   "Plasmon"
+  ],
+  25,
+  377
+ ],
+ [
+  "Planck's law",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Radiation",
+   "Black-body radiation"
+  ],
+  43,
+  662
+ ],
+ [
+  "Ferromagnet",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Magnetic properties",
+   "Ferromagnet"
+  ],
+  57,
+  950
+ ],
+ [
+  "Gaugino",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Supersymmetry",
+   "Gaugino"
+  ],
+  44,
+  754
+ ],
+ [
+  "Bayesian inference",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Statistical mechanics of complex systems",
+   "Bayesian inference"
+  ],
+  42,
+  836
+ ],
+ [
+  "Mean-field approximation",
+  true,
+  [
+   "Physics",
+   "Statistical Mechanics",
+   "Phase transitions",
+   "Mean-field approximation"
+  ],
+  45,
+  878
+ ],
+ [
+  "Hyperfine splitting",
+  true,
+  [
+   "Physics",
+   "Nuclear Physics",
+   "Nuclear structure",
+   "Hyperfine splitting"
+  ],
+  42,
+  645
+ ],
+ [
+  "Dwarf star",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "White Dwarfs",
+   "Dwarf star"
+  ],
+  42,
+  623
+ ],
+ [
+  "Quantum tunnelling",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum tunneling",
+   "Quantum tunnelling"
+  ],
+  42,
+  728
+ ],
+ [
+  "Optoelectronics",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Light Sources",
+   "Light-emitting diode"
+  ],
+  45,
+  616
+ ],
+ [
+  "Computational particle physics",
+  false,
+  [
+   "Physics",
+   "Computational Physics",
+   "Computational physics"
+  ],
+  31,
+  490
+ ],
+ [
+  "Fermi Gamma-ray Space Telescope",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-Energy Astrophysics",
+   "Fermi Gamma-ray Space Telescope"
+  ],
+  52,
+  830
+ ],
+ [
+  "Tetraquark",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Mesons",
+   "Tetraquark"
+  ],
+  75,
+  946
+ ],
+ [
+  "Lambda baryon",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Baryons",
+   "Lambda baryon"
+  ],
+  71,
+  925
+ ],
+ [
+  "Poincar\u00e9 group",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Lorentz transformations",
+   "Poincar\u00e9 group"
+  ],
+  45,
+  773
+ ],
+ [
+  "Space",
+  true,
+  [
+   "Physics",
+   "Cosmology",
+   "Black Holes",
+   "Space"
+  ],
+  50,
+  837
+ ],
+ [
+  "Electrostatic precipitator",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Applications of electromagnetism",
+   "Electrostatic precipitator"
+  ],
+  46,
+  762
+ ],
+ [
+  "Speed of light",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Special relativity",
+   "Speed of light"
+  ],
+  43,
+  731
+ ],
+ [
+  "String (physics)",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum field theory",
+   "String (physics)"
+  ],
+  59,
+  1087
+ ],
+ [
+  "Fluid mechanics",
+  true,
+  [
+   "Physics",
+   "Fluid Mechanics",
+   "Fluid mechanics equations",
+   "Fluid mechanics"
+  ],
+  42,
+  613
+ ],
+ [
+  "Nanometer",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Nanomaterials",
+   "Nanometer"
+  ],
+  46,
+  753
+ ],
+ [
+  "Pomeron",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Bosons",
+   "Pomeron"
+  ],
+  63,
+  863
+ ],
+ [
+  "Diquark",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Baryons",
+   "Diquark"
+  ],
+  71,
+  925
+ ],
+ [
+  "W and Z bosons",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Electroweak Theory",
+   "W and Z bosons"
+  ],
+  49,
+  786
+ ],
+ [
+  "Paramagnetic",
+  true,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Nuclear magnetic resonance",
+   "Paramagnetic"
+  ],
+  47,
+  784
+ ],
+ [
+  "Modern Quantum Mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum computing",
+   "Modern Quantum Mechanics"
+  ],
+  48,
+  838
+ ],
+ [
+  "Plasma (physics)",
+  true,
+  [
+   "Physics",
+   "Plasma Physics",
+   "Plasma (physics)"
+  ],
+  25,
+  377
+ ],
+ [
+  "Second law of thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Second law of thermodynamics"
+  ],
+  56,
+  965
+ ],
+ [
+  "Stellar population",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic Astronomy",
+   "Stellar Populations",
+   "Galaxy morphological classification"
+  ],
+  62,
+  979
+ ],
+ [
+  "Dropleton",
+  false,
+  [
+   "Physics",
+   "Condensed Matter Physics",
+   "Condensed matter physics"
+  ],
+  31,
+  491
+ ],
+ [
+  "Spectroscopy",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Spectroscopy",
+   "Spectroscopy"
+  ],
+  44,
+  628
+ ],
+ [
+  "Blackbody radiation",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Radiation",
+   "Blackbody radiation"
+  ],
+  43,
+  662
+ ],
+ [
+  "Lepton",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Quarks and Leptons",
+   "Lepton"
+  ],
+  59,
+  898
+ ],
+ [
+  "Meson",
+  true,
+  [
+   "Physics",
+   "Particle Physics",
+   "Elementary Particles",
+   "Mesons",
+   "Meson"
+  ],
+  75,
+  946
+ ],
+ [
+  "Redshift survey",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic Astronomy",
+   "Galactic Survey",
+   "Redshift survey"
+  ],
+  63,
+  984
+ ],
+ [
+  "Tight binding model",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Electronic band structure",
+   "Tight binding model"
+  ],
+  54,
+  899
+ ],
+ [
+  "Electron microscope",
+  true,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Electron microscopy",
+   "Electron microscope"
+  ],
+  43,
+  728
+ ],
+ [
+  "Drude model",
+  false,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Semiconductor physics",
+   "Rubidium"
+  ],
+  47,
+  798
+ ],
+ [
+  "Roche limit",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Magnetospheres",
+   "Magnetosphere"
+  ],
+  61,
+  947
+ ],
+ [
+  "Catastrophe theory",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Biophysics"
+  ],
+  25,
+  373
+ ],
+ [
+  "Radio astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic Astronomy",
+   "Interstellar Medium",
+   "Radio astronomy"
+  ],
+  66,
+  1016
+ ],
+ [
+  "Accretion disk",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Black Holes",
+   "Accretion (astrophysics)"
+  ],
+  42,
+  649
+ ],
+ [
+  "Hydrogen",
+  true,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Atomic structure",
+   "Hydrogen"
+  ],
+  45,
+  750
+ ],
+ [
+  "Solar physics",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar Evolution",
+   "Main sequence stars",
+   "Solar physics"
+  ],
+  65,
+  1038
+ ],
+ [
+  "Synergetics (Haken)",
+  false,
+  [
+   "Physics",
+   "Nuclear Physics",
+   "Nuclear models",
+   "Nuclear physics"
+  ],
+  47,
+  735
+ ],
+ [
+  "Ultraviolet astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-Energy Astrophysics",
+   "Observational astronomy"
+  ],
+  52,
+  830
+ ],
+ [
+  "Parabola",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Geometrical Optics",
+   "Parabola"
+  ],
+  41,
+  573
+ ],
+ [
+  "Bogoliubov quasiparticle",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Superconductivity",
+   "Bogoliubov quasiparticle"
+  ],
+  53,
+  937
+ ],
+ [
+  "Theory of heat",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Heat Transfer",
+   "Theory of heat"
+  ],
+  55,
+  864
+ ],
+ [
+  "Electrical conduction",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric current",
+   "Electrical conduction"
+  ],
+  42,
+  690
+ ],
+ [
+  "Samarium",
+  false,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Atomic structure",
+   "Atoms"
+  ],
+  45,
+  750
+ ],
+ [
+  "X-radiation",
+  true,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Electron microscopy",
+   "X-radiation"
+  ],
+  43,
+  728
+ ],
+ [
+  "Randall\u2013Sundrum model",
+  true,
+  [
+   "Physics",
+   "Cosmology",
+   "Multiverse",
+   "Randall\u2013Sundrum model"
+  ],
+  41,
+  716
+ ],
+ [
+  "Continuum mechanics",
+  true,
+  [
+   "Physics",
+   "Fluid Mechanics",
+   "Fluid mechanics equations",
+   "Continuum mechanics"
+  ],
+  42,
+  613
+ ],
+ [
+  "Cosmic distance ladder",
+  false,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Chemical bonding"
+  ],
+  40,
+  671
+ ],
+ [
+  "Laser guide star",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Holography"
+  ],
+  40,
+  565
+ ],
+ [
+  "Pneumatics",
+  false,
+  [
+   "Physics",
+   "Fluid Mechanics",
+   "Fluid dynamics",
+   "Fluid dynamics"
+  ],
+  47,
+  671
+ ],
+ [
+  "Degenerate energy levels",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Symmetry in solids",
+   "Degenerate energy levels"
+  ],
+  43,
+  758
+ ],
+ [
+  "Quantum physics",
+  false,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum superposition",
+   "Theoretical physics"
+  ],
+  51,
+  929
+ ],
+ [
+  "Astrometry",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Astrometry"
+  ],
+  56,
+  890
+ ],
+ [
+  "Ferroelectricity",
+  true,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Dielectric properties",
+   "Ferroelectricity"
+  ],
+  41,
+  710
+ ],
+ [
+  "Thermodynamic free energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Gibbs Free Energy",
+   "Thermodynamic free energy"
+  ],
+  43,
+  675
+ ],
+ [
+  "Mechanics of planar particle motion",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Dynamics",
+   "Newtonian dynamics"
+  ],
+  47,
+  709
+ ],
+ [
+  "Molecular dynamics",
+  true,
+  [
+   "Physics",
+   "Molecular Physics",
+   "Molecular dynamics",
+   "Molecular dynamics"
+  ],
+  42,
+  700
+ ],
+ [
+  "Chromosphere",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar Evolution",
+   "Main sequence stars",
+   "Chromosphere"
+  ],
+  65,
+  1038
+ ],
+ [
+  "Topological charge",
+  false,
+  [
+   "Physics",
+   "Cosmology",
+   "Black Holes",
+   "Einstein field equations"
+  ],
+  50,
+  837
+ ],
+ [
+  "Ring system",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary Rings"
+  ],
+  60,
+  934
+ ],
+ [
+  "Piezoelectricity",
+  false,
+  [
+   "Physics",
+   "Solid State Physics",
+   "Dielectric properties",
+   "Ferroelectricity"
+  ],
+  41,
+  710
+ ],
+ [
+  "Euler's laws",
+  false,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Rotational Motion",
+   "Rotating reference frame"
+  ],
+  44,
+  637
+ ],
+ [
+  "Lorentz symmetry",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Lorentz transformations",
+   "Lorentz symmetry"
+  ],
+  45,
+  773
+ ],
+ [
+  "Hydrogen atom",
+  true,
+  [
+   "Physics",
+   "Quantum Mechanics",
+   "Quantum optics",
+   "Hydrogen atom"
+  ],
+  53,
+  903
+ ],
+ [
+  "Euler's equations (rigid body dynamics)",
+  true,
+  [
+   "Physics",
+   "Classical Mechanics",
+   "Rigid Body Dynamics",
+   "Euler's equations (rigid body dynamics)"
+  ],
+  57,
+  878
+ ],
+ [
+  "Michelson\u2013Morley experiment",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Physical optics"
+  ],
+  48,
+  683
+ ],
+ [
+  "Magnetic fields",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic field",
+   "Magnetic fields"
+  ],
+  54,
+  852
+ ]
+]

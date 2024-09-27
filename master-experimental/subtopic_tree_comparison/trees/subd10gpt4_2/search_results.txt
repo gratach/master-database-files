@@ -1,0 +1,1461 @@
+[
+ [
+  "Exponential decay",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Quantum tunnelling"
+  ],
+  23,
+  468
+ ],
+ [
+  "Ion implantation",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Interface and colloid science"
+  ],
+  17,
+  424
+ ],
+ [
+  "Hamiltonian matrix",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Bloch's theorem",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Quantum and Particle Physics",
+   "Material Science - Quantum Mechanics",
+   "Quantum States and Energy",
+   "Quantum States",
+   "Excited state"
+  ],
+  40,
+  932
+ ],
+ [
+  "Quantum electronics",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Optical physics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Refractive index"
+  ],
+  23,
+  468
+ ],
+ [
+  "Impulse (physics)",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Formulations of Classical Mechanics",
+   "Analytical mechanics"
+  ],
+  47,
+  949
+ ],
+ [
+  "Fundamental thermodynamic relation",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Chemical thermodynamics"
+  ],
+  33,
+  631
+ ],
+ [
+  "Numerical computation",
+  true,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Numerical computation"
+  ],
+  17,
+  397
+ ],
+ [
+  "Nuclear power",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Mott scattering",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Nuclear spectroscopy"
+  ],
+  23,
+  468
+ ],
+ [
+  "Meson",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Nuclear spectroscopy"
+  ],
+  23,
+  468
+ ],
+ [
+  "Neutrino astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Astrophysical Phenomena",
+   "Structure of the Universe",
+   "Spin foam"
+  ],
+  37,
+  730
+ ],
+ [
+  "Moment of inertia",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Foundations of Classical Mechanics",
+   "Concepts in Classical Mechanics",
+   "Forces and Dynamics",
+   "Newtonian Mechanics",
+   "Newtonian dynamics"
+  ],
+  59,
+  1216
+ ],
+ [
+  "Black hole",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galactic Astronomy",
+   "Supermassive black hole"
+  ],
+  41,
+  782
+ ],
+ [
+  "Telescope",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Astronomical Techniques",
+   "Observational Astronomy",
+   "Telescope Technology",
+   "Optical telescope"
+  ],
+  39,
+  785
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Point-contact transistor"
+  ],
+  17,
+  397
+ ],
+ [
+  "Real gas",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Interface and colloid science"
+  ],
+  17,
+  424
+ ],
+ [
+  "Nuclear force",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Quantum and Particle Physics",
+   "Material Science - Particle Physics",
+   "Charged particle"
+  ],
+  32,
+  745
+ ],
+ [
+  "Wave theory of light",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Refractive index"
+  ],
+  23,
+  468
+ ],
+ [
+  "Electron paramagnetic resonance",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Wiedemann-Franz law",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Spintronic"
+  ],
+  17,
+  397
+ ],
+ [
+  "Exotic hadron",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Quantum and Particle Physics",
+   "Material Science - Particle Physics",
+   "Charged particle"
+  ],
+  32,
+  745
+ ],
+ [
+  "Speed of light",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Astrophysical Phenomena",
+   "Structure of the Universe",
+   "Electromagnetic spectrum"
+  ],
+  37,
+  730
+ ],
+ [
+  "Unitarity (physics)",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Quantum Theories and Interpretations",
+   "Objective collapse theory"
+  ],
+  37,
+  872
+ ],
+ [
+  "Photoluminescence",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Spectroscopy"
+  ],
+  27,
+  640
+ ],
+ [
+  "Conduction electron",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Spintronic"
+  ],
+  17,
+  397
+ ],
+ [
+  "Supernova nucleosynthesis",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "End Stages of Stars",
+   "Supernova nucleosynthesis"
+  ],
+  39,
+  815
+ ],
+ [
+  "Hydrogen atom",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Composition and Structure",
+   "Stellar nucleosynthesis"
+  ],
+  45,
+  923
+ ],
+ [
+  "Mach\u2013Zehnder interferometer",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Magnetic field",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Fundamental Electromagnetic Principles",
+   "Electromagnetic field"
+  ],
+  65,
+  1359
+ ],
+ [
+  "Biophysics",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Interface and colloid science"
+  ],
+  17,
+  424
+ ],
+ [
+  "Submillimetre astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Types of Astronomy",
+   "Submillimetre astronomy"
+  ],
+  33,
+  679
+ ],
+ [
+  "Aharonov\u2013Bohm effect",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Astrophysical Phenomena",
+   "Structure of the Universe",
+   "Spin foam"
+  ],
+  37,
+  730
+ ],
+ [
+  "Electromagnetics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Fundamental Electromagnetic Principles",
+   "Electromagnetic theory"
+  ],
+  65,
+  1359
+ ],
+ [
+  "Free fall",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Applications of Classical Mechanics",
+   "Free fall"
+  ],
+  49,
+  937
+ ],
+ [
+  "Weak hypercharge",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Quantum and Particle Physics",
+   "Material Science - Particle Physics",
+   "Charged particle"
+  ],
+  32,
+  745
+ ],
+ [
+  "Lodestone",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Earth's magnetic field"
+  ],
+  23,
+  476
+ ],
+ [
+  "Weak interaction",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Quantum tunnelling"
+  ],
+  23,
+  468
+ ],
+ [
+  "Axion",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Strange quark",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Quantum and Particle Physics",
+   "Material Science - Particle Physics",
+   "Charged particle"
+  ],
+  32,
+  745
+ ],
+ [
+  "Nuclear fusion",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Evolution",
+   "Main-sequence star"
+  ],
+  40,
+  829
+ ],
+ [
+  "\u00c5ngstrom",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Material Science",
+   "Material Science - Properties of Materials",
+   "Crystallography"
+  ],
+  34,
+  751
+ ],
+ [
+  "Mechanics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Foundations of Classical Mechanics",
+   "Concepts in Classical Mechanics",
+   "Fundamental Principles in Mechanics",
+   "Newtonian mechanics"
+  ],
+  57,
+  1206
+ ],
+ [
+  "Frost line (astrophysics)",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Planetary Science",
+   "Planetary Features",
+   "Atmosphere"
+  ],
+  35,
+  695
+ ],
+ [
+  "Exotic particle",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Lambda baryon"
+  ],
+  23,
+  476
+ ],
+ [
+  "Weakly interacting massive particles",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Quantum tunnelling",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Quantum tunnelling"
+  ],
+  23,
+  468
+ ],
+ [
+  "Maxwell's demon",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Quantum tunnelling"
+  ],
+  23,
+  468
+ ],
+ [
+  "Color confinement",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Quantum Theories and Interpretations",
+   "Quantum nonlocality"
+  ],
+  37,
+  872
+ ],
+ [
+  "Wavelengths",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Types of Astronomy",
+   "Far-infrared astronomy"
+  ],
+  33,
+  679
+ ],
+ [
+  "Sunspot cycle",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Solar Astronomy",
+   "Solar physics"
+  ],
+  31,
+  606
+ ],
+ [
+  "Laser spectroscopy",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "M\u00f6ssbauer spectroscopy"
+  ],
+  17,
+  397
+ ],
+ [
+  "Boundary condition",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Finite difference"
+  ],
+  40,
+  735
+ ],
+ [
+  "Charge conjugation",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Ground state",
+  false,
+  [
+   "Physics",
+   "Geometrical frustration"
+  ],
+  8,
+  195
+ ],
+ [
+  "Randall\u2013Sundrum model",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Cosmology",
+   "Physical cosmology"
+  ],
+  37,
+  773
+ ],
+ [
+  "Action (physics)",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Quantum dynamics"
+  ],
+  23,
+  468
+ ],
+ [
+  "Atmospheric physics",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Atmospheric thermodynamics"
+  ],
+  23,
+  476
+ ],
+ [
+  "Chromosphere",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Solar Astronomy",
+   "Chromosphere"
+  ],
+  31,
+  606
+ ],
+ [
+  "Electron paramagnetic resonance",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Infrared astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Specific Wavelength Astronomy",
+   "Infrared astronomy"
+  ],
+  35,
+  687
+ ],
+ [
+  "Reversing valve",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Tesla (unit)"
+  ],
+  17,
+  397
+ ],
+ [
+  "Rigid body",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Foundations of Classical Mechanics",
+   "Concepts in Classical Mechanics",
+   "Forces and Dynamics",
+   "Newtonian Mechanics",
+   "Newtonian dynamics"
+  ],
+  59,
+  1216
+ ],
+ [
+  "Grand potential",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Quantum Phenomena",
+   "Macroscopic quantum phenomena"
+  ],
+  35,
+  811
+ ],
+ [
+  "Solar wind",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Composition and Structure",
+   "Stellar structure"
+  ],
+  45,
+  923
+ ],
+ [
+  "Supermassive black hole",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galactic Astronomy",
+   "Supermassive black hole"
+  ],
+  41,
+  782
+ ],
+ [
+  "Frequency",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Spintronic"
+  ],
+  17,
+  397
+ ],
+ [
+  "Active galaxy",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galaxy Types and Structures",
+   "Types of Active Galaxies",
+   "Active galactic nuclei"
+  ],
+  39,
+  771
+ ],
+ [
+  "Kepler's laws",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galactic Astronomy",
+   "Stellar population"
+  ],
+  41,
+  782
+ ],
+ [
+  "Elliptical galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galaxy Types and Structures",
+   "Galaxy Morphology",
+   "Elliptical galaxy"
+  ],
+  41,
+  825
+ ],
+ [
+  "Accretion (astrophysics)",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Black Hole Astrophysics",
+   "Black Hole Systems",
+   "Accretion (astrophysics)"
+  ],
+  39,
+  824
+ ],
+ [
+  "Thermal efficiency",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Fluid Dynamics",
+   "Volume (thermodynamics)"
+  ],
+  27,
+  538
+ ],
+ [
+  "Astroparticle physics",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "POVM",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Glueball",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Active galactic nuclei",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galactic Astronomy",
+   "Supermassive black hole"
+  ],
+  41,
+  782
+ ],
+ [
+  "Asteroid",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Small Solar System body"
+  ],
+  23,
+  476
+ ],
+ [
+  "Interstellar medium",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galactic Astronomy",
+   "Interstellar medium"
+  ],
+  41,
+  782
+ ],
+ [
+  "Electromagnetic field",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Fundamental Electromagnetic Principles",
+   "Electromagnetic field"
+  ],
+  65,
+  1359
+ ],
+ [
+  "Non-linear dynamics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Synergetics (Haken)"
+  ],
+  33,
+  631
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Galaxy Types and Structures",
+   "Galaxy Morphology",
+   "Spiral galaxy"
+  ],
+  41,
+  825
+ ],
+ [
+  "Magnetostatics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Fundamental Electromagnetic Principles",
+   "Magnetic fields"
+  ],
+  65,
+  1359
+ ],
+ [
+  "Routhian mechanics",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Formulations of Classical Mechanics",
+   "Routhian mechanics"
+  ],
+  47,
+  949
+ ],
+ [
+  "Optical astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "General Astronomy",
+   "Astronomy"
+  ],
+  31,
+  613
+ ],
+ [
+  "Electrodynamics",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Quantum Aspects in Electrodynamics",
+   "Electrodynamics"
+  ],
+  64,
+  1327
+ ],
+ [
+  "Hydrogen atom",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Astronomical Instruments and Techniques",
+   "Astrophysical Phenomena",
+   "Structure of the Universe",
+   "Electromagnetic spectrum"
+  ],
+  37,
+  730
+ ],
+ [
+  "Electron microscope",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Numerical computation"
+  ],
+  17,
+  397
+ ],
+ [
+  "Baryon asymmetry",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Quantum Phenomena",
+   "Symmetry breaking"
+  ],
+  35,
+  811
+ ],
+ [
+  "Biophysics",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Quantum Mechanics and Related Phenomena",
+   "Quantum Theories and Interpretations",
+   "Objective collapse theory"
+  ],
+  37,
+  872
+ ],
+ [
+  "Work (physics)",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Applications of Classical Mechanics",
+   "Gravity"
+  ],
+  49,
+  937
+ ],
+ [
+  "Beam splitter",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Electronics and Computational Methods",
+   "Qubit"
+  ],
+  17,
+  397
+ ],
+ [
+  "Space physics",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Time crystal",
+  false,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Theoretical Astronomy",
+   "Astrophysics",
+   "Particle Astrophysics",
+   "Nucleosynthesis"
+  ],
+  38,
+  761
+ ],
+ [
+  "Lorentz force",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetic Theory",
+   "Magnetic Phenomena",
+   "Electromagnetism and Electrodynamics",
+   "Fundamental Electromagnetic Principles",
+   "Electromagnetic theory"
+  ],
+  65,
+  1359
+ ],
+ [
+  "Momentum",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Foundations of Classical Mechanics",
+   "Concepts in Classical Mechanics",
+   "Work and Energy in Mechanics",
+   "Moment of inertia"
+  ],
+  54,
+  1145
+ ],
+ [
+  "Geometric optics",
+  false,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Refractive index"
+  ],
+  23,
+  468
+ ],
+ [
+  "Nucleation",
+  false,
+  [
+   "Physics",
+   "Interdisciplinary Sciences Related to Physics",
+   "Physical Phenomena and Materials Science",
+   "Interface and colloid science"
+  ],
+  17,
+  424
+ ],
+ [
+  "Planck constant",
+  true,
+  [
+   "Physics",
+   "Branches of Physics",
+   "Branches of Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Physics",
+   "Quantum Mechanics",
+   "Foundations of Quantum Mechanics",
+   "Quantum Theoretical Concepts",
+   "Foundational Concepts in Quantum Mechanics",
+   "Planck constant"
+  ],
+  71,
+  1417
+ ],
+ [
+  "Star",
+  true,
+  [
+   "Physics",
+   "Astrophysics and Space Science",
+   "Space Science",
+   "Astronomy & Cosmology",
+   "Branches of Astronomy",
+   "Stellar Astronomy",
+   "Stellar Properties",
+   "Star"
+  ],
+  39,
+  714
+ ]
+]

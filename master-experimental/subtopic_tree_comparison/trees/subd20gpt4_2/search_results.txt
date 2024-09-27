@@ -1,0 +1,1302 @@
+[
+ [
+  "Tesla (unit)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Electromagnetism",
+   "Electromagnetism"
+  ],
+  41,
+  704
+ ],
+ [
+  "Band theory",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Atomic Physics",
+   "Paramagnetic"
+  ],
+  31,
+  484
+ ],
+ [
+  "Strongly correlated material",
+  true,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Material Science",
+   "Strongly correlated material"
+  ],
+  35,
+  577
+ ],
+ [
+  "Micro black hole",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Antimatter and Exotic Matter",
+   "Exotic particle"
+  ],
+  48,
+  870
+ ],
+ [
+  "Fundamental thermodynamic relation",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Metric expansion of space",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "Cosmology",
+   "Cosmological Models",
+   "Metric expansion of space"
+  ],
+  50,
+  945
+ ],
+ [
+  "Gauge symmetry (mathematics)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Gauge symmetry"
+  ],
+  47,
+  951
+ ],
+ [
+  "Photo-electric effect",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Atomic, Molecular, and Optical Physics",
+   "Atomic and Molecular Physics",
+   "Quantum Mechanics and Its Applications",
+   "Quantum Phenomena",
+   "Bohr\u2013Van Leeuwen theorem"
+  ],
+  60,
+  1289
+ ],
+ [
+  "Maxwell's equations",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Relativistic quantum mechanics"
+  ],
+  47,
+  951
+ ],
+ [
+  "Volume (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Measurement in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Atomic, Molecular, and Optical Physics",
+   "Atomic and Molecular Physics",
+   "Quantum Mechanics and Its Applications",
+   "Quantum States and Effects",
+   "Quantum state"
+  ],
+  53,
+  1092
+ ],
+ [
+  "Theoretical physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Operator (physics)"
+  ],
+  47,
+  951
+ ],
+ [
+  "Tau (particle)",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Standard Model Particles",
+   "Leptons",
+   "Tau (particle)"
+  ],
+  48,
+  846
+ ],
+ [
+  "Quantum chromodynamics",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Quantum Field Theory",
+   "Particle Physics",
+   "Quantum chromodynamics"
+  ],
+  57,
+  1120
+ ],
+ [
+  "Observational astronomy",
+  false,
+  [
+   "Physics",
+   "Extragalactic astronomy"
+  ],
+  16,
+  258
+ ],
+ [
+  "Nuclear quadrupole resonance",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Nuclear Physics and Reactions",
+   "Nuclear quadrupole resonance"
+  ],
+  49,
+  986
+ ],
+ [
+  "Momentum",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Forces in Motion",
+   "Collision"
+  ],
+  54,
+  974
+ ],
+ [
+  "Sensible heat",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Heat Transfer",
+   "Thermodynamic variable"
+  ],
+  35,
+  561
+ ],
+ [
+  "Loschmidt's paradox",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Statistical Physics",
+   "Statistical mechanics"
+  ],
+  43,
+  820
+ ],
+ [
+  "Vacuum state",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Ghost (physics)"
+  ],
+  47,
+  951
+ ],
+ [
+  "Klein\u2013Gordon equation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Relativistic quantum mechanics"
+  ],
+  47,
+  951
+ ],
+ [
+  "Carnot engine",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Thermal mass",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Heat Transfer",
+   "Vapor-compression refrigeration"
+  ],
+  35,
+  561
+ ],
+ [
+  "Nuclear power",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Nuclear Applications",
+   "Nuclear power"
+  ],
+  40,
+  787
+ ],
+ [
+  "Entropy",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Solar corona",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "Cosmology",
+   "Astrophysical Objects",
+   "Supernova"
+  ],
+  53,
+  978
+ ],
+ [
+  "Ultraviolet astronomy",
+  false,
+  [
+   "Physics",
+   "Extragalactic astronomy"
+  ],
+  16,
+  258
+ ],
+ [
+  "Mesoscopic physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Particles and Excitations",
+   "Quantum Effects and Phenomena",
+   "Quantum Hall effect"
+  ],
+  55,
+  1095
+ ],
+ [
+  "Neurophysics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Spin (physics)"
+  ],
+  29,
+  539
+ ],
+ [
+  "Weak interaction",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Quantum Field Theory",
+   "Particle Physics",
+   "Weak interaction"
+  ],
+  57,
+  1120
+ ],
+ [
+  "Nuclear astrophysics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "Astrophysics",
+   "Quantum Physics and Field Theories",
+   "M-theory"
+  ],
+  57,
+  1059
+ ],
+ [
+  "Phase (matter)",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Atomic Physics",
+   "Paramagnetism"
+  ],
+  31,
+  484
+ ],
+ [
+  "Virial theorem",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Laws and Principles",
+   "Newtonian Mechanics",
+   "Ordinary differential equation"
+  ],
+  52,
+  959
+ ],
+ [
+  "Jiangmen Underground Neutrino Observatory",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Neutrino Physics",
+   "Jiangmen Underground Neutrino Observatory"
+  ],
+  47,
+  925
+ ],
+ [
+  "Exotic particle",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Antimatter and Exotic Matter",
+   "Exotic particle"
+  ],
+  48,
+  870
+ ],
+ [
+  "Analytical dynamics",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Specific Motion Types and Effects",
+   "Rigid body dynamics"
+  ],
+  48,
+  847
+ ],
+ [
+  "Synergetics (Haken)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Interpretations and Phenomena",
+   "Quantum Theories",
+   "Quantum critical point"
+  ],
+  38,
+  759
+ ],
+ [
+  "Collision",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Specific Motion Types and Effects",
+   "Rigid body dynamics"
+  ],
+  48,
+  847
+ ],
+ [
+  "Optical fibres",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Atomic, Molecular, and Optical Physics",
+   "Optical fibres"
+  ],
+  30,
+  566
+ ],
+ [
+  "Celestial body",
+  true,
+  [
+   "Physics",
+   "Celestial body"
+  ],
+  16,
+  258
+ ],
+ [
+  "Condensed matter physics",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Material Science",
+   "Metallurgy"
+  ],
+  35,
+  577
+ ],
+ [
+  "Electronic band structure",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Particles and Excitations",
+   "Quantum Effects and Phenomena",
+   "Quantum spin Hall effect"
+  ],
+  55,
+  1095
+ ],
+ [
+  "Absolute zero",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Electrostriction",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Ferroelectricity"
+  ],
+  37,
+  706
+ ],
+ [
+  "Jupiter trojan",
+  false,
+  [
+   "Physics",
+   "Celestial body"
+  ],
+  16,
+  258
+ ],
+ [
+  "Magnetic field",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Atomic Physics",
+   "Orbital magnetization"
+  ],
+  31,
+  484
+ ],
+ [
+  "Delta baryon",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Standard Model Particles",
+   "Baryons",
+   "Delta baryon"
+  ],
+  52,
+  895
+ ],
+ [
+  "Thermodynamic free energy",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Psychophysics",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Optics",
+   "Optics"
+  ],
+  30,
+  526
+ ],
+ [
+  "Electromagnetic force",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Electromagnetism",
+   "Electromagnetism"
+  ],
+  41,
+  704
+ ],
+ [
+  "Latent heat",
+  true,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Heat Transfer",
+   "Latent heat"
+  ],
+  35,
+  561
+ ],
+ [
+  "Numerical computation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Mathematical Methods in Physics",
+   "Transport theory (statistical physics)"
+  ],
+  32,
+  622
+ ],
+ [
+  "Continuum mechanics",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Fluid Dynamics",
+   "Fluid Dynamics",
+   "General Fluid Dynamics",
+   "Continuum mechanics"
+  ],
+  41,
+  689
+ ],
+ [
+  "Physical optics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Mechanics",
+   "Bohmian mechanics"
+  ],
+  50,
+  1013
+ ],
+ [
+  "Thermostat",
+  false,
+  [
+   "Physics",
+   "Psychrometrics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Scientific law",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Electromagnetism",
+   "Maxwell relations"
+  ],
+  41,
+  704
+ ],
+ [
+  "Third law of thermodynamics",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Thermal efficiency",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Cosmic string",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "Cosmology",
+   "Special Phenomena and Theories",
+   "Galaxy formation and evolution"
+  ],
+  57,
+  1087
+ ],
+ [
+  "Latent heat",
+  true,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Heat Transfer",
+   "Latent heat"
+  ],
+  35,
+  561
+ ],
+ [
+  "Weak isospin",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Quantum Field Theory",
+   "Particle Physics",
+   "Electroweak interaction"
+  ],
+  57,
+  1120
+ ],
+ [
+  "Finite difference",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Fluid Dynamics",
+   "Fluid Dynamics",
+   "Computational Fluid Dynamics",
+   "Finite difference"
+  ],
+  39,
+  665
+ ],
+ [
+  "Isentropic process",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Flexoelectricity",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Ferroelectricity"
+  ],
+  37,
+  706
+ ],
+ [
+  "Schr\u00f6dinger equation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Mechanics and Theory",
+   "Quantum physics"
+  ],
+  48,
+  935
+ ],
+ [
+  "Condensed matter physics",
+  false,
+  [
+   "Physics",
+   "Physics of Matter",
+   "Material Science",
+   "Metallurgy"
+  ],
+  35,
+  577
+ ],
+ [
+  "X and Y bosons",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Standard Model Particles",
+   "Bosons",
+   "X and Y bosons"
+  ],
+  51,
+  893
+ ],
+ [
+  "Galilean relativity",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "General Concepts of Motion",
+   "Galilean relativity"
+  ],
+  44,
+  795
+ ],
+ [
+  "Cosmic microwave background",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "Cosmology",
+   "Cosmological Backgrounds",
+   "Cosmic microwave background"
+  ],
+  50,
+  976
+ ],
+ [
+  "Laser guide star",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Research and Techniques",
+   "X-ray laser"
+  ],
+  47,
+  856
+ ],
+ [
+  "Planetary nebula",
+  false,
+  [
+   "Physics",
+   "Extragalactic astronomy"
+  ],
+  16,
+  258
+ ],
+ [
+  "Chern class",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Mathematical Methods in Physics",
+   "Electromagnetic wave"
+  ],
+  32,
+  622
+ ],
+ [
+  "Orbital mechanics",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Specific Motion Types and Effects",
+   "Celestial dynamics"
+  ],
+  48,
+  847
+ ],
+ [
+  "Lorentz force",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Electromagnetism",
+   "Electromagnetism"
+  ],
+  41,
+  704
+ ],
+ [
+  "Irradiance",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Endoreversible thermodynamics"
+  ],
+  30,
+  568
+ ],
+ [
+  "Special theory of relativity",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Mechanics",
+   "Plane wave"
+  ],
+  50,
+  1013
+ ],
+ [
+  "Spectral line",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Atomic, Molecular, and Optical Physics",
+   "Atomic and Molecular Physics",
+   "Quantum Mechanics and Its Applications",
+   "Quantum Phenomena",
+   "Hyperfine structure"
+  ],
+  60,
+  1289
+ ],
+ [
+  "Photometry (astronomy)",
+  false,
+  [
+   "Physics",
+   "Apparent magnitude"
+  ],
+  16,
+  258
+ ],
+ [
+  "Quantum chromodynamics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Particle Physics Theory and Computation",
+   "Physics of Particles and Fields",
+   "Quantum Field Theory",
+   "Quark model"
+  ],
+  54,
+  1105
+ ],
+ [
+  "The Feynman Lectures on Physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Relativistic quantum mechanics"
+  ],
+  47,
+  951
+ ],
+ [
+  "Precision tests of QED",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Relativistic quantum mechanics"
+  ],
+  47,
+  951
+ ],
+ [
+  "Bohr model",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Atomic, Molecular, and Optical Physics",
+   "Atomic and Molecular Physics",
+   "Quantum Mechanics and Its Applications",
+   "Quantum Theory and Equations",
+   "Rydberg formula"
+  ],
+  52,
+  1130
+ ],
+ [
+  "Electroweak interaction",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Quantum Field Theory",
+   "Symmetry and Gauge Theory",
+   "Electroweak theory"
+  ],
+  59,
+  1235
+ ],
+ [
+  "Evaporator",
+  false,
+  [
+   "Physics",
+   "Atmosphere"
+  ],
+  16,
+  258
+ ],
+ [
+  "Noether's theorem",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Field Theory",
+   "Gauge symmetry"
+  ],
+  47,
+  951
+ ],
+ [
+  "Thermodynamic free energy",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Forces in Motion",
+   "Centrifugal force (fictitious)"
+  ],
+  54,
+  974
+ ],
+ [
+  "Thermodynamic equations",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Josephson effect",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Superconductivity",
+   "Superconductivity"
+  ],
+  52,
+  1001
+ ],
+ [
+  "Symmetry in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Mechanics",
+   "Qubit"
+  ],
+  50,
+  1013
+ ],
+ [
+  "Polaron",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Particles and Excitations",
+   "Quantum Excitations",
+   "Polaron"
+  ],
+  52,
+  983
+ ],
+ [
+  "Eta meson",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Particle and Nuclear Physics",
+   "Particle and Nuclear Physics",
+   "Standard Model Particles",
+   "Mesons",
+   "Eta meson"
+  ],
+  54,
+  902
+ ],
+ [
+  "Enthalpy",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astronomy and Astrophysics",
+   "General Astronomy",
+   "Astrophysical Concepts",
+   "Far-infrared astronomy"
+  ],
+  56,
+  1023
+ ],
+ [
+  "Bridgman's thermodynamic equations",
+  false,
+  [
+   "Physics",
+   "Laws of thermodynamics"
+  ],
+  16,
+  258
+ ],
+ [
+  "Principle of covariance",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Electromagnetism",
+   "Electromagnetism"
+  ],
+  41,
+  704
+ ],
+ [
+  "Strongly correlated material",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Particles and Excitations",
+   "Quantum Effects and Phenomena",
+   "Kondo effect"
+  ],
+  55,
+  1095
+ ],
+ [
+  "Canonical momentum",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Classical Mechanics",
+   "Classical Mechanics",
+   "Motion and Forces",
+   "Forces in Motion",
+   "Kinetics (physics)"
+  ],
+  54,
+  974
+ ],
+ [
+  "Quantum nonlocality",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Theoretical and Mathematical Physics",
+   "Quantum Interpretations and Phenomena",
+   "Quantum Paradoxes",
+   "Einstein\u2013Podolsky\u2013Rosen paradox"
+  ],
+  39,
+  799
+ ],
+ [
+  "Solid-state physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Condensed Matter Physics",
+   "Solid State Physics",
+   "Electron Properties and Behavior",
+   "Quantum Particles and Excitations",
+   "Quantum Effects and Phenomena",
+   "Quantum spin Hall effect"
+  ],
+  55,
+  1095
+ ]
+]

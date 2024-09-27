@@ -1,0 +1,59 @@
+Adding term Theory of heat to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics
+Insert term Theory of heat normal
+Adding term Thermal efficiency to subtopic tree
+Navigate to subtopic Fluid dynamics
+Navigate to subtopic Fluid dynamics
+Navigate to subtopic Fluid mechanics
+Insert term Thermal efficiency normal
+Adding term Thermal expansion to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics
+Subdivide at Classical thermodynamics
+Start subdivide
+Insert multiple Classical thermodynamics
+Insert multiple Heat transfer
+Insert multiple Thermal properties
+Adding term Thermal expansion valve to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics
+Stop Navigation
+Insert term Thermal expansion valve normal
+Adding term Thermal insulation to subtopic tree
+Navigate to subtopic Environmental physics
+Insert term Thermal insulation normal
+Adding term Thermal mass to subtopic tree
+Navigate to subtopic Environmental physics
+Subdivide at Environmental physics
+Start subdivide
+Insert multiple Environmental physics
+Insert multiple Renewable energy
+Insert multiple Atmospheric phenomena
+Insert multiple Chemical physics
+Insert multiple Electrostatics
+Insert multiple Fluid dynamics
+Insert multiple Thermodynamics
+Insert remaining Physical oceanography
+Adding term Thermal wheel to subtopic tree
+Stop Navigation
+Insert term Thermal wheel normal
+Adding term Thermodynamic cycle to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics
+Navigate to subtopic Classical thermodynamics
+Insert term Thermodynamic cycle normal
+Adding term Thermodynamic equations to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics
+Navigate to subtopic Classical thermodynamics
+Insert term Thermodynamic equations normal
+Adding term Thermodynamic equilibrium to subtopic tree
+Navigate to subtopic Physics
+Navigate to subtopic Thermal physics
+Navigate to subtopic Classical thermodynamics

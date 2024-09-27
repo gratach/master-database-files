@@ -163,7 +163,8 @@
      "Isentropic process": null,
      "Isobaric process": null,
      "Mass flow rate": null,
-     "Real gas": null
+     "Real gas": null,
+     "Thermal efficiency": null
     },
     "Hydrostatics": null,
     "Magnetohydrodynamics": null,
@@ -749,20 +750,37 @@
    "Graviphoton": null
   },
   "Environmental physics": {
-   "Atmospheric physics": null,
-   "Energy": null,
-   "Lightning": null,
-   "Molecule": null,
-   "Photovoltaics": null,
-   "Physical oceanography": null,
-   "Atmospheric thermodynamics": null,
-   "Electrostatic precipitator": null,
-   "Humidity": null,
-   "Outgassing": null,
-   "Particulates": null,
-   "Psychrometrics": null,
-   "Refrigerant": null,
-   "Stack effect": null
+   "Environmental physics": {
+    "Atmospheric physics": null,
+    "Atmospheric thermodynamics": null,
+    "Humidity": null,
+    "Outgassing": null,
+    "Particulates": null,
+    "Thermal insulation": null,
+    "Thermal mass": null
+   },
+   "Renewable energy": {
+    "Energy": null,
+    "Photovoltaics": null
+   },
+   "Atmospheric phenomena": {
+    "Lightning": null,
+    "Electrostatic precipitator": null
+   },
+   "Chemical physics": {
+    "Molecule": null,
+    "Refrigerant": null
+   },
+   "Electrostatics": {},
+   "Fluid dynamics": {
+    "Stack effect": null
+   },
+   "Thermodynamics": {
+    "Psychrometrics": null
+   },
+   "Physical oceanography": {
+    "Physical oceanography": null
+   }
   },
   "Accelerator physics": {
    "Accelerator physics": {
@@ -848,20 +866,31 @@
      "Internal energy": null
     },
     "Classical thermodynamics": {
-     "Barometer": null,
-     "Boyle's Law": null,
-     "First law of thermodynamics": null,
-     "Gas laws": null,
-     "Heat": null,
-     "Heat capacity": null,
-     "Heat exchanger": null,
-     "Ideal gas law": null,
-     "Latent heat": null,
-     "Laws of thermodynamics": null,
-     "Reversible process (thermodynamics)": null,
-     "Second law of thermodynamics": null,
-     "Standard temperature and pressure": null,
-     "State (thermodynamic)": null
+     "Classical thermodynamics": {
+      "Boyle's Law": null,
+      "Gas laws": null,
+      "Heat capacity": null,
+      "Ideal gas law": null,
+      "Laws of thermodynamics": null,
+      "Reversible process (thermodynamics)": null,
+      "Second law of thermodynamics": null,
+      "Standard temperature and pressure": null,
+      "State (thermodynamic)": null,
+      "Theory of heat": null,
+      "Thermodynamic cycle": null,
+      "Thermodynamic equations": null
+     },
+     "Heat transfer": {
+      "Barometer": null,
+      "Heat": null,
+      "Heat exchanger": null,
+      "Latent heat": null
+     },
+     "Thermal properties": {
+      "First law of thermodynamics": null,
+      "Thermal expansion": null
+     },
+     "Thermal expansion valve": null
     },
     "Black-body radiation": {
      "Superfluid": null
@@ -906,6 +935,7 @@
    "Experiment": null,
    "Ghost (physics)": null,
    "Newton (unit)": null
-  }
+  },
+  "Thermal wheel": null
  }
 }

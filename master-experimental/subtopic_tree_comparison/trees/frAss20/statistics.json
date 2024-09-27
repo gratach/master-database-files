@@ -1,10 +1,10 @@
 {
  "numberLeafNodes": 1038,
- "averageDepthOfLeafNodes": 4.110789980732177,
- "averageDepthOfLeafNodesError": 0.017195008539115268,
- "numberJunctionNodes": 237,
- "averageNumberOfSubbranchesPerSupportingJunctionNode": 4.379746835443038,
- "averageNumberOfSubbranchesPerSupportingJunctionNodeError": 0.2704095780981796,
+ "averageDepthOfLeafNodes": 3.1107899807321773,
+ "averageDepthOfLeafNodesError": 0.017195008539115243,
+ "numberJunctionNodes": 257,
+ "averageNumberOfSubbranchesPerSupportingJunctionNode": 5.525291828793774,
+ "averageNumberOfSubbranchesPerSupportingJunctionNodeError": 0.35799829568948216,
  "averageSubJunctionNodesPerJunctionNodeWithSubJunctionNodes": 19.1,
  "averageSubJunctionNodesPerJunctionNodeWithSubJunctionNodesError": 0.9539392014169459
 }

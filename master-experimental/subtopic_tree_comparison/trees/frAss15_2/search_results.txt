@@ -1,0 +1,1228 @@
+[
+ [
+  "Dilaton",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Gravitational Time Dilation",
+   "Dilaton"
+  ],
+  31,
+  484
+ ],
+ [
+  "Radio telescope",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Extragalactic Astrophysics",
+   "Galactic Magnetic Fields",
+   "Radio astronomy"
+  ],
+  46,
+  787
+ ],
+ [
+  "Electromagnetic spectrum",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Electromagnetic spectrum"
+  ],
+  43,
+  605
+ ],
+ [
+  "Positronium",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum mechanics interpretations",
+   "Hidden variables theories",
+   "Schr\u00f6dinger equation"
+  ],
+  55,
+  1028
+ ],
+ [
+  "Pomeron",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Bosons",
+   "Pomeron"
+  ],
+  52,
+  595
+ ],
+ [
+  "Roche limit",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Planetary Science",
+   "Planetary rings"
+  ],
+  44,
+  755
+ ],
+ [
+  "Theoretical physics",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum decoherence",
+   "Loschmidt's paradox"
+  ],
+  37,
+  638
+ ],
+ [
+  "Down antiquark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Quarks",
+   "Quark Antiparticles",
+   "Down antiquark"
+  ],
+  50,
+  719
+ ],
+ [
+  "Catastrophe theory",
+  true,
+  [
+   "Physics",
+   "Biophysics",
+   "Biomechanics",
+   "Catastrophe theory"
+  ],
+  31,
+  501
+ ],
+ [
+  "Quantum spin Hall effect",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum optics",
+   "Quantum information",
+   "Fractional quantum Hall effect"
+  ],
+  50,
+  887
+ ],
+ [
+  "Pauli exclusion principle",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum states",
+   "Probability",
+   "Electron volt"
+  ],
+  45,
+  771
+ ],
+ [
+  "Magnetic monopole",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Fields",
+   "Magnetic monopole"
+  ],
+  43,
+  625
+ ],
+ [
+  "Axion",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Bosons",
+   "Axion"
+  ],
+  52,
+  595
+ ],
+ [
+  "Kinetic theory of gases",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Thermodynamic Systems",
+   "Ideal gas law"
+  ],
+  51,
+  834
+ ],
+ [
+  "Axino",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "Quantum Field Theory",
+   "Supersymmetric Quantum Field Theory"
+  ],
+  45,
+  814
+ ],
+ [
+  "Down quark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Quarks",
+   "Quark Types",
+   "Down quark"
+  ],
+  50,
+  705
+ ],
+ [
+  "Wave theory of light",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Wave Optics",
+   "Wave theory of light"
+  ],
+  40,
+  521
+ ],
+ [
+  "Grand potential",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in Thermodynamics",
+   "Grand potential"
+  ],
+  54,
+  973
+ ],
+ [
+  "Gauge boson",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Bosons",
+   "Gauge boson"
+  ],
+  38,
+  482
+ ],
+ [
+  "Newtonian fluid",
+  true,
+  [
+   "Physics",
+   "Fluid dynamics",
+   "Viscosity",
+   "Newtonian fluid"
+  ],
+  32,
+  459
+ ],
+ [
+  "Nebulae",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Extragalactic Astrophysics",
+   "Interstellar Medium in Galaxies",
+   "Nebulae"
+  ],
+  51,
+  878
+ ],
+ [
+  "Electron neutrino",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Neutrinos",
+   "Muon neutrino"
+  ],
+  51,
+  612
+ ],
+ [
+  "Biophysics",
+  true,
+  [
+   "Physics",
+   "Biophysics",
+   "Quantitative Biology",
+   "Biophysics"
+  ],
+  34,
+  556
+ ],
+ [
+  "Stellar nucleosynthesis",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Nucleosynthesis",
+   "Stellar nucleosynthesis"
+  ],
+  48,
+  793
+ ],
+ [
+  "Magnetic fields",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Fields",
+   "Magnetic fields"
+  ],
+  43,
+  625
+ ],
+ [
+  "Isentropic process",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Isentropic process"
+  ],
+  43,
+  693
+ ],
+ [
+  "Classical thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Laws of Thermodynamics",
+   "Thermodynamic Systems",
+   "Classical thermodynamics"
+  ],
+  51,
+  834
+ ],
+ [
+  "Thermal mass",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Expansion",
+   "Thermal mass"
+  ],
+  34,
+  511
+ ],
+ [
+  "Time crystal",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Time crystal"
+  ],
+  41,
+  681
+ ],
+ [
+  "Down antiquark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Quarks",
+   "Quark Antiparticles",
+   "Down antiquark"
+  ],
+  50,
+  719
+ ],
+ [
+  "Crystal",
+  true,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Crystal structure",
+   "Crystal"
+  ],
+  36,
+  552
+ ],
+ [
+  "Apparent magnitude",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar Astrophysics",
+   "Stellar Atmospheres",
+   "Apparent magnitude"
+  ],
+  47,
+  755
+ ],
+ [
+  "Fermi liquid theory",
+  false,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Electron states in solids",
+   "Electronic band structure",
+   "Luttinger liquid"
+  ],
+  60,
+  978
+ ],
+ [
+  "X and Y bosons",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Bosons",
+   "X and Y bosons"
+  ],
+  38,
+  482
+ ],
+ [
+  "Pressure",
+  true,
+  [
+   "Physics",
+   "Fluid dynamics",
+   "Bernoulli's principle",
+   "Pressure"
+  ],
+  31,
+  433
+ ],
+ [
+  "Measurement in quantum mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum measurement",
+   "Measurement in quantum mechanics"
+  ],
+  36,
+  608
+ ],
+ [
+  "Lorentz symmetry",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Lorentz Transformation",
+   "Lorentz symmetry"
+  ],
+  32,
+  510
+ ],
+ [
+  "Conduction electron",
+  false,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Electron states in solids",
+   "Electronic band structure",
+   "Electronic band structure"
+  ],
+  60,
+  978
+ ],
+ [
+  "Pendulum (mechanics)",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Simple Harmonic Motion",
+   "Pendulum (mechanics)"
+  ],
+  35,
+  487
+ ],
+ [
+  "\u00c5ngstrom",
+  true,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Crystal structure",
+   "\u00c5ngstrom"
+  ],
+  36,
+  552
+ ],
+ [
+  "Supersymmetry",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Unified Field Theories",
+   "Supersymmetry"
+  ],
+  33,
+  475
+ ],
+ [
+  "Work (thermodynamics)",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic Processes",
+   "Work (thermodynamics)"
+  ],
+  43,
+  693
+ ],
+ [
+  "Gravitational constant",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Black Holes",
+   "Gravitational singularity"
+  ],
+  34,
+  546
+ ],
+ [
+  "Electroweak theory",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "Quantum Field Theory",
+   "Symmetries in Quantum Field Theory"
+  ],
+  45,
+  814
+ ],
+ [
+  "Pulsar",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Neutron Stars",
+   "Pulsar"
+  ],
+  32,
+  464
+ ],
+ [
+  "Bayesian inference",
+  false,
+  [
+   "Physics",
+   "Biophysics",
+   "Computational Biophysics",
+   "Psychophysics"
+  ],
+  31,
+  496
+ ],
+ [
+  "High-temperature superconductivity",
+  false,
+  [
+   "Physics",
+   "Nuclear physics",
+   "Nuclear astrophysics",
+   "Samarium"
+  ],
+  31,
+  460
+ ],
+ [
+  "Mathematical physics",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Hamiltonian (quantum mechanics)"
+  ],
+  41,
+  681
+ ],
+ [
+  "Hyperfine structure",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum optics",
+   "Quantum information",
+   "Hyperfine structure"
+  ],
+  50,
+  887
+ ],
+ [
+  "Phase space formulation",
+  false,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Dynamics",
+   "Dynamical system"
+  ],
+  44,
+  645
+ ],
+ [
+  "Field (physics)",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric Fields",
+   "Field (physics)"
+  ],
+  34,
+  513
+ ],
+ [
+  "Ferroelectricity",
+  false,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Magnetic properties",
+   "Ferromagnetism"
+  ],
+  42,
+  619
+ ],
+ [
+  "Canonical commutation relation",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Heisenberg uncertainty principle"
+  ],
+  37,
+  661
+ ],
+ [
+  "Newtonian mechanics",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Newton's Laws of Motion",
+   "Newtonian mechanics"
+  ],
+  41,
+  582
+ ],
+ [
+  "Maxwell's demon",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Permittivity and Permeability",
+   "Maxwell's demon"
+  ],
+  35,
+  527
+ ],
+ [
+  "Cosmic microwave background radiation",
+  false,
+  [
+   "Physics",
+   "Cosmology",
+   "Observable Universe",
+   "Reionization"
+  ],
+  32,
+  484
+ ],
+ [
+  "Positronium",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum optics",
+   "Quantum superposition",
+   "Bose\u2013Einstein condensate"
+  ],
+  46,
+  798
+ ],
+ [
+  "X-ray diffraction",
+  true,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Crystal structure",
+   "X-ray diffraction"
+  ],
+  36,
+  552
+ ],
+ [
+  "Two New Sciences",
+  false,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Rotational Motion",
+   "Conservation of Angular Momentum",
+   "Rotating reference frame"
+  ],
+  46,
+  688
+ ],
+ [
+  "Rubidium",
+  false,
+  [
+   "Physics",
+   "Nuclear physics",
+   "Nuclear astrophysics",
+   "Samarium"
+  ],
+  31,
+  460
+ ],
+ [
+  "Einstein field equations",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Einstein's Field Equations",
+   "Einstein field equations"
+  ],
+  31,
+  501
+ ],
+ [
+  "Celestial dynamics",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic Dynamics",
+   "Celestial dynamics"
+  ],
+  33,
+  495
+ ],
+ [
+  "Noether's theorem",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Einstein's Field Equations",
+   "Einstein field equations"
+  ],
+  31,
+  501
+ ],
+ [
+  "Relativistic mechanics",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Special Relativity",
+   "Relativistic mechanics"
+  ],
+  39,
+  662
+ ],
+ [
+  "Dynamic equilibrium",
+  false,
+  [
+   "Physics",
+   "Fluid dynamics",
+   "Vorticity"
+  ],
+  30,
+  425
+ ],
+ [
+  "Thermosiphon",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Convection"
+  ],
+  30,
+  450
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Electromagnetics"
+  ],
+  44,
+  645
+ ],
+ [
+  "Meson",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Mesons",
+   "Meson"
+  ],
+  59,
+  643
+ ],
+ [
+  "Rubidium",
+  false,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Semiconductors",
+   "Tunnel diode"
+  ],
+  31,
+  475
+ ],
+ [
+  "X-ray spectroscopy",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "X-ray spectroscopy"
+  ],
+  44,
+  645
+ ],
+ [
+  "Bohmian mechanics",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum mechanics interpretations",
+   "De Broglie-Bohm interpretation",
+   "Bohmian mechanics"
+  ],
+  47,
+  883
+ ],
+ [
+  "Annual Review of Nuclear and Particle Science",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "String Theory"
+  ],
+  30,
+  397
+ ],
+ [
+  "Spacetime topology",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Curved Space-Time",
+   "Gravity"
+  ],
+  31,
+  484
+ ],
+ [
+  "Finite difference",
+  true,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Transport properties",
+   "Finite difference"
+  ],
+  39,
+  615
+ ],
+ [
+  "Ferroelectricity",
+  true,
+  [
+   "Physics",
+   "Solid-state physics",
+   "Crystal defects",
+   "Ferroelectricity"
+  ],
+  35,
+  522
+ ],
+ [
+  "Tangential speed",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Circular Motion",
+   "Tangential speed"
+  ],
+  34,
+  469
+ ],
+ [
+  "Radio telescope",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Astrochemistry",
+   "Molecular cloud"
+  ],
+  32,
+  475
+ ],
+ [
+  "Tachyon",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum field theory",
+   "Quantum fields",
+   "Tachyon"
+  ],
+  49,
+  873
+ ],
+ [
+  "Photovoltaics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric Fields",
+   "Photovoltaics"
+  ],
+  34,
+  513
+ ],
+ [
+  "Gibbs free energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in Thermodynamics",
+   "Gibbs free energy"
+  ],
+  54,
+  973
+ ],
+ [
+  "Weak isospin",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Standard Model",
+   "Weak isospin"
+  ],
+  41,
+  630
+ ],
+ [
+  "Extragalactic astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Extragalactic Astrophysics",
+   "Galaxy Formation and Evolution",
+   "Extragalactic astronomy"
+  ],
+  49,
+  828
+ ],
+ [
+  "Spectroscopy",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Optical Instruments",
+   "Spectroscopy"
+  ],
+  35,
+  452
+ ],
+ [
+  "Supersymmetry",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "Quantum Field Theory",
+   "Supersymmetric Quantum Field Theory"
+  ],
+  45,
+  814
+ ],
+ [
+  "Topological phase",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum optics",
+   "Quantum information",
+   "Fractional quantum Hall effect"
+  ],
+  50,
+  887
+ ],
+ [
+  "Frame of reference",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Frame of Reference",
+   "Frame of reference"
+  ],
+  34,
+  539
+ ],
+ [
+  "Rydberg formula",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum optics",
+   "Quantum tomography"
+  ],
+  45,
+  774
+ ],
+ [
+  "Fractional quantum Hall effect",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum information",
+   "Quantum information science"
+  ],
+  34,
+  568
+ ],
+ [
+  "Maxwell's thermodynamic surface",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermal Radiation",
+   "Energy density"
+  ],
+  36,
+  548
+ ],
+ [
+  "Leptoquark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Quarks",
+   "Leptoquark"
+  ],
+  55,
+  634
+ ],
+ [
+  "Relativistic mechanics",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Special Relativity",
+   "Relativistic mechanics"
+  ],
+  39,
+  662
+ ],
+ [
+  "Cosmic dust",
+  true,
+  [
+   "Physics",
+   "Cosmology",
+   "Observable Universe",
+   "Cosmic dust"
+  ],
+  32,
+  484
+ ],
+ [
+  "Synchrotron emission",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Synchrotron radiation"
+  ],
+  44,
+  645
+ ],
+ [
+  "Lepton number",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Leptons",
+   "Lepton number"
+  ],
+  34,
+  445
+ ],
+ [
+  "General relativity",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General Relativity",
+   "General relativity"
+  ],
+  40,
+  696
+ ],
+ [
+  "Theory of relativity",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "Special Relativity",
+   "Theory of relativity"
+  ],
+  39,
+  662
+ ],
+ [
+  "Chargino",
+  false,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Neutrinos",
+   "Seesaw mechanism"
+  ],
+  51,
+  612
+ ],
+ [
+  "D'Alembert's principle",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Dynamics",
+   "D'Alembert's principle"
+  ],
+  44,
+  645
+ ],
+ [
+  "Post-Newtonian expansion",
+  true,
+  [
+   "Physics",
+   "Relativity",
+   "General Relativity",
+   "Post-Newtonian expansion"
+  ],
+  40,
+  696
+ ],
+ [
+  "Electromagnetics",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Maxwell's Equations",
+   "Electromagnetic field"
+  ],
+  37,
+  591
+ ]
+]

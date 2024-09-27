@@ -1,0 +1,1297 @@
+[
+ [
+  "Condensed matter physics",
+  true,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum mechanics",
+   "Quantum field theory",
+   "Applications of quantum field theory",
+   "Condensed matter physics"
+  ],
+  49,
+  1006
+ ],
+ [
+  "Laser spectroscopy",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Quantum Optics",
+   "Optical physics"
+  ],
+  24,
+  349
+ ],
+ [
+  "Superfluid vacuum theory",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Dark matter",
+   "Modified theories of gravity",
+   "Proca action"
+  ],
+  32,
+  562
+ ],
+ [
+  "Conservation of momentum",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Momentum and collisions",
+   "Conservation of momentum"
+  ],
+  26,
+  371
+ ],
+ [
+  "Crystallography",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Astrophysics",
+   "X-ray spectroscopy"
+  ],
+  26,
+  384
+ ],
+ [
+  "Objective collapse theory",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum measurement problem",
+   "Objective collapse theory"
+  ],
+  28,
+  561
+ ],
+ [
+  "Optics",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Optical Imaging",
+   "Camera obscura"
+  ],
+  23,
+  346
+ ],
+ [
+  "Comet",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Exoplanet types",
+   "Planet"
+  ],
+  32,
+  461
+ ],
+ [
+  "Absorption refrigerator",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Energy transfer mechanisms",
+   "Refrigerant"
+  ],
+  34,
+  539
+ ],
+ [
+  "Ferroelectricity",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Formation theories",
+   "Circumstellar disc"
+  ],
+  36,
+  554
+ ],
+ [
+  "Time crystal",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum entanglement",
+   "Quantum computing",
+   "Time crystal"
+  ],
+  46,
+  879
+ ],
+ [
+  "Thermodynamic free energy",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in thermodynamics",
+   "Statistical Mechanics",
+   "Partition function",
+   "Thermodynamic free energy"
+  ],
+  51,
+  984
+ ],
+ [
+  "Planetary science",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Planetary systems",
+   "Planetary science"
+  ],
+  39,
+  567
+ ],
+ [
+  "Maxwell's thermodynamic surface",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Entropy",
+   "Metallurgy"
+  ],
+  31,
+  502
+ ],
+ [
+  "Plasmon",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Field",
+   "Magnetic field in astrophysics",
+   "Magnetohydrodynamics"
+  ],
+  37,
+  698
+ ],
+ [
+  "Gravitational wave",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-energy astrophysics",
+   "Black holes",
+   "Gravitational wave"
+  ],
+  36,
+  576
+ ],
+ [
+  "Grand potential",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Gibbs entropy",
+   "Gibbs free energy"
+  ],
+  31,
+  528
+ ],
+ [
+  "Exciton-polariton",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum superposition",
+   "Wave-particle duality",
+   "Wave-particle duality in modern physics",
+   "Hyperfine splitting"
+  ],
+  44,
+  861
+ ],
+ [
+  "Field (physics)",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electric Field",
+   "Field (physics)"
+  ],
+  29,
+  478
+ ],
+ [
+  "Orbital mechanics",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Orbital mechanics",
+   "Orbital mechanics"
+  ],
+  33,
+  490
+ ],
+ [
+  "Hill sphere",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Two-body problem",
+   "Hill sphere"
+  ],
+  33,
+  484
+ ],
+ [
+  "Endoreversible thermodynamics",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in thermodynamics",
+   "Entropy in Irreversible Processes",
+   "Endoreversible thermodynamics"
+  ],
+  43,
+  870
+ ],
+ [
+  "Planetary system",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Planetary systems",
+   "Planetary system"
+  ],
+  39,
+  567
+ ],
+ [
+  "Stellar evolution",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar evolution",
+   "Stellar remnants",
+   "Stellar evolution"
+  ],
+  34,
+  499
+ ],
+ [
+  "Ductility",
+  false,
+  [
+   "Physics",
+   "Nuclear physics",
+   "Nuclear structure",
+   "Nuclear deformation"
+  ],
+  30,
+  479
+ ],
+ [
+  "Sigma baryon",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Baryons",
+   "Baryon spectroscopy",
+   "Sigma baryon"
+  ],
+  42,
+  682
+ ],
+ [
+  "Tangential speed",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Rotational motion",
+   "Angular velocity",
+   "Tangential speed"
+  ],
+  32,
+  489
+ ],
+ [
+  "Quantum tunnelling",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum tunneling",
+   "Quantum tunnelling"
+  ],
+  26,
+  460
+ ],
+ [
+  "Solid-state physics",
+  true,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Solid-state physics"
+  ],
+  36,
+  584
+ ],
+ [
+  "Young's interference experiment",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Interference",
+   "Young's interference experiment"
+  ],
+  32,
+  453
+ ],
+ [
+  "Cosmic ray",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-energy astrophysics",
+   "Cosmic rays",
+   "Cosmic ray"
+  ],
+  32,
+  503
+ ],
+ [
+  "SU(3)",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Symmetries in Particle Physics",
+   "SU(3)"
+  ],
+  27,
+  508
+ ],
+ [
+  "Infrared spectroscopy",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Scattering",
+   "Infrared spectroscopy"
+  ],
+  33,
+  463
+ ],
+ [
+  "Quantum chemistry",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum approximate optimization algorithms",
+   "Quantum chemistry"
+  ],
+  46,
+  945
+ ],
+ [
+  "Newton's law of universal gravitation",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Celestial mechanics",
+   "Gravitational forces",
+   "Newton's law of universal gravitation",
+   "Newton's law of universal gravitation"
+  ],
+  42,
+  709
+ ],
+ [
+  "Kinetic energy",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Work and energy",
+   "Kinetic energy"
+  ],
+  26,
+  389
+ ],
+ [
+  "Exotic hadron",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Hadrons",
+   "Exotic hadron"
+  ],
+  39,
+  553
+ ],
+ [
+  "Circumstellar envelope",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar evolution",
+   "Protostars",
+   "Circumstellar envelope"
+  ],
+  33,
+  477
+ ],
+ [
+  "Einstein\u2013Podolsky\u2013Rosen paradox",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum entanglement",
+   "EPR paradox",
+   "Einstein\u2013Podolsky\u2013Rosen paradox"
+  ],
+  33,
+  663
+ ],
+ [
+  "Magnetic resonance imaging",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Induction",
+   "Electromagnetic Induction",
+   "Magnetic resonance imaging"
+  ],
+  40,
+  638
+ ],
+ [
+  "Quantum field theory",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Uncertainty principle",
+   "The Feynman Lectures on Physics"
+  ],
+  34,
+  704
+ ],
+ [
+  "Optical physics",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Lenses",
+   "Classical optics"
+  ],
+  33,
+  438
+ ],
+ [
+  "Quantum spin",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Quantum mechanics",
+   "Quantum states and operators",
+   "Entanglement"
+  ],
+  50,
+  990
+ ],
+ [
+  "Kepler's laws of planetary motion",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Gravitation",
+   "Kepler's laws of planetary motion"
+  ],
+  27,
+  416
+ ],
+ [
+  "Top quark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Quarks",
+   "Types of Quarks",
+   "Top quark"
+  ],
+  47,
+  697
+ ],
+ [
+  "Loschmidt's paradox",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum measurement problem",
+   "Measurement in quantum mechanics"
+  ],
+  28,
+  561
+ ],
+ [
+  "Hubbard model",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum approximate optimization algorithms",
+   "Lattice model (physics)"
+  ],
+  46,
+  945
+ ],
+ [
+  "Laser spectroscopy",
+  false,
+  [
+   "Physics",
+   "Optics",
+   "Quantum Optics",
+   "Optical physics"
+  ],
+  24,
+  349
+ ],
+ [
+  "Wavefunction collapse",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum measurement problem",
+   "Wavefunction collapse"
+  ],
+  28,
+  561
+ ],
+ [
+  "Finite difference",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Properties of thermodynamic systems",
+   "Ideal gas law"
+  ],
+  38,
+  664
+ ],
+ [
+  "Heat death paradox",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Entropy",
+   "Entropy in thermodynamics",
+   "Entropy and the Second Law of Thermodynamics",
+   "Heat death paradox"
+  ],
+  43,
+  838
+ ],
+ [
+  "Wave theory of light",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Wave Optics",
+   "Wave theory of light"
+  ],
+  28,
+  415
+ ],
+ [
+  "Hyperfine structure",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum information theory",
+   "Quantum computing",
+   "Kondo effect"
+  ],
+  31,
+  579
+ ],
+ [
+  "Psychophysics",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Quantum Optics",
+   "Psychophysics"
+  ],
+  24,
+  349
+ ],
+ [
+  "Schr\u00f6dinger equation",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Uncertainty principle",
+   "Symmetry in quantum mechanics"
+  ],
+  34,
+  704
+ ],
+ [
+  "Light-emitting diode",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Electromagnetic Waves",
+   "Applications of Electromagnetic Waves",
+   "Laser physics"
+  ],
+  31,
+  625
+ ],
+ [
+  "Planck constant",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Quantum mechanics",
+   "Quantum states and operators",
+   "Wavefunction",
+   "Wavefunction formalism",
+   "Planck constant"
+  ],
+  67,
+  1338
+ ],
+ [
+  "Uncertainty principle",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum uncertainty principle",
+   "Uncertainty principle"
+  ],
+  25,
+  469
+ ],
+ [
+  "Observational astronomy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Detection methods",
+   "Observational astronomy"
+  ],
+  33,
+  499
+ ],
+ [
+  "Wave\u2013particle duality",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Definition of wave-particle duality",
+   "Wave\u2013particle duality"
+  ],
+  32,
+  645
+ ],
+ [
+  "Rho meson",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Mesons",
+   "Meson Spectroscopy",
+   "Rho meson"
+  ],
+  45,
+  631
+ ],
+ [
+  "Newtonian mechanics",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Newton's laws of motion",
+   "Newtonian mechanics"
+  ],
+  28,
+  435
+ ],
+ [
+  "Atomic physics",
+  true,
+  [
+   "Physics",
+   "Modern physics",
+   "Nuclear physics",
+   "Atomic physics"
+  ],
+  24,
+  364
+ ],
+ [
+  "Gravitational-wave detector",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-energy astrophysics",
+   "High-energy detectors",
+   "X-ray telescope"
+  ],
+  34,
+  555
+ ],
+ [
+  "Dilaton",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "High-energy astrophysics",
+   "Black holes",
+   "Graviton"
+  ],
+  36,
+  576
+ ],
+ [
+  "Dark energy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Formation and Evolution of the Universe",
+   "Lambda-CDM model"
+  ],
+  40,
+  598
+ ],
+ [
+  "Isotope",
+  true,
+  [
+   "Physics",
+   "Nuclear physics",
+   "Nuclear structure",
+   "Nuclear stability",
+   "Isotope"
+  ],
+  36,
+  567
+ ],
+ [
+  "Magnetostatics",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Field",
+   "Magnetic field lines",
+   "Magnetostatics"
+  ],
+  32,
+  620
+ ],
+ [
+  "Variational method",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Variational quantum algorithms",
+   "Variational method"
+  ],
+  41,
+  836
+ ],
+ [
+  "Quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Quantum mechanics",
+   "Quantum states and operators",
+   "Observable properties",
+   "Symmetry (physics)"
+  ],
+  51,
+  1008
+ ],
+ [
+  "Thermal expansion valve",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Types of thermodynamic systems",
+   "Open systems",
+   "Thermal expansion valve"
+  ],
+  47,
+  781
+ ],
+ [
+  "Newtonian dynamics",
+  true,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Dynamics",
+   "Newton's Laws",
+   "Newtonian dynamics"
+  ],
+  35,
+  491
+ ],
+ [
+  "Gravity",
+  false,
+  [
+   "Physics",
+   "Relativity",
+   "Gravity and Relativity",
+   "Gravitation"
+  ],
+  24,
+  420
+ ],
+ [
+  "Aharonov\u2013Bohm effect",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Wave-particle duality",
+   "Uncertainty principle",
+   "Symmetry in quantum mechanics"
+  ],
+  34,
+  704
+ ],
+ [
+  "Loschmidt's paradox",
+  false,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum decoherence",
+   "Quantum decoherence"
+  ],
+  23,
+  409
+ ],
+ [
+  "Spontaneous magnetization",
+  false,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Induction",
+   "Self Inductance"
+  ],
+  30,
+  455
+ ],
+ [
+  "Samarium",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Dark matter",
+   "Dark matter candidates",
+   "Semimetal"
+  ],
+  36,
+  629
+ ],
+ [
+  "Radio telescope",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Exoplanets",
+   "Exoplanet exploration missions",
+   "Radio telescope"
+  ],
+  35,
+  523
+ ],
+ [
+  "Superconducting magnet",
+  true,
+  [
+   "Physics",
+   "Electromagnetism",
+   "Magnetic Induction",
+   "Electromagnetic Induction",
+   "Superconducting magnet"
+  ],
+  40,
+  638
+ ],
+ [
+  "Mathematical model",
+  false,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum field theory",
+   "Applied mathematics"
+  ],
+  28,
+  461
+ ],
+ [
+  "Strongly correlated material",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum information theory",
+   "Quantum entanglement",
+   "Strongly correlated material"
+  ],
+  31,
+  595
+ ],
+ [
+  "Dark energy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Dark Energy",
+   "Dark energy"
+  ],
+  34,
+  548
+ ],
+ [
+  "Specific heat of solids",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Specific heat capacity",
+   "Specific heat of solids"
+  ],
+  22,
+  327
+ ],
+ [
+  "Topological charge",
+  false,
+  [
+   "Physics",
+   "Nuclear physics",
+   "Nuclear structure",
+   "Nuclear shell model",
+   "Neutrons"
+  ],
+  31,
+  487
+ ],
+ [
+  "Corpuscular theory of light",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Physical Optics",
+   "Wave-particle duality",
+   "Corpuscular theory of light"
+  ],
+  32,
+  446
+ ],
+ [
+  "Carnot heat engine",
+  false,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Types of thermodynamic systems",
+   "Reversible systems",
+   "Carnot cycle"
+  ],
+  45,
+  770
+ ],
+ [
+  "Cosmochemistry",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Formation and Evolution of the Universe",
+   "Cosmochemistry"
+  ],
+  40,
+  598
+ ],
+ [
+  "Quantum dynamics",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum computing",
+   "Quantum algorithms",
+   "Quantum walk algorithms",
+   "Quantum dynamics"
+  ],
+  44,
+  886
+ ],
+ [
+  "Supernovae",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Stellar evolution",
+   "Supernovae",
+   "Supernovae"
+  ],
+  34,
+  485
+ ],
+ [
+  "History of astronomy",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Cosmology",
+   "Formation and Evolution of the Universe",
+   "Cosmology"
+  ],
+  40,
+  598
+ ],
+ [
+  "Electron paramagnetic resonance",
+  false,
+  [
+   "Physics",
+   "Astrophysics",
+   "Black holes",
+   "Gravitational singularity"
+  ],
+  29,
+  452
+ ],
+ [
+  "Spiral galaxy",
+  true,
+  [
+   "Physics",
+   "Astrophysics",
+   "Galactic structure",
+   "Galactic spiral arms",
+   "Spiral galaxy"
+  ],
+  31,
+  507
+ ],
+ [
+  "Degrees of freedom (physics and chemistry)",
+  false,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Kinematics",
+   "Motion (physics)"
+  ],
+  27,
+  384
+ ],
+ [
+  "Tachyon",
+  true,
+  [
+   "Physics",
+   "Quantum mechanics",
+   "Quantum tunneling",
+   "Tachyon"
+  ],
+  26,
+  460
+ ],
+ [
+  "Polymer physics",
+  true,
+  [
+   "Physics",
+   "Modern physics",
+   "Quantum computing",
+   "Polymer physics"
+  ],
+  29,
+  430
+ ],
+ [
+  "Charm antiquark",
+  true,
+  [
+   "Physics",
+   "Particle physics",
+   "Elementary Particles",
+   "Quarks",
+   "Types of Quarks",
+   "Charm antiquark"
+  ],
+  47,
+  697
+ ],
+ [
+  "Real gas",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Types of thermodynamic systems",
+   "Open systems",
+   "Real gas"
+  ],
+  47,
+  781
+ ],
+ [
+  "Thermographic camera",
+  true,
+  [
+   "Physics",
+   "Optics",
+   "Optical Imaging",
+   "Thermographic camera"
+  ],
+  23,
+  346
+ ],
+ [
+  "Gravitation",
+  false,
+  [
+   "Physics",
+   "Classical mechanics",
+   "Gravitation",
+   "Newtonian potential"
+  ],
+  27,
+  416
+ ],
+ [
+  "Ideal gas law",
+  true,
+  [
+   "Physics",
+   "Thermodynamics",
+   "Thermodynamic systems",
+   "Properties of thermodynamic systems",
+   "Ideal gas law"
+  ],
+  38,
+  664
+ ]
+]

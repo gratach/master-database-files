@@ -1,4 +1,4 @@
 
-prompt: Which of the topics {0: "Stellar Astrophysics", 1: "Quasar", 2: "Radio galaxy"} is most likely to contain "Nucleosynthesis" as a subtopic? Return only the number without description.
+prompt: Which of the topics {0: "Physics", 1: "Classical Physics", 2: "Modern Physics", 3: "Applied Physics"} is most likely to contain "Asteroid" as a subtopic? Return only the number without description.
 
-answer: 0.
+answer: 1: "Classical Physics"

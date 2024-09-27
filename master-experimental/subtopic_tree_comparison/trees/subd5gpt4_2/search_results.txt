@@ -1,0 +1,1514 @@
+[
+ [
+  "Randall\u2013Sundrum model",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Astrophysical Concepts",
+   "Astrophysical Dynamics",
+   "Cosmological Structures",
+   "Properties of Space",
+   "Metric expansion of space"
+  ],
+  43,
+  773
+ ],
+ [
+  "Zero-point energy",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Hamiltonian mechanics",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Orbital mechanics"
+  ],
+  18,
+  243
+ ],
+ [
+  "Pauli equation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Hooke's law",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Thermodynamics",
+   "Non-Thermodynamic Materials",
+   "Granular material"
+  ],
+  24,
+  374
+ ],
+ [
+  "J/psi meson",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "D'Alembert's principle",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Thermodynamics",
+   "Applied Thermodynamics",
+   "Phase Transitions",
+   "Phase transition"
+  ],
+  27,
+  410
+ ],
+ [
+  "Physical cosmology",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Astrophysical Concepts",
+   "Astrophysical Dynamics",
+   "Cosmological Structures",
+   "Large-Scale Structure of the Universe",
+   "Reionization"
+  ],
+  45,
+  800
+ ],
+ [
+  "Dark matter halo",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Galaxy Structures",
+   "Types of Galaxies",
+   "Morphological Types of Galaxies",
+   "Galaxy groups and clusters"
+  ],
+  46,
+  828
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Orbital mechanics"
+  ],
+  18,
+  243
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Photoluminescence"
+  ],
+  18,
+  253
+ ],
+ [
+  "Time crystal",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Charge-coupled device",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum Mechanics",
+   "Qubit"
+  ],
+  16,
+  236
+ ],
+ [
+  "Ductility",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Ductility"
+  ],
+  18,
+  243
+ ],
+ [
+  "Scientific computing",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Particulates"
+  ],
+  13,
+  215
+ ],
+ [
+  "Weak hypercharge",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Symmetry in quantum mechanics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Standard Model (mathematical formulation)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Proton",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Topological phase"
+  ],
+  15,
+  231
+ ],
+ [
+  "Frequency",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "General Physics",
+   "Solid State Physics",
+   "Quantum Mechanics in Solids",
+   "Quantum Optics and Light",
+   "Light Sources and Components",
+   "Optical amplifier"
+  ],
+  35,
+  567
+ ],
+ [
+  "Renormalization",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Weak nuclear force",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Weak force",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Atmospheric physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Magnetosphere"
+  ],
+  31,
+  526
+ ],
+ [
+  "Equilibrium thermodynamics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Thermometry"
+  ],
+  11,
+  181
+ ],
+ [
+  "Mechanics of planar particle motion",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Orbital mechanics"
+  ],
+  18,
+  243
+ ],
+ [
+  "Asteroid",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Astrophysical Concepts",
+   "Astrophysical Dynamics",
+   "Celestial Dynamics",
+   "Celestial dynamics"
+  ],
+  43,
+  761
+ ],
+ [
+  "Quantum fluctuation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Laser physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Electronics",
+   "Spintronic"
+  ],
+  11,
+  166
+ ],
+ [
+  "Harmonic oscillator",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Nearly free electron model"
+  ],
+  10,
+  151
+ ],
+ [
+  "Pion",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum Mechanics",
+   "Symmetry breaking"
+  ],
+  16,
+  236
+ ],
+ [
+  "Metallic hydrogen",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Elements",
+   "Samarium"
+  ],
+  13,
+  170
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Photoluminescence"
+  ],
+  18,
+  253
+ ],
+ [
+  "Feynman diagram",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Semimetal",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Semimetal"
+  ],
+  15,
+  231
+ ],
+ [
+  "Drude model",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Theory and Models",
+   "Electronic Theory",
+   "Electronic Properties of Materials",
+   "Free electron model"
+  ],
+  25,
+  483
+ ],
+ [
+  "Electron volt",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Semimetal"
+  ],
+  15,
+  231
+ ],
+ [
+  "Renormalization",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Convection zone",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Thermodynamics",
+   "Applied Thermodynamics",
+   "Phase Transitions",
+   "Phase transition"
+  ],
+  27,
+  410
+ ],
+ [
+  "Macroscopic quantum phenomena",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Time crystal"
+  ],
+  15,
+  231
+ ],
+ [
+  "Proper motion",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Orbital mechanics"
+  ],
+  18,
+  243
+ ],
+ [
+  "Poincar\u00e9 symmetry",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Impulse (physics)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Thermodynamics",
+   "Applied Thermodynamics",
+   "Phase Transitions",
+   "Phase transition"
+  ],
+  27,
+  410
+ ],
+ [
+  "Ring system",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Astrophysical Concepts",
+   "Astrophysical Dynamics",
+   "Celestial Dynamics",
+   "Globular cluster"
+  ],
+  43,
+  761
+ ],
+ [
+  "Thermodynamic variable",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Wiedemann-Franz law"
+  ],
+  11,
+  181
+ ],
+ [
+  "Electrodynamics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Magnetic Properties",
+   "Tesla (unit)"
+  ],
+  17,
+  252
+ ],
+ [
+  "Nucleation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Transport theory (statistical physics)"
+  ],
+  11,
+  181
+ ],
+ [
+  "Background field method",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Irradiance",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Meteorology",
+   "Atmosphere"
+  ],
+  16,
+  248
+ ],
+ [
+  "Superstring theory",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Plasmon",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Magnetic Properties",
+   "Thermoelectric effect"
+  ],
+  17,
+  252
+ ],
+ [
+  "Magnetic monopole",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Topological phase"
+  ],
+  15,
+  231
+ ],
+ [
+  "Magnetic susceptibility",
+  true,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Properties of Electromagnetism",
+   "Magnetic Properties",
+   "Magnetic Phenomena",
+   "Magnetic susceptibility"
+  ],
+  26,
+  466
+ ],
+ [
+  "Theoretical physics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Isochoric process",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Specific heat of solids"
+  ],
+  10,
+  151
+ ],
+ [
+  "Magnetic resonance imaging",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Interface and Colloid Science",
+   "Interface and Colloid Science",
+   "Nanometer"
+  ],
+  11,
+  197
+ ],
+ [
+  "Bayesian inference",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum Mechanics",
+   "Qubit"
+  ],
+  16,
+  236
+ ],
+ [
+  "Chemical potential",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Hubbard model"
+  ],
+  11,
+  108
+ ],
+ [
+  "Fermion",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Optoelectronics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Electronics",
+   "Spintronic"
+  ],
+  11,
+  166
+ ],
+ [
+  "Elasticity (physics)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Thermodynamics",
+   "Non-Thermodynamic Materials",
+   "Granular material"
+  ],
+  24,
+  374
+ ],
+ [
+  "Statistical ensemble",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Transport theory (statistical physics)"
+  ],
+  11,
+  181
+ ],
+ [
+  "Conservative force",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Theory and Models",
+   "Theoretical Electromagnetism",
+   "Gauge symmetry"
+  ],
+  19,
+  347
+ ],
+ [
+  "Proton",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Elements",
+   "Samarium"
+  ],
+  13,
+  170
+ ],
+ [
+  "Irradiance",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Theory and Models",
+   "Theoretical Electromagnetism",
+   "Gauge symmetry"
+  ],
+  19,
+  347
+ ],
+ [
+  "Two-state quantum system",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Atmospheric physics",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "General Physics",
+   "General Physics",
+   "Branches and Concepts in Physics",
+   "Branches of Physics",
+   "Astrophysics",
+   "Astronomy and Astrometry",
+   "Astronomy and Astrometry",
+   "Astrophysics",
+   "Thermal Radiation",
+   "Black-body radiation"
+  ],
+  39,
+  661
+ ],
+ [
+  "Gradient",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Theory and Models",
+   "Theoretical Electromagnetism",
+   "Gauge symmetry"
+  ],
+  19,
+  347
+ ],
+ [
+  "Geophysics",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Meteorology",
+   "Atmosphere"
+  ],
+  16,
+  248
+ ],
+ [
+  "Near-infrared",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Photoluminescence"
+  ],
+  18,
+  253
+ ],
+ [
+  "Thermal insulation",
+  false,
+  [
+   "Physics",
+   "Applied Physics",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Particulates"
+  ],
+  13,
+  215
+ ],
+ [
+  "Lattice model (physics)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Optical lattice"
+  ],
+  10,
+  151
+ ],
+ [
+  "Corpuscular theory of light",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Optical lattice"
+  ],
+  10,
+  151
+ ],
+ [
+  "Phase space formulation",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Humidity",
+  true,
+  [
+   "Physics",
+   "Applied Physics",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Atmospheric Sciences",
+   "Meteorology",
+   "Humidity"
+  ],
+  16,
+  248
+ ],
+ [
+  "System (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Thermometry"
+  ],
+  11,
+  181
+ ],
+ [
+  "Centrifugal force (fictitious)",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Mechanics",
+   "Orbital mechanics"
+  ],
+  18,
+  243
+ ],
+ [
+  "Pion",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum Mechanics",
+   "Qubit"
+  ],
+  16,
+  236
+ ],
+ [
+  "Quantum decoherence",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Photovoltaics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Elements",
+   "Samarium"
+  ],
+  13,
+  170
+ ],
+ [
+  "Superposition principle",
+  false,
+  [
+   "Physics",
+   "Classical Physics",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Electromagnetism",
+   "Theory and Models",
+   "Theoretical Electromagnetism",
+   "Gauge symmetry"
+  ],
+  19,
+  347
+ ],
+ [
+  "BRST quantization",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Unitarity (physics)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Quantum electrodynamics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Bose\u2013Einstein condensates",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Materials",
+   "Semimetal"
+  ],
+  15,
+  231
+ ],
+ [
+  "Heisenberg uncertainty principle",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Gauge theory",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Relativistic mechanics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Astrophysical concepts",
+   "Galactic phenomena",
+   "Astrophysical Concepts",
+   "Astrophysical Dynamics",
+   "Celestial Dynamics",
+   "Gravitational-wave astronomy"
+  ],
+  43,
+  761
+ ],
+ [
+  "Antineutron",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Tight binding model"
+  ],
+  13,
+  211
+ ],
+ [
+  "Gauge theory",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Energy",
+  false,
+  [
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "Physics",
+   "General Physics",
+   "Thermodynamics",
+   "Study and Development of Thermodynamics",
+   "Endoreversible thermodynamics"
+  ],
+  27,
+  481
+ ],
+ [
+  "Vacuum state",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Spintronic",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Electronics",
+   "Spintronic"
+  ],
+  11,
+  166
+ ],
+ [
+  "Work (thermodynamics)",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Thermometry"
+  ],
+  11,
+  181
+ ],
+ [
+  "Wiedemann-Franz law",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Wiedemann-Franz law"
+  ],
+  11,
+  181
+ ],
+ [
+  "Non-equilibrium thermodynamics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Thermodynamics",
+   "Transport theory (statistical physics)"
+  ],
+  11,
+  181
+ ],
+ [
+  "Wheeler's delayed-choice experiment",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Quantum Physics",
+   "Quantum Theoretical Models",
+   "Variational method"
+  ],
+  13,
+  211
+ ],
+ [
+  "Outline of astronomy",
+  true,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Astrophysics",
+   "Fields of Study in Astrophysics",
+   "Observational astronomy",
+   "Foundations of Observational Astronomy",
+   "General Astronomy",
+   "Branches of Astronomy",
+   "Outline of astronomy"
+  ],
+  37,
+  689
+ ],
+ [
+  "Neurophysics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Elements",
+   "Samarium"
+  ],
+  13,
+  170
+ ],
+ [
+  "Neurophysics",
+  false,
+  [
+   "Physics",
+   "Modern Physics",
+   "Astrophysics",
+   "Astrophysics",
+   "Quantum Mechanics",
+   "Qubit"
+  ],
+  16,
+  236
+ ]
+]
